@@ -5,7 +5,7 @@ Stacks are employed to keep track of constituents that are defined by a nested s
 To run from terminal: 
 
 ```
-python3 main.py data/14 > output
+python3 ./main.py data > output
 ```
 
 PROJECT 1 OF LING473
