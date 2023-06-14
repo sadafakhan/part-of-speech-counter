@@ -1,4 +1,3 @@
-
 '''
 Sadaf Khan, Project 1, LING 473, 08/07/2021
 This program takes a directory name as input, and returns a table listing the number of given constituents types
