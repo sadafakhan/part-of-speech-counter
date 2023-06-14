@@ -1,0 +1,86 @@
+
+
+( (S (NP-SBJ (NP Grand Metropolitan PLC)
+             ,
+             (NP (NP the United Kingdom food and beverage group)
+                 (SBAR (WHNP-1 that)
+                       (S (NP-SBJ *T*-1)
+                          (VP owns
+                              (NP (NP Pillsbury Inc.)
+                                  (PP of
+                                      (NP the U.S.)))))))
+             ,)
+     (VP announced
+         (NP (NP a reshuffling)
+	     (PP of
+		 (NP board-level executive duties))
+             (VP intended
+                 (S (NP-SBJ *)
+                    (VP to
+                        (VP fit
+                            (NP (NP the company 's)
+                                recent expansion)))))))
+     .))
+( (S (NP-SBJ (NP David Nash)
+             ,
+             (NP (NP formerly group finance director)
+                 (PP-LOC at
+			 (NP Cadbury Schweppes PLC)))
+             ,)
+     (VP will
+         (VP become
+             (NP-PRD (NP Grand Met 's)
+                     first group finance director)
+	     (PP-TMP in
+		     (NP January))))
+     .))
+( (S (PP-LOC In
+	     (NP a statement))
+     ,
+     (NP-SBJ Grand Met)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ its recent `` (NX (NX growth) and (NX wider geographic spread)) '')
+                  (VP made
+                      (S (NP-SBJ it)
+			 (ADJP-PRD necessary
+				   (S (NP-SBJ *)
+				      (VP to
+					  (VP create
+					      (NP the new position))))))))))
+     .))
+( (S (NP-SBJ The company)
+     (ADVP also)
+     (VP reassigned
+         (NP several executive responsibilities))
+     .))
+( (S (NP-SBJ-1 (NP David Tagg)
+               ,
+               (PP (ADVP-TMP formerly) in
+                   (NP (NP charge)
+                       (PP of
+                           (NP gambling operations))))
+               ,)
+     (VP was
+         (VP appointed
+             (S (NP-SBJ *-1)
+		(NP-PRD (NP chief executive)
+			(PP for
+			    (NP retailing and property))))))
+     .))
+( (S (NP-SBJ (NP (NP Peter Cawdron)
+                 ,
+                 (NP group strategy development director)
+                 ,)
+             and
+             (NP (NP Bill Shardlow)
+                 ,
+                 (NP group personnel director)
+                 ,))
+     (VP will
+         (VP become
+             (NP-PRD (NP part)
+                     (PP of
+                         (NP (NP the board 's)
+                             management committee)))))
+     .))

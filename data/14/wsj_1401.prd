@@ -1,0 +1,35 @@
+
+
+( (S (NP-SBJ H&R BLOCK Inc.)
+     (VP had
+         (NP (NP net income)
+             (PP of
+                 (NP (NP (QP $ 100.2 million) *U*)
+                     , or
+                     (NP (NP $ 1.90 *U*)
+                         (NP-ADV a share))
+                     ,)))
+	 (PP-TMP in
+		 (NP (NP the fiscal year)
+		     (VP ended
+			 (NP *)
+			 (NP-TMP-CLR April 30)))))
+     .))
+( (S (NP-SBJ-1 The figure)
+     (VP was
+         (VP (ADVP incorrectly)
+             shown
+             (NP *-1)
+             (PP-CLR as
+		     (NP a net loss))
+             (PP-LOC in
+		     (NP (NP a chart)
+			 (VP accompanying
+			     (NP (NP Friday 's) 
+				 (S-TTL (NP-SBJ-2 *)
+					(VP Heard
+					    (NP *-2)
+					    (PP-LOC on
+						    (NP the Street))))
+				 column))))))
+     .))

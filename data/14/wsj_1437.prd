@@ -1,0 +1,62 @@
+
+
+( (S (NP-SBJ ATHLONE INDUSTRIES Inc.)
+     (VP said
+         (SBAR that
+               (S (PP-TMP on
+			  (NP Dec. 21))
+                  (NP-SBJ it)
+                  (VP will
+                      (VP redeem
+                          (NP (NP (ADJP (QP $ 10 million) *U*) face amount)
+			      (PP of
+				  (NP (NP its (QP $ 59.3 
+						  million) *U*)
+				      (PP of
+					  (NP (NP (NP (ADJP 15.625 %) subordinated notes)
+						  (ADJP outstanding))
+					      ,
+					      (ADJP due
+						    (NP-TMP June 1 , 1991))))))))))))
+     .))
+( (S (PP For
+         (NP (NP each $ 1,000 *U*)
+	     (PP of
+		 (NP notes))))
+     ,
+     (NP-SBJ (NP the maker)
+             (PP of
+                 (NP (NP specialty metals)
+                     ,
+                     (NP industrial fasteners)
+                     and
+                     (NP consumer products))))
+     (VP will
+         (VP pay
+             (NP (NP $ 1,026.46 *U*)
+                 (PP plus
+                     (NP (NP $ 8.68 *U*)
+                         (PP of
+                             (NP (NP interest)
+                                 (VP accrued
+                                     (NP *)
+                                     (PP-TMP from
+					     (NP Dec. 1))))))))))
+     .))
+( (S (NP-SBJ The company)
+     (VP will
+         (VP notify
+             (NP (NP holders)
+                 (PP of
+                     (NP (NP the notes)
+                         (SBAR (WHNP-2 0)
+			       (S (NP-SBJ-1 *T*-2)
+				  (VP to
+				      (VP be
+					  (VP redeemed
+					      (NP *-1)))))))))))
+     .))
+( (S (NP-SBJ Manufacturers Hanover Trust Co.)
+     (VP is
+         (NP-PRD redemption agent))
+     .))

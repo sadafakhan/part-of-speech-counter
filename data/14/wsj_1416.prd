@@ -1,0 +1,474 @@
+
+
+( (S (NP-SBJ-1 This letter)
+     (VP was
+         (VP inspired
+             (NP *-1)
+             (PP by
+                 (NP-LGS (NP (NP (NP David Asman 's)
+				 Sept. 25 editorial-page article)
+			     (PP about
+				 (NP Fidel Castro)))
+			 ,
+			 ``
+			 (NP-TTL (NP Man)
+				 (PP-LOC in
+					 (NP (NP the Middle)
+					     (PP of
+						 (NP Drug Trafficking)))))))))
+     . ''))
+( (S (NP-SBJ I)
+     (VP 've
+         (VP organized
+             (NP (NP a series)
+                 (PP of
+                     (NP (NP (NP exchanges)
+			     ,
+			     (NP exhibitions)
+			     and
+			     (NP other continuing projects))
+			 (PP between
+                             (NP Cuban and American artists)))))))
+     .))
+( (S (S (PP-LOC In
+		(NP (NP any matters)
+		    (PP between
+			(NP (NP us)
+			    and
+			    (NP the Cubans)))))
+        (NP-SBJ there)
+        (VP can
+            (VP be
+                (NP-PRD no simplicity))))
+     ,
+     (S (ADVP consequently)
+        (NP-SBJ I)
+        (VP 've
+            (VP become
+                (ADJP-PRD familiar
+                          (PP (CONJP not only)
+                              (PP with
+                                  (NP Cuban art and artists))
+                              , 
+			      (CONJP but also)
+                              (PP with
+                                  (NP (NP Cuban bureaucrats)
+                                      and
+                                      (NP (NP their counterparts)
+                                          (PP-LOC in
+						  (NP our own government))))))))))
+     .))
+( (S (PP Despite
+         (NP (NP levels)
+             (PP of
+                 (NP (NP obstruction)
+                     ,
+                     (NP incompetence)
+                     and
+                     (NP (NP ensuing frustration)
+                         (PP of
+                             (NP mythic proportion)))))))
+     ,
+     (NP-SBJ (NP these projects))
+     (ADVP all)
+     (VP remain
+	 ,
+         (PP-LOC in
+		 (NP my mind))
+         ,
+         (ADJP-PRD (ADJP valuable)
+                   and
+                   (ADJP well worth
+                         (NP the effort))))
+     .))
+( (S (NP-SBJ There)
+     (VP is
+         (NP-PRD (NP (NP a simple reason)
+                     (PP for
+                         (NP this)))
+                 :
+                 (NP the Cuban people)))
+     .))
+( (S (NP-SBJ *)
+     (VP Let
+         (S (NP-SBJ me)
+            (ADVP-TMP immediately)
+	    (VP put
+                (NP limits)
+		(PP-CLR to
+			(SBAR (WHNP-1 whatever nostalgic notions)
+			      (S (NP-SBJ that)
+				 (VP may
+				     (VP intimate
+					 (NP *T*-1)))))))))
+     .))
+( (S (S (NP-SBJ (NP Those `` people '')
+                (SBAR (WHPP-1 to
+			      (WHNP whom))
+                      (S (NP-SBJ I)
+                         (VP refer
+			     (PP *T*-1)))))
+        (VP are not
+            (NP-PRD some heroic , indecipherable quantity)))
+     ;
+     (S (NP-SBJ they)
+        (VP are
+            (NP-PRD (NP (NP artists)
+                        ,
+                        (NP critics)
+                        ,
+                        (NP taxi drivers)
+                        ,
+                        (NP grandmothers)
+                        ,
+                        (NP (NP even some employees)
+                            (PP of
+                                (NP (NP the Ministry)
+                                    (PP of
+                                        (NP Culture))))))
+                    ,
+                    (NP (NP all)
+			(PP of
+			    (SBAR-NOM (WHNP-2 whom)
+				      (S (NP-SBJ *T*-2)
+					 (VP share
+					     (NP (NP a deep belief)
+						 (PP in
+						     (NP (NP (NP the original principles)
+							     (PP of
+								 (NP the Cuban Revolution)))
+							 ,
+							 (VP spelled
+							     (NP *)
+							     (ADVP out)
+							     (PP in
+								 (NP (NP terms)
+								     (PP such
+									 as
+									 (NP (NP (NP equality)
+										 (PP among
+										     (NP (NP all members)
+											 (PP of
+											     (NP the society)))))
+									     ,
+									     (NP (NP reverence)
+										 (PP for
+										     (NP (NP education)
+											 and
+											 (NP creative expression))))
+									     ,
+									     (NP (NP universal rights)
+										 (PP to
+										     (NP health and livelihood)))
+									     ,
+									     (NP housing)
+									     ,
+									     (NP etc)))))))))))))))))
+     .))
+( (S (PP In
+         (NP fact))
+     ,
+     (NP-SBJ (NP the generation)
+             (PP of
+                 (NP (NP painters)
+                     (VP growing
+                         (PP-CLR into
+				 (NP maturity))
+                         (ADVP-TMP right now)))))
+     (VP works
+         (PP with
+	     (NP (NP such (ADJP profoundly held) humanist assumptions)
+		 and
+		 (NP (NP such passionate commitment)
+		     (PP to
+			 (NP moral and ethical principles)))
+		 (SBAR that
+		       (S (NP-SBJ it)
+			  (VP makes
+			      (S (NP-SBJ (NP (NP Che Guevara 's)
+					     famous linkages)
+					 (PP of
+					     (NP art
+						 ,
+						 idealism
+						 and
+						 revolution)))
+				 (VP seem
+				     (ADJP-PRD modest)))))))))
+     .))
+( (S-CLF (NP-SBJ It)
+	 (VP is
+	     (PP-PRD (PP on
+			 (NP (NP behalf)
+			     (PP of
+				 (NP these people))))
+		     , and
+		     (PP out
+			 (PP of
+			     (NP (NP my real respect)
+				 (PP for
+				     (NP them)))))
+		     ,)
+	     (SBAR (WHADVP-1 that)
+		   (S (NP-SBJ I)
+		      (VP am
+			  (VP responding
+			      (PP-CLR to
+				      (NP (NP (NP Mr. Asman 's)
+					      opinions)
+					  (PP of
+					      (NP their country))))
+			      (ADVP *T*-1))))))
+	 .))
+( (S (NP-SBJ (NP (NP The Ochoa trial)
+                 (PP-TMP in
+			 (NP July))
+                 ,
+                 (PP with
+                     (NP (NP its revelations)
+                         (PP of
+                             (NP deeply rooted and widespread corruption))))
+                 ,)
+             and
+             (NP the summary trial and execution)
+             ,)
+     (VP was
+         (ADJP-PRD extremely disturbing
+                   (PP to
+                       (NP (NP everyone)
+                           (SBAR (WHNP-1 who)
+                                 (S (NP-SBJ *T*-1)
+                                    (VP has
+                                        (ADVP-TMP ever)
+                                        (VP considered
+                                            (S (NP-SBJ himself)
+					       (NP-PRD (NP a friend)
+						       (PP of
+							   (NP Cuba))))))))))))
+     .))
+( (S (ADVP However)
+     ,
+     (SBAR-ADV (ADJP-PRD-TPC-1 unacceptable)
+	       though
+	       (S (NP-SBJ those occurrences)
+		  (VP may
+		      (VP have
+			  (VP been
+			      (ADJP-PRD *T*-1))))))
+     ,
+     (NP-SBJ they)
+     (ADVP still)
+     (VP provide
+         (NP no excuse)
+	 (PP-CLR for
+		 (NP (NP wholesale departures)
+		     (PP from
+			 (NP truth)))))
+     .))
+( (S (NP-SBJ Mr. Asman)
+     (VP should
+         (VP make
+             (NP (NP distinctions)
+                 (PP among
+                     (NP (NP Fidel)
+                         ,
+                         (NP the army)
+                         and
+                         (NP the Cuban people))))))
+     .))
+( (S (NP-SBJ They)
+     (VP are
+	 (ADJP-PRD not interchangeable)
+	 ,
+	 (SBAR-PRP since
+		   (S (NP-SBJ-1 they)
+		      (VP are
+			  (VP motivated
+			      (S (NP-SBJ *-1)
+				 (VP to
+				     (VP act)))
+			      (S-ADV (NP-SBJ *)
+				     (VP based
+					 (PP-CLR on
+						 (NP their own circumstances)))))))))
+     .))
+( (S (S (NP-SBJ (NP It)
+                (S *EXP*-1))
+        (VP is
+            (NP-PRD naivete)
+	    (S-1 (NP-SBJ *)
+		 (VP to
+		     (VP equate
+			 (NP (NP (NP a government 's)
+				 policies)
+			     (PP with
+				 (NP (NP the will)
+				     (PP of
+					 (NP the people)))))))))
+	(PRN -LRB-
+	     (SBAR as
+		   (S (NP-SBJ we)
+		      (VP (ADVP well)
+			  know)))
+	     -RRB-))
+     , and
+     (S (NP-SBJ (NP it)
+                (S *EXP*-2))
+        (VP is
+            (NP-PRD (ADJP even worse) folly)
+	    (S-2 (NP-SBJ *)
+		 (VP to
+		     (VP merge
+			 (NP (NP the clearly divergent agendas)
+			     (PP of
+				 (NP (NP Fidel)
+				     and
+				     (NP the military)
+				     and
+				     (NP the state bureaucracy)))))))))
+     .))
+( (S (NP-SBJ Mr. Asman)
+     (VP is
+         (ADJP-PRD also annoyed
+                   (SBAR that
+                         (S (NP-SBJ Mr. Castro)
+                            (VP has
+                                (VP resisted
+                                    (NP (NP collaboration)
+                                        (PP with
+                                            (NP U.S. officials))))))))
+	 ,
+	 (SBAR-ADV even though
+		   (S (PP by
+			  (NP his own account))
+		      (NP-SBJ-1 that collaboration)
+		      (VP has
+			  (VP been
+			      (VP devised
+				  (NP *-1)
+				  (ADVP essentially)
+				  (PP-CLR as
+					  (NP (NP a mechanism)
+					      (PP for
+						  (NP (NP (NP acts)
+							  (ADJP directly hostile
+								(PP to
+								    (NP the Cuban regime))))
+						      ,
+						      (PP such
+							  as
+							  (S-NOM (NP-SBJ *)
+								 (VP facilitating
+								     (NP defections))))))))))))))
+     .))
+( (S (NP-SBJ I)
+     (VP think
+         (S (NP-SBJ-2 (NP it)
+		      (S-3 *EXP*-1))
+            (VP 's
+                (ADJP-PRD a little disingenuous)
+		(S-1 (NP-SBJ *)
+		     (VP to
+			 (VP be
+			     (ADJP-PRD surprised
+				       (SBAR that
+					     (S (NP-SBJ Fidel)
+						(VP does n't
+						    (VP invite
+							(NP the U.S. State Department)
+							(S (NP-SBJ *)
+							   (VP to
+							       (VP violate
+								   (NP (NP the jurisdiction)
+								       (PP of
+									   (NP the Cuban government))
+								       (PP-LOC over
+									       (NP its own territory)))))))))))))))))
+     .))
+( (S (NP-SBJ-1 We)
+     (ADVP badly)
+     (VP need
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP follow
+                    (NP fact)
+                    (PP rather than
+                        (NP (NP the rhetoric)
+                            (PP of
+                                (NP conventional wisdom))))))))
+     .))
+( (S (PP Without
+         (NP (NP this basic level)
+             (PP of
+                 (NP (NP attention)
+                     (PP to
+                         (NP reality))))))
+     ,
+     (NP-SBJ-1 (NP our policies)
+	       (PP on
+		   (NP Cuba)))
+     (VP will
+         (VP continue
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP be
+                        (ADJP-PRD (ADJP as counterproductive)
+                                  (SBAR as
+                                        (S (NP-SBJ they)
+                                           (VP have
+					       (VP *?*
+						   (PP-TMP for
+							   (NP 30 years))))))))))))
+     .))
+( (S (PP From
+         (NP (NP my own point)
+             (PP of
+                 (NP view))))
+     ,
+     (PP given
+	 (NP (NP (NP the qualities)
+		 (PP of
+		     (NP (NP humanity)
+			 ,
+			 (NP creativity)
+			 and
+			 (NP warm spirit))))
+	     (SBAR (WHPP-2 in
+			   (WHNP which))
+		   (S (NP-SBJ the Cuban people)
+		      (VP excel
+			  (PP *T*-2))))))
+     ,
+     (NP-SBJ we)
+     (VP deny
+	 (NP ourselves)
+	 (NP (NP access)
+	     (PP to
+		 (NP (NP things)
+		     (SBAR (SBAR (WHNP-3 0)
+				 (S (NP-SBJ we)
+				    (VP hold
+					(S (NP-SBJ *T*-3)
+					   (ADJP-PRD dear)))))
+			   , and
+			   (SBAR (WHNP-1 which)
+				 (S (NP-SBJ-4 *T*-1)
+				    (VP seem
+					(S (NP-SBJ *-4)
+					   (VP to
+					       (VP run
+						   (PP in
+						       (NP such short supply))
+						   (NP-TMP these days))))))))))))
+     .))
+( (S (NP-SBJ There)
+     (VP is
+         (NP-PRD (NP no rational justification)
+                 (PP for
+                     (NP such behavior))))
+     .))
+( (NP (NP Rachel Weiss)
+      (NP (NP Brookline)
+          ,
+          (NP Mass))
+      .))

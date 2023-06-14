@@ -1,0 +1,94 @@
+
+
+( (S (NP-SBJ Arizona Instrument Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (VP expects
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP post
+                                 (NP (NP a third-quarter net loss)
+				     (PP of
+					 (NP (NP (QP about $ 600,000) *U*)
+					     , or
+					     (NP (NP (QP 25 cents
+							 to 
+							 27) cents)
+						 (NP-ADV a share))))
+                                     ,
+                                     (PP compared
+                                         (PP with
+                                             (NP (NP net income)
+                                                 (PP of
+                                                     (NP (NP (NP $ 214,000 *U*)
+							     ,
+							     or
+							     (NP (NP 10 cents)
+								 (NP a share))
+							     ,)
+							 (ADVP-TMP (NP a year)
+								   earlier))))))))))))))
+     .))
+( (S (NP-SBJ (NP The
+		 (NAC-LOC Tempe
+			  ,
+			  Ariz.
+			  ,)
+		 maker)
+	     (PP of
+		 (NP underground fuel-storage systems)))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 the most recent period)
+                  (VP was
+                      (VP affected
+                          (NP *-1)
+                          (PP by 
+                              (NP-LGS (NP (NP customers ')
+					  problems)
+				      (S-NOM (NP-SBJ *)
+					     (VP complying
+						 (PP-CLR with
+							 (NP recent Environmental Protection Agency regulations)))))))))))
+     .))
+( (S (PP-TMP For
+	     (NP the nine months))
+     ,
+     (NP-SBJ-1 the company)
+     (VP expects
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP post
+                    (NP (NP a net loss)
+                        (PP of
+                            (NP (NP (QP about $ 879,000) *U*)
+                                , or
+				(NP (NP (QP 35 cents
+					    to
+					    40)
+					cents)
+				    (NP-ADV a share))))
+                        ,
+                        (PP on
+                            (NP (NP revenue)
+                                (PP of
+                                    (NP (QP $ 6.5 million) *U*)))))))))
+     .))
+( (S (ADVP-TMP (NP A year)
+	       earlier)
+     ,
+     (NP-SBJ it)
+     (VP had
+         (NP (NP a loss)
+             (PP of
+                 (NP (NP $ 199,203 *U*)
+                     or
+                     (NP (NP nine cents)
+                         (NP-ADV a share))
+                     ,))
+             (PP on
+                 (NP (NP revenue)
+                     (PP of
+                         (NP $ (QP 7.6 million) *U*))))))
+     .))

@@ -1,0 +1,665 @@
+
+
+( (NP Ducks .))
+( (S (SBAR-ADV If
+	       (S (NP-SBJ the White House)
+		  (VP spots
+		      (NP one))))
+     ,
+     (NP-SBJ-1 it)
+     (VP intends
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP fire
+                    (NP a veto)
+                    (PP-DIR at
+			    (NP it))))))
+     .))
+( (S (NP-SBJ Ducks)
+     (VP are
+         (NP-PRD (NP (NP this season 's)
+		     word)
+                 (PP for
+                     (NP new taxes)))
+	 ,
+	 (PP under
+	     (NP (NP OMB Director Richard Darman 's)
+		 formulation
+		 (SBAR that 
+		       ``
+		       (S (SBAR-ADV if
+				    (S (NP-SBJ it)
+				       (VP (VP looks
+					       (PP-CLR like
+						       (NP a duck)))
+					   ,
+					   (VP walks
+					       (PP-CLR like
+						       (NP a duck)))
+					   and
+					   (VP quacks
+					       (PP-CLR like
+						       (NP a duck))))))
+			  ,
+			  (NP-SBJ it)
+			  (VP 's
+			      (NP-PRD a duck)))))))
+     . ''))
+( (S (NP-SBJ George Bush)
+     (VP is
+	 (ADJP-PRD quite clear)
+	 :
+	 (NP-ADV No new ducks))
+     .))
+( (SQ But
+      (FRAG (WHNP what)
+	    (PP about
+		(NP (NP all
+			those non-duck ducks)
+		    (VP flapping
+			(PP-CLR over
+				(NP Washington))))))
+      ?))
+( (S (NP-SBJ We)
+     (VP see
+         (NP (NP a whole flock)
+             (PP of
+                 (NP (NP programs)
+                     (SBAR (WHNP-1 that)
+                           (S (NP-SBJ *T*-1)
+                              (VP will
+                                  (VP impose
+                                      (NP significant costs)
+                                      (PP-CLR on
+					      (NP the American economy))
+                                      (PP in
+                                          (NP (NP the form)
+                                              (PP of
+                                                  (NP (NP burdensome regulation)
+                                                      and
+                                                      (NP higher liabilities)))))))))))))
+     .))
+( (NP (NP Federal child care)
+      (PRN -LRB-
+	   (INTJ quack)
+	   -RRB-)
+ .))
+( (NP (NP The Clean Air bill)
+      (PRN -LRB-
+	   (INTJ quack)
+	   -RRB-)
+ .))
+( (NP (NP The disabled-workers bill)
+      (PRN -LRB-
+	   (INTJ (INTJ quack)
+		 ,
+		 (INTJ quack))
+	   -RRB-)
+ .))
+( (S (S (NP-SBJ The Bush White House)
+        (VP is
+            (VP breeding
+                (NP non-duck ducks)
+                (NP-MNR (NP the same way)
+			(SBAR (WHADVP-2 0)
+			      (S (NP-SBJ the Nixon White House)
+				 (VP did
+				     (ADVP-MNR *T*-2))))))))
+     :
+     (S (NP-SBJ It)
+        (VP hops
+            (PP-LOC on
+		    (NP (NP (NP an issue)
+			    (SBAR (WHNP-1 that)
+				  (S (NP-SBJ *T*-1)
+				     (VP is
+					 (ADJP-PRD unopposable)))))
+			--
+			(NP (NP cleaner air)
+			    ,
+			    (NP (NP better treatment)
+				(PP of
+				    (NP the disabled)))
+			    ,
+			    (NP better child care))))))
+     .))
+( (S (NP-SBJ It)
+     (VP comes
+         (PRT up)
+         (PP-CLR with
+		 (NP (NP a toned-down version)
+		     (PP of
+			 (NP a Democratic proposal)))))
+     .))
+( (S (S (NP-SBJ-3 The bill)
+        (VP gets
+            (VP signed
+		(NP *-3)
+                (PP-CLR into
+			(NP law)))))
+     and
+     (S (ADVP-TMP then)
+        (NP-SBJ-1 the administration)
+        (VP watches
+            (ADVP-MNR helplessly)
+	    ,
+	    (S-ADV (NP-SBJ *-1)
+		   (VP wondering
+		       (SBAR (WHADVP-2 where)
+			     (S (NP-SBJ all
+					the `` unexpected '' costs)
+				(VP came
+				    (PP-CLR from
+					    (ADVP *T*-2)))))))))
+     .))
+( (S (NP-SBJ *)
+     (VP Consider
+	 ,
+         (PP for
+             (NP instance))
+         ,
+         (NP (NP the (ADJP very fat) fowl)
+             (VP known
+                 (NP *)
+                 (PP-CLR as
+			 (NP federalized child care)))))
+     .))
+( (S (NP-SBJ-1 The President)
+     (VP (VP came
+	     (PRT up)
+	     (PP-CLR with
+		     (NP a good bill)))
+	 , but
+	 (VP (ADVP-TMP now)
+	     may
+	     (VP end 
+		 (PRT up)
+		 (S-ADV (NP-SBJ *-1)
+			(VP signing
+			    (NP (NP the awful bureaucratic creature)
+				(VP hatched
+				    (NP *)
+				    (PP-LOC on
+					    (NP Capitol Hill)))))))))
+     .))
+( (S (NP-SBJ It)
+     (VP would
+         (VP create
+             (NP (NP 38,000 local day-care commissions)
+                 ,
+                 (ADJP answerable
+                       (PP to
+                           (NP (NP the Department)
+                               (PP of
+                                   (NP Health and Human Services))))))))
+     .))
+( (S (S (NP-SBJ They)
+        (VP 'd
+            (VP determine 
+                (SBAR (WHADVP-1 where)
+		      (S (NP-SBJ parents)
+			 (VP could
+			     (VP store
+				 (NP their kids)
+				 (PP-TMP during
+					 (NP the day))
+				 (ADVP-LOC-CLR *T*-1))))))))
+     , and
+     (S (NP-SBJ they)
+        (VP 'd
+            (VP regulate
+                (NP the storage facilities))))
+     .))
+( (S (S (NP-SBJ-1 The initial costs)
+        (VP are
+            (VP said
+                (S (NP-SBJ *-1)
+                   (VP to
+                       (VP be
+                           (PP-PRD in
+                                   (NP the (ADJP (ADJP (QP $ 2 billion) *U*)
+						 (NP-ADV a year))
+				       range))))))))
+     , but
+     (S (NP-SBJ that)
+        (VP 's
+            (NP-PRD only the beginning)))
+     .))
+( (S (NP-SBJ-1 New entitlements)
+     (VP tend
+         (S (NP-SBJ *-1)
+            (VP to
+		(VP grow 
+		    ,
+		    (S-ADV (NP-SBJ *)
+			   (VP creating
+			       (NP (NP a rationale)
+				   (PP for
+				       (NP new taxes)))))))))
+     .))
+( (INTJ Quack
+	.))
+( (S (S (NP-SBJ The administration)
+        (VP claims
+            (SBAR that
+                  (S (NP-SBJ its Clean Air bill)
+                     (VP will
+                         (VP cost
+                             (NP businesses)
+                             (PP between
+                                 (NP (QP $ 14 billion 
+					 and
+					 $ 19 billion) *U*))
+			     (ADVP-TMP annually)))))))
+     , but
+     (S (NP-SBJ economist
+                Michael Evans)
+        (VP estimates
+            (SBAR that
+                  (S (NP-SBJ (NP the costs)
+                             (PP for
+                                 (NP firms)))
+                     (VP will
+                         (ADVP actually)
+                         (VP be
+                             (PP-PRD in
+                                     (NP the (ADJP (ADJP (QP $ 60 billion) *U*)
+						   (NP-ADV a year)) 
+					 range))))))))
+     .))
+( (S (NP-SBJ The House bill)
+     (ADVP also)
+     (VP distorts
+         (NP economic efficiency)
+         (PP-MNR in
+		 (NP (NP all sorts)
+		     (PP of
+			 (NP perverse ways)))))
+     .))
+( (S (PP For
+         (NP example))
+     ,
+     (NP-SBJ the administration proposal)
+     (VP imposes
+         (NP extremely tough emissions standards)
+         (PP-LOC on
+		 (NP new power plants)))
+     .))
+( (S So
+     (PP instead of
+         (S-NOM (NP-SBJ *-1)
+		(VP building
+		    (NP more efficient modern plants))))
+     ,
+     (NP-SBJ-1 utilities)
+     (VP stick
+         (NP scrubbers)
+         (PP-LOC-CLR on
+		     (NP the old plants)))
+     .))
+( (S (NP-SBJ-1 (NP The money)
+               (VP spent
+                   (NP *)
+                   (PP-LOC on
+			   (NP scrubbers))))
+     (VP is
+         (VP diverted
+             (NP *-1)
+             (PP-CLR from
+		     (NP (NP planned research)
+			 (PP on
+			     (NP new , cleaner technology))))))
+     .))
+( (S (NP-SBJ The bill)
+     (ADVP also)
+     (VP imposes
+         (NP the California auto-emissions standards)
+         (PP-CLR on
+		 (NP all cars))
+	 (ADVP-LOC nationwide)
+	 ,
+	 (SBAR-ADV as if
+		   (S (NP-SBJ-1 (NP a car)
+				(VP registered
+				    (NP *)
+				    (PP-LOC in
+					    (NP (NP Big Sky)
+						,
+						(NP Montana)
+						,))))
+		      (VP needed
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP be
+				     (ADJP-PRD (ADJP as clean)
+					       (PP as
+						   (NP (NP one)
+						       (VP driven
+							   (NP *)
+							   (PP-LOC in
+								   (NP Los Angeles)))))))))))))
+     .))
+( (S (NP-SBJ (NP Proponents)
+             (PP of
+                 (NP the nationwide standards)))
+     (VP say
+         (SBAR 0
+               (S (NP-SBJ (NP the cost)
+                          (PP for
+                              (NP car buyers)))
+                  (VP would
+                      (VP be
+                          (NP-PRD (NP (QP about $ 500) *U*)
+                                  (PP per
+                                      (NP car))))))))
+     .))
+( (S (NP-SBJ Other analysts)
+     (VP say
+         (SBAR 0
+               (S (NP-SBJ that estimate)
+                  (VP is
+                      (ADJP-PRD low)))))
+     .))
+( (INTJ Quack .))
+( (S (NP-SBJ Nobody)
+     (VP knows 
+         (SBAR (WHNP-1 (NP how many billions)
+                       (PP of 
+                           (NP dollars)))
+               (S (NP-SBJ (NP the Americans)
+                          (PP With
+                              (NP Disabilities Act)))
+                  (VP will
+                      (VP cost
+                          (NP *T*-1)))))
+	 ,
+	 (SBAR-PRP because
+		   (S (NP-SBJ nobody)
+		      (VP knows
+			  (SBAR (WHNP-2 what)
+				(S (NP-SBJ the bill)
+				   (VP entails
+				       (NP *T*-2))))))))
+     .))
+( (S (NP-SBJ It)
+     (VP is
+         (NP-PRD (NP an (ADJP intentionally vague) document)
+                 (SBAR (WHNP-1 that)
+                       (S (NP-SBJ *T*-1)
+                          (VP will
+                              (VP create
+                                  (NP (NP a wave)
+                                      (PP of
+                                          (NP litigation)))))))))
+     .))
+( (S (NP-SBJ Judges)
+     (VP will
+         (VP write
+             (NP the real bill)
+	     (SBAR-TMP as
+		       (S (NP-SBJ suits)
+			  (VP roll
+			      (PP-LOC-CLR through
+					  (NP the courts)))))))
+     .))
+( (S (NP-SBJ Lawyers)
+     (VP will
+         (VP benefit))
+     .))
+( (S (NP-SBJ-1 (NP Private companies)
+	       , 
+	       and
+	       (ADVP ultimately)
+	       (NP their customers)
+	       ,)
+     (VP will
+         (VP end
+             (PRT up)
+             (S-ADV (NP-SBJ *-1)
+		    (VP footing
+			(NP the huge bill)))))
+     .))
+( (S (NP-SBJ (NP The effect)
+             (PP of
+                 (NP Nixon era non-duck ducks)))
+     (VP was
+         (NP-PRD (NP an economy)
+                 (VP clogged
+                     (NP *)
+                     (PRT up)
+                     (PP-CLR with
+			     (NP regulations and distortions)))))
+     .))
+( (S (NP-SBJ-1 All
+               this)
+     (VP was
+         (VP recognized and documented
+             (NP *-1)
+             (PP-TMP in
+		     (NP the succeeding years))
+             (PP by
+                 (NP-LGS (NP economists)
+			 ,
+			 (NP (SBAR (WHNP-2 (NP some)
+					   (PP of
+					       (WHNP whom)))
+				   (S (NP-SBJ-3 *T*-2)
+				      (VP worked
+					  (PP-LOC in
+						  (NP the Reagan administration))
+					  (S-PRP (NP-SBJ *-3)
+						 (VP to
+						     (VP lift
+							 (NP this burden)
+							 (PP-CLR from
+								 (NP (NP the American people)
+								     ,
+								     (NP states)
+								     and
+								     (NP local governments))))))))))))))
+     .))
+( (S (S-ADV (NP-SBJ *-1)
+	    (VP Running
+		(PP-CLR for
+			(NP President))
+		(PP-TMP in
+			(NP 1980 and 1988))))
+     ,
+     (NP-SBJ-1 George Bush)
+     (ADVP also)
+     (VP (ADVP-MNR persuasively)
+	 diagnosed
+	 (NP (NP the economic stagnation)
+	     (PP of
+		 (NP the 1970s))))
+     .))
+( (S (PP In
+         (NP fact))
+     ,
+     (PP during
+         (NP (NP last year 's)
+             campaign))
+     ,
+     (NP-SBJ the entire nation)
+     (ADVP-TMP constantly)
+     (VP heard
+         (S (NP-SBJ Mr. Bush)
+            (VP tout
+                (NP (NP his accomplishments)
+		    (PP as
+			(NP (NP head)
+			    (PP of
+				(NP (NP the Task Force)
+				    (PP on
+					(NP Regulatory Relief))))))))))
+     .))
+( (S ``
+     (S-TPC-3 (NP-SBJ-1 Government)
+	      (VP continues
+		  (S (NP-SBJ *-1)
+		     (VP to
+			 (VP inhibit
+			     (NP (NP (NP the productivity)
+				     (PP of
+					 (NP our citizenry)))
+				 and
+				 (NP (NP the international competitiveness)
+				     (PP of
+					 (NP American business)))))))))
+     ,
+     ''
+     (NP-SBJ the vice president)
+     (VP declared
+	 (S *T*-3)
+	 (SBAR-TMP (WHADVP-2 when)
+		   (S (NP-SBJ he)
+		      (VP was
+			  (NP-PRD (NP head)
+				  (PP of
+				      (NP the task force)))
+			  (ADVP-TMP *T*-2)))))
+     .))
+( (S But
+     (PP with
+         (NP (NP the impending passage)
+             (PP of
+                 (NP these new programs))))
+     ,
+     (NP-SBJ Mr. Bush)
+     (VP will
+	 (ADVP surely)
+	 (VP be
+	     (VP sending
+		 (S (NP-SBJ many people)
+		    (VP hurtling
+			(ADVP-DIR back)
+			(PP-DIR into
+				(NP (NP the regulatory thicket)
+				    (SBAR (WHNP-1 that)
+					  (S (NP-SBJ-2 he)
+					     (VP had
+						 (VP helped
+						     (S (NP-SBJ *-2)
+							(VP cut
+							    (NP *T*-1)
+							    (ADVP-CLR back))))))))))))))
+     .))
+( (S (PP-TMP By
+	     (NP 1986))
+     ,
+     (NP-SBJ (NP the number)
+             (PP of
+                 (NP federal regulators)))
+     (VP was
+         (ADVP-PRD down
+		   (PP to
+		       (NP about 103,000))))
+     .))
+( (S (S (ADVP-TMP Then)
+        (NP-SBJ it)
+        (VP turned
+            (PRT up)))
+     , and
+     (S (PP by
+            (NP one estimate))
+        (NP-SBJ the number)
+        (VP will
+            (VP be
+                (ADVP-PRD up
+			  (PP to
+			      (NP (QP about 109,000) regulators)))
+		(PP-TMP by
+                        (NP next year)))))
+     .))
+( (S (S-NOM-SBJ (NP-SBJ *)
+		(VP Holding
+		    (NP (NP the dam)
+			(PP on
+			    (NP taxes)))))
+     (VP is
+         (NP-PRD (NP the (ADJP most important) task)
+                 (PP of
+                     (NP the Bush presidency))))
+     .))
+( (S (NP-SBJ We)
+     (VP would
+         (VP have
+             (VP thought
+                 (PP-TMP by
+			 (NP now))
+                 , (ADVP though)
+		 ,
+                 (SBAR that
+                       (S (NP-SBJ there)
+                          (VP was
+                              (NP-PRD (NP a significant core)
+                                      (PP of
+                                          (NP (NP people)
+					      (VP involved
+						  (NP *)
+						  (PP-LOC in
+							  (NP government life)))
+                                              (SBAR (WHNP-1 who)
+                                                    (S (NP-SBJ *T*-1)
+                                                       (VP understood
+                                                           (SBAR that
+                                                                 (S (NP-SBJ direct taxation)
+                                                                    (VP is n't
+                                                                        (NP-PRD (NP the only way)
+                                                                                (SBAR (WHADVP-2 0)
+										      (S (NP-SBJ *)
+											 (VP to
+											     (VP slow
+												 (ADVP-CLR down)
+												 (NP an economy)
+												 (ADVP-MNR *T*-2)))))))))))))))))))))
+     .))
+( (S (NP-SBJ It)
+     (VP is
+         (ADVP merely)
+         (NP-PRD the most obvious))
+     .))
+( (S (SBAR-NOM-SBJ (WHNP-1 What)
+		   (S (NP-SBJ *T*-1)
+		      (VP is
+			  (ADJP-PRD even more ironic))))
+     (VP is
+         (SBAR-PRD that
+                   (S (PP-LOC all over
+			      (NP the world))
+                      (NP-SBJ nations)
+                      (VP are
+                          (VP learning
+                              (SBAR that
+                                    (S (NP-SBJ well-intentioned public programs)
+                                       (ADVP-TMP often)
+                                       (VP backfire))))))))
+     .))
+( (S But
+     (SBAR-ADV while
+	       (S (NP-SBJ they)
+		  (VP are
+		      (VP unloading
+			  (NP these burdens)))))
+     ,
+     (NP-SBJ the United States)
+     (VP is
+         (ADJP-PRD close
+                   (PP to
+                       (S-NOM (NP-SBJ *)
+			      (VP creating
+				  (NP (QP three more) big ones))))))
+     .))
+( (S (NP-SBJ-1 The Bush administration)
+     (VP ought
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP be
+		    (VP setting
+			(ADVP-CLR aside)
+			(NP (NP some)
+			    (PP of
+				(NP its buckshot)))
+			(PP for
+			    (NP the non-duck ducks)))))))
+     .))

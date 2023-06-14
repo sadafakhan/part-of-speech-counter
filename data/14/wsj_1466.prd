@@ -1,0 +1,131 @@
+
+
+( (S (NP-SBJ (NP (NP The Better Business Bureau)
+		 (PP of
+		     (NP San Diego)))
+	     and
+             (NP (NP the state
+		     Attorney General 's)
+                 office))
+     (VP entered
+         (PP-CLR into
+		 (NP (NP a settlement)
+		     (VP stemming
+			 (PP-CLR from
+				 (NP (NP an investigation)
+				     (PP of
+					 (NP (NP bureau-sponsored business directories)
+					     (VP published
+						 (NP *)
+						 (PP by
+						     (NP-LGS (NP an outside firm)
+							     ,
+							     (NP Better Book Inc))))))))))))
+     .))
+( (S (NP-SBJ The settlement)
+     (VP stems
+         (PP-CLR from
+		 (NP charges
+		     (SBAR that
+			   (S (NP-SBJ (NP Better Book)
+				      ,
+				      (ADJP now defunct)
+				      ,)
+			      (VP made
+				  (NP (NP misrepresentations)
+				      (PP in
+					  (S-NOM (NP-SBJ *)
+						 (VP selling
+						     (NP (NP (NP advertising)
+							     (PP for
+								 (NP the directories)))
+							 and
+							 (NP (NP memberships)
+							     (PP in
+								 (NP the bureau))))
+						     (PP-TMP (PP from
+								 (NP 1984))
+							     (PP to
+								 (NP 1986)))))))))))))
+     .))
+( (S (PP Without
+         (S-NOM (NP-SBJ *-1)
+		(VP admitting
+		    (NP any guilt))))
+     ,
+     (NP-SBJ-1 the bureau)
+     (VP agreed
+         (PP-CLR to
+		 (NP several conditions))
+	 (SBAR-ADV if
+		   (S (NP-SBJ it)
+		      (ADVP-TMP again)
+		      (VP contracts
+			  (PP-CLR with
+				  (NP an outside firm))
+			  (S-PRP (NP-SBJ *)
+				 (VP to
+				     (VP publish
+					 (NP its directories))))))))
+     .))
+( (S (NP-SBJ The conditions)
+     (VP include
+         (S (NP-SBJ-4 *)
+	    (VP (VP not misrepresenting
+		    (SBAR (WHNP-3 (WHADJP how many)
+				  directories)
+			  (S (NP-SBJ-1 *T*-3)
+			     (VP will
+				 (VP be
+				     (VP distributed
+					 (NP *-1)))))))
+		,
+		and
+		(VP agreeing
+		    (S (NP-SBJ *-4)
+		       (VP to
+			   (VP make
+			       (NP refunds)
+			       (PP-CLR to
+				       (NP directory advertisers))
+			       (SBAR-ADV if
+					 (S (NP-SBJ-2 any misrepresentations)
+					    (VP are
+						(VP involved
+						    (NP *-2)
+						    (PP-CLR in
+							    (NP the sale)))))))))))))
+     .))
+( (S (NP-SBJ-1 (NP The Attorney General 's)
+               investigation)
+     (VP was
+         (VP sparked
+             (NP *-1)
+             (PP by
+                 (NP-LGS (NP lawsuits)
+			 and
+			 (NP (NP charges
+				 (SBAR *ICH*-3))
+			     (PP by
+				 (NP angry California businesspeople))
+			     (SBAR-3 that
+				     (S (NP-SBJ-2 they)
+					(VP were
+					    (VP swindled
+						(NP *-2)
+						(PP-LOC in
+							(NP (NP a bureau-sponsored directory project)
+							    (VP contracted
+								(NP *)
+								(PP by
+								    (NP-LGS Better Book))))))))))))))
+     .))
+( (S (NP-SBJ The uproar)
+     (VP led
+         (PP-CLR to
+		 (NP (NP the closing)
+		     (PP of
+			 (NP the Los Angeles Better Business Bureau))
+		     (PP-TMP in
+			     (NP late 1987)))))
+     .))

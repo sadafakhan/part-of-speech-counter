@@ -1,0 +1,118 @@
+
+
+( (S (NP-SBJ (NP A group)
+             (PP including
+                 (NP (NP (NP ESL Partners Ltd.)
+                         ,
+                         (NP a
+                             (NAC-LOC Fort Worth
+				      ,
+				      Texas
+				      ,)
+                             investment partnership)
+                         ,)
+                     and
+                     (NP (NP Richard E. Rainwater)
+                         ,
+                         (NP (NP a former adviser)
+                             (PP to
+                                 (NP the Fort Worth Bass family))))
+                     ,)))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP reduced
+                      (NP (NP its stake)
+                          (PP-LOC in
+				  (NP Anacomp Inc.)))
+                      (PP-CLR to
+			      (NP (NP 3.6 %)
+				  (PP of
+				      (NP (NP the common shares)
+					  (ADJP outstanding)))))))))
+     .))
+( (S (PP-LOC In
+	     (NP (NP a filing)
+		 (PP with
+		     (NP the Securities and Exchange Commission))))
+     ,
+     (NP-SBJ the group)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP sold
+                      (NP 1,325,900 Anacomp common shares)
+                      (PP-TMP (PP from
+				  (NP Aug. 31))
+			      (PP to
+				  (NP last Wednesday)))
+		      (PP-CLR for
+			      (NP (NP $ 4.48 *U*)
+				  (PP to
+				      (NP (NP $ 5.84 *U*)
+					  (NP-ADV a share)))))
+                      , 
+                      (S-ADV (NP-SBJ *)
+			     (VP resulting
+				 (PP-CLR in
+					 (NP (NP a drop)
+					     (PP-LOC in
+						     (NP its holdings))
+					     (PP to
+						 (NP 1,351,662 shares))))))))))
+     .))
+( (S (NP-SBJ-1 No reason)
+     (VP was
+         (VP given
+             (NP *-1)
+             (PP-LOC in
+		     (NP the filing))
+             (PP for
+                 (NP the sales))))
+     .))
+( (S (NP-SBJ An Anacomp official)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the Indianapolis computer-services concern)
+                  (VP had
+                      (NP (NP no comment)
+                          (PP on
+                              (NP (NP the group 's)
+                                  share sales)))))))
+     .))
+( (S (PP-TMP In
+	     (NP March))
+     ,
+     (NP-SBJ the group)
+     (VP disclosed
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP held
+                      (NP (NP a 7.2 % stake)
+                          (PP-LOC in
+				  (NP Anacomp)))
+                      (PP-PRP for
+			      (NP investment purposes))))))
+     .))
+( (S (NP-SBJ It)
+     (VP said
+         (ADVP-TMP then)
+         (SBAR 0
+               (S (NP-SBJ-3 it)
+                  (VP (VP had
+			  (VP had
+			      (NP *RNR*-1)))
+		      and
+		      (VP would
+			  (VP continue
+			      (S (NP-SBJ *-3)
+				 (VP to
+				     (VP have
+					 (NP *RNR*-1))))))
+		      (NP-1 (NP discussions)
+			    (PP with
+				(NP (NP Anacomp 's)
+				    management))
+			    (PP concerning
+				(NP its investment)))))))
+     .))

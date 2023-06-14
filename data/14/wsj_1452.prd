@@ -1,0 +1,46 @@
+
+
+( (FRAG (NP Former U.N. Ambassador
+	    Jeane Kirkpatrick)
+	,
+	(PP-LOC in
+		(NP (NP a CNN `` Capital Gang '' discussion)
+		    (NP-TMP Oct. 7)
+		    (PP of
+			(NP (NP House action)
+			    (PP on
+				(NP federal catastrophic-illness insurance))))))
+	:))
+( (S (NP-SBJ I)
+     (VP think
+         (SBAR 0
+               (S (NP-SBJ this repeal)
+                  (VP was
+                      (NP-PRD (NP kind)
+                              (PP of
+                                  (NP a thoughtless action))))))
+	 ,
+	 (PP as
+	     (NP (NP a matter)
+		 (PP of
+		     (NP fact)))))
+     ...
+     .))
+( (S (S (NP-SBJ-1 They)
+        (VP will
+            (VP have
+                (S (NP-SBJ *-1)
+                   (VP to
+                       (VP revisit
+                           (NP this issue)))))))
+     , and
+     (S (NP-SBJ-2 they)
+        (VP 'll
+            (VP have
+                (S (NP-SBJ *-2)
+                   (VP to
+                       (VP revisit
+                           (NP it)
+			   (PP-TMP before
+				   (NP long))))))))
+     .))

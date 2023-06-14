@@ -1,0 +1,738 @@
+
+
+( (S (PP-LOC In
+	     (NP the hard-hit Marina neighborhood))
+     ,
+     (NP-SBJ (NP life)
+             (PP-TMP after
+		     (NP the earthquake)))
+     (VP is
+         (ADJP-PRD (ADJP often
+                         (ADVP all too)
+                         real)
+                   , but
+                   (ADJP sometimes surreal)))
+     .))
+( (FRAG (NP (NP Some scenes)
+	    : --
+	    (S (NP-TMP Saturday morning)
+	       ,
+	       (NP-SBJ-1 a resident)
+	       (VP was
+		   (VP given
+		       (NP *-1)
+		       (NP 15 minutes)
+		       (S-PRP (NP-SBJ *)
+			      (VP to
+				  (VP (VP scurry
+					  (PP-DIR into
+						  (NP a sagging building)))
+				      and
+				      (VP reclaim
+					  (SBAR-NOM (WHNP-2 what)
+						    (S (NP-SBJ she)
+						       (VP could 
+							   (NP *T*-2)
+							   (PP of
+							       (NP (NP her life 's)
+								   possessions))))))))))))
+	    .)))
+( (S (NP-TMP Saturday night)
+     (NP-SBJ she)
+     (VP dined
+         (PP-LOC in
+		 (NP an emergency shelter))
+	 (PP-CLR on
+		 (NP (NP salmon steaks)
+		     (VP prepared
+			 (NP *)
+			 (PP by
+			     (NP-LGS (NP chefs)
+				     (PP from
+					 (NP (NP one)
+					     (PP of
+						 (NP (NP the city 's)
+						     four-star restaurants))))))))))
+     .))
+( (S --
+     (NP-SBJ-2 Mayor Art Agnos)
+     (VP stands
+         (PP-LOC in
+		 (NP (NP the glare)
+		     (PP of
+			 (NP television lights))))
+	 (S-ADV (NP-SBJ-3 *-2)
+		(VP trying
+		    (S (NP-SBJ *-3)
+		       (VP to
+			   (VP explain
+			       (PP-TMP for
+				       (NP the 20th time))
+			       (SBAR (WHADVP-1 why)
+				     (S (NP-SBJ the city)
+					(VP is
+					    (ADVP severely)
+					    (VP restricting
+						(NP (NP access)
+						    (PP to
+							(NP badly damaged structures)))
+						(ADVP-PRP *T*-1)))))))))))
+     .))
+( (S (NP-SBJ-2 (NP A couple)
+	       (PP in
+		   (NP fashionable spandex warm-up suits)))
+     (VP jogs
+         (ADVP-LOC by)
+	 ,
+	 (S-ADV (NP-SBJ headphones)
+		(ADVP-MNR jauntily)
+		(PP-PRD in
+			(NP place))) 
+	 ,
+	 (S-ADV (NP-SBJ *-2)
+		(VP weaving
+		    (NP their way)
+		    (PP-LOC along
+			    (NP (NP a street)
+				(PP of
+				    (NP fractured and fallen houses)))))))
+     .))
+( (S (PP-LOC At
+	     (NP a nearby corner))
+     ,
+     (NP-SBJ-1 they)
+     (VP swerve
+         (ADVP-LOC-CLR perilously close
+		       (PP to
+			   (NP a listing apartment house)))
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(ADJP-PRD oblivious
+			  (PP to
+			      (NP any danger)))))
+     .))
+( (S (NP-SBJ A policeman)
+     (VP shakes
+         (NP his head)
+         (PP in
+             (NP amazement))
+	 (SBAR-TMP as
+		   (S (NP-SBJ he)
+		      (VP steers
+			  (NP them)
+			  (ADVP-DIR away)))))
+     .))
+( (S --
+     (NP-SBJ-2 (NP A young woman)
+	       (SBAR (WHNP-1 who)
+		     (S (NP-SBJ *T*-1)
+			(VP has
+			    (VP been
+				(PP-PRD out
+					(PP of
+					    (NP town))))))))
+     (VP shows
+         (PRT up)
+         (PP-LOC-CLR at
+		     (NP the Marina Middle School))
+         (S-PRP (NP-SBJ *-2)
+		(VP to
+		    (VP learn
+			(SBAR that
+			      (S (NP-SBJ her apartment)
+				 (VP is
+				     (PP-PRD on
+					     (NP the condemned list)))))))))
+     .))
+( (S (NP-SBJ-1 She)
+     (VP is
+         (VP told
+             (NP *-1)
+             (SBAR 0
+                   (S (NP-SBJ she)
+		      (VP ca n't
+			  (VP enter
+			      (SBAR-ADV unless
+					(S (NP-SBJ-2 she)
+					   (VP is
+					       (VP accompanied
+						   (NP *-2)
+						   (PP by
+						       (NP-LGS an inspector))))))))))))
+     .))
+( (S (NP-SBJ She)
+     (VP (VP bursts
+             (PP-CLR into
+		     (NP tears)))
+         and
+         (VP walks
+             (ADVP-DIR away)))
+     .))
+( (S (ADVP-LOC Nearby)
+     ,
+     (NP-SBJ-1 (NP five temporary residents)
+	       (PP of
+		   (NP the school shelter))
+	       (S *ICH*-2))
+     (VP sit
+         (PP-LOC-CLR on
+		     (NP stools))
+	 ,
+	 (S-2 (NP-SBJ *-1)
+	      (VP having
+		  (NP their necks and backs)
+		  (VP kneaded
+		      (PP-LGS by
+			      (NP volunteer masseuses))))))
+     .))
+( (S (NP-SBJ The Marina rescue center)
+     (VP offered
+         (NP (NP a very San Franciscan response)
+	     (PP to
+		 (NP the disaster))))
+     .))
+( (S (PP In
+         (NP (NP addition)
+	     (PP to
+		 (NP free massages))))
+     ,
+     (NP-SBJ there)
+     (VP was
+         (NP-PRD (NP free counseling)
+                 ,
+                 (NP phone calls)
+                 and
+                 (NP (NP a free shuttle bus)
+		     (PP to
+			 (NP (NP a health club)
+			     ,
+			     (SBAR (WHNP-1 which)
+				   (S (NP-SBJ *T*-1)
+				      (VP offered
+					  (PRT up)
+					  (NP (NP its showers)
+					      ,
+					      (NP saunas)
+					      and
+					      (NP hot tubs))))))))))
+     .))
+( (S (NP-SBJ The cafeteria)
+     (VP (VP offered
+             (NP-1 donated croissants and brie)
+             (PP-TMP-2 for
+		       (NP breakfast)))
+         , and
+         (VP (PP-TMP=2 for
+		       (NP dinner))
+	     ,
+	     (NP=1 (NP (NP pasta salad) and (NP chocolate mousse torts))
+		   (PP along 
+		       (PP with
+			   (NP the salmon))))))
+     .))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ This)
+		 (VP has
+		     (VP been
+			 (NP-PRD a 15-pound earthquake)
+			 (PP for
+			     (NP me)))))
+	,
+	''
+	(VP said
+	    (S *T*-2))
+	(NP-SBJ (NP resident)
+		(NP (NP Joan O'Shea)
+		    ,
+		    (SBAR (WHNP-1 who)
+			  (S (NP-SBJ *T*-1)
+			     (VP works
+				 (PP-LOC in
+					 (NP (NP an acupuncturist 's)
+					     office)))))))
+	.))
+( (S (NP-SBJ-1 (NP She)
+	       and
+	       (NP some friends))
+     (VP are
+         (VP considering
+             (S (NP-SBJ *-1)
+                (VP offering
+                    (NP earthquake victims)
+                    (NP (NP free yoga classes)
+                        and
+                        (NP (NP `` aroma therapy '')
+                            --
+                            (NP (NP massages)
+                                (PP with
+                                    (NP scented oils)))))))))
+     .))
+( (S (NP-SBJ She)
+     (VP finds
+         (S (NP-SBJ (NP the response)
+		    (PP of
+			(NP (NP Marina residents)
+			    (PRN --
+				 (NP (NP primarily yuppies)
+				     and
+				     (NP elderly people))
+				 --)))
+		    (PP to
+			(NP (NP the devastation)
+			    (PP of
+				(NP their homes)))))
+	    ``
+	    (ADJP-PRD incredible)))
+     .))
+( (S (NP-SBJ People)
+     (VP have
+         (VP been
+             (ADJP-PRD very respectful
+                       (PP of
+                           (NP each other)))))
+     .))
+( (S (NP-SBJ I)
+     (VP do n't
+         (VP know
+             (SBAR-ADV if
+		       (S (NP-SBJ this)
+			  (VP would
+			      (VP have
+				  (VP happened
+				      (NP-LOC somewhere else))))))))
+     . ''))
+( (S (PP-LOC Out
+	     (PP on
+		 (NP the streets)))
+     ,
+     (NP-SBJ-1 (NP some residents)
+               (PP of
+                   (NP badly damaged buildings)))
+     (VP were
+         (VP allowed
+             (NP *-1)
+             (NP (NP a 15-minute scavenger hunt)
+                 (PP through
+                     (NP their possessions)))))
+     .))
+( (SINV (S-TPC-2 ``
+		 (NP-SBJ (NP It)
+			 (S *EXP*-3))
+		 (VP 's
+		     (ADJP-PRD so weird)
+		     (S-3 (NP-SBJ *)
+			  (VP to
+			      (VP have
+				  (S (NP-SBJ *)
+				     (VP to
+					 (VP decide
+					     (SBAR-NOM (WHNP-1 what)
+						       (S (NP-SBJ *T*-1)
+							  (VP 's
+							      (ADJP-PRD really important
+									(PP to
+									    (NP you)))))))))))))
+		 , '')
+	(VP said
+	    (S *T*-2))
+	(NP-SBJ Barbara May)
+	.))
+( (S (NP-SBJ She)
+     (VP went
+         (ADVP-TMP first)
+         (PP-PRD for
+		 (NP personal mementos)))
+     .))
+( (S (PP-TMP In
+	     (NP post-earthquake parlance))
+     ,
+     (NP-SBJ her building)
+     (VP is
+         (NP-PRD a `` red))
+     . ''))
+( (S (PP-TMP After
+	     (S-NOM (NP-SBJ-1 *)
+		    (VP being
+			(VP inspected
+			    (NP *-1)))))
+     ,
+     (NP-SBJ-2 (NP buildings)
+               (PP with
+                   (NP substantial damage)))
+     (VP were
+         (VP color-coded
+             (NP *-2)))
+     .))
+( (S (S (NP-SBJ Green)
+        (VP allowed
+            (S (NP-SBJ residents)
+               (VP to
+                   (VP re-enter)))))
+     ;
+     (S (NP-SBJ yellow)
+        (VP allowed
+            (NP limited access)))
+     ;
+     (S (NP-SBJ red)
+        (VP allowed
+            (S (NP-SBJ residents)
+	       (NP-PRD one last entry)
+	       (S-PRP (NP-SBJ *)
+		      (VP to
+			  (VP gather
+			      (NP (NP everything)
+				  (SBAR (WHNP-1 0)
+					(S (NP-SBJ they)
+					   (VP could
+					       (NP *T*-1)
+					       (PP-TMP within
+						       (NP 15 minutes))))))))))))
+     .))
+( (S (NP-SBJ Reds and yellows)
+     (VP went
+         (PP-CLR about
+		 (NP their business))
+         (PP-MNR with
+		 (NP (NP a kind)
+		     (PP of
+			 (NP measured grimness)))))
+     .))
+( (S (S (NP-SBJ Some)
+        (ADVP-MNR frantically)
+	(VP dumped
+            (NP belongings)
+            (PP-DIR into
+		    (NP pillowcases))))
+     ,
+     (S (NP-SBJ others)
+        (VP threw
+            (NP goods)
+            (PP out
+                (NP windows))))
+     .))
+( (S (NP-SBJ It)
+     (VP did n't
+         (VP help
+             (SBAR that
+                   (S (PP-TMP on
+			      (NP Saturday))
+                      ,
+                      (PP-TMP after
+			      (NP (NP three days)
+				  (PP of
+				      (NP sunshine))))
+                      ,
+                      (NP-SBJ it)
+                      (VP rained)))))
+     .))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ The guys)
+		 (VP are
+		     (VP going 
+			 (PP-CLR for
+				 (NP (NP their skis)
+				     ,
+				     (NP their stereos)
+				     ,
+				     (NP their personal computers))))))
+	,
+	''
+	(VP said
+	    (S *T*-2))
+	(NP-SBJ (NP Frank Fitzgerald)
+		,
+		(SBAR (WHNP-1 who)
+		      (S (NP-SBJ *T*-1)
+			 (VP helped
+			     (S (NP-SBJ others)
+				(VP empty
+				    (NP their apartments)))))))
+	.))
+( (S ``
+     (NP-SBJ The women)
+     (VP wanted
+         (NP (NP photo albums)
+             ,
+             (NP a certain brooch)
+             ,
+             (NP (ADJP (ADVP kind of) sentimental) 
+		 things)))
+     . ''))
+( (S (NP-SBJ He)
+     (VP showed
+         (NP (NP an unbroken , still-ticking pocket watch)
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ he)
+                      (VP retrieved
+                          (NP *T*-1)
+                          (PP for
+                              (NP one woman)))))))
+     .))
+( (S (NP-SBJ It)
+     (VP belonged
+         (PP-CLR to
+		 (NP her grandfather)))
+     .))
+( (S (NP-SBJ-1 Some residents)
+     (VP (VP defied
+             (NP orders))
+         and
+         (VP returned
+             (PP to
+                 (NP `` red '' buildings))
+             (S-PRP (NP-SBJ *-1)
+		    (VP to
+			(VP retrieve
+			    (NP goods))))))
+     .))
+( (S (S (NP-SBJ-1 One building)
+        (VP was
+            (VP upgraded
+                (NP *-1)
+                (PP-CLR to
+			(NP red status))
+		(SBAR-TMP while
+			  (S (NP-SBJ people)
+			     (VP were
+				 (VP taking
+				     (NP things)
+				     (PRT out))))))))
+     , and
+     (S (NP-SBJ-3 (NP a resident)
+		  (SBAR (WHNP-2 who)
+			(S (NP-SBJ *T*-2)
+			   (VP was n't
+			       (VP allowed
+				   (S (NP-SBJ *)
+				      (VP to
+					  (VP go
+					      (ADVP-DIR back
+							inside)))))))))
+        (VP called
+            (PP-CLR up
+		    (NP the stairs))
+            (PP-DTV to
+		    (NP his girlfriend))
+	    ,
+	    (S-ADV (NP-SBJ *-3)
+		   (VP telling
+		       (NP-4 her)
+		       (S (NP-SBJ-5 *-4)
+			  (VP to
+			      (VP keep
+				  (S (NP-SBJ *-5)
+				     (VP sending
+					 (NP things)
+					 (PP-DIR down
+						 (PP to
+						     (NP the lobby))))))))))))
+     .))
+( (S (S (NP-SBJ A policewoman)
+        (VP had
+            (S (NP-SBJ-1 *)
+               (VP to
+		   (VP be
+		       (VP called
+			   (NP *-1)
+			   (ADVP-DIR in)
+			   (S-PRP (NP-SBJ *)
+				  (VP to
+				      (VP make
+					  (S (NP-SBJ her)
+					     (VP leave)))))))))))
+     ;
+     (S (NP-SBJ-2 the policewoman)
+        (VP helped
+            (S (NP-SBJ *-2)
+	       (VP carry
+		   (PRT out)
+		   (NP one last load)))))
+     .))
+( (S (S-TPC-1 (NP-SBJ (NP Enforcement)
+		      (PP of
+			  (NP restricted-entry rules)))
+	      (VP was
+		  (ADJP-PRD sporadic)))
+     ,
+     (NP-SBJ residents)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ-1 (NP One man)
+	       (VP trying
+		   (S (NP-SBJ *)
+		      (VP to
+			  (VP remove
+			      (NP his car))))))
+     (VP was
+         (VP told
+             (NP-2 *-1)
+             (PP by
+                 (NP-LGS officials))
+             (S (NP-SBJ *-2)
+                (VP to
+                    (VP get
+                        (ADVP-DIR out
+				  (PP of
+				      (NP his garage))))))))
+     .))
+( (S (SBAR-TMP (WHADVP-1 When)
+	       (S (NP-SBJ-3 he)
+		  (VP sneaked
+		      (ADVP-DIR back)
+		      (ADVP-TMP later)
+		      (S-PRP (NP-SBJ *-3)
+			     (VP to
+				 (VP try
+				     (ADVP-TMP again))))
+		      (ADVP-TMP *T*-1))))
+     ,
+     (NP-SBJ-2 a different policeman)
+     (VP offered
+         (S (NP-SBJ *-2)
+            (VP to
+                (VP help
+                    (S (NP-SBJ him)
+                       (VP get
+                           (NP the car)
+			   (PP-CLR out)))))))
+     .))
+( (S (NP-SBJ The Marina)
+     (ADVP also)
+     (VP has
+         (VP become
+             (NP-PRD (NP the focal point)
+                     (PP of
+                         (NP city efforts
+                             (S (NP-SBJ *)
+                                (VP to
+                                    (VP reunite
+                                        (NP residents)
+                                        (PP-CLR with
+						(NP (NP any pets)
+						    (SBAR (WHNP-1 that)
+							  (S (NP-SBJ *T*-1)
+							     (VP may
+								 (VP have
+								     (VP (VP fled)
+									 or
+									 (VP become
+									     (VP lost))
+									 (PP-TMP during
+										 (NP the earthquake)))))))))))))))))
+     .))
+( (S (PP-LOC On
+	     (NP (NP lampposts)
+		 (PP-LOC along
+			 (NP (NP Fillmore Street)
+			     ,
+			     (NP a major Marina artery)
+			     ,))))
+     (NP-SBJ posters)
+     (VP were
+         (VP offering
+             (NP (NP a (ADJP $ 100 *U*) reward)
+                 (PP for
+                     (NP (NP a cat)
+                         (VP lost
+                             (NP *)
+                             (PP-TMP during
+				     (NP the quake))))))))
+     .))
+( (S (NP-SBJ (NP The San Francisco Society)
+             (PP for
+                 (NP (NP the Prevention)
+                     (PP of
+                         (NP (NP Cruelty)
+                             (PP to
+                                 (NP Animals)))))))
+     (ADVP also)
+     (VP has
+	 (VP been
+	     (VP providing
+		 (NP (NP medical care)
+		     ,
+		     (NP food)
+		     ,
+		     (NP water)
+		     and
+		     (NP foster homes))
+		 (PP-BNF for
+			 (NP quake-displaced animals)))))
+     .))
+( (S (NP-SBJ The SPCA)
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP has
+                      (VP received
+			  (NP (NP (QP more
+				      than
+				      100)
+				  requests)
+			      (PP for
+				  (NP foster homes)))
+                          (PP on
+                              (NP (NP behalf)
+                                  (PP of
+                                      (NP dogs and cats))))))
+                  ,
+                  (SBAR-ADV though
+			    (S (NP-SBJ some people)
+			       (VP have
+				   (VP sought
+				       (NP temporary homes)
+				       (PP for
+					   (NP birds and fish)))))))))
+     .))
+( (S (PP For
+         (NP example))
+     ,
+     (NP-SBJ (NP one parakeet owner)
+             (VP returning
+                 (NP-DIR home)))
+     (VP found
+         (SBAR that
+               (S (NP-SBJ (NP her apartment)
+                          ,
+                          (PP like
+                              (NP (NP many others)
+                                  (PP-LOC in
+					  (NP the Marina))))
+                          ,)
+                  (VP did n't
+                      (VP have
+                          (NP heat))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (S (NP-SBJ She)
+		    (VP can
+			(VP stay
+			    (ADVP-LOC there)
+			    (PP with
+				(NP no heat)))))
+		 , but
+		 (S (PP for
+			(NP a parakeet))
+		    ,
+		    (NP-SBJ that)
+		    (VP can
+			(VP be
+			    (ADJP-PRD deadly)))))
+	,
+	''
+	(VP says
+	    (S *T*-1))
+	(NP-SBJ (NP Daralee Konowitch)
+		,
+		(NP (NP animalcare services manager)
+		    (PP for
+			(NP the SPCA))))
+	.))
+( (S (NP-SBJ-1 A warm foster home)
+     (VP has
+	 (VP been
+	     (VP found
+		 (NP *-1))))
+     .))

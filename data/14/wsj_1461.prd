@@ -1,0 +1,150 @@
+
+
+( (S (NP-SBJ Chicago businessmen
+             (NX (NX Bertram M. Lee)
+		 and
+		 (NX Peter Bynoe)))
+     (VP signed
+         (NP a new agreement
+             (S (NP-SBJ *)
+                (VP to
+                    (VP purchase
+                        (NP the Denver Nuggets basketball team)))))
+	 , but
+	 (PP-CLR not as
+		 (NP principal owners)))
+     .))
+( (S (PP-TMP On
+	     (NP Saturday))
+     ,
+     (NP-SBJ the partners)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 the team)
+                  (VP would
+		      (VP be
+			  (VP purchased
+			      (NP *-1)
+			      (PP-CLR for
+				      (NP (QP $ 54 million) *U*))
+			      (PP by
+				  (NP-LGS (NP a new group)
+					  (PP including
+					      (NP (NP Comsat Video Enterprises Inc.)
+						  ,
+						  (NP (NP (NP a unit)
+							  (PP of
+							      (NP Communications Satellite Corp.)))
+						      (VP based
+							  (NP *)
+							  (ADVP-LOC-CLR here)))))))))))))
+     .))
+( (S (NP-SBJ Comsat Video)
+     (VP will
+         (VP pay
+             (NP (QP $ 17 million) *U*)
+             (PP-CLR for
+		     (NP a (ADJP 62.5 %) interest))
+	     ,
+	     (PP with
+		 (S-NOM (NP-SBJ Messrs. Lee and Bynoe)
+			(VP putting
+			    (PRT up)
+			    (NP (QP $ 8 million) *U*)
+			    (PP-CLR for
+				    (NP (NP a (ADJP 37.5 %) stake)
+					(PP-LOC in
+						(NP the team)))))))))
+     .))
+( (S (PP-LOC Under
+	     (NP (NP terms)
+		 (PP of
+		     (NP the sale))))
+     ,
+     (NP-SBJ Nuggets owner
+             Sidney Shlenker)
+     (VP could
+         (VP receive
+	     (NP (NP (QP up
+			 to
+			 $ 11 million) *U*)
+		 (PP in
+		     (NP additional payments)))
+             (PP-CLR from
+		     (NP (NP the franchise 's)
+			 future earnings))))
+     .))
+( (S (NP-SBJ Messrs. Lee and Bynoe)
+     (NP-TMP last July)
+     (VP announced
+         (NP (NP a deal)
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ *T*-1)
+                      (VP would
+			  (VP have
+			      (VP made
+				  (S (NP-SBJ them)
+				     (NP-PRD (NP the first black principal owners)
+					     (PP of
+						 (NP a major professional sports franchise)))))))))))
+     .))
+( (S But
+     (NP-SBJ the deal)
+     (VP fell
+         (ADVP-CLR apart)
+         (NP-TMP last week)
+         (PP for
+             (NP (NP lack)
+                 (PP of
+                     (NP financing)))))
+     .))
+( (S (NP-SBJ-1 Comsat Video)
+     (VP is
+         (VP headed
+             (NP *-1)
+             (PP by
+                 (NP-LGS (NP Robert Wussler)
+			 ,
+			 (SBAR (WHNP-2 who)
+			       (S (NP-SBJ-3 *T*-2)
+				  (VP resigned
+				      (NP (NP his No. 2 executive post)
+					  (PP with
+					      (NP Turner Broadcasting System Inc.)))
+				      (ADVP-TMP (NP just two weeks)
+						ago)
+				      (S-PRP (NP-SBJ *-3)
+					     (VP to
+						 (VP take
+						     (NP the Comsat position)))))))))))
+     .))
+( (S (NP-SBJ-2 (NP Comsat Video)
+	       ,
+	       (SBAR (WHNP-1 which)
+		     (S (NP-SBJ *T*-1)
+			(VP distributes
+			    (NP pay-per-view programs)
+			    (PP-CLR to
+				    (NP hotel rooms)))))
+	       ,)
+     (VP plans
+         (S (NP-SBJ *-2)
+            (VP to
+                (VP add
+                    (NP Nuggets games)
+                    (PP-CLR to
+			    (NP their offerings)))))
+	 ,
+	 (SBAR-ADV as
+		   (S (NP-SBJ Mr. Turner)
+		      (VP did
+			  (ADVP successfully)
+			  (PP with
+			      (NP his Atlanta Hawks and Braves sports teams))))))
+     .))
+( (S (NP-SBJ Messrs. Lee and Bynoe)
+     (VP will
+         (VP manage
+             (NP (NP the Nuggets ')
+                 day-today affairs)))
+     .))

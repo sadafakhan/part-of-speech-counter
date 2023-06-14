@@ -1,0 +1,283 @@
+
+
+( (S (NP-SBJ-1 Convex Computer Corp.)
+     ,
+     (S-ADV (NP-SBJ *-1)
+	    (VP continuing
+		(NP its rapid growth)
+		(SBAR-TMP while
+			  (S (NP-SBJ other computer companies)
+			     (VP falter)))))
+     ,
+     (VP reported
+         (NP (NP (NP an (ADJP 87 %) increase)
+		 (PP-LOC in
+			 (NP third-quarter net income))
+		 (PP-TMP from
+			 (NP (NP a year) 
+			     (ADVP earlier))))
+             and
+             (NP (NP a (ADJP 50 %) increase)
+		 (PP-LOC in
+			 (NP revenue)))))
+     .))
+( (S (NP-SBJ Net)
+     (VP was
+         (NP-PRD (NP (QP $ 3.1 million) *U*)
+                 , or
+                 (NP (NP 16 cents)
+                     (NP-ADV a share)))
+	 ,
+         (ADVP up
+               (PP from
+                   (NP (NP (QP $ 1.6 million) *U*)
+                       , or
+                       (NP (NP nine cents)
+                           (NP-ADV a share))))))
+     .))
+( (S (NP-SBJ Revenue)
+     (VP was
+         (NP-PRD (QP $ 41.2 million) *U*)
+         ,
+         (ADVP up
+               (PP from
+                   (NP (QP $ 27.5 million) *U*))))
+     .))
+( (S (PP-TMP For
+	     (NP the nine months))
+     ,
+     (NP-SBJ net)
+     (VP was
+         (NP-PRD (NP (QP $ 7.7 million) *U*)
+                 , or
+                 (NP (NP 41 cents)
+                     (NP-ADV a share))
+                 ,)
+         (ADVP up
+               (NP 97 %)
+               (PP from
+                   (NP (NP (QP $ 3.9 million) *U*)
+                       , or
+                       (NP (NP 22 cents)
+                           (NP-ADV a share)
+                           ,
+                           (ADVP-TMP (NP a year)
+				     earlier))))))
+     .))
+( (S (NP-SBJ Revenue)
+     (VP was
+         (NP-PRD (QP $ 111.9 million) *U*)
+         ,
+         (ADVP up
+               (NP 50 %)
+               (PP from
+                   (NP (QP $ 74.8 million) *U*))))
+     .))
+( (S (NP-SBJ Convex)
+     (VP (VP makes
+             (NP (NP supercomputers)
+                 (SBAR (WHNP-1 that)
+                       (S (NP-SBJ *T*-1)
+                          (VP sell
+                              (PP-CLR for
+				      (NP (QP up
+					      to
+					      $ 2 
+					      million) *U*)))))))
+         and
+         (VP has
+             (NP (NP an installed base)
+                 (PP of
+                     (NP (NP more)
+			 (PP than
+			     (NP (NP 550 systems)
+				 and
+				 (NP 340 customers)))))
+                 (ADVP world-wide))))
+     .))
+( (S (PP-TMP During
+	     (NP the third quarter))
+     ,
+     (NP-SBJ it)
+     (VP said
+	 ,
+	 (SBAR 0
+	       (S (NP-SBJ it)
+		  (VP won
+		      (NP several significant contracts)
+		      ,
+		      (PP including
+			  (NP (NP (NP a five-year contract)
+				  (PP with
+				      (NP (NP the National Institutes)
+					  (PP of
+					      (NP Health)))))
+			      (VP valued
+				  (NP *)
+				  (PP-CLR at
+					  (NP an estimated (QP $ 8 million) *U*)))))))))
+     .))
+( (S (NP-TMP Earlier this month)
+     ,
+     (NP-SBJ-1 Convex)
+     (VP made
+         (NP a bid)
+	 (S-PRP (NP-SBJ-3 *-1)
+		(VP to
+		    (VP outflank
+			(NP (NP other supercomputer competitors)
+			    (PP like
+				(NP (NP Digital Equipment Corp.)
+				    and
+				    (NP International Business Machines Corp.))))
+			(PP-MNR by
+				(S-NOM (NP-SBJ *-3)
+				       (VP (VP adopting
+					       (NP (NP an open set)
+						   (PP of
+						       (NP standards)))
+					       and)
+					   (VP introducing
+					       (NP (NP new hardware and software)
+						   (SBAR (WHNP-2 0)
+							 (S (NP-SBJ *T*-2)
+							    (VP to
+								(VP link
+								    (NP different systems))))))))))))))
+     .))
+( (SINV (S-TPC-2 (NP-SBJ The new products)
+		 (VP allow
+		     (S (NP-SBJ customers)
+			(VP to
+			    (VP add
+				(NP Convex machines)
+				(PP-CLR to
+					(NP (NP established systems)
+					    (VP made
+						(NP *)
+						(PP by
+						    (NP-LGS other manufacturers)))))))))
+		 ,
+		 (SBAR (WHNP-1 which)
+		       ``
+		       (S (NP-SBJ *T*-1)
+			  (VP opens
+			      (PRT up)
+			      (NP a phenomenal market)
+			      (PP for
+				  (NP us))))))
+	, ''
+	(VP said
+	    (SBAR 0
+		  (S *T*-2)))
+	(NP-SBJ (NP Robert J. Paluck)
+		,
+		(NP (NP Convex 's)
+		    chairman , president and chief executive))
+	.))
+( (S (NP-SBJ-1 Convex)
+     (ADVP also)
+     (ADVP-TMP recently)
+     (VP agreed
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP use
+                    (NP (NP Posix)
+                        ,
+                        (NP (NP a standard)
+                            (PP for
+                                (NP (NP the computer language)
+                                    (VP called
+                                        (S (NP-SBJ *)
+					   (NP-PRD UNIX)))))))))))
+     .))
+( (S (S (NP-SBJ Posix)
+        (VP is
+            (NP-PRD (NP one)
+                    (PP of
+                        (NP (NP three or four versions)
+                            (PP of
+                                (NP UNIX)))))))
+     , but
+     (S (NP-SBJ-2 it)
+        (VP is
+            (ADVP increasingly)
+            (VP required
+                 (NP *-2)
+		 (PP by
+		     (NP-LGS the federal government))
+		(SBAR-TMP as
+			  (S (NP-SBJ-1 it)
+			     (VP tries
+				 (S (NP-SBJ *-1)
+				    (VP to
+					(VP standardize
+					    (NP its computer systems))))))))))
+     .))
+( (S (S-TPC-5 (NP-SBJ-2 Most other supercomputer manufacturers)
+	      (VP have
+		  (ADVP-TMP yet)
+		  (S (NP-SBJ *-2)
+		     (VP to
+			 (VP adopt
+			     (NP the Posix standard))))))
+     ,
+     (NP-SBJ-3 Mr. Paluck)
+     (VP said
+	 (SBAR 0
+	       (S *T*-5))
+	 ,
+	 (S-ADV (NP-SBJ *-3)
+		(VP adding
+		    (SBAR that
+			  (S (NP-SBJ-4 they)
+			     (VP prefer
+				 (S (NP-SBJ *-4)
+				    (VP to
+					(VP maintain
+					    (NP (NP proprietary systems)
+						(SBAR (WHNP-1 that)
+						      (S (NP-SBJ *T*-1)
+							 (VP lock
+							     (PRT in)
+							     (NP customers))))))))))))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ They)
+	      (VP want
+		  (NP (NP a lobster trap))
+		  --
+		  (S-ADV (SBAR-TMP once
+				   (S (NP-SBJ you)
+				      (VP get
+					  (ADVP-CLR in))))
+			 ,
+			 (NP-SBJ you)
+			 (VP ca n't
+			     (VP get
+				 (ADVP-CLR out))))))
+     ,
+     ''
+     (NP-SBJ he)
+     (VP said
+	 (S *T*-1))
+     .))
+( (S `` But
+     (NP-SBJ the customer)
+     (VP does n't
+	 (VP want
+	     (NP that)))
+     . ''))
+( (S (NP-SBJ Convex)
+     (VP closed
+         (PP-LOC in
+		 (NP over-the-counter trading))
+         (PP-TMP on
+		 (NP Friday))
+         (PP-CLR at
+		 (NP (NP $ 15.375 *U*)
+		     (NP-ADV a share)))
+         ,
+         (ADVP down
+               (NP 12.5 cents)))
+     .))

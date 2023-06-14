@@ -1,0 +1,81 @@
+
+
+( (S (NP-SBJ (NP Guardian Royal Exchange Assurance PLC)
+             ,
+             (NP a major British composite insurer)
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP is
+                      (VP taking
+                          (NP (NP a stake)
+                              (PP-LOC in
+				      (NP (NP Nationwide Anglia Building Society 's)
+					  estate agency business)))
+                          (PP as
+                              (NP (NP part)
+                                  (PP of
+                                      (NP a plan
+                                          (S (NP-SBJ *)
+                                             (VP to
+                                                 (VP create
+                                                     (NP (NP a range)
+                                                         (PP of
+                                                             (NP (NP commercial linkages)
+                                                                 (PP-LOC in
+									 (NP (NP the U.K.)
+									     and
+									     (NP Europe))))))))))))))))))
+     .))
+( (S (NP-SBJ-2 Officials)
+     (VP declined
+         (S (NP-SBJ *-2)
+            (VP to
+                (VP disclose
+                    (NP (NP (NP the value)
+                            (PP of
+                                (NP the transaction)))
+                        or
+                        (NP (NP the exact stake)
+                            (SBAR (WHNP-1 that)
+                                  (S (NP-SBJ GRE)
+                                     (VP will
+                                         (VP hold
+                                             (NP *T*-1)
+                                             (PP-LOC-CLR in
+							 (NP Nationwide Anglia Estate Agents))))))))))))
+     .))
+( (S But
+     (NP-SBJ the companies)
+     (VP said
+         (SBAR that
+               (S (NP-SBJ Nationwide Anglia Estate Agents)
+                  (VP will
+                      (VP market
+                          (NP GRE life insurance , pension and investment products)
+			  (PP-MNR through
+				  (NP (NP its
+					  (QP more
+					      than
+					      1,000)
+					  retail outlets)
+				      (PP-LOC in
+					      (NP the U.K)))))))))
+     .))
+( (S (PP Besides
+         (NP the marketing agreement))
+     ,
+     (NP-SBJ GRE)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 Nationwide Anglia)
+                  (VP has
+                      (VP agreed
+                          (S (NP-SBJ *-1)
+                             (VP to
+                                 (VP develop
+                                     (NP life insurance products)
+				     (PP with
+					 (NP the composite insurer))))))))))
+     .))

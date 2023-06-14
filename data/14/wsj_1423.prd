@@ -1,0 +1,560 @@
+
+
+( (S (SBAR-ADV (WHADVP-1 When)
+	       (S (NP-SBJ the Supreme Court)
+		  (VP upheld
+		      (NP (NP Missouri 's)
+			  abortion restrictions)
+		      (NP-TMP last July)
+		      (ADVP-TMP *T*-1))))
+     ,
+     (NP-SBJ the justices)
+     (ADVP almost certainly)
+     (VP did n't
+         (VP have
+             (NP (NP drunk driving)
+                 ,
+                 (NP trespassing)
+                 and
+                 (NP false imprisonment))
+             (PP-CLR on
+		     (NP their minds))))
+     .))
+( (S But
+     (NP-SBJ the 5-4 ruling)
+     (VP may
+	 (VP have
+	     (VP had
+		 (NP (NP as much immediate impact)
+		     (PP on
+			 (NP (NP those activities)
+			     (PRN --
+				  (NP especially trespassing)
+				  --)))
+		     (PP as
+			 (PP on
+			     (NP abortion rights)))))))
+     .))
+( (S (NP-SBJ (NP The decision)
+             ,
+             (NP Webster vs. Reproductive Health Services)
+             ,)
+     (VP illustrates
+         (SBAR (WHADVP-3 how)
+               (S (NP-SBJ Supreme Court rulings)
+                  (ADVP-TMP often)
+                  (VP have
+                      (NP a ripple effect)
+		      (ADVP *T*-3)
+		      ,
+		      (S-ADV (NP-SBJ *)
+			     (VP spreading
+				 (PP-DIR into
+					 (NP (NP areas)
+					     (PP of
+						 (NP law and policy))
+					     (SBAR (SBAR (WHNP-2 that)
+							 (S (NP-SBJ *T*-2)
+							    (VP were n't
+								(NP-PRD (NP part)
+									(PP of
+									    (NP (NP the actual cases)
+										(VP decided
+										    (NP *))))))))
+						   and
+						   (SBAR (WHNP-4 that)
+							 (S (NP-SBJ-1 *T*-4)
+							    (ADVP-TMP never)
+							    (VP were
+								(VP contemplated
+								    (NP *-1)
+								    (PP by
+									(NP-LGS the justices)))))))))))))))
+     .))
+( (S (PP-LOC In
+	     (NP the Missouri case))
+     ,
+     (NP-SBJ unforeseen consequences)
+     (VP may
+	 (VP have
+	     (VP arisen
+		 (SBAR-PRP because
+			   (S (NP-SBJ the high court)
+			      (VP reinstated
+				  (NP (NP the preamble)
+				      (PP of
+					  (NP (NP the state 's)
+					      1986 abortion law)))))))))
+     .))
+( (S (NP-SBJ The preamble)
+     (VP says
+         (SBAR (SBAR that
+                     (S (NP-SBJ human life)
+                        (VP begins
+                            (PP-TMP-CLR at
+					(NP conception)))))
+               and
+               (SBAR that
+                     (S (NP-SBJ unborn children)
+                        (VP have
+                            (NP (NP rights)
+                                (VP protected
+                                    (NP *)
+                                    (PP by
+                                        (NP-LGS the Constitution)))))))))
+     .))
+( (S (NP-TMP Last year)
+     ,
+     (NP-SBJ-1 (NP a federal appeals court)
+	       (PP-LOC in
+		       (NP St. Louis)))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the preamble)
+                  (VP was
+                      (ADJP-PRD unconstitutional))))
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(VP citing
+		    (NP (NP an earlier Supreme Court ruling)
+			(SBAR that
+			      (S (NP-SBJ states)
+				 (VP ca n't
+				     (VP justify
+					 (NP stricter abortion curbs)
+					 (PP by
+					     (S-NOM (NP-SBJ *)
+						    (VP changing
+							(NP (NP the definition)
+							    (PP of
+								(SBAR-NOM (WHADVP-2 when)
+									  (S (NP-SBJ life)
+									     (VP begins
+										 (ADVP-TMP-CLR *T*-2)))))))))))))))))
+     .))
+( (S But
+     (NP-SBJ the Supreme Court)
+     (VP concluded
+         (SBAR that
+               (S (NP-SBJ (NP it)
+			  (S *ICH*-1))
+                  (VP was
+                      (ADJP-PRD premature)
+		      (S-1 (NP-SBJ *)
+			   (VP to
+			       (VP rule
+				   (PP-CLR on
+					   (NP (NP the constitutionality)
+					       (PP of
+						   (NP the preamble)))))))
+		      (SBAR-PRP because
+				(S (NP-SBJ-2 (NP the definition)
+					     (PP of
+						 (NP human life)))
+				   (VP had n't
+				       (ADVP-TMP yet)
+				       (VP been
+					   (VP used
+					       (NP-3 *-2)
+					       (S-CLR (NP-SBJ *-3)
+						      (VP to
+							  (VP restrict
+							      (NP abortion services)))))))))))))
+     .))
+( (S (NP-SBJ The high court majority)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP it)
+			  (S *EXP*-1))
+                  (VP was
+		      (PP-PRD up
+			      (PP to
+				  (NP the state courts)))
+		      (PP-TMP for
+			      (NP now))
+		      (S-1 (NP-SBJ *)
+			   (VP to
+			       (VP decide
+				   (SBAR-NOM whether
+					     (S (NP-SBJ the definition)
+						(VP has
+						    (NP (NP any bearing)
+							(PP on
+							    (NP other state laws)))))))))))))
+     .))
+( (S (ADVP-TMP Already)
+     ,
+     (NP-SBJ local Missouri judges)
+     (VP have
+         (VP relied
+             (PP-CLR on
+		     (NP the restored preamble))
+             (PP-LOC in
+		     (NP two separate cases))
+             (S-PRP (NP-SBJ *)
+		    (VP to
+			(VP throw
+			    (PRT out)
+			    (NP (NP criminal trespass charges)
+				(PP against
+				    (NP (NP anti-abortion demonstrators)
+					(SBAR (WHNP-1 who)
+					      (S (NP-SBJ *T*-1)
+						 (VP blocked
+						     (NP (NP access)
+							 (PP to
+							     (NP (NP Reproductive Health Services)
+								 ,
+								 (NP (NP an abortion clinic)
+								     (PP-LOC in
+									     (NP St. Louis)))))))))))))))))
+     .))
+( (S (NP-SBJ The protesters)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ their actions)
+                  (VP were
+                      (ADJP-PRD justified
+                                (PP by
+                                    (NP the desire
+                                        (S (NP-SBJ *)
+                                           (VP to
+                                               (VP save
+                                                   (NP (NP the lives)
+                                                       (PP of
+                                                           (NP unborn children)))))))))))))
+     .))
+( (S (PP-LOC Under
+	     (NP a 1981 Missouri law))
+     ,
+     (NP-SBJ (NP persons)
+             (VP accused
+                 (NP *)
+                 (PP-CLR of
+			 (NP (NP some crimes)
+			     ,
+			     (PP including
+				 (NP trespassing))
+			     ,))))
+     (VP may
+         (VP offer
+             (NP a defense
+                 (SBAR that
+                       (S (NP-SBJ their actions)
+                          (VP were
+                              (ADJP-PRD justified
+					``
+					(PP as
+                                            (NP (NP an emergency measure)
+                                                (SBAR (WHNP-1 0)
+						      (S (NP-SBJ *T*-1)
+							 (VP to
+							     (VP avoid
+								 (NP an imminent (ADJP public or private) injury))))))))))))))
+     . ''))
+( (S (S-ADV (NP-SBJ *)
+	    (VP Relying
+		(PP-CLR on
+			(NP (NP the preamble 's)
+			    statement
+			    (SBAR that
+				  (S (NP-SBJ a fetus)
+				     (VP is
+					 (NP-PRD an unborn child))))))))
+     ,
+     (NP-SBJ the two St. Louis County Circuit Court judges)
+     (PP-TMP in
+	     (NP August))
+     (VP accepted
+	 (NP the justification
+	     (SBAR that
+		   (S (NP-SBJ-1 the abortion clinic protesters)
+		      (VP were
+			  (VP trying
+			      (S (NP-SBJ *-1)
+				 (VP to
+				     (VP save
+					 (NP lives))))))))))
+     .))
+( (S (PP-LOC In
+	     (NP another case))
+     ,
+     (NP-SBJ-1 (NP a protester)
+               ,
+               (NP Ann O'Brien)
+               ,)
+     (VP was
+         (VP convicted
+             (NP *-1)
+             (PP-CLR of
+		     (NP trespass))
+	     (PP-TMP before
+		     (NP (NP the Supreme Court 's)
+			 Webster ruling))))
+     .))
+( (S (NP-TMP Last week)
+     ,
+     (SBAR-ADV (WHADVP-2 when)
+	       (S (NP-SBJ-1 her appeal)
+		  (VP was
+		      (VP argued
+			  (NP *-1)
+			  (PP-LOC before
+				  (NP (NP the Missouri Court)
+				      (PP of
+					  (NP Appeals))))
+			  (ADVP-TMP *T*-2)))))
+     ,
+     (NP-SBJ her lawyer)
+     (VP (ADVP also)
+	 relied
+	 (PP-CLR on
+		 (NP the preamble)))
+     .))
+( (SINV ``
+	(S-TPC-2 (S (NP-SBJ (NP The effect)
+			    (PP of
+				(NP the Supreme Court Webster opinion)))
+		    (VP is
+			(SBAR-PRD that
+				  (S (NP-SBJ it)
+				     (VP left
+					 (NP (NP room)
+					     (SBAR (WHADVP-3 0) 
+						   for
+						   (S (NP-SBJ grass)
+						      (VP to
+							  (VP grow
+							      (PP-LOC in
+								      (NP (NP the cracks)
+									  (PP of
+									      (NP Roe vs. Wade))))
+							      (ADVP-LOC *T*-3)))))))))))
+		 , and
+		 (S (NP-SBJ I)
+		    (VP think
+			(SBAR 0
+			      (S (NP-SBJ this)
+				 (VP is
+				     (NP-PRD (NP one)
+					     (PP of
+						 (NP the cracks)))))))))
+	,
+	''
+	(VP said
+	    (S *T*-2))
+	(NP-SBJ (NP Mark Belz)
+		,
+		(NP (NP a St. Louis lawyer)
+		    (SBAR (WHNP-1 who)
+			  (S (NP-SBJ *T*-1)
+			     (VP represented
+				 (NP (NP Ms. O'Brien)
+				     and
+				     (NP the other St. Louis protesters)))))))
+	.))
+( (S (NP-SBJ Roe vs. Wade)
+     (VP was
+         (NP-PRD (NP (NP the Supreme Court 's)
+                     1973 decision)
+                 (SBAR (WHNP-1 that)
+                       (S (NP-SBJ *T*-1)
+                          (VP recognized
+                              (NP (NP (NP a woman 's)
+				      right)
+				  (PP to
+				      (NP abortion))))))))
+     .))
+( (S (NP-SBJ (NP Mario Mandina)
+             ,
+             (NP (NP president)
+                 (PP of
+                     (NP (NP Kansas City Lawyers)
+                         (PP for
+                             (NP Life)))))
+             ,)
+     (VP says
+         (SBAR that
+               (SBAR 0
+		     (S (SBAR-ADV if
+				  (S (NP-SBJ-1 abortion foes)
+				     (VP succeed
+					 (PP in
+					     (S-NOM (NP-SBJ *-1)
+						    (VP using
+							(NP-2 the preamble)
+							(S-CLR (NP-SBJ *-2)
+							       (VP to
+								   (VP escape
+								       (NP (NP prosecution)
+									   (PP for
+									       (NP trespass))))))))))))
+			, ``
+			(NP-SBJ This)
+			(VP will
+			    (VP shut
+				(PRT down)
+				(NP abortion)
+				(PP-LOC in
+					(NP Missouri))))))))
+     .))
+( (S (S (NP-SBJ There)
+        (VP 's
+            (NP-PRD (NP no risk)
+                    (PP to
+                        (NP the protesters)))))
+     , and
+     (S (NP-SBJ you)
+        (VP ca n't
+            (VP keep
+                (S (NP-SBJ an abortion clinic)
+		   (ADVP-PRD open))
+		(SBAR-ADV if
+			  (S (NP-SBJ there)
+			     (VP are
+				 (NP-PRD (NP 3,000 people)
+					 (VP standing 
+					     (ADVP-LOC outside)
+					     (NP-TMP every day)))))))))
+     . ''))
+( (S (NP-SBJ That)
+     (VP would
+         (VP be
+             (NP-PRD (NP an ironic result)
+                     (PP of
+                         (NP (NP a case)
+                             (SBAR (WHPP-1 in
+					   (WHNP which))
+                                   (S (NP-SBJ-2 the Supreme Court)
+                                      (VP (ADVP-MNR expressly)
+                                          stopped
+                                          (ADVP-CLR short)
+                                          (PP-CLR of
+						  (S-NOM (NP-SBJ *-2)
+							 (VP overruling
+							     (NP Roe vs. Wade))))
+					  (PP-LOC *T*-1)))))))))
+     .))
+( (S (PP-LOC In
+	     (NP two other cases))
+     ,
+     (NP-SBJ (NP the possible consequences)
+             (PP of
+                 (NP the Supreme Court ruling)))
+     (VP appear
+         (ADJP-PRD even more unintended))
+     .))
+( (S (PP-LOC In
+	     (NP one))
+     ,
+     (NP-SBJ (NP the lawyer)
+             (PP for
+                 (NP (NP a 20-year-old resident)
+		     (PP of
+			 (NP (NP Columbia)
+			     ,
+			     (NP Mo.)
+			     ,))
+                     (SBAR (WHNP-4 who)
+                           (S (NP-SBJ-1 *T*-4)
+                              (VP was
+                                  (VP charged
+                                      (NP *-1)
+                                      (PP-CLR with
+					      (NP drunk driving))))))
+                     ,)))
+     (VP argued
+         (SBAR that
+               (S (NP-SBJ-2 his client)
+                  (VP should
+		      (VP be
+			  (VP treated
+			      (NP *-2)
+			      (PP-CLR as
+				      (NP a 21-year-old adult))
+			      (SBAR-PRP because
+					(S (NP-SBJ-3 his actual age)
+					   (VP should
+					       (VP be
+						   (VP calculated
+						       (NP *-3)
+						       (PP (PP from
+							       (NP conception))
+							   , not
+							   (PP from
+							       (NP birth))))))))))))))
+     .))
+( (S (PP-LOC In
+	     (NP Missouri))
+     ,
+     (NP-SBJ (NP those)
+	     (VP caught
+		 (NP *)
+		 (S (NP-SBJ *)
+		    (VP drinking
+			and
+			driving))
+		 (PP between
+		     (NP (NP the ages)
+			 (PP of
+			     (NP 16
+				 and
+				 21))))))
+     (VP may
+	 (VP have
+	     (S (NP-SBJ their licenses)
+		(VP revoked
+		    (PP-TMP for
+			    (NP one year))))
+	     ,
+	     (SBAR-ADV while
+		       (S (NP-SBJ (NP those)
+				  (UCP (NP 21)
+				       or
+				       (ADJP older)))
+			  (VP suffer
+			      (NP only a 30-day suspension))))))
+     .))
+( (S (S (NP-SBJ A Boone County judge)
+        (VP rejected
+            (NP the motion)))
+     , but
+     (S (NP-SBJ (NP Daniel Dodson)
+                ,
+                (NP a Jefferson City lawyer)
+                ,)
+        (VP says
+            (SBAR 0
+                  (S (NP-SBJ he)
+                     (VP has
+                         (VP appealed))))))
+     .))
+( (S And
+     (PP-LOC in
+	     (NP (NP a case)
+		 (VP filed
+		     (NP *)
+		     (PP-LOC in
+			     (NP federal court))
+		     (PP-TMP in
+			     (NP August)))))
+     ,
+     (NP-SBJ a lawyer)
+     (VP is
+         (VP arguing
+             (SBAR that
+                   (S (NP-SBJ Missouri authorities)
+                      (VP are
+                          (VP (ADVP wrongfully)
+                              imprisoning
+                              (NP (NP the fetus)
+                                  (PP of
+                                      (NP (NP a pregnant woman)
+                                          (SBAR (WHNP-1 who)
+                                                (S (NP-SBJ *T*-1)
+                                                   (VP is
+                                                       (PP-LOC-PRD in
+								   (NP jail))
+                                                       (PP for
+							   (NP theft and forgery))))))))))))))
+     .))

@@ -1,0 +1,984 @@
+
+
+( (S (PP For
+         (NP Cathay Pacific Airways))
+     ,
+     (NP-SBJ the smooth ride)
+     (VP may
+	 (VP be
+	     (VP ending)))
+     .))
+( (S (NP-SBJ (NP The first signs)
+             (PP of
+                 (NP trouble)))
+     (VP came
+         (NP-TMP last month)
+	 (SBAR-TMP (WHADVP-1 when)
+		   (S (NP-SBJ (NP the Hong Kong carrier)
+			      ,
+			      (NP (NP a subsidiary)
+				  (PP of
+				      (NP Swire Pacific Ltd.)))
+			      ,)
+		      (VP (VP posted
+			      (NP (NP a (ADJP 5 %) drop)
+				  (PP in
+				      (NP operating profit))
+				  (PP-TMP for
+					  (NP the first six months))))
+			  and
+			  (VP warned
+			      (SBAR that
+				    (S (NP-SBJ margins)
+				       (VP will
+					   (VP remain
+					       (PP-CLR under
+						       (NP pressure))
+					       (PP-TMP for
+						       (NP (NP the rest)
+							   (PP of
+							       (NP the year)))))))))
+			  (ADVP-TMP *T*-1)))))
+     .))
+( (S (NP-SBJ (NP Securities analysts)
+             ,
+	     (SBAR (WHNP-1 (NP many)
+			   (PP of
+			       (WHNP whom)))
+		   (S (NP-SBJ-2 *T*-1)
+		      (VP scrapped
+			  (NP their buy recommendations)
+			  (PP-TMP after
+				  (S-NOM (NP-SBJ *-2)
+					 (VP seeing
+					     (NP (NP Cathay 's)
+						 interim figures)))))))
+	     ,)
+     (VP believe
+         (SBAR 0
+               (S (NP-SBJ more jolts)
+                  (VP lie
+                      (ADVP-LOC-CLR ahead)))))
+     .))
+( (S (S (NP-SBJ Fuel and personnel costs)
+        (VP are
+            (VP rising)))
+     , and
+     (S (NP-SBJ (NP tourism)
+                (PP-LOC in and through
+			(NP Hong Kong)))
+        (VP remains
+            (ADJP-PRD clouded
+                      (PP by
+                          (NP (NP (NP China 's)
+				  turmoil)
+			      (PP-TMP since
+				      (NP (NP the June 4 killings)
+					  (PP-LOC in
+						  (NP Beijing)))))))))
+     .))
+( (S (PP In
+         (NP addition))
+     ,
+     (NP-SBJ (NP delivery delays)
+             (PP for
+                 (NP (NP the first two)
+                     (PP of
+                         (NP (NP (NP (QP as many
+					 as
+					 28)
+				     Boeing 747-400s)
+				 (SBAR (WHNP-1 that)
+				       (S (NP-SBJ the carrier)
+					  (VP has
+					      (VP ordered
+						  (NP *T*-1)))))))))))
+     (VP have
+         (VP raised
+             (NP costs)
+	     (SBAR-PRP because
+		       (S (NP-SBJ-2 personnel)
+			  (VP had
+			      (VP been
+				  (VP hired
+				      (NP-3 *-2)
+				      (S (NP-SBJ *-3) 
+					 (VP to
+					     (VP man
+						 (NP the planes)))))))))))
+     .))
+( (S And
+     (NP-SBJ (NP tough competition)
+	     (PP in
+		 (NP the air-freight market)))
+     (VP is
+         (VP cutting
+             (PP-CLR into
+		     (NP an important sideline))))
+     .))
+( (S (NP-SBJ There)
+     (ADVP also)
+     (VP is
+         (NP-PRD concern
+                 (SBAR that
+                       (S (SBAR-TMP once
+				    (S (NP-SBJ Hong Kong)
+				       (VP reverts
+					   (PP-CLR to
+						   (NP (NP China 's)
+						       sovereignty))
+					   (PP-TMP in
+						   (NP 1997)))))
+                          ,
+                          (NP-SBJ-1 Cathay)
+                          (VP will
+			      (VP be
+				  (VP forced
+				      (S (NP-SBJ *-1)
+					 (VP to
+					     (VP play
+						 (NP second fiddle)
+						 (PP-CLR to
+							 (NP (NP (NP China 's)
+								 often-disparaged flag carrier)
+							     ,
+							     (NP (NP (NP Civil Aviation Administration)
+								     (PP of
+									 (NP China)))
+								 , or
+								 (NP CAAC))))))))))))))
+     .))
+( (SINV ``
+	(S-TPC-4 (NP-SBJ The sense)
+		 (VP is
+		     (SBAR-PRD 0
+			       (S (NP-SBJ we)
+				  (VP would
+				      (ADVP-TMP never)
+				      (VP be
+					  (PP-PRD in
+						  (NP (NP a position)
+						      (SBAR *ICH*-1)))
+					  (ADVP-TMP again)
+					  (SBAR-1 (WHADVP-2 where)
+						  (S (NP-SBJ everything)
+						     (VP works
+							 (PP for
+							     (NP us))
+							 (NP (NP the way)
+							     (SBAR (WHADVP-3 0)
+								   (S (NP-SBJ it)
+								      (VP did
+									  (ADVP-MNR *T*-3)
+									  (ADVP-TMP before)))))
+							 (ADVP-LOC *T*-2))))))))))
+	,
+	''
+	(VP says
+	    (S *T*-4))
+	(NP-SBJ (NP Rod Eddington)
+		,
+		(NP (NP Cathay 's)
+		    commercial director))
+	.))
+( (S (NP-SBJ (NP Sarah Hall)
+             ,
+             (NP (NP an analyst)
+                 (PP-LOC at
+			 (NP James Capel -LRB- Far East -RRB- Ltd.)))
+             ,)
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ there)
+                  (VP is n't
+                      (NP-PRD (NP much)
+                              (SBAR (WHNP-3 0)
+                                    (S (NP-SBJ Cathay)
+                                       (VP can
+                                           (VP do
+                                               (NP *T*-3)
+                                               (PP about
+                                                   (NP (NP (NP rising costs)
+                                                           (PP for
+                                                               (NP jet fuel)))
+                                                       ,
+                                                       (NP (NP Hong Kong 's)
+                                                           tight labor market)
+                                                       , or
+                                                       (NP (NP the strengthening)
+                                                           (PP of
+                                                               (NP (NP the local currency)
+                                                                   ,
+                                                                   (SBAR (WHNP-2 which)
+                                                                         (S (NP-SBJ-1 *T*-2)
+                                                                            (VP is
+                                                                                (VP pegged
+                                                                                    (NP *-1)
+                                                                                    (PP-CLR to
+											    (NP the U.S. dollar))))))))))))))))))))
+     .))
+( (S (S-TPC-2 (NP-SBJ-1 These factors)
+	      (VP are
+		  (VP further complicated
+		      (NP *-1)
+		      (PP by
+			  (NP-LGS (NP the airline 's)
+				  push
+				  (S (NP-SBJ *)
+				     (VP to
+					 (VP transform
+					     (NP itself)
+					     (PP-CLR from
+						     (NP a regional carrier))
+					     (PP-CLR to
+						     (NP an international one))))))))))
+     ,
+     (NP-SBJ Ms. Hall)
+     (VP says
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (NP-SBJ Ms. Hall)
+     (VP expects
+	 (S (NP-SBJ (NP Cathay 's)
+		    profit)
+            (VP to
+                (VP grow
+                    (NP (NP (QP around 13) %)
+			(ADVP-TMP annually))
+		    (NP-TMP (NP this year)
+			    and
+			    (NP next))))))
+     .))
+( (S (PP-TMP In
+	     (NP 1988))
+     ,
+     (NP-SBJ it)
+     (VP earned
+         (NP (NP (QP $ 2.82 billion) *U* Hong Kong)
+             (PRN -LRB-
+		  (NP (QP US$ 361.5 million) *U*)
+		  -RRB-))
+	 (PP on
+	     (NP (NP revenue)
+		 (PP of
+		     (NP (QP HK$ 11.79 billion) *U*)))))
+     .))
+( (S (NP-SBJ-1 Cathay)
+     (VP is
+         (VP taking
+             (NP-CLR several steps)
+	     (S-CLR (NP-SBJ *-1)
+		    (VP to
+			(VP bolster
+			    (NP business))))))
+     .))
+( (S (NP-SBJ One step)
+     (VP is
+	 (S-PRD (NP-SBJ *)
+		(VP to
+		    (VP beef
+			(PRT up)
+			(NP its fleet)))))
+     .))
+( (S (PP In
+         (NP (NP addition)
+             (PP to
+                 (NP (NP aircraft)
+                     (PP from
+                         (NP Boeing Co.))))))
+     ,
+     (NP-SBJ Cathay)
+     (VP announced
+         (NP-TMP earlier this year)
+         (NP (NP an order)
+             (PP for
+		 (NP (QP as many
+			 as
+			 20)
+		     Airbus A330-300s))))
+     .))
+( (S (NP-SBJ (NP The expansion)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP could
+                          (VP cost
+			      (NP (QP as much
+				      as
+				      US$ 5.7 billion)
+				  *U*)
+                              (PP-TMP over
+				      (NP the next eight years))))))
+             ,)
+     (VP will
+         (VP expand
+             (NP the fleet)
+             (PP-DIR to
+		     (NP about 43 planes))
+             (PP-TMP by
+		     (NP 1991))
+             ,
+             (ADVP up
+		   (PP from
+		       (NP (NP 30))
+		       (PP-TMP at
+			       (NP (NP the end)
+				   (PP of
+				       (NP last year))))))
+	     ,
+	     (PP according
+		 (PP to
+		     (NP Sun Hung Kai Securities Ltd)))))
+     .))
+( (S (NP-SBJ-1 The fuel-efficient Airbus planes)
+     (VP will
+	 (VP be
+	     (VP used
+		 (NP-3 *-1)
+		 (ADVP largely)
+		 (S-CLR (NP-SBJ *-3)
+			(VP to
+			    (VP replace
+				(NP (NP (NP Cathay 's)
+					aging fleet)
+				    (PP of
+					(NP Lockheed Tristars)))
+				(PP for
+				    (NP regional flights)))))
+		 ,
+		 (SBAR-ADV while
+			   (S (NP-SBJ-2 the Boeing aircraft)
+			      (VP will
+				  (VP be
+				      (VP used
+					  (NP *-2)
+					  (PP-LOC on
+						  (NP (NP long-haul routes)
+						      (PP to
+							  (NP (NP Europe)
+							      and
+							      (NP North America)))))))))))))
+     .))
+( (S (NP-SBJ Cathay)
+     (ADVP also)
+     (VP is
+         (VP moving
+             (NP (NP some)
+                 (PP of
+                     (NP its labor-intensive data-processing operations)))
+             (PP-LOC-CLR outside
+			 (NP Hong Kong))))
+     .))
+( (S (NP-SBJ (NP Fierce bidding)
+             (PP for
+                 (NP young employees))
+             (PP-LOC in
+		     (NP Hong Kong)))
+     (VP is
+         (VP pushing
+             (PRT up)
+             (NP (NP Cathay 's)
+                 labor costs)
+             (PP by
+                 (NP-EXT (NP 20 %)
+			 (NP-ADV a year)))
+             (PP for
+                 (NP low-level staff))
+	     ,
+	     (SBAR-ADV while
+		       (S (NP-SBJ experienced , skilled employees)
+			  (VP are
+			      (VP leaving
+				  (NP the colony)
+				  (PP as
+				      (NP (NP part)
+					  (PP of
+					      (NP the brain drain))))))))))
+     .))
+( (S (S (NP-SBJ-1 Some jobs)
+        (ADVP-TMP already)
+        (VP have
+	    (VP been
+		(VP moved
+		    (NP *-1)
+		    (PP-DIR to
+			    (NP Australia))))))
+     , and
+     (S (NP-SBJ there)
+        (VP are
+            (NP-PRD plans
+                    (S (NP-SBJ *)
+                       (VP to
+                           (VP place
+                               (NP others)
+                               (PP-LOC-CLR in
+					   (NP Canada))))))))
+     .))
+( (S (NP-SBJ (NP David Bell)
+             ,
+             (NP (NP a spokesman)
+                 (PP for
+                     (NP the airline)))
+             ,)
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ-1 the move)
+                  (VP is
+                      (VP (ADVP partly)
+                          aimed
+                          (NP *-1)
+                          (PP-CLR at
+				  (S-NOM (NP-SBJ *)
+					 (VP retaining
+					     (NP (NP existing staff)
+						 (SBAR (WHNP-2 who)
+						       (S (NP-SBJ-3 *T*-2)
+							  (VP are
+							      (VP leaving
+								  (S-PRP (NP-SBJ *-3)
+									 (VP to
+									     (VP secure
+										 (NP foreign passports)
+										 (PP ahead 
+										     (PP of
+											 (NP 1997)))))))))))))))))))
+     .))
+( (S (NP-SBJ-1 Cathay)
+     (VP is
+         (VP working
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP promote
+                        (NP Hong Kong)
+                        (PP-CLR as
+				(NP (NP (NP a destination)
+					(PP worth
+					    (S-NOM (NP-SBJ *)
+						   (VP visiting
+						       (PP on
+							   (NP its own merits))))))
+				    ,
+				    (PP rather
+					than
+					(NP just a stopover)))))))))
+     .))
+( (S (SBAR-ADV Although
+	       (S (NP-SBJ (NP the June 4 killings)
+			  (PP-LOC in
+				  (NP Beijing)))
+		  (VP have
+		      (VP hurt
+			  (NP its China flights)))))
+     ,
+     (NP-SBJ (NP Cathay 's)
+             other routes)
+     (VP have
+         (VP retained
+             (NP high load factors)))
+     .))
+( (S (NP-SBJ Mr. Eddington)
+     (VP regards
+         (S (NP-SBJ *)
+	    (VP promoting
+		(NP Hong Kong)))
+         (PP-CLR as
+		 (NP (NP an important part)
+		     (PP of
+			 (S-NOM (NP-SBJ *)
+				(VP attracting
+				    (NP visitors)
+				    (PP from
+					(NP (NP (NP Japan)
+						,
+						(NP South Korea)
+						and
+						(NP Taiwan)
+						,)
+					    (SBAR (WHADVP-1 where)
+						  (S (NP-SBJ (NP the number)
+							     (PP of
+								 (NP (NP people)
+								     (VP looking
+									 (S (NP-SBJ *)
+									    (VP to
+										(VP travel
+										    (ADVP-LOC-CLR abroad))))))))
+						     (VP has
+							 (VP surged
+							     (ADVP-LOC *T*-1)))))))))))))
+     .))
+( (S (NP-SBJ There)
+     (ADVP also)
+     (VP has
+         (VP been
+             (NP-PRD speculation
+                     (SBAR that
+                           (S (NP-SBJ Cathay)
+                              (VP will
+                                  (VP be
+                                      (PP-PRD among
+                                              (NP (NP the major private-sector participants)
+						  (PP-LOC in
+							  (NP (NP the Hong Kong government 's)
+							      plans
+							      (S (NP-SBJ *)
+								 (VP to
+								     (VP build
+									 (NP a new airport)))
+								 ,)))))
+				      (PP with
+					  (S-NOM (NP-SBJ the carrier)
+						 (VP (ADVP possibly)
+						     investing
+						     (PP-CLR in
+							     (NP its own terminal))))))))))))
+     .))
+( (S (NP-SBJ-1 Cathay officials)
+     (VP decline
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP comment
+                    (PP-CLR on
+			    (NP the speculation))))))
+     .))
+( (S (NP-SBJ Mr. Eddington)
+     (VP sees
+         (NP (NP alliances)
+             (PP with
+                 (NP (NP other carriers)
+                     (PRN --
+			  (NP (NP particularly
+				  (NP Cathay 's)
+				  recent link)
+			      (PP with
+				  (NP (NP AMR Corp. 's)
+				      American Airlines)))
+			  --))))
+         (PP-CLR as
+		 (NP (NP an important part)
+		     (PP of
+			 (NP (NP Cathay 's)
+			     strategy)))))
+     .))
+( (S But
+     (NP-SBJ he)
+     (VP emphasizes
+         (SBAR that
+               (S (NP-SBJ Cathay)
+                  (VP has n't
+                      (NP (NP any interest)
+			  (PP in
+			      (S-NOM (NP-SBJ *)
+				     (VP swapping
+					 (NP equity stakes)
+					 (PP-CLR (PP with
+						     (NP the U.S. carrier))
+						 or
+						 (PP with
+						     (NP (NP Lufthansa)
+							 ,
+							 (NP (NP the West German airline)
+							     (SBAR (WHPP-1 with
+									   (WHNP which))
+								   (S (NP-SBJ it)
+								      (VP has
+									  (VP cooperated
+									      (PP-TMP for
+										      (NP about a decade))
+									      (PP *T*-1)))))))))))))))))
+     .))
+( (S (NP-SBJ Analysts)
+     (VP believe
+         (SBAR 0
+               (S (NP-SBJ-1 Cathay)
+		  (VP is
+		      (VP approached
+			  (NP *-1)
+			  (PP for
+			      (NP such swaps))
+			  (PP by
+			      (NP-LGS other carriers))
+			  (PP-TMP on
+				  (NP a regular basis))
+			  ,
+			  (SBAR-ADV particularly as
+				    (S (NP-SBJ (NP the popularity)
+					       (PP of
+						   (NP share exchanges)))
+				       (VP has
+					   (VP grown
+					       (PP-LOC among
+						       (NP European carriers)))))))))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ We)
+	      (VP think
+		  (SBAR 0
+			(S (NP-SBJ alliances)
+			   (VP are
+			       (ADJP-PRD very important))))))
+     ,
+     ''
+     (NP-SBJ Mr. Eddington)
+     (VP says
+	 (S *T*-1))
+     .))
+( (S `` But
+     (NP-SBJ we)
+     (VP 'd
+         (ADVP rather)
+         (VP put
+             (NP funds)
+             (PP-PUT into
+		     (NP (NP our own business)
+			 (CONJP rather than)
+			 (NP someone else 's)))))
+     .))
+( (S (NP-SBJ I)
+     (VP 'm not
+         (ADJP-PRD sure
+                   (SBAR 0
+                         (S (NP-SBJ cross-ownership)
+                            (VP would
+                                (ADVP necessarily)
+                                (VP make
+                                    (S (NP-SBJ things)
+				       (ADJP-PRD smoother))))))))
+     . ''))
+( (S (PP-LOC In
+	     (NP (NP a pattern)
+		 (SBAR (WHNP-1 0)
+		       (S (NP-SBJ-2 it)
+			  (VP aims
+			      (S (NP-SBJ *-2)
+				 (VP to
+				     (VP copy
+					 (NP *T*-1)
+					 (PP-LOC in
+						 (NP several key U.S. destinations))))))))))
+     ,
+     (NP-SBJ-3 Cathay)
+     (ADVP-TMP recently)
+     (VP announced
+         (NP plans
+             (S (NP-SBJ-4 *-3)
+                (VP to
+                    (VP serve
+                        (NP San Francisco)
+                        (PP-MNR by
+				(S-NOM (NP-SBJ *-4)
+				       (VP (VP flying
+					       (PP-DIR into
+						       (NP (NP American Airlines ')
+							   Los Angeles hub)))
+					   and
+					   (VP routing
+					       (NP continuing passengers)
+					       (PP-LOC-CLR onto
+							   (NP (NP a flight)
+							       (PP-LOC on
+								       (NP the U.S. carrier)))))))))))))
+     .))
+( (S ``
+     (S-TPC-1 (S (NP-SBJ We)
+		 (VP 'll
+		     (ADVP-TMP never)
+		     (VP have
+			 (NP a big operation)
+			 (PP-LOC in
+				 (NP the U.S.)))))
+	      , and
+	      (S (NP-SBJ they)
+		 (VP 'll
+		     (ADVP-TMP never)
+		     (VP have
+			 (NP (NP one)
+			     (ADJP (ADJP as big)
+				   (PP as
+				       (NP us))))
+			 (PP-LOC in
+				 (NP the Pacific))))))
+     ,
+     ''
+     (NP-SBJ Mr. Eddington)
+     (VP says
+	 (S *T*-1))
+     .))
+( (S `` But
+     (NP-ADV this way)
+     ,
+     (NP-SBJ American)
+     (VP will
+	 (VP coordinate
+	     (NP (NP good extensions)
+		 (PP to
+		     (NP (NP Boston)
+			 ,
+			 (NP New York)
+			 ,
+			 (NP Chicago)
+			 and
+			 (NP Dallas))))))
+     .))
+( (S (NP-SBJ We)
+     (VP 'll
+         (VP coordinate
+             (PP-CLR on
+		     (NP this end))
+             (PP to
+                 (NP (NP places)
+                     (PP like
+                         (NP Bangkok
+                             ,
+                             Singapore
+                             and
+                             Manila))))))
+     . ''))
+( (S (NP-SBJ-2 (NP Asian traffic)
+	       ,
+	       (SBAR (WHNP-1 which)
+		     (S (NP-SBJ *T*-1)
+			(VP (ADVP-TMP currently)
+			    accounts
+			    (PP-CLR for
+				    (NP (NP 65 %)
+					(PP of
+					    (NP (NP Cathay 's)
+						business)))))))
+	       ,)
+     (VP is
+         (VP expected
+             (S (NP-SBJ *-2)
+                (VP to
+                    (VP continue
+                        (PP-MNR as
+				(NP (NP the carrier 's)
+				    mainstay)))))))
+     .))
+( (S (S (NP-SBJ Cathay)
+        (VP has
+            (ADVP-TMP long)
+            (VP stated
+                (NP its desire
+                    (S (NP-SBJ *)
+                       (VP to
+                           (VP double
+                               (NP (NP its weekly flights)
+				   (PP into
+				       (NP China)))
+                               (PP-CLR to
+				       (NP 14)))))))))
+     , and
+     (S (NP-SBJ-1 it)
+        (VP is
+            (VP applying
+                (S (NP-SBJ *-1)
+                   (VP to
+                       (VP restart
+                           (NP (NP long-canceled flights)
+			       (PP into
+				   (NP Vietnam)))))))))
+     .))
+( (SINV (S-TPC-1 (NP-SBJ (NP Further expansion)
+			 (PP-DIR into
+				 (NP southern Europe)))
+		 (VP is
+		     (ADVP also)
+		     (ADJP-PRD possible)))
+	,
+	(VP says
+	    (SBAR 0
+		  (S *T*-1)))
+	(NP-SBJ (NP Mr. Bell)
+		,
+		(NP the spokesman))
+	.))
+( (S (SBAR-ADV While
+	       (S (NP-SBJ (NP a large number)
+			  (PP of
+			      (NP Hong Kong companies)))
+		  (VP have
+		      (VP reincorporated
+			  (ADVP-LOC offshore)
+			  (PP-TMP ahead of
+				  (NP 1997))))))
+     ,
+     (NP-SBJ such a move)
+     (VP is n't
+         (NP-PRD (NP an option)
+                 (PP for
+                     (NP Cathay)))
+	 (SBAR-PRP because
+		   (S (NP-SBJ it)
+		      (VP would
+			  (VP jeopardize
+			      (NP (NP its landing rights)
+				  (PP-LOC in
+					  (NP Hong Kong))))))))
+     .))
+( (S (S And
+        (NP-SBJ Mr. Eddington)
+        (VP (ADVP-MNR emphatically)
+            rules
+            (PRT out)
+            (NP (NP a move)
+                (PP to
+                    (NP London)))))
+     :
+     ``
+     (S (NP-SBJ Our lifeblood)
+        (VP is
+            (NP-PRD Hong Kong traffic rights)))
+     . ''))
+( (S (NP-SBJ He)
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ the airline)
+                  (VP is
+                      (VP putting
+                          (NP its faith)
+                          (PP-PUT in
+				  (NP (NP the Sino-British agreement)
+				      (PP on
+					  (NP (NP (NP Hong Kong 's)
+						  return)
+					      (PP to
+						  (NP China)))))))))))
+     .))
+( (S (NP-SBJ (NP A special section)
+             (VP dealing
+                 (PP-CLR with
+			 (NP aviation rights))))
+     (VP states
+         (SBAR that
+               (S (NP-SBJ-3 (NP landing rights)
+			    (PP for
+				(NP (NP (NP Hong Kong 's)
+					airlines)
+				    ,
+				    (SBAR (WHNP-2 which)
+					  (S (NP-SBJ *T*-2)
+					     (VP include
+						 (NP the smaller Hong Kong Dragon Airlines))))
+				    ,)))
+                  (VP will
+                      (VP continue
+                          (S (NP-SBJ-1 *-3)
+                             (VP to
+				 (VP be
+				     (VP negotiated
+					 (NP *-1)
+					 (PP by
+					     (NP-LGS (NP Hong Kong 's)
+						     government)))))))))))
+     .))
+( (S But
+     (NP-SBJ critics)
+     (VP fret
+         (SBAR that
+               (S (NP-SBJ post-1997 officials)
+                  (ADVP-TMP ultimately)
+                  (VP will
+                      (VP be
+                          (ADJP-PRD responsible
+                                    (PP to
+                                        (NP Beijing))))))))
+     .))
+( (SINV ``
+	(S-TPC-3 (NP-SBJ My feeling)
+		 (VP is
+		     (SBAR-PRD 0
+			       (S -LCB-
+				  (NP-SBJ Cathay)
+				  (VP does n't -RCB-
+				      (VP have
+					  (NP a hope)
+					  (PP-TMP in
+						  (NP the long run))))))))
+	,
+	''
+	(VP says
+	    (S *T*-3))
+	(NP-SBJ (NP an analyst)
+		,
+		(SBAR (WHNP-2 who)
+		      (S (NP-SBJ *T*-2)
+			 (VP declines
+			     (S (NP-SBJ-1 *)
+				(VP to
+				    (VP be
+					(VP identified
+					    (NP *-1)))))))))
+	.))
+( (S ``
+     (S (NP-SBJ-1 Cathay)
+        (VP would
+            (VP love
+                (S (NP-SBJ-2 *-1)
+                   (VP to
+                       (VP keep
+                           (S (NP-SBJ *-2)
+			      (VP going))))))))
+     , but
+     (S (NP-SBJ the general sense)
+        (VP is
+            (SBAR-PRD 0
+                      (S (NP-SBJ-3 they)
+                         (VP 're
+                             (VP going
+                                 (S (NP-SBJ-4 *-3)
+                                    (VP to
+                                        (VP have
+                                            (S (NP-SBJ *-4)
+                                               (VP to
+                                                   (VP do
+                                                       (NP something)))))))))))))
+     . ''))
+( (S (S (NP-SBJ Mr. Eddington)
+        (VP acknowledges
+            (SBAR that
+                  (S (NP-SBJ-1 the carrier)
+                     (VP will
+                         (VP have
+                             (S (NP-SBJ *-1)
+                                (VP to
+                                    (VP (VP evolve)
+                                        and
+                                        (VP adapt
+                                            (PP-CLR to
+						    (NP local changes))))))))))))
+     , but
+     (S (NP-SBJ he)
+        (VP feels
+            (SBAR that
+                  (S (NP-SBJ the Sino-British agreement)
+                     (VP is
+                         (NP-PRD (NP firm ground)
+                                 (SBAR (WHNP-2 0)
+				       (S (NP-SBJ *)
+					  (VP to
+					      (VP build
+						  (PP-LOC-CLR on
+							      (NP *T*-2)))))))
+			 (PP-TMP for
+				 (NP the foreseeable future)))))))
+     .))
+( (S-2 ``
+       (NP-SBJ We)
+       (VP 're
+	   (ADJP-PRD confident
+		     (SBAR that
+			   (S-1 (NP-SBJ it)
+				(VP protects
+				    (NP (NP our route structure)
+					, ''
+					(PRN (S (NP-SBJ he)
+						(VP says
+						    (S *T*-2))))
+					, `` and
+					(NP our ability
+					    (S (NP-SBJ *)
+					       (VP to
+						   (VP grow and prosper))))))))))
+       .))

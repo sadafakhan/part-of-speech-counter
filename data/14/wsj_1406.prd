@@ -1,0 +1,36 @@
+
+
+( (S (S-TPC-1 (NP-SBJ (NP (NP Japan 's)
+			  wholesale prices)
+		      (PP-TMP in
+			      (NP (NP the first 10 days)
+				  (PP of
+				      (NP October)))))
+	      (VP (VP fell
+		      (NP-EXT 0.3 %)
+		      (PP-TMP from
+			      (NP the previous 10 days)))
+		  but
+		  (VP rose
+		      (NP-EXT 3.3 %)
+		      (PP-TMP from
+			      (ADVP-TMP (NP a year)
+					ago)))))
+     ,
+     (NP-SBJ (NP the Bank)
+	     (PP of
+		 (NP Japan)))
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (S (NP-SBJ The wholesale price index)
+        (VP stood
+            (PP-CLR at
+		    (NP 89.6))))
+     (PRN -LRB-
+	  (S (NP-SBJ 1985)
+	     (VP equals
+		 (NP 100)))
+	  -RRB-)
+ .))

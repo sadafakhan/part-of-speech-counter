@@ -1,0 +1,45 @@
+
+
+( (S (NP-SBJ (NP Your Oct. 2 article)
+             (PP on
+                 (NP Daniel Yankelovich)))
+     (VP cited
+         (NP (NP the quote)
+             (S-TTL ``
+		    (NP-SBJ A good name)
+		    (VP is
+			(ADJP-PRD (ADJP better)
+				  (PP than
+				      (NP great riches))))
+		    ''))
+	 (PP-CLR as
+		 (S-NOM (NP-SBJ *)
+			(VP being
+			    (PP-PRD from
+				    (NP (NP Cervantes ')
+					`` (NX-TTL Don Quixote)))))))
+     . ''))
+( (S (S (ADVP Actually)
+        ,
+        (NP-SBJ Cervantes)
+        (VP borrowed
+            (NP that quote)
+            (PP-CLR from
+		    (NP (NP a writer)
+			(PP of
+			    (NP (NP some 25 centuries)
+				(ADVP-TMP earlier)))))))
+     :
+     (S (NP-SBJ (NP Israel 's)
+                King Solomon)
+        (VP wrote
+            (NP those words)
+            (PP-LOC in
+		    (NP (NP-TTL (NP the Book)
+				(PP of
+				    (NP Proverbs)))
+			-LRB-
+			(NP 22:1)
+			-RRB-))))
+     .))
+( (NP Michael E. Hill))

@@ -1,0 +1,1128 @@
+
+
+( (SQ Does n't
+      (NP-SBJ-1 (NP anybody)
+		(ADVP-LOC here))
+      (VP want
+          (S (NP-SBJ *-1)
+             (VP to
+                 (VP win
+                     (NP (NP this mayor 's)
+                         race)))))
+      ?))
+( (S (SBAR-ADV As
+	       (S (NP-SBJ they)
+		  (VP stumble and bumble
+		      (PP-DIR toward
+			      (NP (NP election day)
+				  (NP-TMP (NP two weeks)
+					  (PP from
+					      (NP tomorrow))))))))
+     ,
+     (NP-SBJ both
+             (NP Democrat David Dinkins)
+             and
+             (NP Republican Rudolph Giuliani))
+     (VP are
+         (PP-PRD in
+                 (NP trouble)))
+     .))
+( (S (NP-SBJ (NP Mr. Dinkins)
+             ,
+             (NP the Manhattan borough president)
+             ,)
+     (VP can
+         (VP afford
+             (NP more bumbling and stumbling)
+	     (SBAR-PRP because
+		       (S (NP-SBJ he)
+			  (VP holds
+			      (NP a comfortable 20-point lead)
+			      (PP-LOC in
+				      (NP (NP most)
+					  (PP of
+					      (NP the public-opinion polls)))))))))
+     .))
+( (S But ,
+     (PP-TMP in
+	     (NP the past 10 days))
+     ,
+     (NP-SBJ he)
+     (VP has
+         (VP taken
+             (NP (NP a series)
+		 (PP of
+		     (NP (NP body blows)
+			 (PP to
+			     (NP (NP his pride)
+				 and
+				 (NP his reputation)))))
+                 (SBAR (WHNP-1 that)
+                       (S (NP-SBJ *T*-1))
+		       (VP could
+			   (VP (ADVP-MNR adversely)
+			       affect
+			       (NP his ability
+				   (S (NP-SBJ *)
+				      (VP to
+					  (VP govern
+					      (NP this tumultuous city)))))
+			       (SBAR-ADV (SINV should
+					       (NP-SBJ he)
+					       (VP become
+						   (NP-PRD (NP New York 's)
+							   first black mayor))))))))))
+     .))
+( (S (ADVP Ordinarily)
+     ,
+     (NP-SBJ a clever opponent)
+     (VP would
+         (VP find
+             (NP (NP a way)
+                 (SBAR (WHADVP-1 0)
+		       (S (NP-SBJ *)
+			  (VP to
+			      (VP capitalize
+				  (PP-CLR on
+					  (NP (NP the other side 's)
+					      misfortunes))
+				  (ADVP-MNR *T*-1))))))))
+     .))
+( (S But
+     (NP-SBJ-2 (NP Mr. Giuliani)
+	       ,
+	       (NP a celebrated prosecutor)
+	       ,)
+     (VP has
+         (VP had
+             (NP (NP difficulty)
+		 (S-NOM (NP-SBJ *-2)
+			(VP switching
+			    (PP-CLR from
+				    (NP his crime-busting , finger-pointing mode))
+			    (PP-CLR to
+				    (NP (NP a political stance)
+					(SBAR (WHNP-1 that)
+					      (S (NP-SBJ *T*-1)
+						 (VP suggests
+						     (SBAR 0
+							   (S (NP-SBJ he)
+							      (VP might
+								  (VP know
+								      (NP (NP something)
+									  (PP about
+									      (S-NOM (NP-SBJ *)
+										     (VP running
+											 (NP this big , troubled city)))))))))))))))))))
+     .))
+( (S And
+     (ADVP-TMP now)
+     ,
+     (PP-TMP at
+	     (NP the crucial moment))
+     ,
+     (NP-SBJ he)
+     (VP 's
+         (VP running
+             (PP-CLR out
+		     (PP of
+			 (NP money)))))
+     .))
+( (S (S (NP-SBJ This)
+        (VP is
+            (NP-PRD (NP the nation 's)
+                    biggest city)))
+     and ,
+     (S (ADVP traditionally)
+	,
+        (NP-SBJ its mayor)
+        (VP is
+            (NP-PRD (NP the nation 's)
+                    best-known urban politician)))
+     .))
+( (S (NP-SBJ Democrats)
+     (VP hoped
+         (SBAR that
+               (S (NP-SBJ Mr. Dinkins)
+                  (VP could
+                      (VP become
+                          (NP-PRD a highly visible national leader))))))
+     .))
+( (S (NP-SBJ Republicans)
+     (VP figured
+         (SBAR (SBAR that
+                     (S (PP in
+                            (NP (NP Mr. Giuliani)
+                                ,
+                                (NP (NP the nation 's)
+                                    best-known prosecutor)
+                                ,))
+                        (NP-SBJ they)
+                        (VP had
+                            (NP (NP a chance)
+                                (PP for
+                                    (NP (NP a huge upset)
+                                        (PP in
+                                            (NP (NP the heart)
+                                                (PP of
+                                                    (NP Democratic territory))))))))))
+               and
+               (SBAR that
+                     (S (NP-SBJ they)
+                        (VP would
+                            (VP pick
+                                (PRT up)
+                                (NP a new political star)))))))
+     .))
+( (S But
+     (NP-SBJ it)
+     (VP has n't
+         (VP worked
+             (PRT out)
+             (NP-MNR that way)))
+     .))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ Dinkins)
+		 (VP is
+		     (NP-PRD a (ADJP decent but sloppy) guy)))
+	, ''
+	(VP says
+	    (S *T*-2))
+	(NP-SBJ (NP David Garth)
+		,
+		(NP (NP veteran campaign consultant)
+		    (ADVP-LOC here)
+		    (SBAR (WHNP-1 who)
+			  (S (NP-SBJ *T*-1)
+			     (VP has
+				 (ADVP-TMP always)
+				 (VP worked
+				     (PP-CLR for
+					     (NP (NP Mayor Edward Koch)
+						 ,
+						 (VP defeated
+						     (NP *)
+						     (PP by
+							 (NP-LGS Mr. Dinkins))
+						     (PP-TMP in
+							     (NP the Sept. 12 Democratic primary)))))))))))
+	.))
+( (S ``
+     (NP-SBJ (NP The alternative)
+             (PRN --
+		  (NP Giuliani)
+		  --))
+     (VP is
+         (ADJP-PRD ghastly))
+     . ''))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ I)
+		 (VP guess
+		     (SBAR 0
+			   (S (NP-SBJ we)
+			      (VP 'll
+				  (ADVP-MNR reluctantly)
+				  (VP (VP go
+					  (ADVP-CLR ahead))
+				      and
+				      (VP (VP do
+					      (NP it))
+					  ,
+					  (VP vote
+					      (PP-CLR for
+						      (NP Dinkins))))))))))
+	,
+	''
+	(VP says
+	    (S *T*-2))
+	(NP-SBJ (NP Richard Wade)
+		,
+		(NP (NP a politically active professor)
+		    (SBAR (WHNP-1 who)
+			  (S (NP-SBJ *T*-1)
+			     (VP supported
+				 (NP (NP Richard Ravitch)
+				     ,
+				     (NP (NP an also-ran)
+					 (PP-LOC in
+						 (NP the Democratic primary)))))))))
+	.))
+( (S ``
+     (NP-SBJ There)
+     (VP 's
+         (NP-PRD nothing)
+         (PP-LOC on
+		 (NP the other side)))
+     . ''))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ We)
+		 (VP 're
+		     (VP picking
+			 (PRT up)
+			 (NP steam))))
+	,
+	''
+	(VP insists
+	    (S *T*-2))
+	(NP-SBJ (NP Roger Ailes)
+		,
+		(NP (NP Mr. Giuliani 's)
+		    media consultant)
+		,
+		(SBAR (WHNP-1 whose last big campaign)
+		      (S (NP-SBJ-3 *T*-1)
+			 (VP helped
+			     (S (NP-SBJ *-3)
+				(VP put
+				    (NP George Bush)
+				    (PP-PUT in
+					    (NP the White House))))))))
+	.))
+( (S (NP-SBJ He)
+     (VP adds :
+         (S ``
+            (NP-SBJ It)
+            (ADVP just)
+            (VP has n't
+                (VP gotten 
+		    (PRT down)
+                    (PP-CLR to
+			    (NP the engine room))
+		    (ADVP-TMP yet)))))
+     . ''))
+( (S But
+     (NP-SBJ the steam)
+     (VP may
+         (ADVP-TMP never)
+         (VP reach
+             (NP the engine room)))
+     .))
+( (S For
+     ,
+     (SBAR-ADV just as
+	       (S (NP-SBJ Mr. Giuliani)
+		  (VP latches 
+		      (PRT on)
+		      (PP-CLR to
+			      (NP (NP an issue)
+				  (SBAR (WHNP-1 that)
+					(S (NP-SBJ *T*-1)
+					   (VP has
+					       (S (NP-SBJ Mr. Dinkins)
+						  (VP reeling))))))))))
+     ,
+     (NP-SBJ his campaign)
+     (VP (ADVP-MNR desperately)
+         needs
+         (NP cash)
+         (S-PRP (NP-SBJ *)
+		(VP to
+		    (VP keep
+			(NP (NP Mr. Ailes 's)
+			    commercials)
+			(PP-LOC-CLR on
+				    (NP the air))
+			(PP-TMP beyond
+				(NP Wednesday or Thursday))))))
+     .))
+( (S (S-PRP (NP-SBJ *)
+	    (VP To
+		(VP help
+		    (ADVP out)
+		    (NP-TMP this week))))
+     ,
+     (NP-SBJ the White House)
+     (VP is
+	 (VP dispatching
+	     (NP (NP (NAC chief
+			  (PP of
+			      (NP staff)))
+		     John Sununu)
+		 and
+		 (NP (NP three Cabinet members)
+		     --
+		     (NP (NP (NP HUD 's)
+			     Jack Kemp)
+			 ,
+			 (NP (NP Transportation 's)
+			     Samuel Skinner)
+			 and
+			 (NP (NP Treasury 's)
+			     (NP Nicholas Brady)))))
+	     ,
+	     (PP according
+		 (PP to
+		     (NP (NP Peter Powers)
+			 ,
+			 (NP the Giuliani campaign manager))))))
+     .))
+( (S (PP For
+         (NP (NP Republicans)
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP began
+                          (NP this campaign)
+                          (PP-MNR with
+				  (NP such high hopes)))))))
+     ,
+     (NP-SBJ (NP all)
+             (PP of
+                 (NP this)))
+     (VP is
+         (ADJP-PRD deeply frustrating))
+     .))
+( (S (NP Historically)
+     ,
+     (NP-SBJ New York)
+     (VP is
+	 (ADVP-TMP almost
+		   always)
+         (PP-PRD in
+                 (NP trouble)))
+     .))
+( (S But
+     (NP-SBJ (NP the trouble)
+	     (SBAR (WHNP-1 0)
+		   (S (NP-SBJ it)
+		      (VP faces
+			  (NP *T*-1)
+			  (ADVP-TMP now)
+			  (PP-LOC under
+				  (NP Democratic rule))))))
+     (VP seems
+         (ADJP-PRD (ADJP (ADJP bigger)
+			 and
+			 (ADJP more daunting))
+		   (PP than
+                       (NP (NP anything)
+                           (SBAR (WHNP-2 0)
+                                 (S (NP-SBJ it)
+                                    (VP has
+                                        (VP faced
+                                            (NP *T*-2)
+					    (PP-TMP in
+						    (NP the past))))))))))
+     .))
+( (S (NP-TMP This year)
+     ,
+     (NP-SBJ the city)
+     (VP faces
+         (NP (NP a budget deficit)
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ *T*-1)
+                      (VP could
+                          (VP become
+                              (ADJP-PRD even bigger)
+			      (NP-TMP next year)))))))
+     .))
+( (S And
+     (ADJP hardly surprising)
+     ,
+     (NP-SBJ (NP many residents)
+	     (VP trying
+		 (S (NP-SBJ *)
+		    (VP to
+			(VP cope
+			    (PP-CLR with
+				    (NP (NP the city 's)
+					other problems)))))))
+     (VP are
+	 (ADVP-TMP constantly)
+	 (PP-PRD on
+		 (NP edge))
+	 ,
+	 (S-ADV (NP-SBJ one ethnic group)
+		(VP scrapping
+		    (PP-CLR with
+			    (NP another)))))
+     .))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ People)
+		 (VP were n't
+		     (ADJP-PRD so happy)
+		     (PP-TMP in
+			     (NP the 1930s))))
+	, ''
+	(VP says
+	    (S *T*-2))
+	(NP-SBJ (NP Thomas Lessner)
+		,
+		(NP (NP another local professor)
+		    and
+		    (NP (NP the biographer)
+			(PP of
+			    (NP (NP the legendary Fiorello LaGuardia)
+				,
+				(NP (NP (NP the city 's)
+					fusion mayor)
+				    (SBAR (WHNP-1 who)
+					  (S (NP-SBJ *T*-1)
+					     (VP built
+						 (NP (NP a coalition)
+						     (SBAR (WHNP-3 0)
+							   (S (NP-SBJ-4 Mr. Giuliani)
+							      (VP hopes
+								  (S (NP-SBJ *-4)
+								     (VP to
+									 (VP emulate
+									     (NP *T*-3)))))))))))))))))
+	.))
+( (S `` But ,
+     (PP at
+         (ADJP least))
+     ,
+     (ADVP-TMP back then)
+     (NP-SBJ they)
+     (VP did n't
+	 (ADVP generally)
+	 (VP direct
+	     (NP their anger)
+	     (PP-DIR at
+		     (NP each other))))
+     . ''))
+( (S (NP-SBJ (NP The 62-year-old Mr. Dinkins)
+	     ,
+	     (NP an ex-Marine)
+	     ,)
+     (VP has
+	 (VP served
+	     (PP-CLR (PP as
+			 (NP the city clerk))
+		     and
+		     (PP as
+			 (NP (NP Manhattan borough president)
+			     ,
+			     (NP (NP a job)
+				 (PP with
+				     (NP limited executive responsibilities))))))))))
+( (SINV -LRB- ``
+	(S-TPC-1 (NP-SBJ I)
+		 (VP defy
+		     (S (NP-SBJ you)
+			(VP to
+			    (VP come
+				(ADVP up)
+				(PP with
+				    (NP (NP one major accomplishment)
+					(PP of
+					    (NP David Dinkins)))))))))
+	, ''
+	(VP says
+	    (S *T*-1))
+	(NP-SBJ Mr. Giuliani)
+	. -RRB-))
+( (S (NP-SBJ He)
+     (VP defeated
+	 (NP the contentious Mr. Koch)
+	 (PP-LOC in
+		 (NP the Democratic primary))
+	 (SBAR-PRP partly because
+		   (S (NP-SBJ-1 he)
+		      (VP seemed
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP offer
+				     (NP hope
+					 (SBAR 0
+					       (S (NP-SBJ he)
+						  (VP could
+						      (VP heal
+							  (NP (NP the city 's)
+							      racial and ethnic wounds)))))))))))))
+     .))
+( (S (NP-SBJ His general-election campaign)
+     (VP is
+	 (UCP-PRD (ADJP almost Reagan-like)
+		  ,
+		  (NP (NP all muted pictures) 
+		      and
+		      (NP comforting words))))
+     .))
+( (S (NP-SBJ His theme)
+     (VP is
+         (NP-PRD (NP unity
+		     ,
+		     decency
+		     ,
+		     humanity
+		     ,)
+		 (VP bringing
+		     (NP New York)
+		     (ADVP-CLR together)
+		     (ADVP-TMP again))))
+     .))
+( (S (S (NP-SBJ Both candidates)
+        (VP are
+            (VP negotiating
+                (PP-CLR about
+			(S-NOM (NP-SBJ *)
+			       (VP holding
+				   (NP debates)))))))
+     , but
+     (S (NP-SBJ-1 Mr. Dinkins)
+        (VP is
+            (ADVP-LOC widely)
+            (VP seen
+		(NP *-1)
+                (PP-CLR as
+			(NP (NP the major obstacle)
+			    (PP for
+				(S-NOM (NP-SBJ *)
+				       (VP scheduling
+					   (NP them)))))))))
+     .))
+( (S (NP-SBJ-1 The 45-year-old Mr. Giuliani)
+     (VP has
+         (VP run
+             (NP a negative campaign)
+             (S-PRP (NP-SBJ *-1)
+		    (VP to
+			(VP pick
+			    (PRT up)
+			    (NP (NP votes)
+				(VP leaning
+				    (PP-CLR to
+					    (NP Mr. Dinkins)))))))))
+     .))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ-1 He)
+		 (VP 's
+		     (VP got
+			 (S (NP-SBJ *-1)
+			    (VP to
+				(VP get
+				    (NP (NP Dinkins 's)
+					negatives)
+				    (PRT up)))))))
+	,
+	''
+	(VP says
+	    (S *T*-2))
+	(NP-SBJ (NP Lee Miringoff)
+		,
+		(NP (NP director)
+		    (PP of
+			(NP (NP the Marist College Institute)
+			    (PP of
+				(NP Public Opinion))))))
+	.))
+( (S `` But
+     (NP-SBJ our polls)
+     (VP show
+         (SBAR 0
+               (S (NP-SBJ voters)
+                  (VP do n't
+                      (VP like
+                          (NP the attack stuff))))))
+     .))
+( (S (INTJ Why)
+     ,
+     (NP-SBJ (NP (QP even 20) %)
+	     (PP of
+		 (NP the Republican vote)))
+     (VP is
+	 (VP going
+	     (PP-DIR to
+		     (NP Dinkins))))
+     . ''))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ It)
+		 (VP 's
+		     (NP-PRD assault-weapons politics)))
+	,
+	''
+	(VP says
+	    (S *T*-1))
+	(NP-SBJ-2 (NP John Siegal)
+		  ,
+		  (NP (NP Mr. Dinkins 's)
+		      issues director))
+	,
+	(S-ADV (NP-SBJ *-2)
+	       (VP insisting
+		   (SBAR 0
+			 (S (NP-SBJ there)
+			    (VP is
+				(NP-PRD (NP a strong racist undertone)
+					(PP to
+					    (NP the Giuliani effort))))))))
+	.))
+( (S (PP For
+         (NP the Giuliani forces))
+     ,
+     (NP-SBJ it)
+     (VP 's
+         (NP-PRD a conundrum))
+     .))
+( (S (PP On
+         (NP the one hand))
+     ,
+     (NP-SBJ-1 Mr. Giuliani)
+     (VP wants
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP cut
+                    (PP-CLR into
+			    (NP (NP Mr. Dinkins 's)
+				credibility))))))
+     .))
+( (S (PP On
+         (NP the other))
+     ,
+     (NP-SBJ-1 he)
+     (VP seeks
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP convince
+                    (NP voters)
+                    (SBAR 0
+                          (S (NP-SBJ-3 he)
+                             (VP 's
+				 (UCP-PRD (NP the new Fiorello LaGuardia)
+					  --
+					  (ADJP (ADJP affable)
+						,
+						(ADJP good-natured)
+						and
+						(ADJP ready
+						      (S (NP-SBJ *-3)
+							 (VP to
+							     (VP lead
+								 (NP New York)
+								 (PP-DIR out
+									 (PP of
+									     (NP (NP the mess)
+										 (SBAR (WHNP-2 0)
+										       (S (NP-SBJ it)
+											  (VP 's
+											      (PP-PRD in
+												      (NP *T*-2)))))))))))))))))))))
+     .))
+( (S (NP-SBJ (NP It)
+	     (SBAR *EXP*-1))
+     (VP has n't
+         (VP helped
+             (SBAR-1 (SBAR that
+			   (S (NP-SBJ he)
+			      (VP 's
+				  (VP (VP waffled
+					  (PP-CLR on
+						  (NP (NP abortion)
+						      and
+						      (NP gay rights))))
+				      ,
+				      (VP sought
+					  (NP (NP the support)
+					      (PP of
+						  (NP both the Liberal and Conservative parties)))
+					  (PRN -LRB-
+					       (S (NP-SBJ he)
+						  (VP won
+						      (NP the Liberal endorsement)))
+					       -RRB-))))))
+		     and
+		     (SBAR that
+			   (S (NP-SBJ he)
+			      (VP turned
+				  (PP-CLR to
+					  (NP comedian
+					      Jackie Mason))
+				  (PP for
+				      (NP (NP help)
+					  (PP with
+					      (NP Jewish voters))))))))))
+     .))
+( (S (NP-SBJ-1 Mr. Mason)
+     (VP left
+         (NP the campaign)
+	 (PP-TMP after
+		 (S-NOM (NP-SBJ *-1)
+			(VP telling
+			    (NP reporters)
+			    (SBAR 0
+				  (S (NP-SBJ Mr. Dinkins)
+				     (VP is
+					 (NP-PRD (NP `` a fancy'shvartzer ')
+						 (PP with
+						     (NP a moustache))))))))))
+     . ''))
+( (S (NP-SBJ Shvartzer)
+     (VP is
+         (NP-PRD (NP a derogatory Yiddish word)
+                 (PP for
+                     (NP a black person))))
+     .))
+( (S (NP-SBJ Mr. Dinkins)
+     (VP concedes
+         (NP nothing)
+         (PP in
+             (NP his ability
+                 (S (NP-SBJ *)
+                    (VP to
+                        (VP stumble and bumble))))))
+     .))
+( (S (NP-SBJ He)
+     (VP can
+         (VP match
+             (NP Jackie Mason)
+             (PP-CLR with
+		     (NP (NP his own Robert `` Sonny '' Carson)
+			 ,
+			 (NP (NP an angry street organizer)
+			     (SBAR (WHNP-2 who)
+				   (S (NP-SBJ-1 *T*-2)
+				      (VP was
+					  (VP convicted
+					      (NP *-1)
+					      (PP-CLR of
+						      (NP kidnapping))
+					      (PP-TMP in
+						      (NP 1974)))))))))))
+     .))
+( (S (NP-SBJ-1 The Dinkins campaign)
+     (VP paid
+         (NP Mr. Carson)
+	 (NP (QP close
+		 to
+		 $ 10,000)
+	     *U*)
+         (S-PRP (NP-SBJ *-1)
+		(VP to
+		    (VP get
+			(PRT out)
+			(NP the vote)
+			(PP-TMP on
+				(NP primary-election day))))))
+     .))
+( (S (NP-SBJ (NP Paper work)
+             (PP on
+                 (SBAR-NOM (WHADVP-2 how)
+			   (S (NP-SBJ-1 it)
+			      (VP was
+				  (VP spent
+				      (NP *-1)
+				      (ADVP *T*-2)))))))
+     (VP is
+         (ADJP-PRD incomplete))
+     .))
+( (S (NP-SBJ-1 Mr. Carson)
+     (VP has
+	 (VP been
+	     (VP charged
+		 (NP *-1)
+		 (PP-CLR with
+			 (S-NOM (NP-SBJ *-1)
+				(VP being
+				    (ADJP-PRD anti-Semitic)))))))
+     .))
+( (S (S-ADV (NP-SBJ *-1)
+	    (VP Asked
+		(PP-CLR about
+			(NP that))
+		(NP-TMP the other day)))
+     ,
+     (NP-SBJ-1 he)
+     (VP replied ,
+	 ``
+	 (ADJP Anti-Semitic))
+     ?))
+( (S (NP-SBJ I)
+     (VP 'm
+         (ADJP-PRD anti-white))
+     . ''))
+( (SINV (ADJP-PRD-TPC-1 More troubling
+			(PP for
+			    (NP Mr. Dinkins)))
+        (VP is
+	    (ADJP-PRD *T*-1))
+        (NP-SBJ (NP his record)
+                (PP in
+                    (NP personal accounting)))
+        .))
+( (S (NP-SBJ It)
+     (VP began
+         (PP-TMP-CLR in
+		     (NP (NP 1973)
+			 ,
+			 (SBAR (WHADVP-2 when)
+			       (S (S (NP-SBJ-1 he)
+				     (VP was
+					 (VP being
+					     (VP considered
+						 (NP *-1)
+						 (PP-CLR for
+							 (NP deputy mayor))))))
+				  , and
+				  (S (NP-SBJ a routine check)
+				     (VP unearthed
+					 (NP the extraordinary fact
+					     (SBAR that
+						   (S (NP-SBJ he)
+						      (VP had n't
+							  (VP paid
+							      (NP his income tax)
+							      (PP-TMP for
+								      (NP the previous four years)))))))))
+				  (ADVP-TMP *T*-2))))))
+     .))
+( (S ``
+     (S-TPC-2 (NP-SBJ-1 I)
+	      (VP was
+		  (ADVP-TMP always)
+		  (VP going
+		      (S (NP-SBJ *-1)
+			 (VP to
+			     (VP do
+				 (NP it)
+				 (NP-TMP tomorrow)))))))
+     ,
+     ''
+     (NP-SBJ he)
+     (VP explained
+	 (SBAR 0
+	       (S *T*-2))
+	 (PP-TMP at
+		 (NP the time)))
+     .))
+( (S And
+     (ADVP-TMP now)
+     (NP-SBJ-1 he)
+     (VP 's
+         (VP (ADVP-MNR busily)
+             trying
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP explain
+                        (NP (NP an arrangement)
+                            (SBAR (WHPP-2 in
+					  (WHNP which))
+                                  (S (NP-SBJ he)
+                                     (VP sold
+                                         (NP (NP stock)
+                                             (PP-LOC in
+						     (NP (NP Inner City Broadcasting Co.)
+							 ,
+							 (VP headed
+							     (NP *)
+							     (PP by
+								 (NP-LGS (NP his old friend and patron)
+									 ,
+									 (NP Percy Sutton)
+									 ,))))))
+                                         (PP-DTV to
+						 (NP (NP his son)
+						     ,
+						     (NP David Dinkins Jr.)
+						     ,))
+                                         (PP for
+                                             (NP $ 58,000 *U*))
+					 (PP *T*-2))))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP had
+         (VP valued
+             (NP the shares)
+             (PP-CLR at
+		     (NP (QP more
+			     than
+			     $ 1 million ) *U*))
+	     (ADVP-TMP (NP two years)
+		       earlier)))
+     .))
+( (S (NP-SBJ-1 He)
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ he)
+                  (VP sold
+                      (NP the stock)
+		      (S-PRP (NP-SBJ *-1)
+			     (VP to
+				 (VP avoid
+				     (NP (NP conflict-of-interest problems)
+					 (PP in
+					     (NP (NP his role)
+						 (PP as
+						     (NP (NP a voting member)
+							 (PP of
+							     (NP (NP (NP the city 's)
+								     Board)
+								 (PP of
+								     (NP Estimate))))))))))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ his son)
+                  (VP has n't
+                      (VP paid
+                          (PP-CLR for
+				  (NP the shares)))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ It)
+		 (VP looks
+		     (PP-PRD like
+			     (NP serious tax evasion))))
+	, ''
+	(VP says
+	    (S *T*-1))
+	(NP-SBJ (NP Mr. Ailes)
+		,
+		(NP the Giuliani media consultant))
+	.))
+( (S ``
+     (NP-SBJ It)
+     (VP follows
+         (NP (NP the same pattern)
+             (PP as
+                 (NP his tax returns))))
+     .))
+( (S (NP-SBJ-1 He)
+     (VP waits
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP talk
+                    (PP-CLR about
+			    (NP it)))))
+	 (PP-TMP until
+		 (SBAR-TMP after
+			   (S (NP-SBJ he)
+			      (VP gets
+				  (VP caught))))))
+     . ''))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ He)
+		 (ADVP simply)
+		 (VP has n't
+		     (VP explained
+			 (SBAR-NOM (WHADVP-1 why)
+				   (S (NP-SBJ (NP something)
+					      (ADJP worth
+						    (NP a million dollars)))
+				      (VP ended
+					  (PRT up)
+					  (ADJP-PRD worth
+						    (NP $ 58,000 *U*))
+					  (ADVP-TMP (NP two years)
+						    later)
+					  (ADVP-PRP *T*-1)))))))
+	,
+	''
+	(VP says
+	    (S *T*-2))
+	(NP-SBJ (NP Mr. Powers)
+		,
+		(NP the Giuliani campaign manager))
+	.))
+( (S ``
+     (NP-SBJ It)
+     (VP 's
+         (ADJP-PRD ludicrous
+                   (SBAR for
+                         (S (NP-SBJ him)
+                            (VP to
+                                (VP suggest
+                                    (SBAR 0
+                                          (S (NP-SBJ it)
+                                             (VP 's
+                                                 (NP-PRD (NP the difference)
+                                                         (PP between
+                                                             (NP (NP (NP the'breakup ' value)
+                                                                     (PP of
+                                                                         (NP the shares)))
+                                                                 and
+                                                                 (NP their market value)))))))))))))
+     . ''))
+( (S (ADVP-TMP So far)
+     (ADVP though)
+     ,
+     (NP-SBJ-3 (NP no one)
+	       (PRN --
+		    (NP not even former U.S. attorney
+			Giuliani)
+		    --))
+     (VP has
+         (VP been
+             (ADJP-PRD able
+                       (S (NP-SBJ *-3)
+                          (VP to
+                              (VP pinpoint
+                                  (SBAR-NOM (SBAR (WHNP-1 just what law)
+						  (S (NP-SBJ Mr. Dinkins)
+						     (VP has
+							 (VP broken
+							     (NP *T*-1)))))
+					    or
+					    (SBAR (WHNP-2 just what tax)
+						  (S (NP-SBJ he)
+						     (VP has
+							 (VP evaded
+							     (NP *T*-2))))))))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ The crime)
+		 (VP goes
+		     (PP-PRD to
+			     (NP character))))
+	,
+	''
+	(VP says
+	    (S *T*-1))
+	(NP-SBJ (NP Ron Maiorana)
+		,
+		(NP (NP a consultant)
+		    (PP to
+			(NP the Giuliani campaign))))
+	.))
+( (S ``
+     (NP-SBJ It)
+     (VP 's
+         (NP-PRD serious stuff))
+     .))
+( (S (NP-SBJ He)
+     (VP evades and ducks)
+     .))
+( (S (S (NP-SBJ He)
+        (VP 's
+            (VP had
+                (NP (NP a history)
+                    (PP of
+                        (NP deception))))))
+     and
+     (S (NP-SBJ this)
+        (VP is
+            (NP-PRD the latest chapter)))
+     . ''))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ It)
+		 (VP makes
+		     (S (NP-SBJ people)
+			(VP think ,
+			    (S (ADVP maybe)
+			       (NP-SBJ this guy)
+			       (VP is n't
+				   (ADJP-PRD so squeaky clean)
+				   (PP after
+				       (NP all))))))))
+	, ''
+	(VP says
+	    (S *T*-1))
+	(NP-SBJ (NP Mr. Garth)
+		,
+		(NP (NP Mayor Koch 's)
+		    media consultant))
+	.))
+( (S ``
+     (NP-SBJ-1 The result)
+     (VP may
+         (VP turn
+             (PRT out)
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP be
+                        (ADJP-PRD (ADJP a lot closer)
+                                  (SBAR than
+					(S (NP-SBJ people)
+					   (VP think
+					       (ADJP-PRD *?*))))))))))
+     .))

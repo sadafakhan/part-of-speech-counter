@@ -1,0 +1,35 @@
+
+
+( (S (S-TPC-1 (NP-SBJ (NP Canada 's)
+		      consumer price index)
+	      (VP rose
+		  (NP-EXT a seasonally adjusted 0.2 %)
+		  (PP-TMP in
+			  (NP September))
+		  (PP-TMP from
+			  (NP August))))
+     ,
+     (NP-SBJ (NP Statistics Canada)
+	     ,
+	     (NP a federal agency)
+	     ,)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ The rise)
+     (VP followed
+         (NP (NP boosts)
+             (PP of
+                 (NP (NP (NP 0.1 %)
+                         (PP-TMP in
+				 (NP August)))
+                     ,
+                     (NP (NP 0.7 %)
+                         (PP-TMP in
+				 (NP July)))
+                     and
+                     (NP (NP 0.6 %)
+                         (PP-TMP in
+				 (NP June)))))))
+     .))

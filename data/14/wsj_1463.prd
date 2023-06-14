@@ -1,0 +1,416 @@
+
+
+( (S (NP-SBJ (NP Winnebago Industries Inc.)
+             ,
+             (VP battered
+                 (NP *)
+                 (PP by
+                     (NP-LGS (NP a deepening slowdown)
+                             (PP-LOC in
+				     (NP recreational vehicle industry sales)))))
+             ,)
+     (VP (VP reported
+             (NP a widened fourth-quarter loss))
+         and
+         (VP slashed
+             (NP its dividend)
+             (PP-CLR in
+		     (NP half))))
+     .))
+( (S (NP-SBJ (NP The
+		 (NAC-LOC Forest City
+			  ,
+			  Iowa
+			  ,)
+		 maker)
+             (PP of
+                 (NP motor homes)))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP had
+                      (NP (NP a loss)
+                          (PP of
+                              (NP (NP (QP $ 11.3 million) *U*)
+                                  , or
+                                  (NP (NP 46 cents)
+                                      (NP-ADV a share)))))
+		      ,
+		      (PP-TMP in
+			      (NP (NP the quarter)
+				  (VP ended
+				      (NP *)
+				      (NP-TMP-CLR Aug. 26))))))))
+     .))
+( (S (ADVP-TMP (NP A year)
+	       earlier)
+     ,
+     (NP-SBJ the company)
+     (VP had
+         (NP (NP a deficit)
+             (PP of
+                 (NP (NP (QP $ 1.5 million) *U*)
+                     , or
+                     (NP (NP six cents)
+                         (NP-ADV a share))))))
+     .))
+( (SINV (S-TPC-1 (NP-SBJ (NP The cut)
+			 (PP-LOC in
+				 (NP the dividend))
+			 (PP (PP to
+				 (NP (NP 10 cents)
+				     (NP-ADV a share)
+				     (ADVP-TMP semiannually)))
+			     ,
+			     (PP from
+				 (NP 20 cents))
+			     ,))
+		 ``
+		 (VP would
+		     (VP indicate
+			 (PP to
+			     (NP me))
+			 (SBAR 0
+			       (S (NP-SBJ they)
+				  (VP do n't
+				      (VP see
+					  (S (NP-SBJ-2 the problems)
+					     (VP being
+						 (NP *-2)
+						 (VP fixed
+						     (ADVP-MNR real quick))))))))))
+		 , '')
+	(VP said
+	    (SBAR 0
+		  (S *T*-1)))
+	(NP-SBJ (NP Frank Rolfes)
+		,
+		(NP (NP an analyst)
+		    (PP-LOC at
+			    (NP (NP Dain Bosworth Inc.)
+				(PP-LOC in
+					(NP Minneapolis))))))
+	.))
+( (S (ADVP Indeed)
+     ,
+     (NP-SBJ Winnebago)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (VP started
+		      ``
+		      (NP several promotional programs)
+		      ''
+                      (S-PRP (NP-SBJ *-1)
+			     (VP to
+				 (VP spur
+				     (NP retail sales))))
+		      (PP-TMP in
+			      (NP the fall and winter))))))
+     .))
+( (S (NP-SBJ The year)
+     (VP was
+         (ADVP-TMP already)
+         (VP shaping
+             (ADVP up)
+             (PP-CLR as
+		     (NP (NP a difficult one)
+			 (PP for
+			     (NP (NP the recreational vehicle industry)
+				 ,
+				 (SBAR (WHNP-1 which)
+				       (S (NP-SBJ *T*-1)
+					  (VP makes
+					      (NP (NP products)
+						  (PP such
+						      as
+						      (NP (NP motor homes)
+							  ,
+							  (NP travel trailers)
+							  ,
+							  (NP folding campers)
+							  and
+							  (NP van conversions)))))))))))))
+     .))
+( (S (PP With
+         (NP (NP the exception)
+             (PP of
+                 (NP van conversions))))
+     ,
+     (NP-SBJ the industry)
+     (VP has
+         (VP seen
+             (NP (NP a decline)
+                 (PP from
+                     (NP (NP 1988 's)
+                         robust sales)))))
+     .))
+( (S But
+     (NP-SBJ (NP the rate)
+	     (PP of
+		 (NP the decline)))
+     (VP snowballed
+	 (PP-TMP in
+		 (NP August))
+	 ,
+	 (PP with
+	     (NP (NP unit sales)
+		 (PP to
+		     (NP dealers))
+		 (PP for
+		     (NP the month))
+		 (ADVP down 
+		       (NP 10.5 %)
+		       (PP-TMP from
+			       (ADVP (NP a year)
+				     earlier)))))
+	 ,
+	 (PP according
+	     (PP to
+		 (NP the Recreation Vehicle Industry Association))))
+     .))
+( (S (PP-LOC At
+	     (NP Winnebago))
+     ,
+     (NP-SBJ (NP sales)
+             (PP for
+                 (NP the quarter)))
+     (VP fell
+         (NP-EXT 6 %)
+         (PP-DIR to
+		 (NP (QP $ 89.5 million) *U*))
+	 (PP-DIR from
+		 (NP $ (QP 95.4 million) *U*)
+		 (ADVP-TMP (NP a year)
+			   earlier)))
+     .))
+( (S (NP-SBJ The company)
+     (VP attributed
+         (NP the decline)
+         (PP-CLR to
+		 (NP (NP (NP consumers ')
+			 concern)
+		     (PP over
+			 (NP (NP interest rates and gas prices)
+			     --
+			     (NP (NP two key expenses)
+				 (PP for
+				     (NP RV buyers))))))))
+     .))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ It)
+		 (VP 's
+		     (NP-PRD a large-ticket discretionary purchase)))
+	, ''
+	(VP said
+	    (S *T*-2))
+	(NP-SBJ (NP Robert Curran)
+		,
+		(SBAR (WHNP-1 who)
+		      (S (NP-SBJ *T*-1)
+			 (VP follows
+			     (NP the industry)
+			     (PP for
+				 (NP Merrill Lynch & Co))))))
+	.))
+( (S ``
+     (ADVP So)
+     (SBAR-TMP (WHADVP-1 when)
+	       (S (NP-SBJ there)
+		  (VP 's
+		      (NP-PRD (NP talk and concern)
+			      (PP about
+				  (NP the economy)))
+		      (ADVP-TMP *T*-1))))
+     ,
+     (NP-SBJ (NP it)
+	     (SBAR *EXP*-2))
+     (VP 's
+	 (ADJP-PRD not unreasonable)
+	 (SBAR-2 for
+		 (S (NP-SBJ (NP a portion)
+			    (PP of
+				(NP the buying public)))
+		    (VP to
+			(VP defer
+			    (NP purchases))))))
+     . ''))
+( (S (NP-SBJ Mr. Curran)
+     (VP expects
+	 (S (NP-SBJ (NP industry RV sales)
+		    (PP for
+			(NP (NP all)
+			    (PP of
+				(NP 1989)))))
+            (VP to
+                (VP fall
+                    (NP-EXT (QP about 5) %)
+                    (PP-TMP from
+			    (NP (NP 1988)
+				,
+				(SBAR (WHADVP-1 when)
+				      (S (NP-SBJ (NP sales)
+						 (PP of
+						     (NP 427,300 units)))
+					 (VP were
+					     (NP-PRD (NP the highest)
+						     (PP-TMP since
+							     (NP 1978)))
+					     (ADVP-TMP *T*-1))))))))))
+     .))
+( (S And
+     (NP-SBJ he)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the weakness)
+                  (VP could
+                      (VP continue
+			  (PP-TMP-CLR in
+				      (NP (NP the first half)
+					  (PP of
+					      (NP next year)))))))))
+     .))
+( (S But
+     (NP-SBJ he)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the industry)
+                  (VP has
+		      ``
+		      (NP a good decade)
+                      (ADVP-TMP ahead)
+		      , ''
+		      (SBAR-ADV particularly if
+				(S (NP-SBJ-1 aging baby boomers)
+				   (VP fulfill
+				       (NP (NP the industry 's)
+					   dreams)
+				       (PP-MNR by
+					       (S-NOM (NP-SBJ *-1)
+						      (VP buying
+							  (NP RVs)))))))))))
+     .))
+( (S (NP-SBJ-1 Winnebago)
+     (VP was
+         (VP hit
+             (NP *-1)
+             (ADVP-MNR especially hard)
+             (PP-TMP in
+		     (NP the latest downturn))
+	     (SBAR-PRP because
+		       (S (NP-SBJ (NP unit sales)
+				  (PP-LOC in
+					  (NP its bread-and-butter motor home business)))
+			  (VP tumbled
+			      (NP-EXT (NP (NP 25 %)
+					  (ADVP-LOC industrywide)
+					  (PP-TMP in
+						  (NP August)))
+				      , and
+				      (NP (NP 10.4 %)
+					  (PP-TMP in
+						  (NP (NP the first eight months)
+						      (PP of
+							  (NP the year)))))))))))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (ADVP also)
+                  (VP suffered
+                      (PP-TMP in
+			      (NP the quarter))
+                      (PP-CLR from
+			      (NP (NP incentive programs)
+				  ,
+				  (NP (NP losses)
+				      (PP from
+					  (S-NOM (NP-SBJ *)
+						 (VP discontinuing
+						     (NP a motor home line)))))
+				  and
+				  (NP (NP costs)
+				      (PP of
+					  (S-NOM (NP-SBJ *)
+						 (VP developing
+						     (NP a new commercial vehicle)))))
+				  ,
+				  (PP among
+				      (NP other things))))))))
+     .))
+( (S (NP-SBJ The news)
+     (VP sent
+	 (S (NP-SBJ Winnebago stock)
+            (VP falling
+                (NP-EXT 62.5 cents)
+                ,
+                (PP-DIR to
+			(NP $ 5.25 *U*))
+                ,
+                (PP-LOC in
+			(NP New York Stock Exchange
+			    (NP composite trading)))
+                -
+                (NP-ADV a 52-week low))))
+     .))
+( (S (NP-SBJ The dividend cut)
+     (VP will
+         (VP prove
+             (ADJP-PRD most costly
+                       (PP for
+                           (NP (NP John K. Hanson)
+                               ,
+                               (NP (NP Winnebago 's)
+                                   founder and chairman))))))
+     .))
+( (S (PP Based
+	 (PP on
+	     (NP (NP his control)
+		 (PP of
+		     (NP (NP (QP about 45) %)
+			 (PP of
+			     (NP (NP Winnebago 's)
+				 (QP 24.7 million) shares)))))))
+     ,
+     (NP-SBJ-1 his annual dividend income)
+     (VP would
+	 (VP be
+	     (VP cut
+		 (NP *-1)
+		 (PP-DIR to
+			 (NP (QP about $ 2.2 million) *U*))
+		 (PP-DIR from
+			 (NP (QP $ 4.4 million) *U*)))))
+     .))
+( (S (PP-TMP For
+	     (NP the year))
+     ,
+     (NP-SBJ Winnebago)
+     (VP had
+         (NP (NP a loss)
+             (PP of
+                 (NP (NP (QP $ 4.7 million) *U*)
+                     , or
+                     (NP (NP 19 cents)
+                         (NP-ADV a share)))))
+	 ,
+	 (PP following
+	     (NP (NP profit)
+		 (PP of
+		     (NP (NP (QP $ 2.7 million) *U*)
+			 , or
+			 (NP (NP 11 cents)
+			     (NP-ADV a share))
+			 ,
+			 (ADVP-TMP (NP a year)
+				   earlier))))))
+     .))
+( (S (NP-SBJ Sales)
+     (VP rose
+         (NP-EXT 2 %)
+         (PP-DIR to
+		 (NP (QP $ 437.5 million) *U*))
+	 (PP-DIR from
+		 (NP $ (QP 430.3 million) *U*)))
+     .))

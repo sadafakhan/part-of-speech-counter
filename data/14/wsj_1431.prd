@@ -1,0 +1,77 @@
+
+
+( (S (S-TPC-1 (NP-SBJ (NP Spending)
+		      (PP by
+			  (NP average Japanese households)))
+	      (PP-TMP in
+		      (NP August))
+	      (VP fell
+		  (NP-EXT an adjusted 1.9 %)
+		  (PP-TMP from
+			  (ADVP-TMP (NP a year)
+				    earlier))))
+     ,
+     (NP-SBJ (NP the Statistics Bureau)
+	     (PP of
+		 (NP (NP the Prime Minister 's)
+		     Office)))
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ The bureau)
+     (VP cited
+         (NP (NP typhoons)
+	     (PP-TMP in
+		     (NP the month))
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ *T*-1)
+                      (VP discouraged
+                          (NP shopping and leisure opportunities))))))
+     .))
+( (S (NP-SBJ (NP Spending)
+             (PP by
+                 (NP Japanese households)))
+     (VP averaged
+         (NP (NP 290,782 yen)
+             (PRN -LRB-
+		  (NP $ 2,052.10 *U*)
+		  -RRB-))
+	 (PP-TMP in
+		 (NP August)))
+     .))
+( (S (PP In
+         (NP nominal terms))
+     (NP-SBJ it)
+     (VP rose
+         (NP-EXT 0.6 %)
+         (PP-TMP from
+		 (ADVP (NP a year)
+		       earlier))
+	 (PP-TMP before
+		 (NP adjustment)))
+     .))
+( (S (NP-SBJ (NP August adjusted spending)
+             (PP by
+                 (NP wage-earning families)))
+     (VP was
+         (ADVP-PRD down
+                   (NP 0.6 %))
+	 (PP to 
+	     (NP 309,381 yen)
+	     (PP-TMP from
+		     (ADVP (NP a year)
+			   earlier))))
+     .))
+( (S (NP-SBJ (NP The real income)
+             (PP of
+                 (NP wage-earning families)))
+     (PP-TMP in
+	     (NP the month))
+     (VP eased
+         (NP-EXT 1.2 %)
+         (PP-DIR to 
+		 (NP 438,845 yen)
+		 (PP-TMP from
+			 (NP the previous year))))
+     .))

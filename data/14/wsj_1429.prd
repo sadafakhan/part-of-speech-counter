@@ -1,0 +1,403 @@
+
+
+( (S (PP-LOC In
+	     (NP (NP a blow)
+		 (PP to
+		     (NP (NP France 's)
+			 Rafale jet fighter))))
+     ,
+     (NP-SBJ the French navy)
+     (PP-TMP for
+	     (NP the first time))
+     (VP (ADVP-MNR publicly)
+         stated
+         (NP its desire
+             (S (NP-SBJ-1 *)
+                (VP to
+                    (VP buy
+                        (NP 15 McDonnell Douglas Corp. F-18 Hornets)
+			(S-PRP (NP-SBJ *-1)
+			       (VP to
+				   (VP defend
+				       (NP its aircraft carriers)))))))))
+     .))
+( (S (NP-SBJ The statement)
+     (VP is
+         (ADJP-PRD likely
+                   (S (NP-SBJ *)
+                      (VP to
+                          (VP sharpen
+                              (NP (NP the debate)
+                                  (PP within
+                                      (NP (NP France 's)
+                                          military establishment))
+                                  (PP over
+                                      (NP (NP the Rafale)
+                                          ,
+                                          (SBAR (WHNP-2 which)
+                                                (S (NP-SBJ-1 *T*-2)
+                                                   (VP is
+                                                       (VP made
+                                                           (NP *-1)
+                                                           (PP by
+                                                               (NP-LGS Avions Marcel Dassault-Breguet Aviation SA))))))))))))))
+     .))
+( (S (PP-LOC In
+	     (NP (NP an interview)
+		 (PP-LOC in
+			 (NP (NP (NP the navy 's)
+				 official weekly magazine)
+			     (NP Cols Bleus)))))
+     ,
+     (NP-SBJ (NP (NP the navy 's)
+                 second-in-command)
+             ,
+             (NP Adm. Yves Goupil)
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 the navy)
+                  (VP (ADVP-TMP still)
+                      intends
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP buy
+                                 (NP 86 Rafales)
+				 (SBAR-ADV as
+					   (S (NP-SBJ *)
+					      (VP scheduled)))
+				 (PP-TMP in
+					 (NP (NP the late 1990s)
+					     and
+					     (NP early 21st century))))))))))
+     .))
+( (S (NP-SBJ-1 The air force)
+     (VP is
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP take
+		    (NP (QP at
+			    least
+			    250)
+			more)))))
+     .))
+( (S (NP-SBJ Adm. Goupil)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-2 the navy)
+                  (VP ca n't
+                      (VP wait
+                          (PP-TMP until
+				  (NP (NP 1998)
+				      ,
+				      (SBAR-ADV (WHADVP-1 when)
+						(S (NP-SBJ the naval Rafale)
+						   (VP becomes
+						       (ADJP-PRD available)
+						       (ADVP-TMP *T*-1))))
+				      ,))
+                          (S (NP-SBJ *-2)
+                             (VP to
+                                 (VP replace
+                                     (NP (NP (NP its obsolete fleet)
+                                             (PP of
+                                                 (NP American-made Crusaders)))
+                                         ,
+					 (VP used
+					     (PP-TMP since
+						     (NP the 1950s))
+					     (S-PRP (NP-SBJ *)
+						    (VP to
+							(VP protect
+							    (NP carriers)
+							    (PP-CLR from
+								    (NP attack)))))))))))))))
+     .))
+( (S (SBAR-ADV Rather than
+	       (S (NP-SBJ *-4)
+		  (VP (VP renovate
+			  (NP the Crusaders))
+		      ,
+		      (SBAR-ADV (WHNP-1 which)
+				(S (NP-SBJ-2 Dassault)
+				   (VP is
+				       (VP proposing
+					   (S (NP-SBJ *-2)
+					      (VP to
+						  (VP do
+						      (NP *T*-1)
+						      (PP for
+							  (NP (NP (QP around 1.8 billion) French francs)
+							      (PRN -LRB-
+								   (NP (QP $ 286.6 million) *U*)
+								   -RRB-)))))))))))))
+     ,
+     (NP-SBJ-4 Adm. Goupil)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-3 the navy)
+                  (VP wants
+                      (S (NP-SBJ *-3)
+                         (VP to
+                             (VP buy
+                                 (NP used F-18s)
+                                 (PP-CLR from
+					 (NP the U.S. Navy)))))))))
+     .))
+( (S (ADVP Officially)
+     ,
+     (NP-SBJ the statement)
+     (VP is n't
+         (NP-PRD (NP an attack)
+                 (PP on
+                     (NP the Rafale))))
+     .))
+( (S (NP-SBJ Adm. Goupil)
+     (VP said
+         (SBAR that
+               (S (SBAR-ADV (WHADVP-1 when)
+			    (S (NP-SBJ the F-18s)
+			       (VP wear
+				   (PRT out)
+				   (ADVP-TMP *T*-1))))
+                  ,
+                  (NP-SBJ-2 the navy)
+                  (VP is
+                      (ADJP-PRD prepared
+                                (S (NP-SBJ *-2)
+                                   (VP to
+                                       (VP take
+                                           (NP Rafales)
+					   (S-PRP (NP-SBJ *)
+						  (VP to
+						      (VP replace
+							  (NP them))))))))))))
+     .))
+( (S But
+     (ADVP unofficially)
+     ,
+     (NP-SBJ senior navy officials)
+     (VP (ADVP-MNR sharply)
+         criticize
+         (NP the Rafale)
+	 (PP-CLR as
+		 (NP (NP an air force plane)
+		     (ADJP ill-suited
+			   (PP to
+			       (NP carrier use))))))
+     .))
+( (S (SBAR-ADV Although
+	       (S (NP-SBJ they)
+		  (ADVP-TMP never)
+		  (VP said 
+		      (ADVP-PRD so)
+		      (ADVP-MNR publicly))))
+     ,
+     (NP-SBJ they)
+     (VP have
+         (VP made
+             (NP (NP no secret)
+                 (PP of
+                     (NP (NP their preference)
+                         (PP for
+                             (NP the F-18))
+                         (PP on
+                             (NP operational grounds)))))))
+     .))
+( (S (NP-SBJ-1 (NP Adm. Goupil 's)
+	       comments)
+     (VP are
+         (ADJP-PRD likely
+                   (S (NP-SBJ *-1)
+                      (VP to
+                          (VP inflame
+                              (NP (NP the broader dispute)
+                                  (PP within
+                                      (NP the military establishment)
+				      (ADVP-LOC here))
+                                  (PP over
+                                      (NP (NP the role)
+                                          (PP of
+                                              (NP Dassault))))))))))
+     .))
+( (S (SBAR-ADV Although
+	       (FRAG (S (NP-SBJ *-1)
+			(ADJP-PRD government-controlled))))
+     ,
+     (NP-SBJ-1 Dassault)
+     (ADVP-TMP still)
+     (VP is
+         (VP run
+             (NP *-1)
+             (PP by
+                 (NP-LGS (NP (NP the founder 's)
+			     son)
+			 ,
+			 (NP Chairman Serge Dassault)
+			 ,
+			 (SBAR (WHNP-2 who)
+			       (S (NP-SBJ *T*-2)
+				  (VP has
+				      (VP (ADVP-MNR fiercely)
+					  protected
+					  (NP (NP his company 's)
+					      independence)))))))))
+     .))
+( (S (S (NP-SBJ The Rafale project)
+        (VP is
+            (NP-PRD (NP the result)
+                    (PP of
+                        (NP (NP France 's)
+                            inability
+                            (S (ADVP jointly)
+                               (NP-SBJ *)
+                               (VP to
+                                   (VP develop
+                                       (NP a plane)
+                                       (PP with
+                                           (NP other countries))))))))))
+     , and
+     (S (NP-SBJ French officials)
+        (VP question
+            (SBAR-NOM whether
+		      (S (NP-SBJ-1 the state)
+			 (VP can
+			     (VP continue
+				 (S (NP-SBJ *-1)
+				    (VP paying
+					(PP-CLR for
+						(NP expensive independent programs))))))))))
+     .))
+( (S (ADVP-TMP So far)
+     ,
+     (NP-SBJ-1 Mr. Dassault)
+     (VP has
+         (VP resisted
+             (NP pressure
+                 (S (NP-SBJ *-1)
+                    (VP to
+                        (VP change))))))
+     .))
+( (S (SBAR-NOM-SBJ (WHNP-1 What)
+		   (S (NP-SBJ *T*-1)
+		      (VP brought
+			  (NP the naval issue)
+			  (PP-CLR to
+				  (NP a head)))))
+     (VP is
+         (SBAR-PRD that
+                   (S (NP-SBJ the Crusaders)
+                      (VP are
+                          (ADVP literally)
+			  (VP falling
+                              (ADVP-CLR apart)
+			      ,
+			      (PP without
+				  (NP any immediate plan
+				      (S (NP-SBJ *)
+					 (VP to
+					     (VP replace
+						 (NP them)))))))))))
+     .))
+( (S (NP-SBJ (NP Adm. Goupil)
+             ,
+             (NP a former Crusader squadron leader)
+             ,)
+     (VP said
+         (SBAR that
+               (S (NP-SBJ (NP the last other country)
+			  (SBAR (WHNP-1 0)
+				(S (NP-SBJ *T*-1)
+				   (VP to
+				       (VP use
+					   (NP Crusaders)))))
+                          ,
+                          (NP the Philippines)
+                          ,)
+                  (VP retired
+                      (NP its last ones)
+		      (ADVP-TMP (NP two years)
+				ago)))))
+     .))
+( (S (NP-SBJ A French Crusader crash)
+     (ADVP-TMP (NP a few months)
+	       ago)
+     (VP heightened
+         (NP (NP pressure)
+             (PP for
+                 (NP new planes)))
+         (ADVP-LOC here))
+     .))
+( (S (NP-SBJ-2 Adm. Goupil)
+     (VP rejected
+         (NP (NP Dassault 's)
+             proposal
+             (S (NP-SBJ *)
+                (VP to
+                    (VP renovate
+                        (NP the Crusaders)))))
+	 ,
+	 (S-ADV (NP-SBJ *-2)
+		(VP saying
+		    (SBAR 0
+			  (S (NP-SBJ the cost)
+			     (VP was
+				 (ADJP-PRD impossible
+					   (SBAR (WHNP-1 0)
+						 (S (NP-SBJ *)
+						    (VP to
+							(VP estimate
+							    (NP *T*-1))))))))))))
+     .))
+( (S-3 (S-ADV (NP-SBJ *-2)
+	      (ADJP-PRD Even modernized))
+       (PRN ,
+	    (S (NP-SBJ he)
+	       (VP said
+		   (S *T*-3)))
+	    ,)
+       (NP-SBJ-2 the Crusaders)
+       (VP represent
+	   (NP (NP an obsolete and dangerous protection)
+	       (PP for
+		   (NP (NP the aircraft carriers)
+		       (SBAR (WHNP-1 0)
+			     (S (NP-SBJ France)
+				(VP has
+				    (VP sent
+					(S (NP-SBJ *T*-1)
+					   (VP to
+					       (VP meet
+						   (NP (NP such crises)
+						       (PP as
+							   (NP (NP the wars)
+							       (PP-LOC in
+								       (NP (NP Lebanon)
+									   and
+									   (NP the Persian Gulf)))))))))))))))))
+       .))
+( (S (NP-SBJ Defense Minister
+             Jean-Pierre Chevenement)
+     (VP told
+         (NP (NP a meeting)
+             (PP of
+                 (NP the Anglo-American Press Association)))
+         (SBAR that
+               (S (NP-SBJ (NP the question)
+                          (PP of
+                              (S-NOM (NP-SBJ *)
+				     (VP (VP modernizing
+					     (NP the Crusaders))
+					 or
+					 (VP buying
+					     (NP used F18s))))))
+                  (VP is
+                      (NP-PRD (NP a `` political '' decision)
+                              (SBAR (WHNP-1 that)
+                                    (S (NP-SBJ he)
+                                       (VP will
+                                           (VP make
+                                               (NP *T*-1)
+					       (PP-TMP in
+						       (NP due time)))))))))))
+     .))

@@ -1,0 +1,73 @@
+
+
+( (SINV (VP-TPC-1 Following)
+	(VP is
+	    (VP *T*-1))
+	(NP-SBJ (NP (NP a weekly listing)
+		    (PP of
+			(NP (NP unadited net asset values)
+			    (PP of
+				(NP publicly traded investment fund shares)))))
+		,
+		(VP reported
+		    (NP *)
+		    (PP by
+			(NP-LGS the companies))
+		    (PP-TMP as
+			    (PP of
+				(NP (NP Friday 's)
+				    close)))))
+	.))
+( (SINV (VP-TPC-2 (ADVP Also)
+		  shown)
+        (VP is
+	    (VP *T*-2))
+        (NP-SBJ (NP (NP (NP the closing listed market price)
+			(PP *RNR*-1))
+		    or
+		    (NP (NP a dealer-to-dealer asked price)
+			(PP *RNR*-1)))
+		(PP-1 of
+                      (NP (NP each fund 's)
+                          shares))
+                ,
+                (PP with
+                    (NP (NP the percentage)
+                        (PP of
+                            (NP difference)))))
+        .))
+( (NP-HLN Closed End Bond Funds))
+( (NP-HLN Flexible Portfolio Funds))
+( (NP-HLN (NP Specialized Equity)
+	  and
+	  (NP Convertible Funds)))
+( (NP (X a)
+      -
+      (NP Ex-dividend)
+      .))
+( (PP-TMP (X b)
+	  -
+	  (PP As
+	      (PP of
+		  (NP (NP Thursday 's)
+		      close)))
+	  .))
+( (S (NP-SBJ *)
+     (VP (X c)
+	 -
+	 (VP Translated
+	     (PP-CLR at
+		     (NP Commercial Rand exchange rate))))
+     .))
+( (PP (X e)
+      -
+      (PP In
+	  (NP Canadian dollars))
+      .))
+( (PP-TMP (X f)
+	  -
+	  (PP As
+	      (PP of
+		  (NP (NP Wednesday 's)
+		      close)))
+	  .))

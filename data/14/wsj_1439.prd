@@ -1,0 +1,174 @@
+
+
+( (S (NP-SBJ Dow Chemical Co.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 its Destec Energy Inc. unit)
+                  (VP has
+                      (VP agreed
+                          (S (NP-SBJ *-1)
+                             (VP to
+                                 (VP buy
+                                     (NP (NP PSE Inc.)
+                                         ,
+                                         (NP a Houston energy company)
+                                         ,)
+				     (PP in
+					 (NP (NP a deal)
+					     (VP valued
+						 (NP *)
+						 (PP-CLR at
+							 (NP (QP about $ 115 million) *U*)))))))))))))
+     .))
+( (S (NP-SBJ (NP Dow)
+             ,
+             (PP of
+                 (NP (NP Midland)
+                     ,
+                     (NP Mich.)
+                     ,)))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ its unit)
+                  (VP will
+                      (VP begin
+                          (PP-TMP by
+				  (NP Thursday))
+                          (NP (NP a tender offer)
+                              (PP of
+                                  (NP (NP $ 12.25 *U*)
+                                      (NP-ADV a share)))
+                              (PP for
+                                  (NP (NP all PSE common shares)
+                                      (ADJP outstanding)))))))))
+     .))
+( (S (S-TPC-1 (PP Among
+		  (NP other conditions))
+	      ,
+	      (NP-SBJ the offer)
+	      (VP depends
+		  (PP-CLR on
+			  (NP (NP the Dow unit)
+			      (VP acquiring
+				  (NP (NP (QP at
+					      least
+					      66 2)
+					  %)
+				      (PP of
+					  (NP (NP the PSE shares)
+					      (ADJP outstanding)))))))))
+     ,
+     (NP-SBJ the companies)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1))
+	 (PP-LOC in
+		 (NP a joint statement))
+	 (NP-TMP Friday))
+     .))
+( (S (NP-SBJ PSE)
+     (VP has
+         (NP (NP (QP about 9.2 million) shares)
+             (ADJP outstanding)))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the (ADJP (QP approximately $ 115 million) *U*) acquisition price)
+                  (VP includes
+                      (NP (NP its (QP total $ 33 million) *U*)
+			  (PP of
+			      (NP (NP long-term debt)
+				  (ADJP outstanding))))))))
+     .))
+( (S (NP-SBJ Dow)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (ADVP-TMP already)
+                  (VP has
+                      (NP (NP agreements)
+			  (PP with
+			      (NP (NP (NP Albert J. Smith Jr.)
+				      ,
+				      (NP (NP (NP chairman) and (NP chief executive officer))
+					  (PP of
+					      (NP PSE)))
+				      ,)
+				  and
+				  (NP (NP certain other officers)
+				      (PP of
+					  (NP the company)))))
+                          (SBAR-LOC (WHPP-1 under
+					    (WHNP which))
+				    (S (NP-SBJ Dow)
+				       (VP may
+					   (VP buy
+					       (NP (NP (QP about 40) %)
+						   (PP of
+						       (NP (NP the PSE common shares)
+							   (ADJP outstanding))))
+					       (PP-LOC *T*-1))))))))))
+     .))
+( (S (NP-SBJ PSE)
+     (VP (VP is
+             (NP-PRD (NP a designer and operator)
+                     (PP of
+                         (NP energy-cogeneration facilities))))
+         and
+         (VP had
+             (NP (NP 1988 sales)
+                 (PP of
+                     (NP (QP $ 234 million) *U*)))))
+     .))
+( (S (NP-SBJ The company)
+     (VP is
+         (NP-PRD (NP owner and operator)
+                 , or
+                 (NP an equity partner)
+                 ,
+                 (PP in
+                     (NP (NP six cogeneration facilities)
+                         --
+                         (NP (NP (NP two)
+                                 (PP-LOC in
+					 (NP Texas)))
+                             and
+                             (NP (NP four)
+                                 (PP-LOC in
+					 (NP California))))))))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (ADVP-TMP recently)
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP expects
+                      (SBAR 0
+                            (S (NP-SBJ third-quarter earnings)
+                               (VP will
+                                   (VP be
+                                       (PP-PRD in
+                                               (NP (NP range)
+                                                   (PP from
+                                                       (NP (NP (NP (QP $ 1.3 million
+								       to
+								       $ 1.7 million ) *U*)
+                                                               , or
+                                                               (NP (NP (QP 14 cents
+									   to
+									   18)
+								       cents)
+								   (NP-ADV a share))
+                                                               ,)
+                                                           (VP compared
+                                                               (NP *)
+                                                               (PP-CLR with
+								       (NP (NP $ 326,000 *U*)
+									   , or
+									   (NP (NP four cents)
+									       (NP-ADV a share))
+									   ,
+									   (ADVP-TMP (NP a year)
+										     ago))))))))))))))))
+     .))

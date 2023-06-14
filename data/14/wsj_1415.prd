@@ -1,0 +1,389 @@
+
+
+( (S (NP-SBJ (NP A bill)
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ *T*-1)
+                      (VP would
+                          (VP permit
+			      (S (NP-SBJ the Securities and Exchange Commission)
+                                 (VP to
+                                     (VP monitor
+                                         (NP (NP the financial condition)
+					     (PP of
+						 (NP (NP securities firms ')
+						     holding companies)))))))))))
+     (VP is
+         (VP facing
+             (NP (NP tough opposition)
+		 (PP from
+		     (NP (NP some Wall Street firms)
+			 ,
+			 (SBAR (WHNP-2 which)
+			       (S (NP-SBJ *T*-2)
+				  (VP argue
+				      (SBAR that
+					    (S (NP-SBJ the legislation)
+					       (VP is
+						   (ADJP-PRD unnecessary))))))))))))
+     .))
+( (S (NP-SBJ (NP The legislation)
+             and
+             (NP (NP other issues)
+                 (VP related
+                     (NP *)
+                     (PP-CLR to
+			     (NP the stock market)))))
+     (VP will
+         (VP be
+             (NP-PRD (NP the focus)
+                     (PP of
+                         (NP (NP hearings)
+                             (NP-TMP this week)
+                             (PP by
+                                 (NP (NP the House Telecommunications and Finance Subcommittee)
+                                     and
+                                     (NP the Senate Securities Subcommittee))))))))
+     .))
+( (S (NP-SBJ (NP Richard Breeden)
+             ,
+             (NP (NP the new chairman)
+                 (PP of
+                     (NP the SEC)))
+             ,)
+     (VP has n't
+         (VP taken
+             (NP (NP a formal position)
+		 (PP on
+		     (NP the bill))
+                 ,
+                 (SBAR (WHNP-1 which)
+                       (S (NP-SBJ *T*-1)
+                          (VP would
+                              (ADVP also)
+                              (VP (VP require
+                                      (S (NP-SBJ investors)
+                                         (VP to
+                                             (VP disclose
+                                                 (NP large trades)))))
+                                  and
+                                  (VP give
+                                      (NP the SEC)
+				      (NP additional authority)
+                                      (PP-TMP during
+					      (NP market emergencies))))))))))
+     .))
+( (S (ADVP However)
+     ,
+     (NP-SBJ he)
+     (ADVP-TMP recently)
+     (VP told
+         (NP the Senate Banking Committee)
+         (SBAR that
+               (S (NP-SBJ he)
+                  (VP believes
+                      (SBAR 0
+                            (S (NP-SBJ-2 the agency)
+                               (VP should
+                                   (VP have
+				       (NP explicit authority
+					   (S (NP-SBJ *-2) 
+					      (VP to
+						  (VP monitor
+						      (NP debt levels)
+						      (PP-LOC at
+							      (NP (NP (NP holding companies)
+								      and
+								      (NP (NP affiliates)
+									  (PP of
+									      (NP broker-dealers))))
+								  ,
+								  (SBAR (WHNP-1 which)
+									(S (NP-SBJ-3 *T*-1)
+									   (VP are
+									       (ADVP-TMP frequently)
+									       (VP used
+										   (NP-4 *-3)
+										   (S-CLR (NP-SBJ *-4)
+											  (VP to
+											      (VP issue
+												  (NP bridge loans))))))))))))))))))))))
+     .))
+( (S (NP-SBJ-1 The bridge loans)
+     (VP are
+         (ADJP-PRD intended
+                   (S (NP-SBJ *-1)
+                      (VP to
+                          (VP provide
+                              (NP temporary financing)
+			      (PP-CLR for
+				      (NP acquisitions)))))))
+     .))
+( (S (SBAR-PRP Since
+	       (S (NP-SBJ such loans)
+		  (VP are
+		      (ADVP-TMP often)
+		      (VP refinanced
+			  (PP-MNR through
+				  (NP (NP the sale)
+				      (PP of
+					  (NP (ADJP high-risk , high-yield) junk bonds))))))))
+     ,
+     (NP-SBJ (NP the recent woes)
+             (PP of
+                 (NP the junk-bond market)))
+     (VP have
+         (VP renewed
+             (NP (NP concerns)
+                 (PP-LOC among
+			 (NP regulators))
+                 (PP about
+                     (NP (NP the risks)
+                         (VP associated
+                             (NP *)
+                             (PP-CLR with
+				     (NP (NP Wall Street firms)
+					 (VP issuing
+					     (NP bridge loans))))))))))
+     .))
+( (S But
+     (NP-SBJ some Wall Street executives)
+     (VP argue
+         (SBAR that
+               (S (NP-SBJ such fears)
+                  (VP are
+                      (ADJP-PRD unwarranted)))))
+     .))
+( (S (PP-LOC In
+	     (NP (NP a July 6 letter)
+		 (PP to
+		     (NP the Senate Securities Subcommittee))))
+     ,
+     (NP-SBJ First Boston Corp.)
+     (VP argued
+         (SBAR that
+               (S (NP-SBJ the fact
+                          (SBAR that
+                                (S (NP-SBJ no retail brokerage firm)
+                                   (VP failed
+                                       (PP-TMP during
+					       (NP the 1987 market crash))))))
+                  (VP demonstrates
+                      (SBAR that
+                            (S (NP-SBJ current rules)
+                               (VP are
+                                   (ADJP-PRD adequate))))))))
+     .))
+( (S (NP-SBJ (NP First Boston)
+             ,
+             (SBAR (WHNP-1 (NP whose holding company)
+			   ,
+			   (NP CS First Boston Group)
+			   ,)
+                   (S (NP-SBJ *T*-1)
+                      (VP is
+                          (NP-PRD (NP one)
+                                  (PP of
+                                      (NP (NP the larger issuers)
+                                          (PP of
+                                              (NP bridge loans))
+                                          (PP-LOC on
+						  (NP Wall Street))))))))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP is
+                      (ADVP also)
+                      (ADJP-PRD concerned
+                                (SBAR that
+                                      (S (SBAR-TMP once
+						   (S (NP-SBJ-2 the SEC)
+						      (VP has
+							  (NP the power
+							      (S (NP-SBJ *-2)
+								 (VP to
+								     (VP monitor
+									 (NP holding companies))))))))
+                                         ,
+                                         (NP-SBJ-3 it)
+                                         (VP will
+                                             (VP try
+                                                 (S (NP-SBJ *-3)
+                                                    (VP to
+                                                        (VP regulate
+                                                            (NP their activities)))))))))))))
+     .))
+( (S ``
+     (S-TPC-4 (NP-SBJ (NP The proposal)
+		      ,
+		      (SBAR while
+			    (FRAG (ADJP well-intended))))
+	      ,
+	      (PRN (S (NP-SBJ I)
+		      (VP think
+			  (SBAR 0
+				(S *T*-4)))))
+	      (VP can
+		  (VP be
+		      (ADJP-PRD dangerously misleading)
+		      (SBAR-PRP because
+				(S (NP-SBJ-3 the likely consequence)
+				   (VP would
+				       (VP be
+					   (S-PRD (NP-SBJ *-3)
+						  (VP to
+						      (VP (VP weaken
+							      (NP *RNR*-1))
+							  ,
+							  (CONJP rather
+								 than)
+							  (VP strengthen
+							      (NP *RNR*-1))
+							  (NP-1 (NP the control)
+								(SBAR (WHNP-2 0)
+								      (S (NP-SBJ the SEC)
+									 (VP has
+									     (VP exercised
+										 (NP *T*-2)
+										 (PP-TMP for
+											 (NP 50 years))
+										 (PP-CLR over
+											 (NP (NP the financial adequacy and viability)
+											     (PP of
+												 (NP broker-dealers)))))))))))))))))))
+     ,
+     ''
+     (NP-SBJ (NP Michael Raoul-Duval)
+	     ,
+	     (NP (NP managing director)
+		 (PP of
+		     (NP First Boston)))
+	     ,)
+     (VP said
+	 (S *T*-4)
+	 (PP-LOC in
+		 (NP an interview)))
+     .))
+( (S (S-TPC-2 (NP-SBJ The bill)
+	      (VP would
+		  ``
+		  (VP divert
+		      (NP (NP scarce resources)
+			  (PP of
+			      (NP the commission)))
+		      (ADVP-CLR away
+				(PP from
+				    (NP broker-dealers)))
+		      (PP-CLR into
+			      (NP (NP areas)
+				  (SBAR (WHNP-1 which)
+					(S (NP-SBJ *T*-1)
+					   (ADVP simply)
+					   (VP have
+					       (NP (NP no way)
+						   (PP of
+						       (S-NOM (NP-SBJ *)
+							      (VP affecting
+								  (NP broker-dealers)))))))))))))
+     , ''
+     (NP-SBJ Mr. Raoul-Duval)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (NP-SBJ (NP Sources)
+             (PP-LOC (PP in
+			 (NP the industry))
+		     and
+		     (PP on
+			 (NP Capitol Hill))))
+     (VP say
+         (SBAR 0
+               (S (NP-SBJ (NP a compromise)
+                          (SBAR (WHNP-1 that)
+                                (S (NP-SBJ-2 *T*-1)
+                                   (VP would
+                                       (VP placate
+                                           (NP the industry)
+					   (SBAR-ADV while
+						     (S (NP-SBJ *-2)
+							(VP addressing
+							    (NP (NP the SEC 's)
+								concerns)))))))))
+                  (VP may
+                      (VP be
+                          (ADJP-PRD possible))))))
+     .))
+( (S (NP-SBJ (NP An aide)
+             (PP to
+                 (NP the Senate Securities Subcommittee)))
+     (VP (VP says
+             (SBAR 0
+                   (S (NP-SBJ some legislators)
+                      (VP support
+                          (NP (NP the concept)
+                              (PP of
+                                  (NP risk disclosure)))))))
+         , but
+         (VP adds :
+	     ``
+	     (S (NP-SBJ-1 nobody)
+                (VP is
+                    (VP wedded
+			(NP *-1)
+                        (PP-CLR to
+				(NP (NP the language)
+				    (PP-LOC in
+					    (NP the bill)))))))))
+     . ''))
+( (S (NP-SBJ (NP Edward O'Brien)
+             ,
+             (NP (NP president)
+                 (PP of
+                     (NP the Securities Industry Association)))
+             ,)
+     (VP said
+         (SBAR (SBAR that
+                     (S (NP-SBJ the securities-industry trade group)
+                        (VP opposes
+                            (NP (NP the bill)
+                                (SBAR as
+                                      (S (NP-SBJ-1 it)
+                                         (VP is
+                                             (VP written
+                                                 (NP *-1)))))))))
+               but
+               (SBAR that
+                     (S (NP-SBJ it)
+                        (VP is
+			    ``
+			    (ADJP-PRD hopeful
+                                      (SBAR 0
+                                            (S (NP-SBJ-2 a compromise)
+                                               (VP can
+						   (VP be
+						       (VP reached
+							   (NP *-2)
+							   (S-CLR (NP-SBJ *)
+								  (VP to
+								      (VP achieve
+									  (NP (NP the SEC 's)
+									      goals)))))))))))))))
+     . ''))
+( (S (S-TPC-1 (NP-SBJ Mr. O'Brien)
+	      (VP will
+		  (VP elaborate
+		      (PP-CLR on
+			      (NP (NP the SIA 's)
+				  position))
+		      (PP-LOC in
+			      (NP (NP testimony)
+				  (PP-LOC before
+					  (NP the House Telecommunications and Finance Subcommittee))))
+		      (NP-TMP this week))))
+     ,
+     (NP-SBJ a spokesman)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))

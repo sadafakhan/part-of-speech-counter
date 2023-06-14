@@ -1,0 +1,1086 @@
+
+
+( (S (NP-SBJ (NP The collapse)
+             (PP of
+                 (NP (NP a (ADJP (QP $ 6.79 billion) *U*) buy-out)
+                     (PP of
+                         (NP United Airlines parent
+                             UAL Corp.)))))
+     (VP has
+         (VP handed
+             (NP (NP Wall Street 's)
+                 takeover stock speculators)
+             (NP (NP their worst loss) 
+		 (ADVP-TMP ever)
+                 (PP on
+                     (NP a single deal)))))
+     .))
+( (S (NP-SBJ (NP Their (QP $ 700  million-plus) *U*)
+             (PP in
+                 (NP estimated paper losses)))
+     (ADVP-MNR easily)
+     (VP tops
+         (NP (NP the (QP $ 400 million) *U*)
+	     (PP in
+		 (NP (NP paper losses)
+		     (SBAR (WHNP-1 0)
+			   (S (NP-SBJ (NP the takeover traders)
+				      ,
+				      (VP known
+					  (NP *)
+					  (PP-CLR as
+						  (NP arbitragers)))
+				      ,)
+			      (VP suffered
+				  (NP *T*-1)
+				  (PP-TMP in
+					  (NP (NP 1982)
+					      (SBAR (WHADVP-2 when)
+						    (S (NP-SBJ Gulf Oil Co.)
+						       (VP dropped
+							   (NP (NP a (ADJP (QP $ 4.8 billion) *U*) offer)
+							       (PP for
+								   (NP Cities Service Co)))
+							   (ADVP-TMP *T*-2)))))))))))))
+     .))
+( (S (PP-TMP In
+	     (NP (NP the six trading days)
+		 (SBAR since
+		       (S (NP-SBJ-1 the UAL labor-management buy-out group)
+			  (VP failed
+			      (S (NP-SBJ *-1)
+				 (VP to
+				     (VP get
+					 (NP bank financing)))))))))
+     ,
+     (S-ADV (NP-SBJ *)
+	    (VP culminating
+		(NP-TMP Friday)
+		(PP-CLR with
+			(NP (NP the withdrawal)
+			    (PP of
+				(NP its partner
+				    British Airways PLC))))))
+     ,
+     (NP-SBJ UAL stock)
+     (VP has
+	 (VP plummeted
+	     (PP-EXT by
+		     (NP 41 %))
+	     (PP-DIR to
+		     (NP (QP 168 1)))
+	     (PP-DIR from
+		     (NP (QP 285 1)))))
+     .))
+( (S (NP-SBJ The arbs)
+     (VP may
+         (VP recoup
+             (NP (NP some)
+                 (PP of
+                     (NP their paper losses)))
+	     (SBAR-ADV if
+		       (S (NP-SBJ the UAL deal)
+			  (VP gets
+			      (VP patched
+				  (PRT up)
+				  (ADVP-TMP again)))))
+	     ,
+	     (SBAR-ADV as
+		       (S (NP-SBJ they)
+			  (VP did)
+			  (PP-TMP in
+				  (NP (NP 1982)
+				      (SBAR (WHADVP-1 when)
+					    (S (NP-SBJ Occidental Petroleum Co.)
+					       (VP rescued
+						   (NP them)
+						   (PP with
+						       (NP (NP a (ADJP $ 4 billion *U*) takeover)
+							   (PP of
+							       (NP Cities Service))))
+						   (ADVP-TMP *T*-1))))))))))
+     .))
+( (S (PP-TMP In
+	     (NP the meantime))
+     ,
+     (NP-SBJ (NP the question)
+             (VP faced
+                 (NP *)
+                 (PP by
+                     (NP-LGS investors))))
+     (VP is :
+         (SBARQ-PRD (WHNP-1 What)
+                    (SQ is
+			(NP-SBJ UAL stock)
+			(ADJP-PRD worth
+				  (NP *T*-1)))))
+     ?))
+( (S (NP-SBJ The short answer)
+     ,
+     (PP on
+         (NP a fundamental basis))
+     ,
+     (VP is
+         (SBAR-PRD that
+                   (S (NP-SBJ airline analysts)
+                      (VP say
+                          (SBAR 0
+                                (S (NP-SBJ the stock)
+                                   (VP is
+                                       (ADJP-PRD worth
+                                                 (PP (NP (QP somewhere between
+							     $ 135  and $ 150) 
+							 *U*)
+						     (NP-ADV a share))))))))))
+     .))
+( (S (NP-SBJ That)
+     (VP 's
+         (VP based
+             (PP-CLR on
+		     (NP (NP a multiple)
+			 (PP of
+			     (NP (NP (QP anywhere
+					 between
+					 8.5
+					 to
+					 10 times)
+				     UAL earnings)
+				 ,
+				 (SBAR (WHNP-1 which)
+				       (S (NP-SBJ-2 *T*-1)
+					  (VP are
+					      (VP estimated
+						  (S (NP-SBJ *-2)
+						     (VP to
+							 (VP come
+							     (PRT in)
+							     (NP (NP somewhere around $ 16 *U*)
+								 (NP-ADV a share))
+							     (NP-TMP this year))))))))))))))
+     .))
+( (S (NP-SBJ Airline stocks)
+     (ADVP typically)
+     (VP sell
+         (PP-CLR at
+		 (NP (NP a discount)
+		     (PP of
+			 (NP (NP about one-third)
+			     (PP to
+				 (NP (NP (NP the stock market 's)
+					 price-earnings ratio)
+				     --
+				     (SBAR (WHNP-1 which)
+					   (S (NP-SBJ *T*-1)
+					      (VP is
+						  (ADVP-TMP currently)
+						  (NP-PRD (QP about 13 times)
+							  earnings)))))))))))
+     .))
+( (S (NP-SBJ That)
+     (VP 's
+         (SBAR-PRD because
+                   (S (NP-SBJ airline earnings)
+		      ,
+		      (PP like
+                          (NP (NP those)
+                              (PP of
+                                  (NP auto makers)))
+                          ,)
+                      (VP have
+                          (VP been
+                              (ADJP-PRD subject
+                                        (PP to
+                                            (NP (NP the cyclical ups-and-downs)
+                                                (PP of
+                                                    (NP the economy))))))))))
+     .))
+( (S (NP-SBJ That analysis)
+     (VP matches
+         (PRT up)
+         (PP-CLR with
+		 (NP (NP stock traders ')
+		     reports
+		     (SBAR that
+			   (S ,
+			      (PP despite
+				  (NP (NP the huge drop)
+				      (PP-LOC in
+					      (NP the stock))))
+			      ,
+			      (NP-SBJ UAL)
+			      (VP has n't
+				  (VP returned
+				      (PP-CLR to
+					      (NP (NP the level)
+						  (SBAR (WHPP-1 at
+								(WHNP which))
+							(S (NP-SBJ it)
+							   (VP could
+							       (VP attract
+								   (NP (NP buying)
+								       (PP by
+									   (NP-LGS institutions)))
+								   (PP (ADVP solely) on
+								       (NP (NP the basis)
+									   (PP of
+									       (NP earnings))))
+								   (PP *T*-1))))))))))))))
+     .))
+( (S So
+     (NP-SBJ (NP anyone)
+	     (VP buying
+		 (NP the stock)
+		 (ADVP-TMP now)))
+     (VP (VP is
+	     (VP betting
+		 (PP-CLR on
+			 (NP (NP some special transaction)
+			     (PP such
+				 as
+				 (NP a recapitalization or takeover))))))
+	 , and
+	 (VP must
+	     (VP do
+		 (ADVP-CLR so)
+		 (S-ADV (NP-SBJ *)
+			(VP using
+			    (NP (NP some guesswork)
+				(PP about
+				    (NP (NP the likelihood)
+					(PP of
+					    (NP such an event))))))))))
+     .))
+( (S (NP-SBJ (NP One analyst)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ-2 *T*-1)
+                      (VP asked
+                          (S not
+                             (NP-SBJ-3 *-2)
+                             (VP to
+				 (VP be
+				     (VP identified
+					 (NP *-3))))))))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ he)
+                  (VP believes
+                      (SBAR (SBAR that
+                                  (S (NP-SBJ the UAL pilots and management)
+                                     (VP can
+                                         (VP put
+                                             (ADVP-CLR together)
+                                             (NP (NP a bid)
+						 ``
+						 (PP-LOC in
+							 (NP the (ADJP $ 225 *U*) area))
+						 ,
+						 '')))))
+                            but
+                            (SBAR that
+                                  (S (NP-SBJ it)
+                                     (VP could
+                                         (VP take
+					     (NP (QP three
+						     to
+						     four)
+						 months)
+					     (S-CLR (NP-SBJ *)
+						    (VP to
+							(VP close))))))))))))
+     .))
+( (S (PP (PP At
+	     (NP that level))
+	 ,
+	 and
+	 (PP given
+	     (NP the uncertainty)))
+     ,
+     (NP-SBJ he)
+     (VP believes
+	 (SBAR 0
+	       (S (NP-SBJ UAL stock)
+		  (VP should
+		      (VP trade
+			  (ADVP closer 
+				(PP to)))))))))
+( (S (NP-SBJ Other observers)
+     (VP note
+         (SBAR that
+               (S (NP-SBJ (NP (NP UAL 's)
+                              board)
+                          ,
+			  (VP having
+			      (VP accepted
+				  (NP (NP a bid)
+				      (PP of
+					  (NP (NP $ 300 *U*)
+					      (NP-ADV a share))))))
+                          ,)
+                  (VP might
+                      (VP hold
+                          (PRT out)
+                          (PP-CLR for
+				  (NP (NP a new bid)
+				      (ADJP much closer
+					    (PP to
+						(NP the original level)))))
+			  --
+			  (SBAR-ADV even if
+				    (S (NP-SBJ it)
+				       (VP means
+					   (SBAR that
+						 (S (NP-SBJ-1 the management)
+						    (VP (VP goes
+							    (ADVP-DIR back)
+							    (PP-DIR to
+								    (S-NOM (NP-SBJ *-1)
+									   (VP running
+									       (NP the company)
+									       (PP-TMP for
+										       (NP a while))))))
+							and
+							(VP lets
+							    (S (NP-SBJ things)
+							       (VP return
+								   (PP-CLR to
+									   (ADJP normal))))))))))))))))
+     .))
+( (S (PP By
+         (NP that logic))
+     ,
+     (NP-SBJ (NP the closing)
+             (PP of
+                 (NP a deal)))
+     (VP could
+         (VP be
+             (ADVP-PRD (ADVP much further away)
+                       (PP than
+                           (NP (QP three to
+				   four) months)))
+	     ,
+	     (SBAR-ADV even though
+		       (S (NP-SBJ the eventual price)
+			  (VP might
+			      (VP be
+				  (ADJP-PRD higher)))))))
+     .))
+( (S (NP-SBJ (NP Investment bankers)
+             (VP following
+                 (NP UAL)))
+     (VP agree
+         (SBAR that
+               (S (NP-SBJ (NP the strongest impetus)
+                          (PP for
+                              (NP an eventual deal)))
+                  (VP is
+                      (SBAR-PRD that
+                                (S (NP-SBJ-1 the pilots)
+                                   (VP (VP have
+					   (VP been
+					       (VP attempting
+						   (NP a buy-out)
+						   (PP-TMP for
+							   (NP (QP more
+								   than
+								   two)
+							       years)))))
+				       , and
+				       (VP are n't
+					   (ADJP-PRD likely
+						     (S (NP-SBJ *-1)
+							(VP to
+							    (VP stop)))))
+				       ,
+				       (S-ADV (NP-SBJ *-1)
+					      (VP having
+						  (VP come
+						      (ADJP-PRD so close
+								(PP to
+								    (NP success)))))))))))))
+     .))
+( (S (NP-SBJ The pilots)
+     (VP have
+         (NP a strong financing tool)
+         (PP in
+             (NP their willingness
+                 (S (NP-SBJ *)
+		    (VP (VP to
+			    (VP cut
+				(NP their annual compensation)
+				(PP-EXT by
+					(NP (QP $ 200 million) *U*))))
+			,
+			and
+			(VP to
+			    (VP commit
+				(NP (NP (QP $ 200 million) *U*)
+				    (PP from
+					(NP their retirement funds))))))))))
+     .))
+( (S (PP-TMP On
+	     (NP Friday))
+     ,
+     (NP-SBJ they)
+     (ADVP also)
+     (VP persuaded
+         (NP-1 the UAL flight attendants)
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP join
+                    (NP them)))))
+     .))
+( (S (ADVP However)
+     ,
+     (NP-SBJ investment bankers)
+     (VP say
+         (SBAR that
+               (S (NP-SBJ-2 banks)
+                  (VP are n't
+                      (ADJP-PRD likely
+                                (S (NP-SBJ *-2)
+                                   (VP to
+                                       (VP lend
+                                           (NP (NP the (QP almost $ 5 billion) *U*)
+                                               (SBAR (WHNP-1 that)
+                                                     (S (NP-SBJ *T*-1)
+                                                        (VP would
+                                                            (VP be
+                                                                (ADJP-PRD necessary
+                                                                          (PP for
+                                                                              (NP a takeover)))
+								(PP even at
+								    (NP a lower price))))))))))))
+                  (PP without
+                      (S-NOM (NP-SBJ someone)
+			     (VP putting
+				 (PRT up)
+				 (NP (NP a hefty wad)
+				     (PP of
+					 (NP (NP cash)
+					     --
+					     (ADJP (ADVP probably even greater)
+						   (PP than
+						       (NP (NP the 17 %)
+							   (PP in
+							       (NP cash))
+							   (VP put
+							       (PRT up)
+							        (NP *)
+								(PP by
+								    (NP-LGS investors))
+							       (PP-LOC in
+								       (NP (NP the leveraged takeover)
+									   (PP of
+									       (NP Northwest Airlines parent
+										   NWA Corp.))
+									   (PP-TMP in
+										   (NP July)))))))))))))))))
+     .))
+( (S (NP-SBJ-1 Banks)
+     (VP want
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP see
+                    (S (NP-SBJ someone)
+		       (VP putting
+			   (PRT up)
+			   (NP (NP real cash)
+			       (PP at
+				   (NP risk))
+			       (PRN ,
+				    (S (NP-SBJ that)
+				       (VP is))
+				    ,)
+			       (ADJP subordinate
+				     (PP to
+					 (NP (NP the bank debt)
+					     (PP-LOC in
+						     (NP any deal))))))))))))
+     .))
+( (S-1 (NP-ADV That way)
+       (PRN ,
+	    (S (NP-SBJ they)
+	       (VP figure
+		   (SBAR 0
+			 (S *T*-1))))
+	    ,)
+       (NP-SBJ someone else)
+       (VP has
+	   (NP (NP an even stronger motivation)
+	       (SBAR (WHADVP-2 0)
+		     (S (NP-SBJ *)
+			(VP to
+			    (VP make
+				(S (ADJP-PRD sure)
+				   (SBAR-NOM-SBJ 0
+						 (S (NP-SBJ-3 the deal)
+						    (VP is
+							(VP going
+							    (S (NP-SBJ *-3)
+							       (VP to
+								   (VP work))))))))
+				(ADVP *T*-2))))))
+	   ,
+	   (SBAR-PRP because
+		     (S (NP-SBJ they)
+			(VP would
+			    (VP be
+				(VP losing
+				    (NP their money)
+				    (SBAR before
+					  (S (NP-SBJ the banks)
+					     (VP lost
+						 (NP theirs))))))))))
+       .))
+( (S (NP-SBJ-3 Banks)
+     (ADVP also)
+     (VP want
+         (S (NP-SBJ-6 *-3)
+            (VP to
+                (VP be
+                    (ADJP-PRD able
+                              (S (NP-SBJ *-6)
+                                 (VP to
+                                     (VP call
+                                         (NP (NP someone)
+					     (SBAR (WHNP-5 0)
+						   (S *ICH*-4))
+					     (NP *ICH*-1))
+                                         (PP-MNR on
+						 (NP the telephone))
+                                         (S-4 (NP-SBJ *T*-5)
+					      (VP to
+						  (VP fix
+						      (NP (NP a problem)
+							  (PP with
+							      (NP (NP a deal)
+								  (SBAR (WHNP-2 that)
+									(S (NP-SBJ *T*-2)
+									   (VP goes
+									       (ADJP-PRD bad))))))))))
+                                         --
+                                         (NP-1 (NP preferably someone)
+                                               (ADJP other
+                                                     (PP than
+                                                         (NP a union leader))))))))))))
+     .))
+( (S (NP-SBJ That)
+     (VP leaves
+         (S (NP-SBJ the pilots)
+	    (ADVP-TMP still)
+	    (PP-PRD in
+		    (NP (NP need)
+			(PP of
+			    (NP (NP cash)
+				(VP totaling
+				    (NP (NP (QP around $ 1 billion) *U*)
+					--
+					(ADJP (ADJP far more)
+					      (SBAR than
+						    (S (NP-SBJ either
+							       (NP they)
+							       or
+							       (NP the flight attendants))
+						       (VP can
+							   (VP lay
+							       (NP their hands)
+							       (PP-LOC-CLR on
+									   (NP *))
+							       (PP from
+								   (NP (NP retirement funds) 
+								       (ADVP alone))))))))))))))))
+     .))
+( (S (NP-SBJ (NP One obstacle)
+             (PP to
+                 (S-NOM (NP-SBJ the pilots ')
+			(VP finding
+			    (NP (NP such a huge amount)
+				(PP of
+				    (NP cash)))))))
+     (VP is
+         (NP-PRD (NP their insistence)
+                 (PP on
+                     (NP majority ownership))))
+     .))
+( (S (NP-SBJ (NP Investors)
+	     (PP such
+		 as
+		 (NP (NP Marvin Davis)
+		     (PP of
+			 (NP Los Angeles))))
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP have
+                          (VP sought
+                              (NP airline ownership)
+			      (NP-TMP this year))))))
+     (VP have
+         (VP insisted
+             (SBAR 0
+                   (S (NP-SBJ (NP they)
+                              , not
+                              (NP the pilots)
+                              ,)
+                      (VP must
+                          (VP have
+                              (NP control)))))))
+     .))
+( (S (NP-SBJ (NP One way)
+             (PP out
+                 (PP of
+                     (NP that dilemma))))
+     (VP could
+         (VP be
+             (NP-PRD (NP a partial recapitalization)
+                     (SBAR (WHPP-2 in
+				   (WHNP which))
+                           (S (NP-SBJ-1 the pilots)
+                              (VP would
+                                  (VP wind
+                                      (PRT up)
+                                      (S (NP-SBJ *-1)
+                                         (VP sharing
+                                             (NP (NP the value)
+                                                 (PP of
+                                                     (NP their concessions)))
+                                             (PP-CLR with
+						     (NP public shareholders))))
+				      (PP *T*-2))))))))
+     .))
+( (S (NP-SBJ The pilots)
+     (VP could
+         (VP borrow
+             (PP against
+                 (NP (NP the value)
+                     (PP of
+                         (NP their concessions))))
+	     ,
+	     (S-ADV (NP-SBJ *)
+		    (VP using
+			(NP-2 the proceeds)
+			(S-CLR (NP-SBJ *-2)
+			       (VP to
+				   (VP (VP buy
+					   (ADVP-CLR back)
+					   (NP stock)
+					   (PP-CLR from
+						   (NP the public)))
+				       and
+				       (VP give
+					   (NP themselves)
+					   (NP (NP the majority control)
+					       (SBAR (WHNP-1 0)
+						     (S (NP-SBJ they)
+							(VP have
+							    (VP been
+								(VP seeking
+								    (NP *T*-1)))))))))))))))
+     .))
+( (S But
+     (NP-SBJ (NP it)
+	     (SBAR *EXP*-1))
+     (VP is n't
+         (ADJP-PRD clear)
+	 (SBAR-1 that
+		 (S (NP-SBJ banks)
+		    (VP would
+			(VP lend
+			    (NP sufficient money)
+			    (S-PRP (NP-SBJ *)
+				   (VP to
+				       (VP deliver
+					   (NP a big enough price)
+					   (PP-DTV to
+						   (NP shareholders))))))))))
+     .))
+( (S (NP-SBJ (NP The lack)
+             (PP of
+                 (NP any new cash)))
+     (ADVP probably)
+     (VP would
+         (ADVP-TMP still)
+         (VP leave
+             (S (NP-SBJ the banks)
+		(ADJP-PRD dissatisfied))))
+     .))
+( (S (PP In
+         (S-NOM (NP-SBJ *-1)
+		(VP advising
+		    (NP the UAL board)
+		    (PP-CLR on
+			    (NP (NP the various bids)
+				(PP for
+				    (NP the airline)))))))
+     ,
+     (S-ADV (NP-SBJ *)
+	    (VP starting
+		(PP-CLR with
+			(NP (NP one)
+			    (PP for
+				(NP (NP $ 240 *U*)
+				    (NP-ADV a share)))
+			    (PP from
+				(NP Mr. Davis))))))
+     ,
+     (NP-SBJ-1 (NP the investment bank)
+	       (PP of
+		   (NP First Boston)))
+     (VP came
+	 (PRT up)
+	 (PP-CLR with
+		 (NP (NP a wide range)
+		     (PP of
+			 (NP (NP potential values)
+			     (PP for
+				 (NP the company))))))
+	 ,
+	 (PP depending
+	     (PP-CLR on
+		     (NP appraisal methods and assumptions))))
+     .))
+( (S (S-ADV (NP-SBJ *-3)
+	    (VP Using
+		(NP the the NWA takeover)
+		(PP-CLR as
+			(NP a benchmark))))
+     ,
+     (NP-SBJ-3 First Boston)
+     (PP-TMP on
+	     (NP Sept. 14))
+     (VP estimated
+	 (SBAR that
+	       (S (NP-SBJ UAL)
+		  (VP (VP was
+			  (ADJP-PRD worth
+				    (NP-1 (NP (QP $ 250 
+						  to
+						  $ 344) *U*)
+					  (NP-ADV a share)))
+			  (PP-2 based
+				(PP on
+				    (NP (NP (NP UAL 's)
+					    results)
+					(PP for
+					    (NP (NP the 12 months)
+						(VP ending
+						    (NP-TMP-CLR last June 30))))))))
+		      , but
+		      (VP (NP=1 (QP only $ 235 
+				    to
+				    $ 266) *U*)
+			  (PP=2 based
+				(PP-CLR on
+					(NP (NP a management estimate)
+					    (PP of
+						(NP results))
+					    (PP-TMP for
+						    (NP 1989))))))))))
+     .))
+( (S (NP-SBJ (NP First Boston 's)
+             estimates)
+     (VP had
+         (VP been
+             (ADJP-PRD higher)
+	     (SBAR-TMP before
+		       (S (NP-SBJ management)
+			  (VP supplied
+			      (NP a 1989 projection))))))
+     .))
+( (S (S-ADV (NP-SBJ *-1)
+	    (VP Using
+		(NP (NP estimates)
+		    (PP of
+			(NP (NP the company 's)
+			    future earnings)))
+		(PP-LOC under
+			(NP (NP a variety)
+			    (PP of
+				(NP scenarios))))))
+     ,
+     (NP-SBJ-1 First Boston)
+     (VP estimated
+	 (NP (NP UAL 's)
+	     value)
+	 (PP-CLR at
+		 (NP (NP (NP (QP $ 248 
+				 to
+				 $ 287) *U*)
+			 (NP-ADV a share)
+			 (SBAR if
+			       (S (NP-SBJ its future labor costs)
+				  (VP conform
+				      (PP-CLR to
+					      (NP Wall Street projections))))))
+		     ;
+		     (NP (NP (QP $ 237 
+				 to
+				 $ 275) *U*)
+			 (SBAR-ADV if
+				   (S (NP-SBJ the company)
+				      (VP reaches
+					  (NP (NP a settlement)
+					      (PP with
+						  (NP pilots))
+					      (ADJP similar
+						    (PP to
+							(NP (NP one)
+							    (PP-LOC at
+								    (NP NWA))))))))))
+		     ;
+		     (NP (NP (QP $ 98 
+				 to
+				 $ 121) *U*)
+			 (PP-LOC under
+				 (NP an adverse labor settlement)))
+		     , and
+		     (NP (NP (QP $ 229 
+				 to
+				 $ 270) *U*)
+			 (PP-LOC under
+				 (NP (NP a pilot contract)
+				     (VP imposed
+					 (NP *)
+					 (PP by
+					     (NP-LGS the company))
+					 (PP-TMP following
+						 (NP a strike)))))))))
+     .))
+( (S And
+     (S-ADV (NP-SBJ *-1)
+	    (VP using
+		(NP (NP liquidation value)
+		    (VP assuming
+			(NP (NP the sale)
+			    (PP of
+				(NP all UAL assets)))))))
+     ,
+     (NP-SBJ-1 First Boston)
+     (VP estimated
+	 (SBAR 0
+	       (S (NP-SBJ the airline)
+		  (VP is
+		      (ADJP-PRD worth
+				(NP (NP (QP $ 253 
+					    to
+					    $ 303) *U*)
+				    (NP-ADV a share)))))))
+     .))
+( (S (ADVP Unfortunately)
+     ,
+     (NP-SBJ all
+             those estimates)
+     (VP came
+	 (SBAR-TMP-PRD before
+		       (S (NP-SBJ airline industry fundamentals)
+			  (VP deteriorated
+			      (PP-TMP during
+				      (NP the past month))))))
+     .))
+( (S (NP-SBJ (NP (NP American Airlines parent
+                     AMR)
+                 and
+                 (NP USAir Group))
+             ,
+             (NP (NP both)
+                 (ADJP subject
+                       (PP to
+                           (NP takeover efforts)))
+		 (ADVP themselves))
+             ,)
+     (VP have 
+	 (S (NP-SBJ each)
+	    (VP warned
+		(PP-CLR of
+			(NP declining results)))))
+     .))
+( (S (NP-SBJ Some analysts)
+     (VP do n't
+         (VP expect
+             (NP (NP a quick revival)
+                 (PP of
+                     (NP (NP any takeover)
+                         (PP by
+                             (NP the pilots)))))))
+     .))
+( (S (NP-SBJ The deal)
+     (VP has 
+	 (PRN ,
+	      (SBAR as
+		    (S (NP-SBJ one takeover expert)
+		       (VP puts
+			   (NP it))))
+	      ,)
+	 ``
+	 (NP (ADJP so many) moving parts))
+     .))
+( (S (NP-SBJ I)
+     (VP do n't
+	 (VP see
+	     (S (NP-SBJ (NP anybody)
+			(SBAR (WHNP-1 who)
+			      (S (NP-SBJ *T*-1)
+				 (VP 's
+				     (ADJP-PRD sophisticated)))))
+		(VP getting
+		    (S (NP-SBJ his name)
+		       (VP associated
+			   (PP-CLR with
+				   (NP this mess))))
+		    (SBAR-TMP until
+			      (S (NP-SBJ-2 the moving parts)
+				 (VP stop
+				     (S (NP-SBJ *-2)
+					(VP moving)))))))))
+     . ''))
+( (S (PP In
+         (NP (NP addition)
+             (PP to
+                 (NP (NP the need)
+                     (PP for
+                         (NP another cash equity investor))))))
+     ,
+     (NP-SBJ the other moving parts)
+     (VP include 
+	 :
+         (NP (NP (NP the pilots)
+		 (NP themselves)
+                 ,
+                 (SBAR (WHNP-1 who)
+                       (S (NP-SBJ *T*-1)
+                          (VP can
+                              (VP scuttle
+                                  (NP rival deals)
+                                  (PP-MNR by
+					  (S-NOM (NP-SBJ-4 *)
+						 (VP threatening
+						     (S (NP-SBJ *-4)
+							(VP to
+							    (VP strike)))))))))))
+             ;
+             (NP (NP the machinists union)
+		 ,
+		 (NP (NP the pilots ')
+		     longtime rivals)
+		 (SBAR (WHNP-2 who)
+		       (S (NP-SBJ-5 *T*-2)
+			  (VP helped
+			      (S (NP-SBJ *-5)
+				 (VP scuttle
+				     (NP (NP the pilots ')
+					 deal)))))))
+             ; and
+             (NP (NP regulators)
+		 (PP-LOC in
+			 (NP Washington))
+                 ,
+                 (SBAR (WHNP-3 (NP whose opposition)
+                               (PP to
+                                   (NP foreign airline investment)))
+                       (S (NP-SBJ-6 *T*-3)
+                          (VP helped
+                              (S (NP-SBJ *-6)
+				 (VP throw
+				     (NP the deal)
+				     (PP-CLR into
+					     (NP doubt))))))))))
+     .))
+( (S (PP-TMP In
+	     (NP the meantime))
+     ,
+     (NP-SBJ the arbs)
+     (VP are
+         (VP bleeding))
+     .))
+( (S (NP-SBJ Wall Street traders and analysts)
+     (VP estimate
+         (SBAR that
+               (S (NP-SBJ takeover stock traders)
+                  (VP own
+                      (NP (NP UAL stock and options)
+                          (ADJP equal
+                                (PP to
+                                    (NP (NP as many)
+                                        (PP as
+                                            (NP (NP (QP 6.5 million) shares)
+                                                , or
+                                                (NP (NP (QP about 30) %)
+						    (PP of
+							(NP (NP the total)
+							    (ADJP outstanding))))))))))))))
+     .))
+( (S (NP-SBJ (NP Frank Gallagher)
+             ,
+             (NP (NP an analyst)
+                 (PP with
+                     (NP (NP Phoenix Capital Corp.)
+                         (PP-LOC in
+				 (NP New York)))))
+             ,)
+     (VP estimates
+         (SBAR that
+               (S (NP-SBJ the arbs)
+                  (VP paid
+                      (NP (NP an average)
+                          (PP of
+                              (NP (NP (QP about $ 280) *U*)
+                                  (NP-ADV a share))))
+                      (PP-CLR for
+			      (NP their UAL positions))))))
+     .))
+( (S (NP-SBJ That)
+     (VP would
+         (VP indicate
+             (SBAR that
+                   (S (NP-SBJ the arbs)
+                      (VP have
+                          (NP (NP paper losses)
+			      (PP on
+				  (NP (NP UAL) 
+				      (ADVP alone)))
+                              (VP totalling
+                                  (NP (QP $ 725 million) *U*))))))))
+     .))
+( (NP (NP UAL Corp .)
+      (PRN -LRB-
+	   (NP NYSE)
+	   ;
+	   (NP (NP Symbol)
+	       :
+	       (NP UAL))
+	   -RRB-)))
+( (NP (NP Business)
+      :
+      (NP Airline)))
+( (NP (NP Year)
+      (VP ended
+          (NP *)
+          (NP-TMP-CLR Dec. 31 , 1988))
+      :))
+( (NP (NP Sales)
+      :
+      (NP $ (QP 8.98 billion) *U*)))
+( (NP (NP Net income)
+      (X *)
+      :
+      (NP (NP (QP $ 599.9 million) *U*)
+          ; or
+          (NP (NP $ 20.20 *U*)
+              (NP-ADV a share)))))
+( (NP (NP-TMP (NP Second quarter)
+	      ,
+	      (NP June 30 , 1989))
+      :
+      (NP (NP Per-share earnings)
+          :
+          (NP (NP $ 6.52 *U*)
+	      (PP vs.
+		  (NP $ 5.77 *U*))))))
+( (NP (NP Average daily trading volume)
+      :
+      (NP 881,969 shares)))
+( (NP (NP (NP Common shares)
+          (ADJP outstanding))
+      :
+      (QP 21.6 million)))

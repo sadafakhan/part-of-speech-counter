@@ -1,0 +1,57 @@
+
+
+( (S (NP-SBJ This business trust company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ its board)
+                  (VP elected
+                      (NP (NP Kieran E. Burke)
+                          ,
+                          (NP (NP a consultant)
+                              (PP to
+                                  (NP Drexel Burnham Lambert Group Inc.)))
+                          ,)
+                      (PP-CLR (PP as
+				  (NP (NP chief executive officer)
+				      ,
+				      (NP a new post)
+				      ,))
+			      and
+			      (PP as
+				  (NP president)))))))
+     .))
+( (S (NP-SBJ Mr. Burke)
+     (VP succeeds
+         (NP (NP Richard D. Manley)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP will
+                          (VP remain
+                              (PP-PRD as
+				      (NP (NP a consultant)
+					  (PP to
+					      (NP the company))))))))))
+     .))
+( (S (NP-SBJ-1 Both men)
+     (VP were
+         (ADJP-PRD unavailable
+                   (S (NP-SBJ *-1)
+                      (VP to
+                          (VP comment)))))
+     .))
+( (S (NP-SBJ The company)
+     (ADVP also)
+     (VP named
+	 (S (NP-SBJ (NP Michael E. Gellert)
+		    ,
+		    (NP (NP a director)
+			and
+			(NP a major shareholder))
+		    ,)
+            (VP to
+                (VP fill
+                    (NP (NP the vacant seat)
+                        (PP of
+                            (NP chairman)))))))
+     .))

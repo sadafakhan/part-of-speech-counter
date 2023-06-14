@@ -1,0 +1,401 @@
+
+
+( (S (NP-SBJ (NP Groupe AG 's)
+             chairman)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 the Belgian insurer)
+                  (VP is
+                      (ADJP-PRD prepared
+                                (S (NP-SBJ *-1)
+				   (VP to
+				       (VP give
+					   (PRT up)
+					   (NP (NP some)
+					       (PP of
+						   (NP its independence)))
+					   (PP-CLR to
+						   (NP a white knight))))))
+		      (SBAR-ADV if
+				(FRAG (S (NP-SBJ *)
+					 (ADJP-PRD necessary)
+					 (S-PRP (NP-SBJ *)
+						(VP to
+						    (VP repel
+							(NP a raider)))))))))))
+     .))
+( (S (PP-LOC Amid
+	     (NP (NP heavy buying)
+		 (PP of
+		     (NP shares))
+		 (PP-LOC in
+			 (NP (NP Belgium 's)
+			     largest insurer))))
+     ,
+     (NP-SBJ Maurice Lippens)
+     (ADVP also)
+     (VP warned
+         (PP-LOC in
+		 (NP an interview))
+         (SBAR that
+               (S (NP-SBJ-1 a white knight)
+                  ,
+		  (PP in
+		      (S-NOM (NP-SBJ *-1)
+			     (VP buying
+				 (PRT out)
+				 (NP a raider))))
+		  ,
+                  (VP could
+                      (VP leave
+                          (NP speculators)
+                          (PP-CLR with
+				  (NP (NP big losses)
+				      (PP-LOC on
+					      (NP their AG stock)))))))))
+     .))
+( (S (PP-TMP Since
+	     (NP (NP the beginning)
+		 (PP of
+		     (NP the year))))
+     ,
+     (NP-SBJ the stock)
+     (VP has
+	 (VP (ADVP nearly)
+	     doubled
+	     ,
+	     (S-ADV (NP-SBJ *)
+		    (VP giving
+			(NP AG)
+			(NP (NP a market value)
+			    (PP of
+				(NP (NP (QP about 105 billion) Belgian francs)
+				    -LRB-
+				    (NP (QP $ 2.7 billion) *U*)
+				    -RRB-)))))))
+     .))
+( (S (NP-SBJ The (ADJP most likely) white knight)
+     (VP would
+         (VP be
+             (NP-PRD (NP Societe Generale de Belgique S.A.)
+                     ,
+                     (SBAR (SBAR (WHNP-2 which)
+                                 (S (NP-SBJ *T*-2)
+                                    (ADVP-TMP already)
+				    (VP owns
+                                        (NP (NP 18 %)
+                                            (PP of
+                                                (NP AG))))))
+                           and
+                           (SBAR (WHNP-3 which)
+                                 (S (NP-SBJ-1 (NP *T*-3)
+                                              (NP itself))
+                                    (VP is
+                                        (VP controlled
+                                            (NP *-1)
+                                            (PP by
+                                                (NP-LGS (NP Cie . Financiere de Suez)
+							,
+							(NP the acquisitive French financial conglomerate)))))))))))
+     .))
+( (S But
+     (NP-SBJ Mr. Lippens)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ a rescue)
+                  (ADVP also)
+                  (VP could
+                      (VP involve
+                          (NP (NP Asahi Mutual Life Insurance Co.)
+                              ,
+                              (SBAR (WHNP-1 which)
+                                    (S (NP-SBJ *T*-1)
+                                       (VP owns
+                                           (NP (NP 5 %)
+                                               (PP of
+                                                   (NP AG))))))))))))
+     .))
+( (S (NP-SBJ AG)
+     (VP is
+	 (ADJP-PRD hardly
+		   alone)
+         (PP in
+	     (NP its anxiety)))
+     .))
+( (S (NP-SBJ A rambunctious shake-up)
+     (VP is
+         (VP (ADVP-MNR quickly)
+             reshaping
+             (NP (NP Europe 's)
+                 once-stately insurance business)))
+     .))
+( (S (S-ADV (NP-SBJ *-2)
+	    (ADJP-PRD Worried
+		      (PP by
+			  (NP (NP European Community directives)
+			      (SBAR (WHNP-1991 that)
+				    (S (NP-SBJ *T*-1991)
+				       (VP will
+					   (VP remove
+					       (NP (NP many)
+						   (PP of
+						       (NP (NP the barriers)
+							   (PP to
+							       (NP cross-border insurance services)))))
+					       ,
+					       (S-TMP (NP-SBJ *)
+						      (VP starting
+							  (PP-TMP-CLR in
+								      (NP mid-1990))))))))))))
+     ,
+     (NP-SBJ-2 insurers)
+     (VP are
+	 (VP (VP rushing
+		 (S (NP-SBJ *-2)
+		    (VP to
+			(VP find
+			    (NP partners)))))
+	     and
+	     (VP preparing
+		 (PP-CLR for
+			 (NP price wars)))))
+     .))
+( (S (PP-LOC In
+	     (NP (NP West Germany)
+		 and
+		 (NP the Netherlands)))
+     ,
+     (NP-SBJ insurers)
+     (VP are
+         (VP flirting
+             (PP-CLR with
+		     (NP banks))))
+     .))
+( (S (S (PP-LOC In
+		(NP France))
+        ,
+        (NP-SBJ (NP (NP Suez)
+                    and
+                    (NP Axa-Midi Assurances S.A.)
+		    both))
+        (VP have
+            (VP been
+                (PP-PRD on
+                        (NP (NP the prowl)
+                            (PP for
+                                (NP giant acquisitions)))))))
+     ;
+     (S (NP-SBJ Suez)
+        (NP-TMP last month)
+        (VP acquired
+            (NP (NP control)
+                (PP of
+                    (NP (NP Groupe Victoire)
+                        ,
+                        (NP the sixth-largest European insurance company))))
+	    ,
+	    (PP-TMP after
+		    (NP (NP a takeover battle)
+			(PP with
+			    (NP Cie . Industrielle))))))
+     .))
+( (S (NP-SBJ Mr. Lippens)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP the volume)
+                          (PP of
+                              (NP (NP shares)
+                                  (VP changing
+                                      (NP hands)))))
+                  (VP has
+                      (VP grown
+                          (ADVP significantly)
+			  (PP-TMP since
+				  (NP mid-September)))))))
+     .))
+( (S But
+     (NP-SBJ he)
+     (VP estimated
+         (SBAR that
+               (S (NP-SBJ-1 a raider)
+                  (VP would
+		      (VP have
+			  (VP been
+			      (ADJP-PRD able
+					(S (NP-SBJ *-1)
+					   (VP to
+					       (VP amass
+						   (NP (NP (QP no
+							       more
+							       than
+							       4)
+							   %)
+						       (PP of
+							   (NP the shares)))))))
+			      (PP-TMP in
+				      (NP recent months))))))))
+     .))
+( (S (PP Aside 
+	 (PP from
+	     (S-NOM (NP-SBJ *-1)
+		    (VP exploring
+			(NP (NP plans)
+			    (PP for
+				(NP joint ventures or acquisitions)))))))
+     ,
+     (NP-SBJ-1 Mr. Lippens)
+     (VP has
+         (VP called
+             (NP (NP top managers)
+                 (PP of
+                     (NP (NP companies)
+			 (VP rumored
+			     (NP *)
+			     (PP-CLR as
+				     (NP potential raiders))
+			     --
+			     (FRAG (PP-LOC among
+					   (NP them))
+				   ,
+				   (NP (NP (NP Axa-Midi)
+					   ,
+					   (NP Union des Assurances de Paris)
+					   and
+					   (NP Suez))
+				       ,
+				       (NP (NP all)
+					   (VP based
+					       (PP-LOC-CLR in
+							   (NP France))))))))))))
+     .))
+( (S (S-TPC-3 (NP-SBJ (NP They))
+	      (VP have
+		  all
+		  (VP ``
+		      (ADVP-MNR very clearly)
+		      stated
+		      (SBAR that
+			    (S (NP-SBJ they)
+			       (VP (VP have not
+				       (VP acquired
+					   (NP *RNR*-1)))
+				   and
+				   (VP are not
+				       (VP acquiring
+					   (NP *RNR*-1)))
+				   (NP-1 (NP shares)
+					 (PP of
+					     (NP AG)))))))))
+     , ''
+     (NP-SBJ he)
+     (VP said
+	 (SBAR 0
+	       (S *T*-3)))
+     .))
+( (S (NP-SBJ Any raider)
+     (VP would
+         (VP find
+             (S (NP-SBJ (NP it)
+			(S *EXP*-1))
+		(ADJP-PRD hard)
+		(S-1 (NP-SBJ *)
+		     (VP to
+			 (VP crack
+			     (NP (NP AG 's)
+				 battlements)))))))
+     .))
+( (S-1 (S (NP-SBJ (NP A `` syndicate '')
+		  (PP of
+		      (NP shareholders)))
+	  (VP holds
+	      (NP (NP (QP just under 50) %)
+		  (PP of
+		      (NP AG)))))
+       (PRN ,
+	    (S (NP-SBJ Mr. Lippens)
+	       (VP said
+		   (SBAR 0
+			 (S *T*-1))))
+	    ,)
+       and
+       (S (NP-SBJ-2 members)
+	  (VP have
+	      (VP agreed
+		  (S (NP-SBJ *-2)
+		     (VP to
+			 (VP give
+			     (NP one another)
+			     (NP (NP the right)
+				 (PP of
+				     (NP first refusal))))))
+		  (SBAR-ADV (SINV should
+				  (NP-SBJ they)
+				  (VP sell
+				      (NP any AG shares)))))))
+       .))
+( (S (PP Aside 
+	 (PP from
+	     (NP (NP Generale de Belgique)
+		 and
+		 (NP Asahi))))
+     ,
+     (NP-SBJ the syndicate)
+     (VP includes
+         (NP (NP Antwerpsche Hypotheekkas)
+	     ,
+	     (NP a Belgian savings bank)
+	     ,
+             and
+             (NP various family interests)))
+     .))
+( (S (NP-SBJ A Generale spokesman)
+     (VP confirmed
+         (SBAR that
+               (S (NP-SBJ-1 the giant Belgian holding company)
+		  (VP would
+		      (VP be
+			  (ADJP-PRD willing
+				    (S (NP-SBJ *-1)
+				       (VP to
+					   (VP raise
+					       (NP (NP its stake)
+						   (PP-LOC in
+							   (NP AG)))))))
+			  (SBAR-ADV (SINV should
+					  (NP-SBJ a raider)
+					  (VP seek
+					      (NP control)))))))))
+     .))
+( (S (NP-SBJ-1 Asahi officials)
+     (VP could n't
+         (VP be
+             (VP reached
+                 (NP *-1)
+                 (PP-CLR for
+			 (NP comment)))))
+     .))
+( (S (PP (ADVP Even) 
+	 without
+         (NP bid talk))
+     ,
+     (NP-SBJ (NP (NP this year 's)
+		 surge)
+	     (PP-LOC in
+		     (NP prices))
+             (PP for
+                 (NP Brussels real estate)))
+     (VP has
+         (VP excited
+             (NP (NP interest)
+                 (PP-LOC in
+			 (NP AG)))))
+     .))
+( (S (NP-SBJ The company)
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ those holdings)
+                  (VP constitute
+                      (NP (NP the third-biggest real-estate portfolio)
+			  (PP-LOC in
+				  (NP Belgium)))))))
+     .))

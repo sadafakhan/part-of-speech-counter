@@ -1,0 +1,1005 @@
+
+
+( (S (PP-TMP After
+	     (NP (NP several years)
+		 (PP of
+		     (NP (NP booming business)
+			 (PP with
+			     (NP China))))))
+     ,
+     (NP-SBJ foreign traders)
+     (VP are
+         (VP bracing
+             (PP-CLR for
+		     (NP (NP the biggest slump)
+			 (PP-TMP in
+				 (NP a decade))))))
+     .))
+( (S (NP-SBJ-1 (NP The imposition)
+	       (PP of
+		   (NP (NP austerity measures)
+		       ,
+		       (VP starting
+			   (NP-TMP-CLR last October))
+		       ,)))
+     (ADVP-TMP already)
+     (VP had
+         (VP begun
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP pinch
+			(SBAR-TMP (WHADVP-2 when)
+				  (S (NP-SBJ (NP (NP the massacre)
+						 (PP-LOC in
+							 (NP Tiananmen Square))
+						 (PP-TMP on
+							 (NP June 4)))
+					     and
+					     (NP subsequent events))
+				     (VP tugged
+					 (S (NP-SBJ the belt)
+					    (ADJP-PRD far tighter))
+					 (ADVP-TMP *T*-2)))))))))
+     .))
+( (S (NP-SBJ-1 Foreign lending)
+     (VP (VP has
+	     (VP been
+		 (VP (ADVP virtually)
+		     suspended
+		     (NP *-1)
+		     (PP-TMP since
+			     (NP then)))))
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(VP (VP choking
+			(NP liquidity))
+		    and
+		    (VP hobbling
+			(NP many projects)))))
+     .))
+( (S And
+     (NP-SBJ Beijing)
+     (VP (VP has
+	     (VP pulled
+		 (ADVP-DIR back)
+		 (PP on
+		     (NP domestic loans and subsidies))))
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP leaving
+		    (S (NP-SBJ (NP many domestic buyers)
+			       and
+			       (NP export-oriented plants))
+		       (VP strapped
+			   (PP-CLR for
+				   (NP cash)))))))
+     .))
+( (S (NP-SBJ (NP Givaudan Far East Ltd.)
+             ,
+             (NP (NP a Swiss concern)
+                 (SBAR (WHNP-1 that)
+                       (S (NP-SBJ *T*-1)
+                          (VP sells
+                              (NP chemicals)
+                              (PP-DTV to
+				      (NP (NP shampoo and soap factories)
+					  (PP-LOC in
+						  (NP China))))))))
+             ,)
+     (VP typifies
+         (NP the problems))
+     .))
+( (S (NP-SBJ (NP Last year 's)
+             retrenchment)
+     (VP dried
+         (PRT up)
+	 (NP (NP the working capital)
+	     (PP of
+		 (NP Chinese factories))))
+     .))
+( (S (NP-SBJ (NP The company 's)
+             sales)
+     (VP flattened
+	 (PP-TMP during
+		 (NP (NP 1989 's)
+		     first half)))
+     .))
+( (S (NP-SBJ The June killings)
+     (VP magnified
+         (NP the problems))
+     .))
+( (S (PP-LOC In
+	     (NP Canton))
+     ,
+     (NP-SBJ (NP Givaudan 's)
+             representative office)
+     (VP received
+         (NP no orders)
+	 (PP-TMP in
+		 (NP June)))
+     .))
+( (S (S (PP-TMP At first)
+        (NP-SBJ it)
+        (VP attributed
+            (NP the slump)
+            (PP-CLR to
+		    (NP temporary business disruptions))))
+     , but
+     (S (SBAR-TMP (WHADVP-2 when)
+		  (S (NP-SBJ-1 no orders)
+		     (VP were
+			 (VP logged
+			     (NP *-1)
+			     (PP-TMP in
+				     (NP August and September))
+			     (ADVP-TMP *T*-2)))))
+        ,
+        (NP-SBJ manager
+                Donald Lai)
+        (VP became
+            (ADJP-PRD convinced
+                      (SBAR that
+                            (S (NP-SBJ business)
+                               (VP would
+                                   (VP be
+                                       (ADJP-PRD bad)
+				       (PP-TMP for
+					       (NP many months)))))))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ Things)
+	      (VP have
+		  (VP grown
+		      (ADJP-PRD worse)
+		      (PP-TMP since
+			      (NP June 4)))))
+     ,
+     ''
+     (NP-SBJ Mr. Lai)
+     (VP says
+	 (S *T*-1))
+     .))
+( (S (NP-SBJ He)
+     (VP predicts
+         (SBAR that
+               (S (NP-SBJ sales)
+                  (VP will
+                      (VP drop
+                          (PP-EXT between
+				  (NP (QP 30 % and 40 %) *U*))
+                          (PP-DIR from
+				  (NP (NP last year 's)
+				      (QP $ 3 million) *U*)))))))
+     .))
+( (S (S (NP-SBJ The consumer-products and light-industrial sectors)
+        (VP are
+            (VP bearing
+                (NP (NP the brunt)
+                    (PP of
+                        (NP (NP China 's)
+                            austerity measures))))))
+     , and
+     (S (NP-SBJ-1 (NP foreign companies)
+		  (PP such
+		      as
+		      (NP Givaudan))
+                  (SBAR (WHNP-2 that)
+                        (S (NP-SBJ *T*-2)
+                           (VP deal
+                               (PP-CLR with
+				       (NP those industries))))))
+        are
+        (VP being
+            (VP hit
+                (NP *-1)
+                (NP the hardest))))
+     .))
+( (S But
+     (PP in
+         (ADJP general))
+     ,
+     (NP-SBJ all foreign-trading companies)
+     (VP are
+         (VP feeling
+             (NP-PRD the pinch)))
+     .))
+( (SINV ``
+	(S-1 (NP-SBJ The import pie)
+	     (VP will
+		 (VP shrink)))
+	, ''
+	(VP says
+	    (S *T*-1))
+	(NP-SBJ (NP John Kamm)
+		,
+		(NP (NP (NP first vice president)
+			(PP of
+			    (NP (NP the American Chamber)
+				(PP of
+				    (NP Commerce))
+				(PP-LOC in
+					(NP Hong Kong)))))
+		    and
+		    (NP a China trade specialist)))
+	.))
+( (S ``
+     (S (PP On
+            (NP the down side))
+        ,
+        (NP-SBJ sales)
+        (VP could
+            (VP fall
+                (NP-EXT (QP as much
+			    as
+			    90) %)
+		(PP for
+		    (NP some companies)))))
+     ;
+     (S (PP on
+            (NP the upper side))
+        ,
+        (NP-SBJ sales)
+        (VP will
+            (VP be
+                (ADJP-PRD flat))))
+     . ''))
+( (S (NP-SBJ (NP China 's)
+             foreign trade)
+     (VP has
+         (VP gone
+             (PP-CLR in
+		     (NP cycles))
+	     (PP-TMP during
+		     (NP the past decade))))
+     .))
+( (S (NP-SBJ (NP The last time)
+             (SBAR (WHADVP-1 that)
+		   (S (NP-SBJ traders)
+		      (VP experienced
+			  (NP a trough)
+			  (ADVP-TMP *T*-1)))))
+     (VP was
+         (PP-TMP-PRD during
+		     (NP (NP 1985-86)
+			 ,
+			 (SBAR (WHADVP-2 when)
+			       (S (NP-SBJ Beijing)
+				  (VP imposed
+				      (NP (NP tough measures)
+					  (SBAR (WHADVP-3 0)
+						(S (NP-SBJ *)
+						   (VP to
+						       (VP (VP curb
+							       (NP imports))
+							   and
+							   (VP conserve
+							       (NP foreign exchange))
+							   (ADVP *T*-3))))))
+				      (ADVP-TMP *T*-2)))))))
+     .))
+( (S (NP-SBJ-1 The current trough)
+     (VP is
+         (VP expected
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP be
+                        (ADJP-PRD much deeper)
+			,
+			(SBAR-PRP because
+				  (S (NP-SBJ Beijing)
+				     (VP has
+					 (VP cut
+					     (PRT off)
+					     (NP domestic funds)
+					     (PP-CLR from
+						     (NP factories))
+					     (PP-TMP for
+						     (NP the first time))
+					     (S-PRP (NP-SBJ *)
+						    (VP to
+							(VP slow
+							    (NP inflation)))))))))))))
+     .))
+( (S (PP In
+         (NP addition))
+     ,
+     (NP-SBJ (NP the suspension)
+	     (PP of
+		 (NP loans and export credits))
+	     (PP from
+		 (NP foreign governments and institutions))
+             (PP following
+                 (NP the June killings)))
+     (VP have
+         (VP been
+             (NP-PRD a big setback)))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ (NP The freeze)
+			 (PP on
+			     (NP new lending)))
+		 (VP is
+		     (VP dealing
+			 (NP the single biggest blow)
+			 (PP-DTV to
+				 (NP trading)))))
+	, ''
+	(VP says
+	    (S *T*-1))
+	(NP-SBJ (NP Raymond Wong)
+		,
+		(NP (NP China manager)
+		    (PP for
+			(NP (NP Mannesmann AG)
+			    ,
+			    (NP a West German machinery-trading company)))))
+	.))
+( (S (NP-SBJ (NP Import growth)
+             (PP from
+                 (NP the year-earlier months)))
+     (VP slowed
+         (PP-CLR to
+		 (NP-1 16 %)
+		 (PP-TMP-2 in
+			   (NP July)))
+	 and
+	 (PP (NP=1 7.1 %)
+	     (PP-TMP=2 in
+		       (NP August)))
+	 ,
+	 (PP compared
+	     (PP with
+		 (NP (NP an average growth rate)
+		     (PP of
+			 (NP 26 %)
+			 (PP-TMP in
+				 (NP the first half)))))))
+     .))
+( (S (PP-TMP In
+	     (NP (NP the first eight months)
+		 (PP of
+		     (NP 1989))))
+     ,
+     (NP-SBJ imports)
+     (VP grew
+         (NP-EXT 21 %)
+         ,
+         (PP-DIR to
+		 (NP (QP $ 38.32 billion) *U*))
+         ,
+         (ADVP down slightly
+               (PP from
+                   (NP (NP a growth rate)
+                       (PP of
+                           (NP 23 %)
+			   (ADVP-TMP (NP a year)
+				     earlier))))))
+     .))
+( (S (NP-SBJ (NP The picture)
+             (PP for
+                 (NP (NP China 's)
+                     exports)))
+     (VP is
+         (ADJP-PRD just as bleak)
+	 ,
+	 (PP-PRP (ADVP mainly) because of
+		 (NP the domestic credit squeeze)))
+     .))
+( (S (NP-SBJ (NP Exports)
+             (PP-TMP in
+		     (NP the first eight months)))
+     (VP grew
+         (NP-EXT (QP only 9) %)
+         ,
+         (PP-DIR to
+		 (NP (QP $ 31.48 billion) *U*))
+         ,
+         (PP compared
+             (PP with
+                 (NP (NP a growth rate)
+                     (PP of
+                         (NP 25 %)
+			 (ADVP-TMP (NP a year)
+				   earlier)))))
+	 ,
+	 (PP according
+	     (PP to
+		 (NP Chinese customs figures))))
+     .))
+( (S (NP-SBJ-1 (NP The threat)
+               (PP to
+                   (NP (NP (NP China 's)
+			   balance)
+		       (PP of
+			   (NP payments)))))
+     (VP is
+         (VP further aggravated
+             (NP *-1)
+             (PP by
+                 (NP-LGS (NP the plunge)
+			 (PP in
+			     (NP its foreign-exchange reserves))))
+	     ,
+	     (PP excluding
+		 (NP gold holdings))))
+     .))
+( (S (NP-SBJ The reserves)
+     (VP dropped
+         (PP-TMP for
+		 (NP (NP the first time)
+		     (PP in
+			 (NP recent years))))
+         ,
+         (PP-DIR to
+		 (NP (QP $ 14 billion) *U*)
+		 (PP-TMP in
+			 (NP June)))
+         (PP-DIR from
+		 (NP (QP $ 19 billion) *U*)
+		 (PP-TMP in
+			 (NP April))))
+     .))
+( (S (NP-SBJ The trend)
+     (VP has
+         (VP prompted
+             (S (NP-SBJ-1 Beijing)
+                (VP to
+                    (VP intensify
+                        (NP efforts
+                            (S (NP-SBJ *-1)
+                               (VP to
+                                   (VP curb
+                                       (NP imports))))))))))
+     .))
+( (S (PP-TMP In
+	     (NP recent weeks))
+     ,
+     (NP-SBJ (NP China 's)
+             leaders)
+     (VP have
+         (VP recentralized
+             (NP (NP trading)
+                 (PP in
+                     (NP (NP wool)
+                         and
+                         (NP (NP scores)
+                             (PP of
+                                 (NP chemical products and commodities))))))))
+     .))
+( (S (NP-SBJ (NP The Ministry)
+             (PP of
+                 (NP Foreign Economic Relations and Trade)))
+     (VP set
+         (PRT up)
+         (NP a special bureau)
+         (NP-TMP last month)
+         (S-PRP (NP-SBJ *)
+		(VP to
+		    (VP monitor
+			(NP (NP the issue)
+			    (PP of
+				(NP import and export licenses)))))))
+     .))
+( (S (NP-SBJ (NP (NP Beijing 's)
+		 periodic clampdowns)
+             (PP on
+                 (NP imports)))
+     (VP have
+         (VP taught
+             (NP many trading companies)
+             (SBAR that
+                   (S (NP-SBJ (NP the best way)
+                              (SBAR (WHADVP-1 0)
+				    (S (NP-SBJ *)
+				       (VP to
+					   (VP get
+					       (PP-CLR through
+						       (NP the drought))
+					       (ADVP-MNR *T*-1))))))
+                      (VP is
+                          (PP-PRD by
+                                  (S-NOM (NP-SBJ *)
+					 (VP helping
+					     (S (NP-SBJ China)
+						(VP export))))))))))
+     .))
+( (S (PP For
+         (NP example))
+     ,
+     (NP-SBJ (NP Nissho Iwai Corp.)
+             ,
+             (NP (NP one)
+                 (PP of
+                     (NP the biggest Japanese trading houses)))
+             ,)
+     (ADVP-TMP now)
+     (VP buys
+         (NP (NP (QP almost twice
+		     as
+		     many)
+		 goods)
+	     (PP-CLR from
+		     (NP China))
+	     (SBAR as
+		   (S (NP-SBJ it)
+		      (VP sells
+			  (PP-DTV to
+				  (NP that country)))))))
+     .))
+( (S (ADVP-TMP (NP Three years)
+	       ago)
+     ,
+     (NP-SBJ the ratio)
+     (VP was
+         (ADJP-PRD reversed))
+     .))
+( (S But
+     (NP-SBJ the strategy)
+     (VP is n't
+         (VP helping
+             (ADVP much)
+             (NP-TMP this time)))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ (NP Both sectors)
+			 (PP of
+			     (NP imports and exports)))
+		 (VP look
+		     (ADJP-PRD just as bad)))
+	,
+	''
+	(VP says
+	    (S *T*-1))
+	(NP-SBJ (NP Masahiko Kitamura)
+		,
+		(NP (NP general manager)
+		    (PP of
+			(NP (NP Nissho Iwai 's)
+			    Canton office))))
+	.))
+( (S (NP-SBJ He)
+     (VP expects
+	 (S (NP-SBJ (NP the company 's)
+		    trading business)
+            (VP to
+                (VP drop
+                    (NP (QP as much
+			    as
+			    40 %) *U*)
+		    (NP-TMP this year)))))
+     .))
+( (S (PP-TMP For
+	     (NP (NP a short time)
+		 (PP-TMP after
+			 (NP June 4))))
+     ,
+     (NP-SBJ it)
+     (VP appeared
+         (SBAR that
+               (S (NP-SBJ the trade picture)
+                  (VP would
+                      (VP remain
+                          (ADJP-PRD fairly bright))))))
+     .))
+( (S (NP-SBJ-1 (NP Many foreign trading offices)
+               (PP-LOC in
+		       (NP Hong Kong)))
+     (VP were
+         (VP swamped
+             (NP *-1)
+             (PP-CLR with
+		     (S-NOM (NP-SBJ (NP telexes and telephone calls)
+				    (PP from
+					(NP Chinese trade officials)))
+			    (VP urging
+				(NP-2 them)
+				(S not
+				   (NP-SBJ *-2)
+				   (VP to
+				       (VP sever
+					   (NP ties)))))))))
+     .))
+( (S (NP-SBJ-2 (NP Even the Bank)
+	       (PP of
+		   (NP China))
+	       ,
+	       (SBAR (WHNP-1 which)
+		     (S (NP-SBJ *T*-1)
+			(VP (ADVP normally)
+			    took
+			    (NP-TMP-CLR weeks)
+			    (S-CLR (NP-SBJ *)
+				   (VP to
+				       (VP process
+					   (NP (NP letters)
+					       (PP of
+						   (NP credit)))))))))
+	       ,)
+     (VP was
+         (VP settling
+             (NP the letters)
+             (PP-MNR at
+		     (NP record speed))
+	     (S-PRP (NP-SBJ *-2)
+		    (VP to
+			(VP dispel
+			    (NP (NP rumors)
+				(PP about
+				    (NP (NP the bank 's)
+					financial health))))))))
+     .))
+( (S But
+     (SBAR-TMP (WHADVP-1 when)
+	       (S (NP-SBJ-2 foreign traders)
+		  (VP tried
+		      (S (NP-SBJ *-2)
+			 (VP to
+			     (VP do
+				 (NP business)
+				 (ADVP-TMP *T*-1)))))))
+     ,
+     (NP-SBJ they)
+     (VP discovered
+         (SBAR that
+               (S (NP-SBJ (NP the eagerness)
+                          (PP of
+                              (NP Chinese trade officials)))
+                  (VP was
+                      (NP-PRD just a smokescreen)))))
+     .))
+( (S (NP-SBJ (NP The suspension)
+             (PP of
+                 (NP foreign loans)))
+     (VP has
+         (VP weakened
+             (NP (NP the buying power)
+                 (PP of
+                     (NP (NP (NP China 's)
+                             national trading companies)
+                         ,
+                         (SBAR (WHNP-1 which)
+                               (S (NP-SBJ *T*-1)
+                                  (VP are
+                                      (PP-PRD among
+                                              (NP (NP the country 's)
+                                                  biggest importers))))))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ Business)
+	      (VP is n't
+		  (ADJP-PRD any better
+			    (PP on
+				(NP the provincial or municipal level)))))
+     ,
+     (NP-SBJ foreign traders)
+     (VP say
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ (NP Shanghai Investment & Trust Co.)
+             ,
+             (VP known
+                 (NP *)
+                 (PP-CLR as
+			 (NP Sitco)))
+             ,)
+     (VP is
+         (NP-PRD (NP (NP the city 's)
+		     main financier)
+                 (PP for
+                     (NP trading business))))
+     .))
+( (S (S (NP-SBJ Sitco)
+        (VP had
+            (ADVP customarily)
+            (VP tapped
+		(NP the Japanese bond market)
+		(PP-CLR for
+			(NP funds)))))
+     , but
+     (S (NP-SBJ it)
+        (VP ca n't
+            (VP do
+                (NP that)
+		(ADVP-TMP any longer))))
+     .))
+( (S (NP-SBJ Foreign traders)
+     (VP say
+         (SBAR 0
+               (S (NP-SBJ the company)
+                  (VP is
+                      (ADJP-PRD strapped
+                                (PP for
+                                    (NP cash)))))))
+     .))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ-3 It)
+		 (VP has
+		     (NP (NP difficulties)
+			 (S-NOM (NP-SBJ *-3)
+				(VP paying
+				    (NP its foreign debts))))))
+	,
+	''
+	(VP says
+	    (S *T*-2))
+	(NP-SBJ (NP a Hong Kong executive)
+		(SBAR (WHNP-1 who)
+		      (S (NP-SBJ *T*-1)
+			 (VP is
+			     (ADJP-PRD familiar
+				       (PP with
+					   (NP (NP Sitco 's)
+					       business)))))))
+	.))
+( (SBARQ ``
+         (WHADVP How)
+         can
+         (SQ (NP-SBJ it)
+             (VP make
+                 (S (ADJP-PRD available)
+		    (NP-SBJ (NP funds)
+			    (PP for
+				(NP purchases))))))
+         ? ''))
+( (S (NP-SBJ Foreign traders)
+     (ADVP also)
+     (VP say
+         (SBAR 0
+               (S (NP-SBJ (NP many)
+                          (PP of
+                              (NP (NP China 's)
+                                  big infrastructural projects)))
+                  (VP have
+		      (VP been
+			  (VP canceled
+			      or
+			      postponed
+			      (PP-PRP because of
+				      (NP (NP the squeeze)
+					  (PP on
+					      (NP (ADJP domestic and foreign) credit))))))))))
+     .))
+( (S (NP-SBJ (NP Albert Lee)
+             ,
+             (NP (NP a veteran trader)
+                 (SBAR (WHNP-2 who)
+                       (S (NP-SBJ *T*-2)
+                          (VP specializes
+                              (PP-CLR in
+				      (NP machinery sales))))))
+             ,)
+     (VP estimates
+         (SBAR that
+               (S (NP-SBJ-1 (NP (QP as many
+				    as
+				    70)
+				%)
+			    (PP of
+				(NP (NP projects)
+				    (SBAR (WHNP-3 that)
+					  (S (NP-SBJ *T*-3)
+					     (VP had
+						 (VP obtained
+						     (NP approval
+							 (S (NP-SBJ *)
+							    (VP to
+								(VP proceed)))))))))))
+		  (VP have
+		      (VP been
+			  (VP canceled
+			      (NP *-1)
+			      (PP-TMP in
+				      (NP recent months))))))))
+     .))
+( (S ``
+     (S-TPC-1 (S (NP-SBJ There)
+		 (VP are
+		     (NP-PRD virtually no new projects)))
+	      , and
+	      (S (NP-SBJ that)
+		 (VP means
+		     (NP (NP no new business)
+			 (PP for
+			     (NP us))))))
+     ,
+     ''
+     (NP-SBJ he)
+     (VP says
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (SBAR-TMP Even
+	       (WHADVP-3 when)
+	       (S (NP-SBJ new lending)
+		  (VP resumes
+		      (ADVP-TMP *T*-3))))
+     ,
+     (NP-SBJ foreign exchange)
+     (VP would
+         (ADVP-TMP still)
+         (VP be
+             (ADJP-PRD tight)
+	     (SBAR-PRP because
+		       (S (NP-SBJ-2 Beijing)
+			  (VP will
+			      (ADVP likely)
+			      (VP try
+				  (S (NP-SBJ *-2)
+				     (VP to
+					 (VP rein
+					     (PP-CLR in
+						     (NP (NP foreign borrowing)
+							 ,
+							 (SBAR (WHNP-1 which)
+							       (S (NP-SBJ *T*-1)
+								  (VP has
+								      (VP grown
+									  (PP-EXT between
+										  (NP (QP 30 % and 40 %) *U*))
+									  (PP-TMP in
+										  (NP the past few years)))))))))))))))))
+     .))
+( (S And
+     (NP-SBJ-1 foreign creditors)
+     (VP are
+         (ADJP-PRD likely
+                   (S (NP-SBJ-3 *-1)
+                      (VP to
+                          (VP be
+                              (ADJP-PRD more cautious
+                                        (PP about
+                                            (S-NOM (NP-SBJ *-3)
+						   (VP extending
+						       (NP new loans)))))
+			      (SBAR-PRP because
+					(S (NP-SBJ China)
+					   (VP is
+					       (VP nearing
+						   (NP a peak repayment period)
+						   (SBAR-ADV as
+							     (S (NP-SBJ-2 many loans)
+								(VP start
+								    (S (NP-SBJ *-2)
+								       (VP falling
+									   (ADJP-PRD due)
+									   (PP-TMP in
+										   (NP the (QP next two
+											       to
+											       five) years))))))))))))))))
+     .))
+( (S (NP-SBJ (NP Another reason)
+             (PP for
+                 (NP (NP the intensity)
+                     (PP of
+                         (NP the trade problems)))))
+     (VP is
+         (SBAR-PRD that
+                   (S (NP-SBJ Beijing)
+                      (VP has
+                          (VP extended
+                              (NP (NP the current clampdown)
+                                  (PP on
+                                      (NP imports)))
+                              (PP-CLR beyond
+				      (NP (NP the usual target)
+					  (PP of
+					      (NP consumer products))))
+                              (S-PRP (NP-SBJ *)
+				     (VP to
+					 (VP include
+					     (NP (NP steel) , (NP chemical fertilizers) and (NP plastics))))))))))
+     .))
+( (S (NP-SBJ These)
+     (VP (VP have
+	     (VP been
+		 (PP-PRD among
+			 (NP (NP the country 's)
+			     leading imports))))
+	 ,
+	 (NP-TMP (NP particularly last year)
+		 (SBAR (WHADVP-2 when)
+		       (S (NP-SBJ there)
+			  (VP were
+			      (NP-PRD (NP shortages)
+				      (SBAR (WHNP-1 that)
+					    (S (NP-SBJ *T*-1)
+					       (VP led
+						   (S (NP-SBJ many traders)
+						      (VP to
+							  (VP (VP buy
+								  (ADVP-MNR heavily))
+							      and
+							      (VP pay
+								  (ADVP-MNR dearly)))))))))
+			      (ADVP-TMP *T*-2))))))
+     .))
+( (S But
+     (NP-SBJ the shortages)
+     (ADVP also)
+     (VP spawned
+         (NP (NP rampant speculation)
+             and
+             (NP spiraling prices)))
+     .))
+( (S (S-PRP (NP-SBJ *-2)
+	    (VP To
+		(VP stem
+		    (NP speculation))))
+     ,
+     (NP-SBJ-2 Beijing)
+     (VP imposed
+	 (NP (NP ceiling prices)
+	     (SBAR (WHNP-1 that)
+		   (S (NP-SBJ *T*-1)
+		      (VP went
+			  (PP-CLR into
+				  (NP effect))
+			  (ADVP-TMP earlier
+				    (NP this year)))))))
+     .))
+( (S (NP-SBJ-2 (NP Traders)
+	       (SBAR (WHNP-1 who)
+		     (S (NP-SBJ *T*-1)
+			(VP had
+			    (VP bought
+				(NP the goods)
+				(PP-LOC at
+					(NP (NP prices)
+					    (PP above
+						(NP the ceiling)))))))))
+     (VP (VP do n't
+	     (VP want
+		 (S (NP-SBJ *-2)
+		    (VP to
+			(VP take
+			    (NP a loss)
+			    (PP on
+				(NP resales)))))))
+	 and
+	 (VP are
+	     (VP holding
+		 (PP-CLR onto
+			 (NP their stock)))))
+     .))
+( (S (NP-SBJ The resulting stockpiling)
+     (VP has
+         (VP depressed
+             (NP the market)))
+     .))
+( (S But
+     (NP-SBJ-1 Beijing)
+     (VP ca n't
+         (VP cut
+             (ADVP-DIR back)
+             (PP on
+                 (NP (NP such essential imports)
+                     (PP as
+                         (NP raw materials))))
+             (PP-TMP for
+		     (NP too long))
+             (PP without
+                 (S-NOM (NP-SBJ *-1)
+			(VP hampering
+			    (NP (NP the country 's)
+				export business))))))
+     .))
+( (S (NP-SBJ (NP Mr. Kamm)
+             ,
+             (NP the China trade expert)
+             ,)
+     (VP estimates
+         (SBAR that
+               (S (NP-SBJ-1 (NP (QP as much
+				    as
+				    50)
+				%)
+			    (PP of
+				(NP (NP Guangdong 's)
+				    exports)))
+                  (VP is
+                      (VP made
+                          (NP *-1)
+                          (PRT up)
+                          (PP-CLR of
+				  (NP processed imported raw materials)))))))
+     .))

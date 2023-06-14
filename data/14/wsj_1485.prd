@@ -1,0 +1,82 @@
+
+
+( (S (NP-SBJ (NP Home Beneficial Corp.)
+             ,
+             (NP (NP Richmond)
+                 ,
+                 (NP Va.))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-2 it)
+                  (VP contracted
+                      (S (NP-SBJ *-2)
+                         (VP to
+                             (VP sell
+                                 (NP (NP its (ADJP 50 %) interest)
+                                     (PP-LOC in
+					     (NP a Richmond-area shopping mall)))
+                                 (PP-DTV to
+					 (NP (NP a buyer)
+					     (SBAR (WHNP-1 that)
+						   (S (NP-SBJ-3 *T*-1)
+						      (VP was n't
+							  (VP identified
+							      (NP *-3))))))))))))))
+     .))
+( (S (NP-SBJ The life-insurance holding company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the sale)
+                  (VP would
+                      (VP result
+                          (PP-CLR in
+				  (NP (NP an after-tax gain)
+				      (PP of
+					  (NP (NP (QP about $ 32 million) *U*)
+					      , or
+					      (NP (NP $ 3.09 *U*)
+						  (NP-ADV a share))))))
+			  ,
+			  (PP-TMP in 
+				  (NP (NP the first quarter)
+				      (PP of))))))))))
+( (S (NP-SBJ The company)
+     (ADVP also)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP will
+                      (VP adopt
+                          (NP new accounting standards)
+			  (PP-TMP in
+				  (NP the first quarter)))))))
+     .))
+( (S (NP-SBJ The change)
+     (VP will
+         (VP result
+             (PP-CLR in
+		     (NP (NP a charge)
+			 (PP of
+			     (NP (NP (QP about $ 8.5 million) *U*)
+				 , or
+				 (NP (NP 82 cents)
+				     (NP-ADV a share))
+				 ,))))
+	     (PP-PRP because of
+		     (NP (NP an increase)
+			 (PP-LOC in
+				 (NP deferred income-tax liability))))))
+     .))
+( (S (PP-TMP In
+	     (NP (NP the first quarter)
+		 (PP of
+		     (NP 1988))))
+     ,
+     (NP-SBJ the company)
+     (VP earned
+         (NP (NP (QP $ 10 million) *U*)
+             , or
+             (NP (NP 94 cents)
+                 (NP-ADV a share))))
+     .))

@@ -1,0 +1,21 @@
+
+
+( (S (NP-SBJ-1 (NP Roland J. Hawkins)
+               ,
+               (NP (NP chairman)
+                   (PP of
+                       (NP Jet Vacations Inc.)))
+               ,)
+     (VP was
+         (VP elected
+             (NP *-1)
+             (PP-CLR to
+		     (NP (NP the board)
+			 (PP of
+			     (NP this cruise line))))))
+     .))
+( (S (NP-SBJ The board)
+     (VP expands
+         (PP-CLR to
+		 (NP seven members)))
+     .))

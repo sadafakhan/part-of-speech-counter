@@ -1,0 +1,78 @@
+
+
+( (S (NP-SBJ This Toronto closed-end fund)
+     (VP cut
+         (NP (NP the annual dividend)
+             (PP on
+                 (NP its Class A common shares)))
+         (PP-DIR to
+		 (NP one Canadian cent))
+         (PP-DIR from
+		 (NP 10 Canadian cents)))
+     .))
+( (S (NP-SBJ The fund)
+     (VP invests
+         (ADVP mainly)
+         (PP-LOC in
+		 (NP gold and silver bullion)))
+     .))
+( (S (NP-SBJ It)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the reduced dividend)
+                  (VP reflects
+                      (NP (NP the low price)
+                          (PP for
+                              (NP precious metals)))))))
+     .))
+( (S (NP-SBJ (NP Greg Davies)
+             ,
+             (NP (NP (NP Central Fund 's)
+                     vice president)
+                 ,
+                 (NP finance)
+                 ,))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP losses)
+                          (PP for
+                              (NP (NP the fiscal year)
+                                  (VP ending
+                                      (NP-TMP-CLR Oct. 31)))))
+                  (VP could
+                      (VP be
+                          (ADJP-PRD (ADJP as high)
+                                    (PP as
+                                        (NP (NP (QP one million) Canadian dollars)
+                                            (PRN -LRB-
+						 (NP US$ 852,000 *U*)
+						 -RRB-)))))))))
+     .))
+( (S (NP-SBJ The fund)
+     (ADVP-TMP last)
+     (VP had
+         (NP a profit)
+         (PP-TMP in
+		 (NP 1985)))
+     .))
+( (S (NP-SBJ The new dividend rate)
+     (VP is
+         (ADJP-PRD payable
+                   (NP-TMP Nov. 15)
+                   (PP to
+                       (NP (NP holders)
+                           (PP of
+                               (NP (NP record)
+                                   (NP-TMP Oct. 31)))))))
+     .))
+( (S (PP-LOC In
+	     (NP American Stock Exchange composite trading))
+     (NP-TMP Friday)
+     ,
+     (NP-SBJ Central Fund)
+     (VP was
+         (ADJP-PRD unchanged)
+         (PP-CLR at
+		 (NP (NP $ 4.6875 *U*)
+		     (NP-ADV a share))))
+     .))

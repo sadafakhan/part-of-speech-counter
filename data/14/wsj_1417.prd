@@ -1,0 +1,55 @@
+
+
+( (S (NP-SBJ ENGRAPH INC.)
+     (VP (ADVP-TMP recently)
+         reported
+         (NP (NP third-quarter earnings)
+             ,
+             (SBAR (WHNP-2 which)
+                   (S (NP-SBJ-1 *T*-2)
+                      (VP were
+                          (VP (ADVP mistakenly)
+                              shown
+                              (PP-LOC in
+				      (NP the Quarterly Earnings Surprises table))
+                              (PP-LOC in
+				      (NP (NP last Tuesday 's)
+					  edition))
+                              (S (NP-SBJ *-1)
+                                 (VP to
+                                     (VP be
+                                         (ADJP-PRD (ADJP lower)
+                                                   (PP than
+                                                       (NP (NP the average)
+                                                           (PP of
+                                                               (NP (NP analysts ')
+                                                                   estimates))))))))))))))
+     .))
+( (S (NP-SBJ Zacks Investment Research)
+     (VP did n't
+	 (VP adjust
+	     (NP (NP (NP one analyst 's)
+		     estimate)
+		 (PP for
+		     (NP a stock split))
+		 ,
+		 (SBAR (WHNP-1 which)
+		       (S (ADVP therefore)
+			  (NP-SBJ *T*-1)
+			  (VP was
+			      (ADJP-PRD artificially high)))))))
+     .))
+( (S (NP-SBJ (NP (NP Engraph 's)
+		 third-quarter net income)
+             (PP of
+                 (NP (NP 15 cents)
+                     (NP-ADV a share))))
+     (ADVP actually)
+     (VP was
+	 (ADJP-PRD (ADJP (NP-EXT 7 %)
+			 higher)
+		   (PP than
+		       (NP (NP the adjusted average)
+			   (PP of
+			       (NP estimates))))))
+     .))

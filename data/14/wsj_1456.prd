@@ -1,0 +1,190 @@
+
+
+( (S (NP-SBJ (NP Pittston Co. 's)
+             third-quarter net income)
+     (VP (VP plunged
+	     (NP-EXT 79 %))
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP reflecting
+		    (NP (NP the impact)
+			(PP of
+			    (NP (NP a (ADJP prolonged and bitter) labor strike)
+				(PP-LOC at
+					(NP its coal operations))))))))
+     .))
+( (S (NP-SBJ Net)
+     (VP sank
+         (PP-DIR to
+		 (NP (NP (QP $ 3.1 million) *U*)
+		     , or
+		     (NP (NP eight cents)
+			 (NP-ADV a share))))
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP including
+		    (NP (NP $ 789,000 *U*)
+			, or
+			(NP (NP two cents)
+			    (NP-ADV a share)))))
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP reflecting
+		    (NP a tax-loss carry-forward))))
+     .))
+( (S (PP-TMP In
+	     (NP the year-ago quarter))
+     ,
+     (NP-SBJ net)
+     (VP totaled
+         (NP (NP (QP $ 14.7 million) *U*)
+             , or
+             (NP (NP 38 cents)
+                 (NP-ADV a share)))
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP including
+		    (NP (NP (QP $ 4 million) *U*)
+			, or
+			(NP (NP 10 cents)
+			    (NP-ADV a share)))))
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP reflecting
+		    (NP a tax-loss carry-forward))))
+     .))
+( (S (NP-SBJ Revenue)
+     (VP slipped
+         (NP-EXT 0.7 %)
+         (PP-DIR to
+		 (NP (QP $ 395.3 million) *U*))
+	 (PP-DIR from
+		 (NP (QP $ 398.3 million) *U*)))
+     .))
+( (S (NP-SBJ Pittston)
+     (ADVP also)
+     (VP owns
+         (NP (NP (NP (NP Brink 's)
+                     Inc.)
+                 ,
+                 (NP the security service))
+             , and
+             (NP (NP Burlington Air Express)
+                 ,
+                 (NP the air-freight concern))))
+     .))
+( (S (S-TPC-1 (PP In
+		  (NP (NP addition)
+		      (PP to
+			  (NP (NP expected losses)
+			      (VP tied
+				  (NP *)
+				  (PP-CLR to
+					  (NP the labor strike)))))))
+	      ,
+	      (NP-SBJ the coal group)
+	      (VP has
+		  (VP spent
+		      (NP (QP almost $ 20 million) *U*)
+		      (SBAR-TMP since
+				(S (NP-SBJ the strike)
+				   (VP began)))
+		      (PP-CLR for
+			      (NP security)))))
+     ,
+     (NP-SBJ the company)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (PP As
+         (NP a result))
+     ,
+     (NP-SBJ (NP the group 's)
+             third-quarter loss)
+     (VP widened
+         (PP-DIR to
+		 (NP (QP $ 9.8 million) *U*))
+	 (PP-DIR from
+		 (NP (NP the second quarter 's)
+		     (QP $ 3.6 million) *U*)))
+     .))
+( (S (S-TPC-2 (NP-SBJ-1 Pittston)
+	      (VP continues
+		  (S (NP-SBJ *-1)
+		     (VP to
+			 (VP hire
+			     (NP replacement workers))))))
+     ,
+     (NP-SBJ the company)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (S-TPC-1 (NP-SBJ (NP Burlington 's)
+		      operating profit)
+	      (VP grew
+		  (PP-DIR to
+			  (NP (QP $ 9.2 million) *U*))
+		  (PP-DIR from
+			  (NP (QP $ 3.8 million) *U*)
+			  (ADVP-TMP (NP a year)
+				    earlier))))
+     ,
+     (NP-SBJ Pittston)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (S-TPC-1 (SBAR-ADV While
+			(S (NP-SBJ ``
+				   (NP the tone)
+				   ''
+				   (PP of
+				       (NP domestic and international air-freight markets)))
+			   (VP remains
+			       (NP-PRD sound))))
+	      ,
+	      (NP-SBJ-2 seasonal factors)
+	      (VP are
+		  (ADJP-PRD likely
+			    (S (NP-SBJ *-2)
+			       (VP to
+				   (VP hinder
+				       (NP-3 Burlington Air)
+				       (PP-CLR from
+					       (S-NOM (NP-SBJ *-3)
+						      (VP matching
+							  (NP third-quarter results)
+							  (PP-TMP in
+								  (NP the fourth quarter)))))))))))
+     ,
+     (NP-SBJ Pittston)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ (NP Brink 's)
+             operating profit)
+     (VP was
+         (ADJP-PRD about flat
+                   (PP with
+                       (NP the year-earlier period)))
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP reflecting
+		    (NP continued pricing and cost pressures))))
+     .))
+( (S (PP-LOC In
+	     (NP New York Stock Exchange composite trading))
+     (NP-TMP Friday)
+     ,
+     (NP-SBJ Pittston)
+     (VP closed
+         (PP-CLR at
+		 (NP (NP $ 18.50 *U*)
+		     (NP-ADV a share)))
+         ,
+         (ADVP down
+	       (NP 12.5 cents)))
+     .))

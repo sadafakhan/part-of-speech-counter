@@ -1,0 +1,166 @@
+
+
+( (S (NP-SBJ (NP The Office)
+             (PP of
+                 (NP Thrift Supervision)))
+     (VP banned
+         (NP-1 (NP B.J. Garman)
+	       ,
+	       (NP (NP a former director)
+		   (PP of
+		       (NP (NP the failed Vision Banc Savings Association)
+			   (PP of
+			       (NP (NP Kingsville)
+				   ,
+				   (NP Texas)
+				   ,))))))
+         (PP-CLR from
+		 (S-NOM (NP-SBJ *-1)
+			(VP working
+			    (PP-LOC in
+				    (NP (NP any financial institution)
+					(VP insured
+					    (NP *)
+					    (PP by
+						(NP-LGS the government)))))))))
+     .))
+( (S (NP-SBJ (NP The office)
+             ,
+             (NP (NP a Treasury Department unit)
+                 (SBAR (WHNP-2 that)
+                       (S (NP-SBJ *T*-2)
+                          (VP is
+                              (NP-PRD (NP the successor)
+                                      (PP to
+                                          (NP the Federal Home Loan Bank Board)))))))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ this)
+                  (VP was
+                      (NP-PRD (NP the first announcement)
+                              (PP of
+                                  (NP an enforcement action)))
+		      (SBAR-TMP since
+				(S (NP-SBJ (NP this year 's)
+					   thrift-bailout legislation)
+				   (VP ordered
+				       (SBAR that
+					     (S (NP-SBJ-1 (NP all such actions)
+							  (PP by
+							      (NP federal banking regulators)))
+						(VP be
+						    (VP made
+							(S (NP-SBJ *-1)
+							   (ADJP-PRD public)))))))))))))
+     .))
+( (S (ADVP Generally)
+     ,
+     (NP-SBJ regulators)
+     (VP have n't
+         (VP announced
+             (NP enforcement actions)
+	     (PP-TMP in
+		     (NP the past))))
+     .))
+( (S (ADVP Indeed)
+     ,
+     (NP-SBJ the OTS)
+     (VP said
+         (SBAR that
+               (S (SBAR-TMP before
+			    (S (NP-SBJ the law)
+			       (VP took
+				   (NP effect)
+				   (NP-TMP Aug. 9))))
+                  ,
+                  (NP-SBJ it)
+                  (VP banned
+                      (NP another `` key Vision Banc insider '')
+                      (PP-CLR from
+			      (NP insured financial institutions))))))
+     .))
+( (S (NP-SBJ-1 That individual)
+     (VP was n't
+         (VP identified
+	     (NP *-1)))
+     .))
+( (S (S (NP-SBJ-1 Vision Banc)
+        (VP was
+            (VP placed
+                (NP *-1)
+                (PP-LOC in
+			(NP government conservatorship))
+		(PP-TMP in
+			(NP March)))))
+     , and
+     (S (NP-SBJ it)
+        (VP operates
+            (PP-LOC under
+		    (NP (NP the control)
+			(PP of
+			    (NP (NP the Resolution Trust Corp.)
+				,
+				(NP (NP the agency)
+				    (VP created
+					(S-PRP (NP-SBJ *)
+					       (VP to
+						   (VP sell or liquidate
+						       (NP insolvent thrifts))))))))))))
+     .))
+( (S (NP-SBJ The OTS)
+     (VP did n't
+         (VP say
+             (ADVP specifically)
+             (SBAR (WHADVP-2 why)
+                   (S (NP-SBJ-1 the action)
+                      (VP was
+                          (VP taken
+                              (NP *-1)
+                              (PP-CLR against
+				      (NP Ms. Garman))
+			      (ADVP-PRP *T*-2)))))))
+     .))
+( (S (ADVP However)
+     ,
+     (NP-SBJ it)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ examiners)
+                  (VP found
+                      (NP (NP a variety)
+			  (PP of
+			      (NP (NP insider dealings)
+				  (PP-LOC at
+					  (NP the thrift))))
+                          ,
+			  (PP including
+			      (NP (NP ``
+				      (NP extraordinary loan commissions)
+				      ''
+				      (VP paid
+					  (NP *)
+					  (PP-DTV to
+						  (NP (NP a firm)
+						      (VP associated
+							  (NP *)
+							  (PP-CLR with
+								  (NP Vision Banc officials)))))))
+				  , and
+				  (NP (NP loans)
+				      (VP diverted
+					  (NP *)
+					  (PP through
+					      (NP borrowers))
+					  (PP-DIR back 
+						  (PP to
+						      (NP the thrift officials))))))))))))
+     .))
+( (S (NP-SBJ-1 Ms. Garman)
+     (VP could n't
+	 (VP be
+	     (VP reached
+		 (NP *-1)
+		 (PP-CLR for
+			 (NP comment)))))
+     .))

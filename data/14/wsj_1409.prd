@@ -1,0 +1,353 @@
+
+
+( (S (NP-SBJ Bureaucrats)
+     (VP may
+         (VP deserve
+             (NP their bad reputation)
+	     ,
+	     (PP after
+		 (NP all))))
+     .))
+( (S (NP-SBJ (NP Matthew Lesko)
+             ,
+             (NP (NP something)
+                 (PP of
+                     (NP (NP a professional defender)
+                         (PP of
+                             (NP government)))))
+             ,)
+     (VP thought
+         (SBAR 0
+               (S (NP-SBJ he)
+                  (VP had
+                      (NP a sure-fire winner)
+                      (NP-TMP last summer)
+		      (SBAR (WHADVP-1 when)
+			    (S (NP-SBJ he)
+			       (VP offered
+				   (NP $ 5,000 *U*)
+				   (PP-CLR for
+					   (NP (NP the best `` verifiable story)
+					       (PP of
+						   (NP (NP 250 words)
+						       (QP or less)))
+					       (PP about
+						   (SBAR-NOM (WHADVP-2 how)
+							     (S (NP-SBJ a government bureaucrat)
+								(VP helped
+								    (NP you)
+								    (ADVP-MNR *T*-2)))))))
+				   (ADVP-TMP *T*-1))))))))
+     . ''))
+( (S (NP-SBJ He)
+     (VP sent
+         (PRT out)
+         (NP (NP thousands)
+             (PP of
+                 (NP news releases)))
+         (PP-CLR from
+		 (NP his
+		     (NAC-LOC Kensington
+			      ,
+			      Md.
+			      ,)
+		     office)))
+     .))
+( (S (NP-SBJ He)
+     (VP plugged
+         (NP the contest)
+	 (PP-LOC (PP on
+		     (NP (NP Larry King 's)
+			 radio show))
+		 ,
+		 (PP on
+		     (NP (NP Pat Sajak 's)
+			 television show))
+		 and
+		 (PP on
+		     (NP the C-SPAN cable television network))))
+     .))
+( (S (NP-SBJ He)
+     (VP talked
+         (PP-CLR about
+		 (NP it))
+	 (PP-LOC in
+		 (NP (NP every speech)
+		     (SBAR (WHNP-2 0)
+			   (S (NP-SBJ he)
+			      (VP made
+				  (NP *T*-2))))))
+	 (SBAR-TMP as
+		   (S (NP-SBJ-3 he)
+		      (VP (VP roamed
+			      (NP the country)
+			      (S-ADV (NP-SBJ *-3)
+				     (VP promoting
+					 (NP (NP his books)
+					     ,
+					     (SBAR (WHNP-1 which)
+						   (S (NP-SBJ *T*-1)
+						      (VP dispense
+							  (NP (NP handy how-to advice)
+							      (PP on
+								  (S-NOM (NP-SBJ *)
+									 (VP using
+									     (NP government information)
+									     (PP for
+										 (NP fun and profit)))))))))))))))))
+     .))
+( (S (NP-SBJ Mr. Lesko)
+     (VP figured
+         (SBAR 0
+               (S (NP-SBJ-1 he)
+                  (VP would
+		      (VP be
+			  (VP flooded
+			      (NP *-1)
+			      (PP-CLR with
+				      (NP entries))
+			      (PP-TMP by
+				      (NP now))))))))
+     .))
+( (S-1 (PP After
+	   (NP all))
+       (PRN ,
+	    (S (NP-SBJ he)
+	       (VP says
+		   (SBAR 0
+			 (S *T*-1))))
+	    ,)
+       ``
+       (NP-SBJ we)
+       (VP 've
+	   (VP got
+	       (NP (QP like 15 million) bureaucrats)))
+       . ''))
+( (S And
+     (PP in
+         (NP (NP addition)
+             (PP to
+                 (NP the $ 5,000 *U*))))
+     ,
+     (NP-SBJ he)
+     (VP has
+         (VP (VP promised
+                 (NP the winner)
+                 (NP a
+                     (NAC-TTL `` My Favorite Bureaucrat '')
+                     plaque))
+             and
+             (VP offered
+                 (NP (NP each)
+                     (PP of
+                         (NP two runners-up)))
+                 (NP $ 500 *U*))))
+     .))
+( (S (ADVP-TMP So far)
+     ,
+     (ADVP though)
+     ,
+     (NP-SBJ Mr. Lesko)
+     (VP has
+         (VP received
+             (NP (QP only one) entry)))
+     .))
+( (S (S-ADV (NP-SBJ *)
+	    (VP To
+		(VP make
+		    (S (NP-SBJ matters)
+		       (ADJP-PRD worse)))))
+     ,
+     (NP-SBJ the lone nomination)
+     (VP came
+	 (PP-CLR from
+		 (NP (NP another bureaucrat)
+		     :
+		     (NP (NP A woman)
+			 (PP from
+			     (NP (NP the New York State Department)
+				 (PP of
+				     (NP Taxation and Finance))))
+			 (SBAR (WHNP-1 who)
+			       (S (NP-SBJ *T*-1)
+				  (VP nominated
+				      (NP her boss))))))))
+     .))
+( (S (NP-SBJ (NP Mr. Lesko)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP is
+                          (VP making
+                              (NP the rules)
+			      (SBAR-TMP as
+					(S (NP-SBJ he)
+					   (VP goes)))))))
+             ,)
+     (VP has
+         (VP determined
+             (SBAR that
+                   (S (NP-SBJ bureaucrats)
+                      (VP are
+                          (ADJP-PRD eligible
+                                    (PP for
+                                        (NP (NP nomination)
+                                            (PP by
+                                                (NP other bureaucrats))))))))))
+     .))
+( (S But
+     (NP-SBJ he)
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ-1 he)
+                  (VP would
+                      (VP prefer
+                          (S (NP-SBJ *-1)
+                             (VP to
+                                 (VP get
+                                     (NP nominations)
+                                     (PP from
+                                         (NP rank-and-file folks))))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP admits
+         (SBAR that
+               (S (NP-SBJ he)
+                  (VP has n't
+                      (VP had
+                          (NP (NP much luck)
+			      (S-NOM (NP-SBJ *)
+				     (VP generating
+					 (NP (NP free publicity)
+					     (PP for
+						 (NP his contest)))))))))))
+     .))
+( (S (NP-SBJ (NP Newspapers)
+             ,
+             (PP including
+                 (NP this one))
+             ,)
+     (VP have
+         (VP (ADVP generally)
+             ignored
+             (NP his news releases)))
+     .))
+( (S (NP-SBJ Talk show hosts)
+     (VP (ADVP-MNR quickly)
+         change
+         (NP the topic))
+     .))
+( (S But
+     (NP-SBJ-1 (NP Mr. Lesko 's)
+	       staff)
+     (VP is
+         (VP beginning
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP wonder
+                        (SBAR-NOM whether
+				  (S (NP-SBJ there)
+				     (VP is n't
+					 (NP-PRD (NP some larger phenomenon)
+						 (VP foiling
+						     (NP the contest)))))))))))
+     .))
+( (SINV ``
+	(SQ-TPC-1 Is
+		  (NP-SBJ the government)
+		  not
+		  (VP helping
+		      (NP anybody)))
+	? ''
+	(VP asks
+	    (SQ *T*-1))
+	(NP-SBJ (NP Toni Murray)
+		,
+		(NP (NP an assistant)
+		    (PP to
+			(NP Mr. Lesko))))
+	.))
+( (S (NP-SBJ (NP Mr. Lesko)
+             (NP himself))
+     (VP is n't
+         (ADVP-TMP yet)
+         (ADJP-PRD prepared
+                   (S (NP-SBJ *)
+                      (VP to
+                          (VP accept
+                              (NP that explanation))))))
+     .))
+( (S (S-TPC-2 ``
+	      (NP-SBJ-1 People)
+	      (VP hate
+		  (S (NP-SBJ *-1)
+		     (VP to
+			 (VP write))))
+	      , '')
+     (NP-SBJ he)
+     (VP says
+	 (S *T*-2))
+     .))
+( (S ``
+     (ADVP Maybe)
+     (NP-SBJ people)
+     (VP do n't
+	 (VP believe
+	     (SBAR 0
+		   (S (NP-SBJ-1 I)
+		      (VP want
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP give 
+				     (NP this money)
+				     (ADVP-CLR away)))))))))
+     . ''))
+( (S (ADVP Maybe)
+     (NP-SBJ Americans)
+     (VP are
+         (ADJP-PRD (ADJP just so annoyed
+			 (PP with
+			     (NP government)))
+		   (SBAR that
+                         (S (NP-SBJ they)
+                            (VP are n't
+                                (ADJP-PRD interested
+                                          (PP in
+                                              (S-NOM (NP-SBJ *)
+						     (VP admitting
+							 (SBAR that
+							       (S (NP-SBJ bureaucrats)
+								  (VP come
+								      (PRT in)
+								      (ADVP-CLR handy)
+								      (ADVP-TMP once
+										(PP in
+										    (NP a while)))))))))))))))
+     .))
+( (S-2 (SBAR-ADV If
+		 (S (NP-SBJ he)
+		    (VP sponsored
+			(NP (NP a contest)
+			    (PP on
+				(SBAR-NOM (WHADVP-1 how)
+					  (S (NP-SBJ a bureaucrat)
+					     (VP mishandled
+						 (NP something)
+						 (ADVP-MNR *T*-1)))))))))
+       (PRN ,
+	    (S (NP-SBJ Mr. Lesko)
+	       (VP admits
+		   (SBAR 0
+			 (S *T*-2)))))
+       ,
+       ``
+       (NP-SBJ I)
+       (VP 'd
+	   (VP get
+	       (NP 5,000 entries)))
+       . ''))
+( (S (ADVP Now)
+     (NP-SBJ there)
+     (VP 's
+         (NP-PRD an idea))
+     .))

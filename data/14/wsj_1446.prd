@@ -1,0 +1,932 @@
+
+
+( (S (S (NP-SBJ *)
+        (VP Move
+            (ADVP-DIR over)
+	    ,
+	    (NP-VOC pornographic phone services)))
+     :
+     (S (NP-SBJ-1 (NP A legal service)
+                  (PP with
+                      (NP a `` 900 '' number)))
+        (VP has
+	    (VP been
+		(VP launched
+		    (NP *-1)
+		    (PP-LOC in
+			    (NP California))))))
+     .))
+( (S (NP-SBJ-1 A Newport Beach law firm)
+     (VP started
+         (NP (NP the pay-as-you-go legal service)
+             ,
+             (VP called
+                 (S (NP-SBJ *)
+		    (NP-PRD Telelawyer)))
+             ,)
+	 (S-ADV (NP-SBJ *-1)
+		(VP using
+		    (NP (NP MCI Communication Corp. 's)
+			toll-tele-phone service))))
+     .))
+( (S (NP-SBJ Cane & Associates)
+     (VP touts
+         (NP its (ADJP $ 2-a-minute *U*) service )
+         (PP-CLR as
+		 (NP (NP the `` cheapest legal hour)
+		     (SBAR (WHNP-1 0)
+			   (S (NP-SBJ you)
+			      (VP 'll
+				  (ADVP-TMP ever)
+				  (VP find
+				      (NP *T*-1))))))))
+     . ''))
+( (S (SBAR-ADV Though
+	       (S (NP-SBJ the service)
+		  (VP is
+		      (ADJP-PRD available
+				(PP-LOC (ADVP only) in
+					(NP California))))))
+     ,
+     (NP-SBJ Telelawyer founder
+	     Michael Cane)
+     (VP says
+	 (SBAR 0
+	       (S (NP-SBJ-1 he)
+		  (VP plans
+		      (S (NP-SBJ *-1)
+			 (VP to
+			     (VP franchise
+				 (NP it)
+				 (PP-LOC in
+					 (NP other states)))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ his aim)
+                  (VP is
+		      (S-PRD (NP-SBJ *)
+			     (VP to
+				 (VP reach
+				     (NP (NP people)
+					 (SBAR (WHNP-1 who)
+					       (S (NP-SBJ *T*-1)
+						  (VP (VP are
+							  (ADJP-PRD bedridden))
+						      ,
+						      (VP have
+							  (NP (NP no access)
+							      (PP to
+								  (NP transportation))))
+						      ,
+						      (VP ca n't
+							  (VP find
+							      (NP (NP a lawyer)
+								  (SBAR (WHNP-2 0)
+									(S (NP-SBJ *T*-2)
+									   (VP to
+									       (VP take
+										   (NP their case))))))))
+						      or
+						      (VP (ADVP simply) ca n't
+							  (VP afford
+							      (NP (NP lawyers ')
+								  consultation fees))))))))))))))
+     .))
+( (S (NP-SBJ Mr. Cane)
+     (VP stresses
+         (SBAR that
+               (S (NP-SBJ he)
+                  (VP is n't
+                      (VP using
+                          (NP-1 the telephone)
+			  (S-CLR (NP-SBJ *-1)
+				 (VP to
+				     (VP lure
+					 (NP clients)
+					 (PP-LOC-CLR to
+						     (NP his doorstep))))))))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ We)
+	      (VP will
+		  (ADVP only)
+		  (VP deal
+		      (PP-CLR with
+			      (NP clients))
+		      (PP-LOC on
+			      (NP the phone)))))
+     ,
+     ''
+     (NP-SBJ he)
+     (VP says
+	 (S *T*-1))
+     .))
+( (S ``
+     (NP-SBJ We)
+     (VP have
+         (NP no in-office business))
+     . ''))
+( (S (NP-SBJ Telelawyer)
+     (VP is
+         (ADVP apparently)
+         (NP-PRD (NP the only telephone service)
+                 (SBAR (WHNP-1 that)
+                       (S (NP-SBJ *T*-1)
+                          (VP offers
+                              (NP (NP the telephone equivalent)
+                                  (PP of
+                                      (NP an office visit))))))))
+     .))
+( (S (NP-SBJ (NP Local bar associations)
+             (PP-LOC in
+		     (NP some states)))
+     (VP have
+         (NP (NP numbers)
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ *T*-1)
+                      (VP provide
+                          (NP (NP free tape-recorded messages)
+                              (VP explaining
+                                  (NP (NP certain areas)
+                                      (PP of
+                                          (NP the law))))))))))
+     .))
+( (S (NP-SBJ There)
+     (ADVP also)
+     (VP are
+         (NP-PRD (NP `` 800 '' hotlines)
+                 (SBAR (WHNP-1 which)
+                       (S (NP-SBJ *T*-1)
+                          (VP refer
+                              (NP people)
+                              (PP-CLR to
+				      (NP (NP lawyers)
+					  ,
+					  (NP usually personal-injury specialists)
+					  ,))
+                              (PP-PRP for
+				      (NP in-office consultation)))))))
+     .))
+( (S (SBAR-TMP (WHADVP-1 When)
+	       (S (NP-SBJ-2 a caller)
+		  (VP reaches
+		      (NP Telelawyer)
+		      (PP-MNR by
+			      (S-NOM (NP-SBJ *-2)
+				     (VP dialing
+					 (NP 900-TELELAW))))
+		      (ADVP-TMP *T*-1))))
+     ,
+     (NP-SBJ a receptionist)
+     (VP refers
+         (NP the call)
+         (PP-CLR to
+		 (NP (NP one)
+		     (PP of
+			 (NP six attorneys)))))
+     .))
+( (S (PP In
+         (NP an effort
+             (S (NP-SBJ *)
+                (VP to
+                    (VP determine
+                        (SBAR-NOM whether
+				  (S (NP-SBJ a caller)
+				     (VP has
+					 (NP (NP reason)
+					     (SBAR (WHADVP-2 0)
+						   (S (NP-SBJ *)
+						      (VP to
+							  (VP sue
+							      (ADVP-PRP *T*-2))))))))))))))
+     ,
+     (NP-SBJ Cane lawyers)
+     (VP (VP review
+             (NP documents))
+         and
+         (VP perform
+             (NP research)
+             ,
+             (SBAR-ADV if
+		       (FRAG (ADJP necessary)))
+             ,)
+	 (PP with
+	     (NP (NP the help)
+		 (PP of
+		     (NP (NP three law clerks)
+			 and
+			 (NP several support staffers))))))
+     .))
+( (S (NP-SBJ There)
+     (VP is
+         (NP-PRD (NP no charge)
+                 (PP (PP for
+                         (NP research))
+                     --
+                     (PP (ADVP only) for
+                         (NP (NP time)
+                             (PP on
+                                 (NP the phone)))))))
+     .))
+( (S-1 (SBAR-ADV If
+		 (S (NP-SBJ the matter)
+		    (VP requires
+			(NP further legal work or litigation))))
+       (PRN ,
+	    (NP-SBJ Mr. Cane)
+	    (VP says
+		(S *T*-1))
+	    ,)
+       (NP-SBJ his lawyers)
+       (VP may
+	   (VP refer
+	       (NP the client)
+	       (PP-CLR to
+		       (NP a law firm))))
+       .))
+( (S But
+     (NP-SBJ he)
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ Cane & Associates)
+                  (VP does n't
+                      (VP receive
+                          (NP referral fees))))))
+     .))
+( (S-1 (ADVP-TMP So far)
+       (PRN ,
+	    (SINV (VP says
+		      (S *T*-1))
+		  (NP-SBJ Mr. Cane))
+	    ,)
+       (NP-SBJ most calls)
+       (VP have
+	   (VP involved
+	       (NP (NP landlord-tenant problems)
+		   ,
+		   (NP tax problems)
+		   ,
+		   (NP divorce)
+		   , and
+		   (NP probate questions))))
+       .))
+( (S (S (NP-SBJ The firm)
+        (VP is
+            (VP getting
+                (NP (NP (QP about 50) calls)
+                    (NP-ADV a day)))))
+     , and
+     (S (NP-SBJ the average call)
+        (VP lasts
+            (NP (QP about 15) minutes)))
+     .))
+( (S (PP Out
+         (PP of
+             (NP the (ADJP $ 2 *U*) charge)))
+     ,
+     (NP-SBJ the law firm)
+     (VP pockets
+         (NP (QP about $ 1.55) *U*))
+     .))
+( (S (NP-SBJ JURY)
+     (VP CONVICTS
+         (NP congressman)
+         (PP in
+             (NP (NP connection)
+                 (PP with
+                     (NP Wedtech Corp. scandal)))))
+     .))
+( (S (NP-SBJ (NP A federal court jury)
+             (PP-LOC in
+		     (NP New York)))
+     (VP found
+         (S (NP-SBJ (NP (NP U.S. Rep. Robert Garcia)
+			(PRN -LRB-
+			     (NP (NP D.)
+				 ,
+				 (NP-LOC N.Y .))
+			     -RRB-))
+		    and
+		    (NP (NP his wife)
+			,
+			(NP Jane Lee Garcia)
+			,))
+	    (ADJP-PRD guilty
+		      (PP of
+			  (S-NOM (NP-SBJ *)
+				 (VP extorting
+				     (NP $ 76,000 *U*)
+				     (PP-CLR from
+					     (NP Wedtech))
+				     (PP in
+					 (NP (NP return)
+					     (PP for
+						 (NP (NP official acts)
+						     (PP by
+							 (NP the congressman))))))))))))
+     .))
+( (S (NP-SBJ The jury)
+     (ADVP also)
+     (VP convicted
+         (NP them)
+         (PP-CLR of
+		 (NP (NP extortion)
+		     (PP in
+			 (S-NOM (NP-SBJ *)
+				(VP obtaining
+				    (NP a (ADJP $ 20,000 *U*) , interest-free loan)
+				    (PP-CLR from
+					    (NP a Wedtech officer))))))))
+     .))
+( (S (NP-SBJ The jury)
+     (VP found
+         (S (NP-SBJ them)
+	    (ADJP-PRD guilty
+		      (PP of
+			  (NP (NP conspiracy)
+			      (PP in
+				  (S-NOM (NP-SBJ *)
+					 (VP obtaining
+					     (NP (NP the payments)
+						 ,
+						 (NP (SBAR-NOM (WHNP-3 (NP some)
+								       (PP of
+									   (WHNP which)))
+							       (S (NP-SBJ-1 *T*-3)
+								  (VP were
+								      (VP disguised
+									  (NP *-1)
+									  (PP-CLR as
+										  (NP (NP fees)
+										      (PP for
+											  (NP (NP consulting services)
+											      (PP from
+												  (NP Mrs. Garcia))))))))))))))))))))
+     .))
+( (S (NP-SBJ (NP Wedtech)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP became
+                          (VP embroiled
+                              (PP-CLR in
+				      (NP (NP political-corruption cases)
+					  (SBAR (WHNP-2 that)
+						(S (ADVP-TMP eventually)
+						   (NP-SBJ *T*-2)
+						   (VP led
+						       (PP-CLR to
+							       (NP its demise)))))))))))
+             ,)
+     (ADVP-TMP formerly)
+     (VP was
+         (NP-PRD a minority-owned
+                 (NAC-LOC South Bronx
+			  ,
+			  N.Y.
+			  ,)
+		 defense contractor))
+     .))
+( (S (NP-SBJ (NP Edward J.M. Little)
+             ,
+             (NP (NP one)
+                 (PP of
+                     (NP (NP the assistant U.S. attorneys)
+                         (SBAR (WHNP-1 who)
+                               (S (NP-SBJ *T*-1)
+                                  (VP prosecuted
+                                      (NP the case)))))))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the Garcia trial)
+		  ``
+		  (VP is
+                      (NP-PRD (NP the last)
+                              (PP of
+                                  (NP the Wedtech prosecutions)))))))
+     . ''))
+( (S (NP-SBJ Mr. Little)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (QP more
+			      than
+			      20)
+			  people)
+                  (VP have
+		      (VP been
+			  (VP convicted
+			      (PP-LOC in
+				      (NP the Wedtech cases))
+			      ,
+			      (PP including
+				  (NP (NP former U.S. Rep. Mario Biaggi)
+				      (PRN -LRB-
+					   (NP (NP D.)
+					       ,
+					       (NP-LOC N.Y .))
+					   -RRB-)))))))))
+     .))
+( (S (NP-SBJ (NP Lawyers)
+             (PP for
+                 (NP the Garcias)))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 they)
+                  (VP plan
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP appeal)))))))
+     .))
+( (S (NP-SBJ (NP Mr. Garcia)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP represents
+                          (NP (NP (NP New York 's)
+                                  18th congressional district)
+                              ,
+                              (SBAR (WHNP-2 which)
+                                    (S (NP-SBJ *T*-2)
+                                       (VP includes
+                                           (NP the Bronx))))))))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ he)
+                  (VP has n't
+                      (VP decided
+                          (SBAR-NOM whether
+				    (S (NP-SBJ he)
+				       (VP will
+					   (VP resign)))))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (PP-TMP In
+			 (NP the next few weeks))
+		 ,
+		 (NP-SBJ I)
+		 (VP will
+		     (VP be
+			 (VP consulting
+			     (PP-CLR (PP with
+					 (NP my political advisers))
+				     and
+				     (PP with
+					 (NP the Democratic leaders)))
+			     (PP-CLR about
+				     (NP (NP the best way)
+					 (PP of
+					     (S-NOM (NP-SBJ *)
+						    (VP preserving
+							(NP (NP the interests)
+							    (PP of
+								(NP my constituents))))))))))))
+	,
+	''
+	(VP said
+	    (SBAR 0
+		  (S *T*-1)))
+	(NP-SBJ (NP Mr. Garcia)
+		,
+		(ADJP (NP 56 years)
+		      old))
+	.))
+( (S (NP-SBJ (NP Mrs. Garcia)
+             ,
+             (NP 49)
+             ,)
+     (ADVP-TMP formerly)
+     (VP was
+         (NP-PRD (NP a member)
+                 (PP of
+                     (NP (NP Mr. Garcia 's)
+                         congressional staff))))
+     .))
+( (S (NP-SBJ-1 The Garcias)
+     (VP were
+         (VP cleared
+             (NP *-1)
+             (PP-CLR of
+		     (NP (NP four other felony counts)
+			 ,
+			 (VP involving
+			     (NP (NP the receipt)
+				 (PP of
+				     (NP bribes and gratuities))))))))
+     .))
+( (S (NP-SBJ U.S. Judge Leonard B. Sand)
+     (VP set
+         (NP (NP the Garcias ')
+             sentencing)
+         (PP-TMP-CLR for
+		     (NP Jan. 5)))
+     .))
+( (S (NP-SBJ-1 FIVE SHEA & GOULD PARTNERS)
+     (VP are
+         (VP leaving
+	     (S-PRP (NP-SBJ *-1)
+		    (VP to
+			(VP form
+			    (NP a new firm))))))
+     .))
+( (S (NP-SBJ-1 (NP The new firm)
+               ,
+               (NP Hutton Ingram Yuzek Gainen Carroll & Bertolotti)
+               ,)
+     (VP will
+	 (VP be
+	     (VP based
+		 (NP *-1)
+		 (PP-LOC-CLR in
+			     (NP New York)))))
+     .))
+( (S (NP-SBJ (NP The five partners)
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP resigned
+                          (PP-CLR from
+				  (NP Shea & Gould))
+			  (NP-TMP late last week)))))
+     (VP are
+         (NP-PRD (NP Tom Hutton)
+                 ,
+                 (NP Sam Ingram)
+                 ,
+                 (NP Dean Yuzek)
+                 ,
+                 (NP Daniel Carroll)
+                 and
+                 (NP Ernest Bertolotti)))
+     .))
+( (S (NP-SBJ-1 They)
+     (VP will
+	 (VP be
+	     (VP joined
+		 (NP *-1)
+		 (PP by
+		     (NP-LGS (NP Larry Gainen)
+			     ,
+			     (SBAR (WHNP-2 who)
+				   (S (NP-SBJ *T*-2)
+				      (VP resigned
+					  (PP-CLR from
+						  (NP (NP the firm)
+						      (PP of
+							  (NP LePatner , Gainen & Block))))))))))))
+     .))
+( (S (NP-SBJ (NP Howard Rubenstein)
+             ,
+             (NP (NP a New York publicist)
+                 (SBAR (WHNP-1 who)
+                       (S (NP-SBJ *T*-1)
+                          (VP represents
+                              (NP Shea & Gould)))))
+             ,)
+     (VP said 
+	 ,
+	 ``
+	 (S (NP-SBJ Shea & Gould)
+            (VP understands
+                (SBAR 0
+                      (S (NP-SBJ they)
+                         (VP 're
+                             (VP leaving
+                                 (SBAR-PRP because
+					   (S (NP-SBJ they)
+					      (VP wanted
+						  (NP (NP a different environment)
+						      --
+						      (NP (NP a smaller firm)
+							  (SBAR (WHNP-2 0)
+								(S (NP-SBJ they)
+								   (VP would
+								       (VP be
+									   (NP-PRD (NP principals)
+										   (PP of
+										       (NP *T*-2)))))))))))))))))))
+     . ''))
+( (S (NP-SBJ Mr. Rubenstein)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP the five)
+                          ,
+                          (SBAR (WHNP-1 who)
+                                (S (NP-SBJ *T*-1)
+                                   (VP were n't
+                                       (PP-PRD on
+                                               (NP (NP Shea & Gould 's)
+                                                   management committee)))))
+                          ,)
+                  ``
+                  (VP are
+                      (VP leaving
+                          (PP-MNR on
+				  (NP good terms)))))))
+     . ''))
+( (S (NP-SBJ He)
+     (VP said
+         (SBAR (SBAR 0
+                     (S (NP-SBJ Shea & Gould)
+                        (VP held
+                            (NP (NP a number)
+                                (PP of
+                                    (NP (NP discussions)
+                                        (PP with
+                                            (NP the five partners)))))
+			    (PP-TMP during
+				    (NP the past few weeks))
+			    (S-PRP (NP-SBJ *)
+				   (VP to
+				       (VP get
+					   (S (NP-SBJ them)
+					      (VP to
+						  (VP stay)))))))))
+               but
+               (SBAR that
+                     (S (NP-SBJ-1 the five)
+                        (VP were
+                            (ADJP-PRD firmly committed
+                                      (PP to
+                                          (S-NOM (NP-SBJ *-1)
+						 (VP running
+						     (NP their own firm))))))))))
+     .))
+( (S (NP-SBJ Hutton Ingram)
+     (VP will
+         (VP have
+             (NP (NP a general corporate , securities , real-estate and litigation practice)
+                 , and
+                 (NP (NP a substantial practice)
+                     (VP serving
+                         (NP the professional-design community))))))
+     .))
+( (S (NP-SBJ (NP-HLN DISCIPLINARY PROCEEDINGS)
+             (PP against
+                 (NP lawyers)))
+     (VP open
+         (PP-CLR to
+		 (NP public))
+         (PP-LOC in
+		 (NP Illinois)))
+     .))
+( (S (SBAR-ADV While
+	       (S (NP-SBJ (NP investigations)
+			  (PP into
+			      (NP lawyer misconduct)))
+		  (VP will
+		      (VP remain
+			  (ADJP-PRD secret)))))
+     ,
+     (NP-SBJ-1 the public)
+     (VP will
+	 (VP be
+	     (VP notified
+		 (NP *-1)
+		 (SBAR-TMP once
+			   (S (NP-SBJ-2 a formal complaint)
+			      (VP is
+				  (VP filed
+				      (NP *-2)
+				      (PP-CLR against
+					      (NP an attorney)))))))))
+     .))
+( (S (NP-SBJ The actual disciplinary hearings)
+     (VP will
+         (VP be
+             (ADJP-PRD public)))
+     .))
+( (S (PP In
+         (NP addition))
+     ,
+     (NP-SBJ Illinois attorneys)
+     (VP will
+         (VP lose
+             (NP the right
+                 (S (NP-SBJ *)
+                    (VP to
+                        (VP sue
+                            (NP (NP clients)
+                                (SBAR (WHNP-1 who)
+                                      (S (NP-SBJ *T*-1)
+                                         (VP file
+                                             (NP malicious complaints)
+                                             (PP-CLR against
+						     (NP them))))))))))))
+     .))
+( (S (NP-SBJ-1 Non-lawyers)
+     (VP will
+	 (VP be
+	     (VP added
+		 (NP *-1)
+		 (PP-CLR to
+			 (NP (NP the inquiry panels)
+			     (SBAR (WHNP-2 that)
+				   (S (NP-SBJ *T*-2)
+				      (VP look
+					  (PP-CLR into
+						  (NP (NP allegations)
+						      (PP of
+							  (NP misconduct))))))))))))
+     .))
+( (S (NP-SBJ Illinois)
+     (VP joins
+         (NP (NP (NP 36 other states)
+                 (SBAR (WHNP-1 that)
+                       (S (NP-SBJ *T*-1)
+                          (VP allow
+                              (NP (NP public participation)
+                                  (PP in
+                                      (NP attorney-disciplinary proceedings)))))))
+             and
+             (NP (NP 32 states)
+                 (SBAR (WHNP-2 that)
+                       (S (NP-SBJ *T*-2)
+                          (VP open
+                              (NP disciplinary hearings)
+                              (PP-CLR to
+				      (NP the public)))))))
+	 ,
+	 (PP according
+	     (PP to
+		 (NP the American Bar Association))))
+     .))
+( (S (NP-SBJ (NP (NP One vocal critic)
+                 (PP of
+                     (NP the changes)))
+             ,
+             (NP Chicago lawyer Warren Lupel)
+             ,)
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ-1 non-lawyers)
+		  (VP should n't
+		      (VP be
+			  (PP-PRD on
+				  (NP the inquiry panels))
+			  (SBAR-PRP because
+				    (S (NP-SBJ they)
+				       (VP are
+					   (ADJP-PRD unlikely
+						     (S (NP-SBJ *-1)
+							(VP to
+							    (VP appreciate
+								(NP (NP the nuances)
+								    (PP of
+									(NP attorney-client relationships)))))))))))))))
+     .))
+( (S-2 (PP In
+	   (NP addition))
+       (PRN ,
+	    (S (NP-SBJ he)
+	       (VP says
+		   (SBAR 0
+			 (S *T*-2)))))
+       ,
+       (S-NOM-SBJ (NP-SBJ *)
+		  (VP publishing
+		      (NP (NP the names)
+			  (PP of
+			      (NP (NP lawyers)
+				  (SBAR (WHNP-1 who)
+					(S (NP-SBJ *T*-1)
+					   (VP are
+					       (VP facing
+						   (NP charges))))))))))
+       (ADVP unnecessarily)
+       (VP subjects
+	   (NP them)
+	   (PP-CLR to
+		   (NP public derogation)))
+       .))
+( (S (ADVP Nevertheless)
+     ,
+     (NP-SBJ Mr. Lupel)
+     (VP anticipates
+         (NP no legal action
+             (S (NP-SBJ *)
+                (VP to
+                    (VP reverse
+                        (NP (NP the Illinois Supreme Court 's)
+                            decision
+                            (S (NP-SBJ *)
+                               (VP to
+                                   (VP institute
+                                       (NP the changes))))))))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ There)
+	      (VP 's
+		  (NP-PRD (NP no constitutional right)
+			  (VP involved
+			      (NP *)
+			      (PP-CLR in
+				      (NP the rule change))))))
+     ,
+     ''
+     (NP-SBJ he)
+     (VP says
+	 (S *T*-1))
+     .))
+( (S ``
+     (NP-SBJ-1 You)
+     (VP do n't
+         (VP have
+             (NP a right
+                 (S (NP-SBJ *-1)
+                    (VP to
+                        (VP practice))))))
+     .))
+( (S (NP-SBJ-1 You)
+     (ADVP only)
+     (VP have
+         (NP a privilege
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP practice)))))
+     . ''))
+( (S (NP-SBJ-3 DREXEL BURNHAM LAMBERT Inc.)
+     (VP agreed
+         (S (NP-SBJ *-3)
+            (VP to
+                (VP pay
+                    (NP a (ADJP $ 50,000 *U*) fine)
+                    (PP-DTV to
+			    (NP (NP Delaware)
+				,
+				(NP (NP the 26th state)
+				    (SBAR (WHNP-2 0)
+					  (S (NP-SBJ *T*-2)
+					     (VP to
+						 (VP settle
+						     (PP-CLR with
+							     (NP Drexel))
+						     (PP-TMP in
+							     (NP (NP the wake)
+								 (PP of
+								     (NP (NP (NP the firm 's)
+									     guilty plea)
+									 (PP to
+									     (NP federal insider-trading charges)))))))))))))))))
+     .))
+( (S (S (NP-SBJ Drexel)
+        (VP does n't
+            (VP have
+                (NP a Delaware office))))
+     , but
+     (S (NP-SBJ the New York firm)
+        (VP has
+	    (VP been
+		(VP negotiating
+		    (NP (NP settlements)
+			(SBAR (WHNP-1 that)
+			      (S (NP-SBJ *T*-1)
+				 (VP would
+				     (VP allow
+					 (S (NP-SBJ it)
+					    (VP to
+						(VP operate
+						    (ADVP-MNR freely)
+						    (ADVP-LOC nationwide)
+						    (PP despite
+							(NP (NP its record)
+							    (PP as
+								(NP an admitted felon))))))))))))))))
+     .))
+( (S (NP-SBJ The firm)
+     (VP has
+         (VP said
+             (SBAR 0
+                   (S (NP-SBJ-1 it)
+                      (VP expects
+                          (S (NP-SBJ *-1)
+                             (VP to
+                                 (VP pay
+                                     (NP $ 11.5 million *U*)
+				     (ADVP overall)
+				     (S-PRP (NP-SBJ *)
+					    (VP to
+						(VP settle
+						    (PP-CLR with
+							    (NP states)))))))))))))
+     .))
+( (S (S (NP-SBJ Drexel)
+        (VP pleaded
+            (ADJP-PRD guilty
+		      (PP *ICH*-1))
+	    (PP-TMP in
+		    (NP September))
+	    (PP-1 to
+		  (NP (NP six felony counts)
+		      (PP of
+			  (NP securities and mail fraud))))))
+     ;
+     (S (NP-SBJ it)
+        (ADVP also)
+        (VP made
+            (NP (NP a (ADJP (QP $ 650 million) *U*) civil settlement)
+		(PP with
+		    (NP the Securities and Exchange Commission)))))
+     .))

@@ -1,0 +1,602 @@
+
+
+( (S (PP With
+	 (S-NOM (NP-SBJ the dust)
+		(VP settling
+		    (PP-CLR from
+			    (NP (NP the failed coup attempt)
+				(PP-LOC in
+					(NP Panama)))))))
+     ,
+     (NP-SBJ (NP one)
+             (PP of
+                 (NP (NP the many lingering questions)
+                     (SBAR (WHNP-1 0)
+                           (S (NP-SBJ the Bush administration)
+                              (VP will
+                                  (VP ponder
+                                      (NP *T*-1))))))))
+     (VP is
+         (NP-PRD (NP this)
+                 :
+                 (SQ (SQ Is
+			 (NP-SBJ the National Security Council staff)
+			 (ADJP-PRD big enough))
+		     , 
+		     and 
+		     (SQ does
+			 (NP-SBJ it)
+			 (VP have
+			     (NP enough clout ,
+				 (S (NP-SBJ *)
+				    (VP to
+					(VP do
+					    (NP (NP its job)
+						(PP of
+						    (S-NOM (NP-SBJ *)
+							   (VP coordinating
+							       (NP foreign policy))))))))))))))
+     ?))
+( (S (NP-SBJ-1 (NP (NP President Bush 's)
+		   national security adviser)
+	       ,
+	       (NP Lt. Gen. Brent Scowcroft)
+	       ,)
+     (VP came
+         (PP-DIR into
+		 (NP office))
+         (PP-TMP in
+		 (NP January)) 
+         (S-ADV (NP-SBJ *-1)
+		(ADJP-PRD intent
+			  (PP on
+			      (S-NOM (NP-SBJ *-1)
+				     (VP making
+					 (S (NP-SBJ the NSC staff)
+					    (ADJP-PRD (ADJP (ADJP leaner)
+							    and
+							    (ADJP more disciplined))
+						      (SBAR than
+							    (S (NP-SBJ it)
+							       (VP had
+								   (VP been
+								       (ADJP-PRD *?*)
+								       (PP-TMP during
+									       (NP the Reagan administration))))))))))))))
+     .))
+( (S (NP-SBJ Gen. Scowcroft)
+     (VP was
+         (NP-PRD (NP a member)
+                 (PP of
+                     (NP (NP the Tower Commission)
+                         ,
+                         (SBAR (WHNP-1 which)
+                               (S (NP-SBJ *T*-1)
+                                  (VP investigated
+                                      (NP the Iran-Contra affair))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP was
+         (ADJP-PRD all too aware
+                   (PP of
+                       (SBAR-NOM (WHADVP-1 how)
+				 (S (NP-SBJ a large 
+					    , 
+					    (ADJP inadequately supervised)
+					    NSC staff)
+				    (VP had
+					(VP (VP spun
+						(PP-CLR out
+							(PP of
+							    (NP control))))
+					    and
+					    (VP (ADVP nearly)
+						wrecked
+						(NP (NP President Reagan 's)
+						    second term))
+					    (ADVP-MNR *T*-1))))))))
+     .))
+( (S (ADVP So)
+     ,
+     (S-ADV (NP-SBJ *-3)
+	    (VP following
+		(NP both
+		    (NP (NP the style)
+			(SBAR (WHNP-2 0)
+			      (S (NP-SBJ he)
+				 (VP pursued
+				     (NP *T*-2)
+				     (PP as
+					 (NP (NP President Ford 's)
+					     national security adviser))))))
+		    and
+		    (NP (NP the recommendations)
+			(PP of
+			    (NP the Tower Commission))))))
+     ,
+     (NP-SBJ-3 Gen. Scowcroft)
+     (VP has
+	 (VP (VP pruned
+		 (NP the NSC staff))
+	     and
+	     (VP tried
+		 (S (NP-SBJ *-3)
+		    (VP to
+			(VP ensure
+			    (SBAR that
+				  (S (NP-SBJ it)
+				     (VP sticks
+					 (PP-CLR to
+						 (NP (NP its assigned tasks)
+						     -- 
+						     (ADVP namely) 
+						     ,
+						     (S-NOM (NP-SBJ *)
+							    (VP (VP gathering
+								    (NP (NP the views)
+									(PP of
+									    (NP (NP the State Department)
+										,
+										(NP Pentagon)
+										and
+										(NP intelligence community)))))
+								;
+								(VP serving
+								    (PP-CLR as
+									    (NP an honest broker))
+								    (PP in
+									(S-NOM (NP-SBJ *)
+									       (VP distilling
+										   (NP that information)
+										   (PP for
+										       (NP the president))))))
+								and
+								(VP (ADVP-TMP then)
+								    making
+								    (S (ADJP-PRD sure)
+								       (SBAR-NOM-SBJ 0
+										     (S (NP-SBJ-1 presidential decisions)
+											(VP are
+											    (VP carried
+												(NP *-1)
+												(ADVP out))))))))))))))))))))
+     .))
+( (S (NP-SBJ The Tower Commission)
+     (VP (VP (ADVP-MNR specifically)
+             said
+             (SBAR that
+                   (S (NP-SBJ the NSC staff)
+                      (VP should
+                          (VP be
+                              (ADJP-PRD `` small ''))))))
+         and
+         (VP warned
+             (PP-CLR against
+		     (S-NOM (NP-SBJ *)
+			    (VP (VP letting
+				    (S (NP-SBJ (NP `` energetic self-starters '')
+					       (PP like
+						   (NP Lt. Col. Oliver North)))
+				       (VP strike 
+					   (PRT out)
+					   (PP-MNR on
+						   (NP their own)))))
+				(CONJP rather
+				       than)
+				(VP leaving
+				    (NP (NP the day-to-day execution)
+					(PP of
+					    (NP policies)))
+				    (PP-CLR to
+					    (NP (NP the State Department)
+						,
+						(NP Pentagon)
+						or
+						(NP Central Intelligence Agency)))))))))
+     .))
+( (S (ADVP However)
+     ,
+     (NP-SBJ the Panama episode)
+     (VP has
+         (VP raised
+             (NP (NP questions)
+                 (PP about
+                     (SBAR whether
+			   (S (NP-SBJ the NSC staff)
+			      (VP is
+				  (ADJP-PRD sufficiently big , diverse and powerful
+					    (S (NP-SBJ *)
+					       (VP to
+						   (VP coordinate
+						       (NP (NP U.S. policy)
+							   (PP on
+							       (NP tough issues))))))))))))))
+     .))
+( (SINV (S-TPC-2 (PP-TMP During
+			 (NP (NP the coup attempt)
+			     and
+			     (NP its aftermath)))
+		 ,
+		 (NP-SBJ-1 NSC staffers)
+		 (VP were
+		     ``
+		     (VP stretched
+			 (NP *-1)
+			 (ADVP-CLR very thin))))
+	, ''
+	(VP says
+	    (S *T*-2))
+	(NP-SBJ one senior administration official)
+	.))
+( (S ``
+     (NP-SBJ It)
+     (VP 's
+         (NP-PRD a (ADJP very small) shop))
+     . ''))
+( (S (S-TPC-2 (NP-SBJ-1 Gen. Scowcroft)
+	      (VP (VP does n't
+		      (VP plan
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP increase
+				     (NP the staff)
+				     (ADVP-TMP right now))))))
+		  , but
+		  (VP is
+		      (VP weighing
+			  (NP that possibility)))))
+     ,
+     (NP-SBJ the official)
+     (VP adds
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (SINV (S-TPC-3 (NP-SBJ The NSC staff)
+		 ``
+		 (VP does n't
+		     (VP have
+			 (NP (NP the horsepower)
+			     (SBAR (WHNP-2 that)
+				   (S (NP-SBJ I)
+				      (VP believe
+					  (SBAR 0
+						(S (NP-SBJ-4 *T*-2)
+						   (VP is
+						       (VP required
+							   (NP *-4)
+							   (S-PRP (NP-SBJ *)
+								  (VP to
+								      (VP have
+									  (NP an effective interagency process))))))))))))))
+		 , '')
+	(VP says
+	    (S *T*-3))
+	(NP-SBJ (NP Frank Gaffney)
+		,
+		(NP (NP a former Pentagon aide)
+		    (SBAR (WHNP-1 who)
+			  (S (ADVP-TMP now)
+			     (NP-SBJ *T*-1)
+			     (VP runs
+				 (NP (NP the Center)
+				     (PP for
+					 (NP Security Policy))
+				     ,
+				     (NP a conservative Washington think-tank)))))))
+	.))
+( (S-1 ``
+       (NP-SBJ (NP The problem)
+	       (PP with
+		   (NP this administration)))
+       (PRN ,
+	    (S (NP-SBJ I)
+	       (VP think
+		   (SBAR 0
+			 (S *T*-1)))
+	       ,))
+       (VP is
+	   (SBAR-PRD that
+		     (S (PP by
+			    (NP design))
+			(NP-SBJ it)
+			(VP has
+			    (VP (ADVP greatly)
+				diminished ,
+				(PP both
+				    (PP in
+					(NP a physical sense))
+				    and
+				    (PP in
+					(NP a procedural sense)))
+				,
+				(NP (NP the role)
+				    (PP of
+					(NP the NSC))))))))
+       . ''))
+( (S (NP-SBJ-1 (NP The National Security Council)
+	       (NP itself))
+     (VP was
+	 (VP established
+	     (NP *-1)
+	     (PP-TMP-CLR in
+			 (NP 1947))
+	     (SBAR-PRP because
+		       (S (NP-SBJ policy makers)
+			  (VP sensed
+			      (NP (NP a need)
+				  ,
+				  (PP-LOC in
+					  (NP an increasingly complex world))
+				  ,
+				  (PP for
+				      (NP (NP a formal system)
+					  (PP within
+					      (NP the White House))
+					  (SBAR (WHNP-2 0)
+						(S (NP-SBJ *T*-2)
+						   (VP to
+						       (VP make
+							   (S (ADJP-PRD sure)
+							      (SBAR-NOM-SBJ that
+									    (S (NP-SBJ communications)
+									       (VP flowed
+										   (ADVP-MNR smoothly)
+										   (PP between
+										       (NP (NP the president)
+											   and
+											   (NP (NP the State Department)
+											       ,
+											       (NP Pentagon)
+											       and
+											       (NP intelligence agencies))))))))))))))))))))
+     .))
+( (S (PP By
+         (NP law))
+     ,
+     (NP-SBJ the council)
+     (VP includes
+         (NP (NP the president)
+             ,
+             (NP vice president)
+             and
+             (NP (NP secretaries)
+                 (PP of
+                     (NP state and defense)))))
+     .))
+( (S (PP In
+         (NP practice))
+     ,
+     (NP-SBJ (NP (NP the director)
+                 (PP of
+                     (NP central intelligence)))
+             and
+             (NP (NP chairman)
+                 (PP of
+                     (NP (NP the Joint Chiefs)
+                         (PP of
+                             (NP Staff))))))
+     (VP (ADVP also)
+         serve
+         (PP-CLR as
+		 (NP unofficial members)))
+     .))
+( (S But
+     (NP-SBJ-1 (NP the size , shape and role)
+	       (PP of
+		   (NP the NSC staff)))
+     (VP have
+	 (VP been
+	     (VP left
+		 (NP *-1)
+		 (SBAR-CLR for
+			   (S (NP-SBJ (NP each president)
+				      and
+				      (NP his national security adviser))
+			      (VP to
+				  (VP decide)))))))
+     .))
+( (S (NP-SBJ That task)
+     (VP is
+         (NP-PRD (NP one)
+                 (PP of
+                     (NP (NP Washington 's)
+                         perennial problems))))
+     .))
+( (S (S-TPC-1 (PP-LOC In
+		      (NP the Bush White House))
+	      ,
+	      (NP-SBJ (NP the size)
+		      (PP of
+			  (NP (NP (NP the NSC 's)
+				  staff)
+			      (PP of
+				  (NP professional officers)))))
+	      (VP is
+		  (ADVP-PRD down
+			    (PP (PP-DIR to
+					(NP about 50))
+				(PP-DIR from
+					(NP (NP about 70)
+					    (PP-TMP in
+						    (NP 1987))))))))
+     ,
+     (NP-SBJ administration officials)
+     (VP say
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ Administration officials)
+     (VP insist
+         (SBAR that
+               (S (NP-SBJ (NP the size)
+                          (PP of
+                              (NP the staff)))
+                  (VP was n't
+                      (NP-PRD a problem)
+		      (PP-TMP during
+			      (NP the Panama crisis))))))
+     .))
+( (S But
+     (NP-SBJ (NP one clear problem)
+	     (PP-TMP during
+		     (NP the coup attempt)))
+     (VP was
+         (SBAR-PRD that
+                   (S (NP-SBJ (NP (NP the NSC staffer)
+                                  (ADJP (ADJP most experienced)
+                                        (PP-LOC in
+						(NP Latin America))))
+                              ,
+                              (NP Everett Briggs)
+                              ,)
+                      (VP was
+                          (ADJP-PRD gone)))))
+     .))
+( (S (NP-SBJ He)
+     (VP had
+         (VP (ADVP just)
+             resigned 
+	     ,
+	     (PP-PRP (PP (ADVP at
+			       least)
+			 in
+			 (NP part))
+		     because of
+		     (NP (NP a feud)
+			 (PP with
+			     (NP (NAC Assistant Secretary
+				      (PP of
+					  (NP State)))
+				 Bernard Aronson))
+			 (PP over
+			     (NP (NP (NP (NP the administration 's)
+					 policy)
+				     (PP on
+					 (NP Panama)))
+				 and
+				 (NP (NP support)
+				     (PP for
+					 (NP (NP Nicaragua 's)
+					     Contra rebels)))))))))
+     .))
+( (S (NP-SBJ (NP The absence)
+             (PP of
+                 (NP Mr. Briggs)))
+     (VP underscored
+         (NP (NP the possible inadequacy)
+             (PP of
+                 (NP the current NSC staff))))
+     .))
+( (S (NP-SBJ Both
+             (NP Gen. Scowcroft)
+             and
+             (NP (NP his deputy)
+                 ,
+                 (NP Robert Gates)
+                 ,))
+     (VP are
+         (NP-PRD (NP experts)
+                 (PP in
+                     (NP U.S.-Soviet affairs))))
+     .))
+( (S (S (NP-SBJ Gen. Scowcroft)
+        (VP is
+            (ADJP-PRD particularly well-versed
+                      (PP in
+                          (NP arms control)))))
+     , and
+     (S (NP-SBJ-1 Mr. Gates)
+        (VP has
+            (VP spent
+                (NP years)
+		(S-CLR (NP-SBJ *-1)
+		       (VP studying
+			   (NP Soviet politics and society))))))
+     .))
+( (S (NP-SBJ Both)
+     (VP have
+         (VP become
+             (NP-PRD (NP confidants)
+                     (PP of
+                         (NP President Bush)))))
+     .))
+( (S But
+     (NP-SBJ neither)
+     (VP has
+         (NP (NP an extensive background)
+             (PP-LOC in
+		     (NP (NP Latin America)
+			 ,
+			 (NP the Middle East)
+			 or
+			 (NP Asia)))))
+     .))
+( (S (PP-LOC In
+	     (NP those areas))
+     ,
+     (NP-SBJ (NP the role)
+             (PP of
+                 (NP (NP NSC staffers)
+                     (PP under
+                         (NP them)))))
+     (ADVP therefore)
+     (VP have
+         (VP become
+             (ADJP-PRD more important)))
+     .))
+( (S (NP-SBJ Gen. Scowcroft)
+     (VP knows
+         (ADVP (ADVP as well)
+               (PP as
+                   (NP anyone)))
+         (SBAR that
+               (S (NP-SBJ (NP one)
+                          (PP of
+                              (NP (NP the biggest dangers)
+                                  (SBAR (WHNP-3 0)
+                                        (S (NP-SBJ he)
+                                           (VP faces
+                                               (NP *T*-3)))))))
+                  (VP is
+                      (SBAR-PRD that
+                                (S (NP-SBJ (NP NSC staffers)
+                                           (VP working
+                                               (PP-MNR in
+						       (NP relative anonymity))))
+                                   (VP will
+                                       (VP take
+                                           (PRT over)
+                                           (NP (NP policy-making and operational tasks)
+                                               (SBAR (WHNP-2 that)
+                                                     (S (NP-SBJ-1 *T*-2)
+                                                        (VP are
+                                                            (ADVP best)
+							    (VP left
+                                                                (NP *-1)
+                                                                (PP-CLR to
+									(NP (ADJP (ADJP bigger)
+										  and
+										  (ADJP more experienced))
+									    State Department and Pentagon bureaus)))))))))))))))
+     .))
+( (S But
+     (SBAR-ADV just as
+	       (FRAG (S (NP-SBJ every previous NSC adviser)
+			(VP has))))
+     ,
+     (NP-SBJ-1 Gen. Scowcroft)
+     (ADVP-TMP now)
+     (VP will
+         (VP have
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP mull
+                        (SBAR (WHPP-2 at
+				      (WHNP what point))
+                              (S (NP-SBJ the NSC staff)
+                                 (VP becomes
+                                     (ADJP-PRD (ADJP too lean)
+                                               and
+                                               (ADJP too restrained))
+				     (PP-TMP *T*-2)))))))))
+     .))

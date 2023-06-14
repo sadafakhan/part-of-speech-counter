@@ -1,0 +1,93 @@
+
+
+( (S (NP-SBJ Comair Holdings Inc.)
+     (VP said
+         (PP-LOC in
+		 (NP Cincinnati))
+         (SBAR that
+               (S (NP-SBJ it)
+                  (VP bought
+                      (NP (NP Airline Aviation Academy)
+                          ,
+                          (NP (NP a pilot training school)
+                              (VP based
+                                  (NP *)
+                                  (PP-LOC-CLR at
+					      (NP (NP Sanford Regional Airport)
+						  (PP-LOC near
+							  (NP (NP Orlando)
+							      ,
+							      (NP Fla))))))))))))
+     .))
+( (S (NP-SBJ-1 Comair)
+     (VP (VP said
+             (SBAR 0
+                   (S (NP-SBJ it)
+                      (VP paid
+                          (NP cash)))))
+         but
+         (VP declined
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP disclose
+                        (NP the price))))))
+     .))
+( (S (NP-SBJ Comair Holdings)
+     (VP is
+         (NP-PRD (NP the parent)
+                 (PP of
+                     (NP (NP Comair Inc.)
+                         ,
+                         (NP a regional air carrier)))))
+     .))
+( (S (S-TPC-2 (NP-SBJ (NP Airline Aviation)
+		      ,
+		      (SBAR (WHNP-1 which)
+			    (S (NP-SBJ *T*-1)
+			       (VP has
+				   (NP (NP annual revenue)
+				       (PP of
+					   (NP (QP $ 5 million 
+						   to
+						   $ 6 million) *U*))))))
+		      ,)
+	      (VP has
+		  (NP great growth potential)
+		  (PP-PRP because of
+			  (NP (NP the large number)
+			      (PP of
+				  (NP U.S. pilots))
+			      (VP nearing
+				  (NP retirement age))))))
+     ,
+     (NP-SBJ Comair)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (S-TPC-3 (NP-SBJ-2 The unit)
+	      (VP (VP will
+		      (VP be
+			  (VP renamed
+			      (S (NP-SBJ *-2)
+				 (NP-PRD Comair Aviation Academy)))))
+		  and
+		  (VP will
+		      (VP continue
+			  (S (NP-SBJ-1 *-2)
+			     (VP to
+				 (VP be
+				     (VP headed
+					 (NP *-1)
+					 (PP by
+					     (NP-LGS (NP Scott Williams)
+						     ,
+						     (NP (NP a son)
+							 (PP of
+							     (NP its founder)))))))))))))
+     ,
+     (NP-SBJ Comair)
+     (VP said
+	 (SBAR 0
+	       (S *T*-3)))
+     .))

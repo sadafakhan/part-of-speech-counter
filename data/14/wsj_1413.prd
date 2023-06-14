@@ -1,0 +1,272 @@
+
+
+( (S (NP-SBJ President Bush)
+     (VP wants
+	 (S (NP-SBJ the Pentagon)
+            (VP to
+                (VP get
+                    (NP (NP special treatment)
+			(PP in
+			    (S-NOM (NP-SBJ *)
+				   (VP coping
+				       (PP-CLR with
+					       (NP-CLR (NP the across-the-board spending cuts)
+						       (SBAR (WHNP-1 that)
+							     (S (NP-SBJ *T*-1)
+								(VP took
+								    (NP-CLR effect)
+								    (NP-TMP last week))))))))))))))
+     .))
+( (S (NP-SBJ Mr. Bush)
+     (VP asked
+         (NP-3 Congress)
+         (S (NP-SBJ *-3)
+            (VP to
+                (VP raise
+                    (PP-DIR to
+			    (NP (QP $ 6 billion) *U*))
+		    (PP-DIR from
+			    (NP (QP $ 3 billion) *U*))
+		    (NP (NP the amount)
+			(PP of
+			    (NP money))
+                        (SBAR (WHNP-1 0)
+                              (S (NP-SBJ Defense Secretary Dick Cheney)
+                                 (VP may
+                                     (VP shift
+					 (NP *T*-1)
+                                         (PP-LOC among
+						 (NP (NP the Pentagon 's)
+						     individual programs , projects and activities)))))))
+		    ,
+		    (S-ADV (NP-SBJ *)
+			   (VP allowing
+			       (S (NP-SBJ him)
+				  (VP to
+				      (VP ease
+					  (NP (NP the pain)
+					      (SBAR (WHNP-2 that)
+						    (S (NP-SBJ the Gramm-Rudman budget law)
+						       (VP was
+							   (VP intended
+							       (S (NP-SBJ *)
+								  (VP to
+								      (VP inflict
+									  (NP *T*-2))))))))))))))))))
+     .))
+( (S (SBAR-ADV If
+	       (S (NP-SBJ-1 the request)
+		  (VP is
+		      (VP approved
+			  (NP *-1)
+			  (PP by
+			      (NP-LGS both
+				      (NP the House)
+				      and
+				      (NP Senate)))))))
+     ,
+     (NP-SBJ-2 Mr. Cheney)
+     (VP would
+	 (VP need
+	     (NP (NP only permission)
+		 (PP from
+		     (NP (NP the White House Office)
+			 (PP of
+			     (NP Management and Budget)))))
+	     (S-PRP (NP-SBJ *-2)
+		    (VP to
+			(VP move
+			    (NP the money))))
+	     ,
+	     (PP according
+		 (PP to
+		     (NP Senate budget analysts)))))
+     .))
+( (S (NP-SBJ That)
+     (VP would
+         (VP give
+             (NP the Pentagon)
+             (NP (NP flexibility)
+                 (SBAR (WHNP-1 that)
+                       (S (NP-SBJ no other federal agency)
+                          (VP has
+                              (NP *T*-1)))))))
+     .))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ It)
+		 (VP 's
+		     (NP-PRD (NP simply a way)
+			     (PP of
+				 (S-NOM (NP-SBJ *)
+					(VP making
+					    (S (NP-SBJ the cuts)
+					       (ADJP-PRD (ADJP less onerous
+							       (PP for
+								   (NP defense)))
+							 (SBAR than
+							       (S (NP-SBJ they)
+								  (VP are
+								      (PP-PRD for
+									      (NP domestic programs)))))))))))))
+	,
+	''
+	(VP said
+	    (S *T*-2))
+	(NP-SBJ (NP Chairman James Sasser)
+		(PRN -LRB-
+		     (NP (NP-LOC (NP D.)
+				 ,
+				 (NP Tenn .)))
+		     -RRB-)
+		(PP of
+		    (NP the Senate Budget Committee))
+		,
+		(SBAR (WHNP-1 who)
+		      (S (NP-SBJ *T*-1)
+			 (VP said
+			     (SBAR 0
+				   (S (NP-SBJ he)
+				      (VP would
+					  (VP oppose
+					      (NP the request)))))))))
+	.))
+( (S ``
+     (S-TPC-3 (NP-SBJ That)
+	      (VP is n't
+		  (ADJP-PRD consistent
+			    (PP with
+				(NP (NP the kind)
+				    (PP of
+					(NP (NP discipline)
+					    (SBAR (WHNP-1 that)
+						  (S (NP-SBJ-2 Gramm-Rudman)
+						     (VP is
+							 (VP supposed
+							     (S (NP-SBJ *-2)
+								(VP to
+								    (VP impose
+									(NP *T*-1)))))))))))))))
+     ,
+     ''
+     (NP-SBJ he)
+     (VP said
+	 (S *T*-3))
+     .))
+( (S (NP-SBJ (NP The president 's)
+             request)
+     (VP did n't
+         (VP indicate
+             (SBAR (WHADVP-1 how)
+		   (S (NP-SBJ Mr. Cheney)
+		      (VP would
+			  (VP shift
+			      (NP the money)
+			      (ADVP *T*-1)))))))
+     .))
+( (S (NP-SBJ A Pentagon official)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 the request)
+                  (VP was
+                      (VP made
+                          (NP *-1)
+			  (S-PRP (NP-SBJ *)
+				 (VP to
+				     (VP give
+					 (NP the department)
+					 (NP ``
+					     (NP maximum flexibility)
+					     ''
+					     (SBAR (WHNP-2 0)
+						   (S (NP-SBJ *T*-2)
+						      (VP to
+							  (VP deal
+							      (PP-CLR with
+								      (NP the cuts)))))))))))))))
+     .))
+( (S (NP-TMP Last week)
+     ,
+     (NP-SBJ Budget Director
+             Richard Darman)
+     (VP structured
+         (NP-2 (NP the (ADJP (QP $ 16.1 billion) *U*) spending reduction)
+	       ,
+	       (NP (SBAR-NOM (WHNP-1 (NP half)
+				     (PP of
+					 (NP which)))
+			     (S (NP-SBJ *T*-1)
+				(VP must
+				    (VP come
+					(PP-CLR from
+						(NP defense)))))))
+	       ,)
+	 (S-CLR (NP-SBJ *-2)
+		(VP to
+		    ``
+		    (VP impose
+			(NP (QP a little bit more) discipline)
+			''
+			(PP by
+			    (S-NOM (NP-SBJ *)
+				   (VP applying
+				       (NP cuts)
+				       (PP-CLR to
+					       (NP (NP each individual program , project or activity)
+						   (PP in
+						       (NP the budget)))))))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ That)
+	      (VP would
+		  (VP give
+		      (NP agencies)
+		      ``
+		      (NP less ability
+			  ...
+			  (S (NP-SBJ *)
+			     (VP to
+				 (VP fudge
+				     (PRT over)
+				     (NP things))))))))
+     , ''
+     (NP-SBJ he)
+     (VP told
+	 (SBAR 0
+	       (S *T*-1))
+	 (NP reporters))
+     .))
+( (S (PP-LOC Under
+	     (NP the deficit-reduction law))
+     ,
+     (NP-SBJ-1 (NP (NP 4.3 %)
+                   (PP of
+                       (NP (NP the Pentagon 's)
+                           money)))
+               and
+               (NP (NP 5.3 %)
+                   (PP of
+                       (NP (NP other agencies ')
+                           money))))
+     has
+     (VP been
+         (VP canceled
+             (NP *-1)))
+     .))
+( (S (NP-SBJ-2 Lawmakers)
+     (VP are
+         (VP expected
+             (S (NP-SBJ-3 *-2)
+                (VP to
+                    (VP try
+                        (S (NP-SBJ *-3)
+                           (VP to
+                               (VP restore
+                                   (NP the funds)))))))
+	     (SBAR-TMP once
+		       (S (NP-SBJ-1 a pending deficit-cutting measure)
+			  (VP has
+			      (VP been
+				  (VP signed
+				      (NP *-1)
+				      (PP-CLR into
+					      (NP law)))))))))
+     .))

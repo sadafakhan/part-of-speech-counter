@@ -1,0 +1,754 @@
+
+
+( (S-HLN (NP-SBJ Oil Spill Case)
+	 (VP Shows
+	     (NP Liability Fund Flaws))))
+( (S (NP-SBJ-1 (NP AN UNRESOLVED two-year-old dispute)
+	       (VP stemming
+		   (PP-CLR from
+			   (NP an Alaskan oil spill))))
+     (VP has
+         (VP helped
+             (S (NP-SBJ *-1)
+		(VP spur
+		    (NP (NP a drive)
+			(PP for
+			    (NP (NP tougher federal laws)
+				(SBAR (WHNP-2 0)
+				      (S (NP-SBJ *T*-2)
+					 (VP to
+					     (VP protect
+						 (NP (NP victims)
+						     (PP of
+							 (NP such accidents))))))))))))))
+     .))
+( (S (NP-SBJ The class-action suit)
+     (VP highlights
+         (NP (NP shortcomings)
+             (PP of
+                 (NP (NP the Trans-Alaska Pipeline Liability Fund)
+                     ,
+                     (SBAR (WHNP-1 which)
+                           (S (NP-SBJ *T*-1)
+                              (VP (VP gets
+                                      (NP its money)
+                                      (PP from
+                                          (NP (NP oil companies)
+                                              (VP using
+                                                  (NP the pipeline)))))
+                                  and
+                                  (VP compensates
+                                      (NP (NP those)
+                                          (ADJP harmed
+                                                (PP by
+                                                    (NP oil spills))))))))))))
+     .))
+( (S (PP-TMP On
+	     (NP July 2 , 1987))
+     ,
+     (NP-SBJ the tanker
+             S.S. Glacier Bay)
+     (VP (VP struck
+             (NP a rock))
+         and
+         (VP spilled
+             (NP (NP (QP almost 150,000) gallons)
+		 (PP of
+		     (NP oil)))
+             (PP-LOC-CLR into
+			 (NP the Cook Inlet))))
+     .))
+( (S (NP-SBJ Commercial fishermen and fish processors)
+     (VP filed
+         (NP suit)
+         (PP-LOC-CLR in
+		     (NP federal court))
+         (PP-LOC in
+		 (NP (NP a claim)
+		     (SBAR (WHNP-1 that)
+			   (S (NP-SBJ *T*-1)
+			      (VP has
+				  (VP ballooned
+				      (PP-CLR to
+					      (NP (QP more
+						      than
+						      $ 104.8
+						      million) *U*)))))))))
+     .))
+( (S (NP-SBJ Defendants)
+     (VP include
+         (NP (NP British Petroleum America)
+             ;
+             (NP (NP Trinidad Corp.)
+                 ,
+                 (NP the shipper))
+             ; and
+             (NP the pipeline liability fund)))
+     .))
+( (S (NP-SBJ-1 The fund)
+     (VP was
+         (VP created
+             (NP *-1)
+             (PP by
+                 (NP-LGS (NP the Trans-Alaska Pipeline Act)
+			 ,
+			 (SBAR (WHNP-2 which)
+			       (S (NP-SBJ *T*-2)
+				  (VP provides
+				      (SBAR that
+					    (S (NP-SBJ (NP the owner or operator)
+						       (PP of
+							   (NP (NP a vessel)
+							       (VP involved
+								   (NP *)
+								   (PP-CLR in
+									   (NP an oil spill))))))
+					       (VP must
+						   (VP pay
+						       (NP (NP the first (QP $ 14 million) *U*)
+							   (PP in
+							       (NP damages))))))))))))))
+     .))
+( (S (NP-SBJ-1 The fund)
+     (VP is
+         (VP required
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP pay
+                        (NP claims)
+                        (NP (QP up
+				to
+				an additional $ 86 million)
+			    *U*))))))
+     .))
+( (S (NP-SBJ (NP The fund 's)
+             purpose)
+     (VP is
+	 (S-PRD (NP-SBJ *)
+		(VP to
+		    (VP provide
+			(NP (ADJP quick and adequate) relief)))))
+     .))
+( (S But
+     (NP-SBJ (NP the Glacier Bay case)
+	     ,
+	     (NP (NP the fund 's)
+		 first test)
+	     ,)
+     (VP shows
+         (SBAR (WHADVP-2 how easily)
+               (S (NP-SBJ-1 the fund)
+                  (VP can
+		      (VP be
+			  (VP undermined
+			      (NP *-1)
+			      (ADVP-MNR *T*-2)))))))
+     .))
+( (S (NP-SBJ Trinidad Corp.)
+     (VP is
+         (VP contesting
+             (NP liability)))
+     .))
+( (S (NP-SBJ It)
+     (VP (VP claims
+             (SBAR 0
+                   (S (NP-SBJ-1 the Coast Guard)
+                      (VP (VP failed
+			      (S (NP-SBJ *-1)
+				 (VP to
+				     (VP chart
+					 (NP the rock)))))
+			  and
+			  (VP refuses
+			      (S (NP-SBJ *-1)
+				 (VP to
+				     (VP pay
+					 (NP damages))))))))))
+     .))
+( (S (NP-SBJ That)
+     (VP means
+         (SBAR 0
+               (S (NP-SBJ-1 the fund)
+                  (VP is n't
+                      (VP obligated
+                          (S (NP-SBJ *-1)
+                             (VP to
+                                 (VP pay
+                                     (NP anything))))
+			  ,
+			  (ADVP-TMP (ADVP at
+					  least)
+				    so far))))))
+     .))
+( (SINV (S-TPC-1 (NP-SBJ (NP The Oil Pollution Act)
+			 ,
+			 (VP scheduled
+			     (S (NP-SBJ *)
+				(VP to
+				    (VP come
+					(PRT up)
+					(PP-CLR for
+						(NP (NP a vote)
+						    (PP-LOC in
+							    (NP Congress))))
+					(NP-TMP this fall)))))
+			 ,)
+		 (VP would
+		     (VP provide
+			 (SBAR that
+			       (S (SBAR-ADV if
+					    (S (NP-SBJ claimants)
+					       (VP are n't
+						   (VP paid
+						       (PP-TMP within
+							       (NP (NP 90 days)
+								   (PP of
+								       (NP a spill))))))))
+				  ,
+				  (NP-SBJ the liability fund)
+				  (VP would
+				      (VP (VP compensate
+					      (NP them))
+					  and
+					  (VP seek
+					      (NP (NP reimbursement)
+						  (PP from
+						      (NP (NP the owner or operator)
+							  (PP of
+							      (NP the vessel)))))))))))))
+	,
+	(VP says
+	    (SBAR 0
+		  (S *T*-1)))
+	(NP-SBJ (NP a spokesman)
+		(PP for
+		    (NP (NP Rep. George Miller)
+			(PRN -LRB-
+			     (NP (NP D.)
+				 ,
+				 (NP-LOC Calif.))
+			     -RRB-)
+			,
+			(NP (NP a sponsor)
+			    (PP of
+				(NP the bill))))))
+	.))
+( (S (NP-SBJ The spokesman)
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ (NP the `` glitch '')
+                          (PP-LOC in
+				  (NP the statute)))
+                  (VP is
+		      ``
+		      (NP-PRD (NP the worst kind)
+                              (PP of
+                                  (NP Catch-22)))))))
+     . ''))
+( (S-HLN (NP-SBJ Many Law School Grads)
+	 (VP Find
+	     (SBAR 0
+		   (S (NP-SBJ Classes)
+		      (ADVP-TMP Never)
+		      (VP End))))))
+( (S (NP-SBJ RECENT LAW school graduates)
+     (VP are
+         (VP (VP starting
+                 (NP (NP jobs)
+		     (PP with
+			 (NP law firms)))
+		 (NP-TMP this fall))
+             -- and
+             (VP heading
+                 (ADVP-DIR back)
+                 (PP-DIR to
+			 (NP class)))))
+     .))
+( (S (NP-SBJ Bar associations and consultants)
+     (VP are
+         (VP offering
+             (NP (NP more programs)
+                 (SBAR (WHADVP-3 0)
+		       (S (NP-SBJ *)
+			  (VP to
+			      (VP teach
+				  (NP associates)
+				  (NP (NP all)
+				      (SBAR (WHNP-1 0)
+					    (S (NP-SBJ-2 they)
+					       (VP (VP need
+						       (S (NP-SBJ *-2)
+							  (VP to
+							      (VP know
+								  (NP *T*-1)
+								  (PP about
+								      (NP law))))))
+						   but
+						   (VP did n't
+						       (VP learn
+							   (NP *T*-1)
+							   (PP-LOC in
+								   (NP law school))))))))
+				  (ADVP *T*-3))))))))
+     .))
+( (SINV ``
+	(S-TPC-2 (S (NP-SBJ Law school)
+		    (VP teaches
+			(NP wonderful theory)))
+		 , but
+		 (S (NP-SBJ it)
+		    (VP does n't
+			(VP teach
+			    (NP (NP the nuts and bolts)
+				(PP of
+				    (NP practical lawyering)))))))
+	,
+	''
+	(VP says
+	    (S *T*-2))
+	(NP-SBJ (NP Aaron Weitz)
+		,
+		(NP (NP head)
+		    (PP of
+			(NP (NP (NP a New York County Lawyers ')
+				Association committee)
+			    (SBAR (WHNP-1 that)
+				  (S (NP-SBJ *T*-1)
+				     (VP sponsors
+					 (NP such a course))))))))
+	.))
+( (S (PP-TMP In
+	     (NP the past))
+     ,
+     (NP-SBJ associates)
+     (VP learned
+         (NP the basics)
+         (PP-CLR from
+		 (NP (NP senior lawyers)
+		     (SBAR (WHNP-1 who)
+			   (S (NP-SBJ *T*-1)
+			      (VP acted
+				  (PP-CLR as
+					  (NP mentors))))))))
+     .))
+( (SINV (S-TPC-3 But
+		 (NP-TMP these days)
+		 ,
+		 (S (NP-SBJ large firms)
+		    (VP hire
+			(NP (NP (QP as many
+				    as
+				    30)
+				new associates)
+			    (NP-ADV a year))))
+		 , and
+		 (S (NP-SBJ (NP it)
+			    (S *EXP*-2))
+		    (VP 's
+			(ADJP-PRD impossible)
+			(S-2 (NP-SBJ *)
+			     (VP to
+				 (VP (ADVP-MNR personally)
+				     train
+				     (NP everyone)))))))
+	,
+	(VP says
+	    (SBAR 0
+		  (S *T*-3)))
+	(NP-SBJ (NP Joel Henning)
+		(PP of
+		    (NP (NP Hildebrandt Inc.)
+			,
+			(NP (NP a consulting firm)
+			    (SBAR (WHNP-1 that)
+				  (S (NP-SBJ *T*-1)
+				     (VP runs
+					 (NP training classes))))))))
+	.))
+( (S (NP-SBJ The Hildebrandt course)
+     (VP enables
+         (S (NP-SBJ students)
+            (VP to
+                (VP brush
+                    (PRT up)
+                    (PP-CLR on
+			    (NP negotiation skills)))))
+         (PP-MNR by
+		 (NP (NP role playing)
+		     (PP-LOC in
+			     (NP simulated deals)))))
+     .))
+( (S (NP-SBJ-1 Students)
+     (ADVP also)
+     (VP are
+         (VP taught
+	     (S (NP-SBJ *-1)
+		(VP (VP to
+			(VP return
+			    (NP (NP clients ')
+				phone calls)
+			    (ADVP-TMP immediately)))
+		    and
+		    (VP to
+			(VP treat
+			    (NP the support staff)
+			    (PP-CLR with
+				    (NP respect))))))))
+     .))
+( (S (NP-SBJ Many law firms)
+     (VP sponsor
+         (NP their own programs))
+     .))
+( (S (PP-LOC At
+	     (NP (NP the Baltimore firm)
+		 (PP of
+		     (NP Weinberg & Green))))
+     ,
+     (NP-SBJ-1 new corporate and banking associates)
+     (VP are
+         (VP required
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP enroll
+                        (PP-CLR in
+				(NP a 20-class course)))))))
+     .))
+( (S (NP-SBJ Partners)
+     (VP lecture
+         (PP-CLR on
+		 (SBAR-NOM (WHADVP-1 how)
+			   (S (NP-SBJ *)
+			      (VP to
+				  (VP (VP form
+					  (NP corporations))
+				      ,
+				      (VP draft
+					  (NP agreements))
+				      and
+				      (VP defend
+					  (NP clients)
+					  (PP-CLR against
+						  (NP unwanted tender offers)))
+				      (ADVP-MNR *T*-1)))))))
+     .))
+( (SINV (S-1 (ADVP-TMP Now)
+	     ,
+	     (NP-SBJ clients)
+	     (VP know
+		 (SBAR that
+		       (S (NP-SBJ-2 new associates)
+			  (VP have
+			      (VP had
+				  (NP some practical training)
+				  (PP-TMP before
+					  (S-NOM (NP-SBJ *-2)
+						 (VP working
+						     (PP-CLR on
+							     (NP their cases)))))))))))
+	,
+	(VP says
+	    (SBAR 0
+		  (S *T*-1)))
+	(NP-SBJ (NP James J. Hanks)
+		,
+		(NP (NP a partner)
+		    (PP-LOC at
+			    (NP the firm))))
+	.))
+( (S-HLN (NP-SBJ Los Angeles)
+	 (VP Creates
+	     (NP (NP A Courthouse)
+		 (PP for
+		     (NP Kids))))))
+( (S (NP-SBJ (NP THE CHILDREN)
+             (PP of
+                 (NP Los Angeles)))
+     (VP will
+         (ADVP-TMP soon)
+         (VP have
+             (NP their own (ADJP (QP $ 52 million) *U*) courthouse)))
+     .))
+( (SINV (S-TPC-2 (NP-SBJ (NP The building)
+			 ,
+			 (SBAR (WHNP-1 which)
+			       (S (NP-SBJ *T*-1)
+				  (VP will
+				      (VP handle
+					  (NP child abuse , custody and foster care cases)))))
+			 ,)
+		 (VP will
+		     (VP be
+			 (ADJP-PRD ``
+				   (ADJP (ADJP less formal)
+					 , 
+					 (ADJP less threatening)
+					 and 
+					 (ADJP just basically less grim))
+				   (PP than
+				       (NP most courthouses)))))
+		 , '')
+	(VP says
+	    (SBAR 0
+		  (S *T*-2)))
+	(NP-SBJ (NP Edmund Edelman)
+		,
+		(NP (NP chairman)
+		    (PP of
+			(NP (NP the Los Angeles County Board)
+			    (PP of
+				(NP Supervisors))))))
+	.))
+( (S (NP-SBJ Designs)
+     (VP call
+         (PP-CLR for
+		 (NP (NP an L-shaped structure)
+		     (PP with
+			 (NP (NP a playground)
+			     (PP-LOC in
+				     (NP the center)))))))
+     .))
+( (S (NP-SBJ There)
+     (VP will
+         (VP be
+             (NP-PRD recreation and movie rooms)))
+     .))
+( (S (NP-SBJ-1 Teens)
+     (VP will
+         (VP be
+             (ADJP-PRD able
+                       (S (NP-SBJ *-1)
+                          (VP to
+                              (VP listen
+                                  (PP-CLR to
+					  (NP music))
+                                  (PP-MNR with
+					  (NP headsets))))))))
+     .))
+( (S (NP-SBJ (NP Study halls)
+             ,
+             (ADJP complete
+                   (PP with
+                       (NP reference materials)))
+             ,)
+     (VP will
+         (VP be
+             (ADJP-PRD available)))
+     .))
+( (S And
+     (NP-SBJ there)
+     (VP will
+         (VP be
+             (NP-PRD (NP (NP a nurse 's)
+                         station)
+                     and
+                     (NP (NP rooms)
+                         (SBAR (WHADVP-1 0)
+			       for
+                               (S (NP-SBJ children)
+                                  (VP to
+                                      (VP meet
+                                          (PP-CLR with
+						  (NP social workers))
+					  (ADVP-LOC *T*-1)))))))))
+     .))
+( (SINV (S-TPC-1 (NP-SBJ (NP The building 's)
+			 25 courtrooms)
+		 (VP will
+		     (VP be
+			 (ADJP-PRD smaller))))
+	,
+	(VP says
+	    (SBAR 0
+		  (S *T*-1)))
+	(NP-SBJ (NP Charlene Saunders)
+		,
+		(NP a court administrator))
+	.))
+( (S (S (NP-SBJ The bench)
+        (VP will
+            (VP be
+                (ADJP-PRD lower)
+		(SBAR-ADV so
+			  (S (NP-SBJ the judge)
+			     (VP seems
+				 (ADJP-PRD less intimidating)))))))
+     , and
+     (S (NP-SBJ walls)
+        (VP will
+	    (VP be
+		(VP (VP painted
+			(PP-MNR in
+				(NP bright colors)))
+		    and
+		    (VP covered
+			(PP-CLR with
+				(NP murals)))))))
+     .))
+( (S (NP-SBJ (NP Cases)
+	     (PP-LOC in
+		     (NP Los Angeles County))
+             (VP involving
+                 (NP dependent children)))
+     (VP are
+         (ADVP-TMP usually)
+         (VP heard
+             (PP-LOC in
+		     (NP the Criminal Courts Building))))
+     .))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ-1 We)
+		 (VP need
+		     (S (NP-SBJ *-1)
+			(VP to
+			    (VP get
+				(NP the kids)
+				(PP-CLR away 
+					(PP from
+					    (NP the criminals)))
+				(PP-CLR into
+					(NP a less traumatic environment))))))
+		 , '')
+	(VP says
+	    (S *T*-2))
+	(NP-SBJ Mr. Edelman)
+	.))
+( (S-2 (S (NP-SBJ (NP (QP About 45,000) children)
+		  (PP-LOC in
+			  (NP Los Angeles County)))
+	  (VP are
+	      (PP-PRD under
+		      (NP court supervision))))
+       (PRN ,
+	    (S (NP-SBJ Mr. Edelman)
+	       (VP says
+		   (SBAR 0
+			 (S *T*-2))))
+	    ,)
+       and
+       (S (NP-SBJ-1 (NP an average)
+		    (PP of
+			(NP 1,500 new children)))
+	  (VP are
+	      (VP added
+		  (NP *-1)
+		  (NP-TMP each month))))
+       .))
+( (S (NP-SBJ-2 (NP The courthouse)
+	       ,
+	       (S (NP-SBJ-1 *)
+		  (VP to
+		      (VP be
+			  (VP built
+			      (NP *-1)
+			      (PP-LOC in
+				      (NP Monterey Park))))))
+	       ,)
+     (VP is
+         (VP expected
+             (S (NP-SBJ *-2)
+                (VP to
+                    (VP open
+                        (PP-TMP in
+				(NP (NP the spring)
+				    (PP of
+					(NP 1992)))))))))
+     .))
+( (S-HLN (NP-SBJ Law Firm Management)
+	 (VP Can
+	     (VP Be
+		 (NP-PRD Quite Rewarding)))))
+( (S (NP-SBJ-1 (NP IT)
+	       (S *EXP*-2))
+     (VP PAYS
+         (S-2 (NP-SBJ *-1)
+	      (VP to
+		  (VP follow
+		      (NP a management career path)
+		      --
+		      (PP-LOC (ADVP even) at
+			      (NP law firms))))))
+     .))
+( (S (NP-SBJ That)
+     (VP 's
+         (NP-PRD (NP the conclusion)
+                 (PP of
+                     (NP (NP a recent study)
+			 (PP of
+			     (NP large law firms))
+                         (VP conducted
+                             (NP *)
+                             (PP by
+                                 (NP-LGS (NP Altman & Weil Inc. ,)
+                                         (NP an
+                                             (NAC-LOC Ardmore
+						      ,
+						      Pa.
+						      ,)
+                                             law firm consultant))))))))
+     .))
+( (S (NP-SBJ (NP Its survey)
+             (PP of
+                 (NP (NP 96 firms)
+                     ,
+                     (NP (NP each)
+			 (PP with
+			     (NP (QP 100
+				     to
+				     1,000)
+				 lawyers)))
+                     ,)))
+     (VP shows
+         (SBAR that
+               (S (NP-SBJ managing partners)
+                  (VP earned
+                      (NP (NP an average)
+                          (PP of
+                              (NP (NP $ 395,974 *U*)
+                                  (PP in
+                                      (NP compensation and cash benefits)))))
+		      (PP-TMP in
+			      (NP (NP the firms ')
+				  1988 fiscal years))))))
+     .))
+( (S (NP-SBJ-4 (NP Managing partners)
+	       (SBAR (WHNP-1 who)
+		     (S (NP-SBJ *T*-1)
+			(VP responded
+			    (PP-CLR to
+				    (NP the survey))))))
+     (VP (ADVP typically)
+	 (VP spend
+	     (NP-CLR-2 (QP over half)
+		       their time)
+	     (S-CLR-3 (NP-SBJ *-4)
+		      (VP supervising
+			  (NP (NP their firms ')
+			      day-to-day operations))))
+	 and
+	 (VP (NP-CLR=2 (NP (QP just a little more
+			       than
+			       a third))
+		       (PP of
+			   (NP their time)))
+	     (S-CLR=3 (NP-SBJ *-4)
+		      (VP practicing
+			  (NP law)))))
+     .))
+( (S (NP-SBJ-2 (NP Partners)
+	       (PP-LOC in
+		       (NP the survey))
+	       (SBAR (WHNP-1 who)
+		     (S (NP-SBJ *T*-1)
+			(VP devote
+			    (NP (NP most)
+				(PP of
+				    (NP their time)))
+			    (PP to
+				(S-NOM (NP-SBJ *-2)
+				       (VP practicing
+					   (NP law))))))))
+     (VP earned
+         (NP (NP an average)
+             (PP of
+                 (NP (QP about $ 217,000) *U*))))
+     .))

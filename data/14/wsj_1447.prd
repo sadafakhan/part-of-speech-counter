@@ -1,0 +1,397 @@
+
+
+( (S (NP-SBJ (NP Philip Morris Cos.)
+             ,
+             (SBAR whose
+                   (WHNP-1 Benson & Hedges cigarette brand)
+                   (S (NP-SBJ *T*-1)
+                      (VP has
+			  (VP been
+			      (VP losing
+				  (NP market share))))))
+             ,)
+     (VP has
+         (VP asked
+             (NP-3 (QP at
+		       least
+		       one)
+		   other agency)
+             (S (NP-SBJ *-3)
+                (VP to
+                    (VP try
+                        (NP its hand)
+                        (PP-CLR at
+				(NP (NP creative work)
+				    (PP for
+					(NP (NP the big account)
+					    ,
+					    (SBAR (WHNP-2 which)
+						  (S (NP-SBJ *T*-2)
+						     (VP has
+							 (VP been
+							     (PP-PRD at
+								     (NP Wells Rich Greene Inc.))
+							     (PP-TMP since
+								     (NP 1966)))))))))))))))
+     .))
+( (S (NP-SBJ (NP Executives)
+             (ADJP close
+                   (PP to
+                       (NP Philip Morris))))
+     (VP said
+         (SBAR that
+               (S (NP-SBJ the tobacco and food giant)
+                  (VP has
+                      (VP asked
+                          (NP-1 (NP (NP Backer Spielvogel Bates Worldwide Inc.)
+				    ,
+				    (NP (NP a unit)
+					(PP of
+					    (NP Saatchi & Saatchi Co.)))
+				    ,)
+				and
+				(NP possibly others))
+                          (S (NP-SBJ *-1)
+                             (VP to
+                                 (VP work
+                                     (PP-CLR on
+					     (NP (NP creative ideas)
+						 (PP for
+						     (NP the account))))))))))))
+     .))
+( (S (NP-SBJ Several executives)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ another potential contender)
+                  (VP is
+                      (NP-PRD (NP (NP WPP Group 's)
+                                  Ogilvy & Mather agency)
+                              ,
+                              (SBAR (WHNP-1 which)
+                                    (S (NP-SBJ *T*-1)
+                                       (VP works
+                                           (PP-CLR on
+						   (NP some other Philip Morris products))))))))))
+     .))
+( (S (NP-SBJ-1 Both
+	       (NP Philip Morris)
+	       and
+	       (NP Backer Spielvogel))
+     (VP declined
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP comment))))
+     .))
+( (S (NP-SBJ (NP A spokeswoman)
+             (PP for
+                 (NP Ogilvy & Mather)))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the agency)
+                  (VP does n't
+                      (VP comment
+                          (PP-CLR on
+				  ``
+				  (NP idle speculation)))))))
+     . ''))
+( (S (SINV (VP-TPC-1 (ADVP Also)
+		     mentioned
+		     (PP-CLR as
+			     (NP a contender)))
+           (VP was
+	       (VP *T*-1))
+           (NP-SBJ TBWA Advertising))
+     , but
+     (S (NP-SBJ the company)
+        (VP denied
+            (SBAR 0
+                  (S (NP-SBJ it)
+                     (VP was
+                         (VP participating))))))
+     .))
+( (S (NP-SBJ (NP The loss)
+             (PP of
+                 (NP the cigarette account)))
+     (VP would
+         (VP be
+             (NP-PRD (NP a severe blow)
+                     (PP to
+                         (NP Wells Rich)))))
+     .))
+( (S (NP-SBJ Benson & Hedges)
+     (VP has
+         (VP been
+             (NP-PRD (NP (NP one)
+                         (PP of
+                             (NP its most high-visibility campaigns)))
+                     ,
+                     (CONJP as well
+			    as)
+		     (NP (NP one)
+			 (PP of
+			     (NP its largest clients))))))
+     .))
+( (S (NP-SBJ The account)
+     (VP billed
+         (NP (QP almost $ 60 million) *U*)
+	 (NP-TMP last year)
+	 ,
+	 (PP according
+	     (PP to
+		 (NP Leading National Advertisers))))
+     .))
+( (S-1 (S But
+	  (NP-SBJ Philip Morris)
+	  (VP has
+	      (VP scaled
+		  (ADVP back)
+		  (NP (NP ad spending)
+		      (PP-LOC on
+			      (NP the brand)))
+		  (PP-TMP over
+			  (NP the past year)))))
+       (PRN ,
+	    (S (NP-SBJ industry executives)
+	       (VP said
+		   (SBAR 0
+			 (S *T*-1))))
+	    ,)
+       and
+       (S (NP-SBJ it)
+	  (ADVP-TMP now)
+	  (VP bills
+	      (NP (QP about $ 30 million 
+		      to
+		      $ 40 million) *U*)))
+       .))
+( (S (NP-SBJ Industry executives)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ Philip Morris)
+                  (VP had
+                      (VP asked
+                          (NP the other agencies)
+                          (S (NP-SBJ *)
+                             (VP to
+                                 (VP create
+                                     (NP campaigns)
+				     (PP-PRP in
+					     (NP a bid
+						 (S (NP-SBJ *)
+						    (VP to
+							(VP stop
+							    (NP (NP the brand 's)
+								slipping market share))))))))))))))
+     .))
+( (S (PP According
+         (PP to
+             (NP (NP John Maxwell)
+                 ,
+                 (NP (NP an analyst)
+                     (PP-LOC at
+			     (NP (NP Wheat First Securities)
+				 ,
+				 (NP (NP Richmond)
+				     ,
+				     (NP Va.))))))))
+     ,
+     (NP-SBJ Benson & Hedges)
+     (VP has
+	 (VP slipped
+	     (PP-DIR from
+		     (NP (NP 4.7 %)
+			 (PP of
+			     (NP the cigarette market)))
+		     (PP-TMP in
+			     (NP 1985)))
+	     (PP-DIR to
+		     (NP (QP just 4.1) %)
+		     (PP-TMP after
+			     (NP (NP the second quarter)
+				 (PP of
+				     (NP this year)))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ The brand)
+	      (VP is
+		  (NP-PRD (NP No. 7)
+			  (ADVP overall)
+			  (PP-LOC in
+				  (NP the cigarette business)))))
+     ,
+     (NP-SBJ Mr. Maxwell)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ The slip)
+     (VP has
+         (VP come
+             (PP despite
+                 (NP (NP (NP high-profile ads)
+                         (VP created
+                             (NP *)
+                             (PP by
+                                 (NP-LGS Wells Rich))))
+                     ,
+                     (PP including
+                         (NP (NP one)
+                             (VP picturing
+                                 (NP (NP (NP a young man)
+                                         (VP clad
+                                             (NP *)
+                                             (PP only in
+                                                 (NP pajama bottoms))))
+                                     (VP interrupting
+                                         (NP a festive brunch))))))))))
+     .))
+( (S (NP-SBJ That ad)
+     (VP generated
+         (NP (NP so much publicity)
+             (SBAR that
+                   (S (NP-SBJ a trade magazine)
+                      (VP launched
+                          (NP a contest
+                              (SBAR for
+				    (S (NP-SBJ its readers)
+				       (VP to
+					   (VP guess
+					       (SBAR (SBAR (WHNP-1 who)
+							   (S (NP-SBJ the guy)
+							      (VP was
+								  (NP-PRD *T*-1))))
+						     and
+						     (SBAR (WHNP-2 what)
+							   (S (NP-SBJ he)
+							      (VP was
+								  (VP doing
+								      (NP *T*-2))))))))))))))))
+     .))
+( (S (NP-SBJ Wells Rich)
+     (ADVP-TMP first)
+     (VP popularized
+         (NP the Benson & Hedges brand)
+	 (ADVP-TMP (NP (QP more than 20)
+		       years)
+		   ago)
+	 (PP with
+	     (NP (NP ads)
+		 (VP portraying
+		     ,
+		     (PP among
+			 (NP other things))
+		     ,
+		     (NP (NP an elevator door)
+			 (VP closing
+			     (PP-CLR on
+				     (NP (NP a passenger 's)
+					 cigarette))))))))
+     .))
+( (S (NP-SBJ The brand)
+     (ADVP-TMP early on)
+     (VP achieved
+         (NP (NP an upscale appeal)
+	     --
+	     (NP (NP a trait)
+		 (SBAR (WHNP-1 that)
+		       (S (NP-SBJ some analysts)
+			  (VP believe
+			      (SBAR 0
+				    (S (NP-SBJ *T*-1)
+				       (VP is
+					   (ADJP-PRD (ADVP partly)
+						     responsible
+						     (PP for
+							 (NP its staid performance))))))))))))
+     .))
+( (S (NP-SBJ-1 (NP Philip Morris)
+	       ,
+	       (VP trying
+		   (S (NP-SBJ *-1)
+		      (VP to
+			  (VP revive
+			      (NP the Benson & Hedges franchise)))))
+	       ,)
+     (VP put
+         (NP the account)
+         (PP-CLR up
+		 (PP for
+		     (NP review)))
+	 (PP-TMP in
+		 (NP 1986)))
+     .))
+( (S (NP-SBJ Wells Rich Greene)
+     ,
+     (ADVP however)
+     ,
+     (PP in
+         (NP (NP an effort)
+             (VP directed
+                 (NP *)
+                 (PP by
+                     (NP-LGS Mary Wells Lawrence))))
+         ,)
+     (VP (VP emerged
+             (NP (NP the victor)
+                 (PP of
+                     (NP the review))))
+         and
+         (VP retained
+             (NP the business)))
+     .))
+( (S (NP-SBJ (NP Kenneth Olshan)
+             ,
+             (NP (NP Wells Rich 's)
+                 chairman)
+             ,)
+     (VP did n't
+         (VP return
+             (NP (NP phone calls)
+                 (VP seeking
+                     (NP comment)))))
+     .))
+( (S (SBAR-ADV While
+	       (S (NP-SBJ Wells Rich)
+		  (ADVP-TMP recently)
+		  (VP picked
+		      (PRT up)
+		      (NP (NP Hertz Corp. 's)
+			  (ADJP (QP $ 25 million 
+				    to
+				    $ 30 million) *U*) account))))
+     ,
+     (NP-SBJ it)
+     (VP has
+         (VP lost
+             (NP (NP a number)
+                 (PP of
+                     (NP big accounts)))
+	     (NP-TMP this year)
+	     ,
+	     (PP including
+		 (NP (NP the (ADJP (QP $ 20 million
+				       to
+				       $ 25 million)
+				   *U*) 
+			 Cadbury-Schweppes Canada Dry and Sunkist accounts)
+		     ,
+		     (NP the (ADJP (QP $ 18 million) *U*) Procter & Gamble Co . Sure deodorant account)
+		     and
+		     (NP the (ADJP $ (QP 10 million) *U*) Polo/Ralph Lauren business)))))
+     .))
+( (S (NP-SBJ Its victories)
+     (VP include
+         (NP (NP (NP (QP more
+			 than
+			 $ 30
+			 million) *U*)
+		 (PP in
+		     (NP Sheraton Corp. business)))
+	     and
+             (NP (NP an assignment)
+		 (PP from
+		     (NP Dun & Bradstreet))
+                 (ADJP worth
+                       (NP (QP $ 5 million
+			       to
+			       $ 10 million ) *U*)))))
+     .))

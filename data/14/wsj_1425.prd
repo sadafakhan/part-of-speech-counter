@@ -1,0 +1,35 @@
+
+
+( (S (NP-SBJ (NP Translant Inc.)
+             ,
+             (NP-LOC (NP Rancho Cucamonga)
+		     ,
+		     (NP Calif.)
+		     ,))
+     (VP got
+         (NP (NP an (ADJP (QP $ 86 million) *U*) Navy contract)
+	     (PP for
+		 (NP missile-launch systems))))
+     .))
+( (S (NP-SBJ General Electric Co.)
+     (VP received
+         (NP (NP a (ADJP (QP $ 30.6 million) *U*) Air Force contract)
+	     (PP for
+		 (NP MX-missile nose cones))))
+     .))
+( (S (NP-SBJ-1 Goodyear Tire & Rubber Co.)
+     (VP was
+         (VP awarded
+             (NP *-1)
+             (NP (NP a (ADJP (QP $ 19.1 million) *U*) Army contract)
+		 (PP for
+		     (NP armored-vehicle parts)))))
+     .))
+( (S (NP-SBJ-1 Analytic Sciences Corp.)
+     (VP was
+         (VP awarded
+             (NP *-1)
+             (NP (NP a (ADJP (QP $ 10.1 million) *U*) Air Force contract)
+		 (PP for
+		     (NP technical support)))))
+     .))

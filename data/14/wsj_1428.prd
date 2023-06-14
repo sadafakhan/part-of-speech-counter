@@ -1,0 +1,709 @@
+
+
+( (S (NP-SBJ-1 (NP OPEC 's)
+	       ability
+	       (S (NP-SBJ *)
+		  (VP to
+		      (VP produce
+			  (NP (NP more petroleum)
+			      (SBAR than
+				    (S (NP-SBJ it)
+				       (VP can
+					   (VP sell)))))))))
+     (VP is
+         (VP beginning
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP cast
+                        (NP a shadow)
+                        (PP-LOC-CLR over
+				    (NP world oil markets)))))))
+     .))
+( (S (S (NP-SBJ (NP Output)
+                (PP from
+                    (NP (NP the Organization)
+                        (PP of
+                            (NP Petroleum Exporting Countries)))))
+        (VP is
+            (ADVP-TMP already)
+            (PP-LOC-PRD at
+			(NP (NP a high)
+			    (PP for
+				(NP the year))))))
+     and
+     (S (NP-SBJ most member nations)
+        (VP are
+            (VP running
+                (ADVP-CLR flat out))))
+     .))
+( (S But
+     (NP-SBJ industry and OPEC officials)
+     (VP agree
+	 (SBAR that
+	       (S (NP-SBJ (NP a handful)
+			  (PP of
+			      (NP members)))
+		  (ADVP-TMP still)
+		  (VP have 
+		      (NP enough unused capacity
+			  (S (NP-SBJ *)
+			     (VP to
+				 (VP (VP glut
+					 (NP the market))
+				     and
+				     (VP cause
+					 (NP an oil-price collapse)
+					 (NP-TMP (NP a few months)
+						 (PP from
+						     (NP now))))
+				     (SBAR-ADV if
+					       (S (NP-SBJ-1 OPEC)
+						  (VP does n't
+						      (ADVP-TMP soon)
+						      (VP adopt
+							  (NP a new quota system)
+							  (S-PRP (NP-SBJ *-1)
+								 (VP to
+								     (VP corral
+									 (NP its chronic cheaters))))))))))))))))
+     .))
+( (S (PP As
+         (NP a result))
+     ,
+     (NP-SBJ (NP the effort
+		 (S *ICH*-1))
+             (PP by
+                 (NP some oil ministers))
+             (S-1 (NP-SBJ *)
+		  (VP to
+		      (VP get
+			  (S (NP-SBJ OPEC)
+			     (VP to
+				 (VP approve
+				     (NP a new permanent production-sharing agreement)
+				     (NP-TMP next month))))))))
+     (VP is
+         (VP taking 
+	     (PRT on)
+             (NP increasing urgency)))
+     .))
+( (S (NP-SBJ-1 The organization)
+     (VP is
+         (VP scheduled
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP meet
+                        (PP-LOC in
+				(NP Vienna))
+			(PP-TMP beginning
+				(NP Nov. 25)))))))
+     .))
+( (S (ADVP-TMP So far
+	       (NP this year))
+     ,
+     (NP-SBJ (NP (NP rising demand)
+                 (PP for
+                     (NP OPEC oil)))
+             and
+             (NP (NP production restraint)
+                 (PP by
+                     (NP some members))))
+     (VP have
+         (VP kept
+             (S (NP-SBJ prices)
+		(ADJP-PRD firm)
+		(PP despite
+		    (NP (NP rampant cheating)
+			(PP by
+			    (NP others)))))))
+     .))
+( (S But
+     (NP-SBJ that)
+     (VP could
+         (VP change
+	     (SBAR-ADV if
+		       (S (NP-SBJ (NP demand)
+				  (PP for
+				      (NP (NP OPEC 's)
+					  oil)))
+			  (VP softens
+			      (ADVP-TMP seasonally)
+			      (NP-TMP early next year)
+			      (SBAR-ADV as
+					(S (NP-SBJ some)
+					   (VP think
+					       (SBAR 0
+						     (S (NP-SBJ *) 
+							(VP may
+							    (VP happen))))))))))))
+     .))
+( (S (NP-SBJ OPEC)
+     (VP is
+         (ADVP-TMP currently)
+         (VP producing
+	     (NP (NP (QP more
+			 than
+			 22 million) barrels)
+		 (NP-TMP a day))
+	     ,
+	     (PP sharply above
+		 (NP (NP its nominal , self-imposed fourth-quarter ceiling)
+		     (PP of
+			 (NP 20.5 million))))
+	     ,
+	     (PP according
+		 (PP to
+		     (NP (NP OPEC)
+			 and
+			 (NP (NP industry officials)
+			     (PP-LOC at
+				     (NP (NP an oil conference here)
+					 (VP sponsored
+					     (NP *)
+					     (PP by
+						 (NP-LGS (NP the Oil Daily)
+							 and
+							 (NP the International Herald Tribune))))))))))))
+     .))
+( (S (S-TPC-1 (PP At
+		  (NP that rate))
+	      ,
+	      (NP-SBJ (NP a majority)
+		      (PP of
+			  (NP (NP OPEC 's)
+			      13 members)))
+	      (VP have
+		  (VP reached
+		      (NP their output limits))))
+     ,
+     (NP-SBJ they)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S But
+     (NP-SBJ it)
+     (VP is
+         (VP estimated
+             (SBAR that
+                   (S (NP-SBJ (NP (NP (QP at
+					  least
+					  three million) barrels)
+                                  (NP-ADV a day))
+                              (PRN --
+				   and
+				   (NP (NP possibly as much)
+				       (PP as
+					   (NP (NP (QP seven million) barrels)
+					       (NP-ADV a day))))
+				   --) 
+			      (PP of
+                                  (NP spare capacity)))
+                      (ADVP-TMP still)
+                      (VP exists
+                          (PP-LOC within
+				  (NP OPEC)))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ Most)
+	      (VP is
+		  (VP concentrated
+		      (PP-LOC in
+			      (NP (NP five Persian Gulf countries)
+				  ,
+				  (PP including
+				      (NP his own))
+				  ,)))))
+     (NP-SBJ (NP Issam Al-Chalabi)
+	     ,
+	     (NP (NP Iraq 's)
+		 oil minister)
+	     ,)
+     (VP told
+	 (S *T*-1)
+	 (NP the conference)
+	 (NP-TMP Friday))
+     .))
+( (S (NP-SBJ He)
+     (VP puts
+         (NP (NP OPEC 's)
+             current capacity)
+         (PP-PUT at
+		 (NP (NP (QP 28 million
+			     to
+			     29 million)
+			 barrels)
+		     (NP-ADV a day))))
+     .))
+( (S (NP-SBJ That)
+     (VP 's
+         (ADJP-PRD (ADJP higher)
+                   (PP than
+                       (NP some other estimates))))
+     .))
+( (S (NP-SBJ (NP Ali Khalifa Al-Sabah)
+             ,
+             (NP (NP Kuwait 's)
+                 oil minister)
+             ,)
+     (ADVP-TMP recently)
+     (VP estimated
+         (NP (NP OPEC capacity)
+	     (PP-LOC at
+		     (NP (NP (QP 25 million) barrels)
+			 (NP-ADV a day)))))
+     .))
+( (S (NP-ADV Either way)
+     ,
+     (NP-SBJ the overhang)
+     (VP is
+         (ADJP-PRD big enough
+                   (S (NP-SBJ *)
+                      (VP to
+                          (VP keep
+                              (S (NP-SBJ delicately balanced oil markets)
+				 (PP-PRD on
+					 (NP edge))))))))
+     .))
+( (S (NP-SBJ (NP Even modest amounts)
+             (PP of
+                 (NP (NP additional output)
+                     (PP by
+                         (NP (NP (NP those)
+                                 (PP with
+                                     (NP the huge extra capacity and reserves))
+				 ,
+				 (PP such
+				     as
+				     (NP (NP Saudi Arabia)
+					 and
+					 (NP Iraq))))
+			     ,)))))
+     (VP could
+         (VP upset
+             (NP the market)))
+     .))
+( (S (NP-SBJ (NP The Iraqi oil minister)
+             and
+             (NP Saudi oil minister
+                 Hisham Nazer))
+     (VP insisted
+         (PP-CLR in
+		 (NP (NP their comments)
+		     (PP to
+			 (NP the conference))))
+         (SBAR that
+               (S (NP-SBJ their countries)
+                  (VP would
+                      (VP act
+                          (ADVP-MNR responsibly)
+                          (S-PRP (NP-SBJ *)
+				 (VP to
+				     (VP maintain
+					 (NP a stable market)))))))))
+     .))
+( (S (ADVP However)
+     ,
+     (PP-LOC in
+	     (NP interviews))
+     (ADVP-TMP later) ,
+     (NP-SBJ both ministers)
+     (VP stressed
+         (SBAR that
+               (S (NP-SBJ they)
+                  (VP expect
+		      (S (NP-SBJ-2 future OPEC quotas)
+                         (VP to
+			     (VP be
+				 (VP based
+				     (NP *-2)
+				     (PP-CLR (ADVP mainly) 
+					     on
+					     (NP (NP the production capacity and reserves)
+						 (PP of
+						     (NP each member))))))))))))
+     .))
+( (S (PP-LOC Under
+	     (NP that approach))
+     ,
+     (NP-SBJ (NP countries)
+             (PP with
+                 (NP the most unused oil capacity)))
+     (VP would
+         (VP get
+             (NP (NP bigger shares)
+                 (PP of
+                     (NP (NP any future increases)
+                         (PP in
+                             (NP (NP OPEC 's)
+                                 production ceiling))))
+                 (SBAR than
+		       (S (NP-SBJ they)
+			  (VP would
+			      (PP-LOC under
+				      (NP the current system))))))))
+     .))
+( (SINV ``
+	(SBARQ-TPC-3 (SBAR-ADV If
+			       (S (NP-SBJ you)
+				  (VP are
+				      (ADVP-TMP already)
+				      (VP producing
+					  (PP-CLR at
+						  (NP (NP (QP 95 %
+							      or
+							      100 %) *U*)
+						      (PP of
+							  (NP your capacity))))))))
+		     ,
+		     (WHNP-2 what)
+		     (SQ (NP-SBJ *T*-2)
+			 (VP 's
+			     (NP-PRD the good)
+			     (S (NP-SBJ-1 *)
+				(VP to
+				    (VP be
+					(VP told
+					    (NP *-1)
+					    (SBAR 0
+						  (S (NP-SBJ you)
+						     (VP can
+							 (VP produce
+							     (PP-CLR at
+								     (NP (NP 105 %)
+									 (PP of
+									     (NP capacity)))))))))))))))
+	?
+	''
+	(VP asked
+	    (SBARQ *T*-3))
+	(NP-SBJ Mr. Al-Chalabi)
+	.))
+( (S (PP-LOC At
+	     (NP an inconclusive Geneva meeting))
+     (NP-TMP late last month)
+     ,
+     (NP-SBJ (NP OPEC 's)
+             oil ministers)
+     (ADVP-MNR halfheartedly)
+     (VP approved
+         (NP (NP another increase)
+             (PP of
+                 (NP (NP (QP one million) barrels)
+                     (NP-ADV a day)))
+             (PP-LOC in
+		     (NP their production ceiling))))
+     .))
+( (S (NP-SBJ-3 They)
+     (VP doled
+         (NP it)
+	 (PRT out)
+	 (S-ADV (NP-SBJ *-3)
+		(VP using
+		    (NP the existing formula)))
+	 ,
+	 (ADVP however)
+	 ,
+	 (SBAR-ADV (WHNP-1 which)
+		   (S (NP-SBJ *T*-1)
+		      (VP meant
+			  (SBAR that
+				(S (NP-SBJ (NP even those countries)
+					   (SBAR (WHNP-2 that)
+						 (S (NP-SBJ *T*-2)
+						    (VP could n't
+							(VP produce
+							    (NP more))))))
+				   (VP received
+				       (NP higher official allotments))))))))
+     .))
+( (S (NP-SBJ (NP The main effect)
+             (PP of
+                 (NP the ceiling boost)))
+     (VP was
+	 (S-PRD (NP-SBJ *)
+		(VP to
+		    ``
+		    (VP legitimize 
+			''
+			(NP (NP some)
+			    (PP of
+				(NP (NP the overproduction)
+				    (VP (ADVP-TMP already)
+					coming
+					(PP-DIR from
+						(NP the quota cheaters))))))))))
+     .))
+( (S (ADVP Still)
+     ,
+     (NP-SBJ there)
+     (VP was
+         (NP-PRD a breakthrough)
+	 (PP-LOC at
+		 (NP Geneva)))
+     .))
+( (S (ADVP-TMP Previously)
+     ,
+     (NP-SBJ-1 no OPEC member)
+     (VP had
+         (VP been
+             (ADJP-PRD willing
+                       (S (NP-SBJ *-1)
+                          (VP to
+                              (VP accept
+                                  (NP (NP a reduction)
+                                      (PP in
+                                          (NP (NP its percentage share)
+                                              (PP of
+                                                  (NP (NP (NP the group 's)
+                                                          total output target)
+                                                      , or
+                                                      (NP ceiling))))))))))))
+     .))
+( (S But
+     (NP-SBJ-1 (NP the concept)
+	       (PP of
+		   (NP (NP disproportionate quotas)
+		       (PP for
+			   (NP (NP those)
+			       (PP with
+				   (NP unused capacity))))))
+	       ,
+	       (VP advanced 
+		   (ADVP-LOC there)
+		   (PP-LOC in
+			   (NP an Iranian proposal)))
+	       ,)
+     (VP was
+         (ADVP generally)
+         (VP endorsed
+	     (NP *-1)
+             (PP by
+                 (NP-LGS the ministers))))
+     .))
+( (S (PP-TMP In
+	     (NP the end))
+     (NP-SBJ politics)
+     (VP got
+         (PP-LOC-CLR in
+		     (NP the way)))
+     .))
+( (S (NP-SBJ Libya)
+     (VP accepted
+         (NP (NP Iran 's)
+             proposal)
+	 (SBAR-ADV only so long as
+		   (S (NP-SBJ-1 it)
+		      (VP was
+			  (VP promised
+			      (NP *-1)
+			      (NP (NP production parity)
+				  (PP with
+				      (NP Kuwait))))))))
+     .))
+( (S And
+     (NP-SBJ-1 (NP the United Arab Emirates)
+	       ,
+	       (NP a chronic quota cheater)
+	       ,)
+     (VP refused
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP give
+                    (NP any guarantee
+                        (SBAR 0
+                              (S (NP-SBJ it)
+                                 (VP would
+                                     (VP change
+                                         (NP its ways))))))))))
+     .))
+( (S But
+     (S (NP-SBJ-1 the oil ministers)
+        (VP continue
+            (S (NP-SBJ *-1)
+               (VP to
+                   (VP study
+                       (NP the plan))))))
+     , and
+     (S (NP-SBJ it)
+        (VP will
+            (ADVP probably)
+            (VP be
+                (NP-PRD (NP the basis)
+                        (PP for
+                            (NP (NP discussion)
+                                (PP-LOC at
+					(NP (NP next month 's)
+					    meeting))))))))
+     .))
+( (S (NP-SBJ It)
+     (VP 's
+         (VP understood
+             (SBAR 0
+                   (S (NP-SBJ-1 several compromises)
+                      (ADVP-TMP already)
+                      (VP have
+			  (VP been
+			      (VP worked
+				  (NP *-1)
+				  (PP-LOC-CLR into
+					      (NP the plan)))))))))
+     .))
+( (S (NP-SBJ-1 The ceiling)
+     (VP would
+	 (VP be
+	     (VP lifted
+		 (NP *-1)
+		 (PP-CLR to
+			 (NP (QP 21.5 million) barrels))
+		 (S-PRP (NP-SBJ-2 *-1)
+			(VP to
+			    (VP provide
+				(NP (NP Kuwait)
+				    and
+				    (NP the United Arab Emirates))
+				(NP much higher official quotas)
+				(SBAR-ADV while
+					  (S (NP-SBJ *-2)
+					     (VP reducing
+						 (NP (NP percentage shares)
+						     (PP of
+							 (NP some others))))))))))))
+     .))
+( (S (NP-SBJ-1 (NP Libya 's)
+	       previous conditions)
+     (VP are
+         (ADVP-TMP no longer)
+         (VP considered
+	     (S (NP-SBJ *-1)
+		(NP-PRD a problem))
+	     ,
+	     (SBAR-ADV although
+		       (S (NP-SBJ the United Arab Emirates)
+			  (VP is
+			      (ADVP-TMP still)
+			      (NP-PRD an issue))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ (NP Saudi Arabia)
+		      ,
+		      (NP (NP OPEC 's)
+			  kingpin)
+		      ,)
+	      (ADVP also)
+	      (VP has
+		  (VP surfaced
+		      (PP-CLR as
+			      (NP a possible obstacle)))))
+     ,
+     (NP-SBJ some OPEC sources)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (S-ADV (NP-SBJ *-1)
+	    (VP Insisting
+		(PP-CLR on
+			(NP (NP a (ADJP 24.5 %) share)
+			    (PP of
+				(NP any ceiling))))))
+     ,
+     (NP-SBJ-1 Saudi officials)
+     (VP have
+	 (VP (ADVP-TMP long)
+	     pressed
+	     (PP-CLR for
+		     (NP (NP the pro rata distribution)
+			 (PP of
+			     (NP increases))
+			 (PP to
+			     (NP all members))))))
+     .))
+( (S (PP-LOC In
+	     (NP Geneva))
+     ,
+     (ADVP however)
+     ,
+     (NP-SBJ they)
+     (VP supported
+         (NP (NP Iran 's)
+             proposal)
+	 (SBAR-PRP because
+		   (S (NP-SBJ it)
+		      (VP would
+			  (VP have
+			      (VP (VP left
+				      (S (NP-SBJ (NP the Saudi percentage)
+						 (PP of
+						     (NP the OPEC total)))
+					 (ADJP-PRD intact)))
+				  , and
+				  (VP increased
+				      (NP actual Saudi volume)
+				      (PP-DIR to
+					      (NP (NP (QP nearly 5.3 million) barrels)
+						  (ADVP daily)))
+				      (PP-DIR from
+					      (NP five million)))))))))
+     .))
+( (S (NP-SBJ (NP Some)
+             (PP of
+                 (NP (NP the proposed modifications)
+                     since)))
+     ,
+     (ADVP however)
+     ,
+     (VP call 
+	 (PRT on)
+	 (S (NP-SBJ Saudi Arabia)
+            (VP to
+		``
+		(VP give
+                    (PRT back)
+                    ''
+                    (PP-DTV to
+			    (NP the production-sharing pool))
+                    (NP a token 23,000 barrels)))))
+     .))
+( (S (SBAR-ADV Though
+	       (S (NP-SBJ *) 
+		  (ADJP-PRD tiny)))
+     ,
+     (NP-SBJ that)
+     (VP 's
+         (NP-PRD (NP a reduction)
+                 (PP in
+                     (NP its share))))
+     .))
+( (S (NP-SBJ (NP Mr. Nazer)
+             ,
+             (NP the Saudi oil minister)
+             ,)
+     (VP reiterated
+         (ADVP-LOC here)
+         (SBAR that
+               (S (NP-SBJ the kingdom)
+                  (VP would
+                      (VP insist
+                          (PP-CLR on
+				  (S-NOM (NP-SBJ *)
+					 (VP maintaining
+					     (NP (NP its percentage share)
+						 (PP of
+						     (NP OPEC production)))
+					     (PP-LOC under
+						     (NP any quota revisions))))))))))
+     .))
+( (S (S-TPC-1 ``
+	      (PP-LOC Under
+		      (NP any circumstances))
+	      ,
+	      (NP-SBJ Saudi Arabia)
+	      (VP should
+		  (VP get
+		      (ADJP-PRD more ''
+				(CONJP rather than)
+				less))))
+     ,
+     (NP-SBJ Mr. Nazer)
+     (VP said
+	 (S *T*-1))
+     .))

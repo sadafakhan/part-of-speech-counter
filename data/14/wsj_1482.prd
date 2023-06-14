@@ -1,0 +1,258 @@
+
+
+( (S (NP-SBJ-1 The following U.S. Treasury , corporate and municipal offerings)
+     (VP are
+         (ADVP-MNR tentatively)
+         (VP scheduled
+	     (NP *-1)
+             (PP-CLR for
+		     (NP sale))
+	     (NP-TMP this week)
+	     ,
+	     (PP according
+		 (PP to
+		     (NP Dow Jones Capital Markets Report)))
+	     :
+	     (NP (ADJP (QP $ 15.6 billion) *U*) three-month and six-month bills)))
+     .))
+( (NP (NP (QP $ 10 billion) *U*)
+      (PP of
+	  (NP two-year notes))
+      .))
+( (NP (NP Resolution Funding Corp.)
+      (SBAR (WHNP-1 0)
+	    (S (NP-SBJ *T*-1)
+	       (VP to
+		   (VP sell
+		       (NP (ADJP (QP $ 4.5 billion) *U*) 30-year bonds)))))
+      .))
+( (NP (NP Aim Prime Rate Plus Fund Inc.)
+      --
+      (NP (QP 10 million common) shares)
+      ,
+      (PP via
+          (NP PaineWebber Inc))
+      .))
+( (NP (NP Allied Capital Corp. II)
+      --
+      (NP 6,500,000 common shares)
+      ,
+      (PP via
+          (NP Shearson Lehman Hutton Inc))
+      .))
+( (NP (NP American Cyanamid Co.)
+      --
+      (NP 1,250,000 common shares)
+      ,
+      (PP via
+          (NP Merrill Lynch Capital Markets))
+      .))
+( (NP (NP Associated Natural Gas Corp.)
+      --
+      (NP 1,400,000 common shares)
+      ,
+      (PP via
+          (NP Dillon Read & Co))
+      .))
+( (NP (NP B & H Crude Carriers Ltd.)
+      --
+      (NP (QP Four million) common shares)
+      ,
+      (PP via
+          (NP Salomon Brothers Inc))
+      .))
+( (NP (NP Baldwin Technology Co.)
+      --
+      (NP 2,600,000 Class A shares)
+      ,
+      (PP via
+          (NP Smith Barney , Harris Upham & Co))
+      .))
+( (NP (NP Blockbuster Entertainment Corp.)
+      --
+      (NP (ADJP (QP $ 250 million) *U*) (PRN -LRB- face amount -RRB-) Liquid Yield Option Notes)
+      ,
+      (PP via
+          (NP Merrill Lynch))
+      .))
+( (NP (NP Chemex Pharmaceuticals Inc.)
+      --
+      (NP 1,200,000 units)
+      ,
+      (PP via
+          (NP PaineWebber))
+      .))
+( (NP (NP Immune Response Corp.)
+      --
+      (NP (QP Three million) common shares)
+      ,
+      (PP via
+          (NP Merrill Lynch))
+      .))
+( (NP (NP Marsam Pharmaceuticals Inc.)
+      --
+      (NP 1,300,000 common shares)
+      ,
+      (PP via
+          (NP Smith Barney , Harris Upham))
+      .))
+( (NP (NP RMI Titanium Co.)
+      --
+      (NP (QP 15 million) common shares)
+      ,
+      (PP via
+          (NP Salomon Brothers Inc))
+      .))
+( (NP (NP Tidewater Inc.)
+      --
+      (NP 4,631,400 common shares)
+      ,
+      (PP via
+          (NP Salomon Brothers Inc))
+      .))
+( (NP (NP Massachusetts)
+      --
+      (NP (NP (QP Approximately $ 230 million) *U*)
+	  (PP of
+	      (NP (NP general bonds)
+		  ,
+		  (NP (NP (NP consolidated loan)
+			  (PP of
+			      (NP 1989)))
+		      ,
+		      (NP Series D)))))
+      ,
+      (PP via
+          (NP competitive bid))
+      .))
+( (NP (NP (NP Montgomery County)
+          ,
+          (NP Maryland))
+      --
+      (NP (NP (QP $ 75 million) *U*)
+	  (PP of
+	      (NP (NP (NP general consolidated public improvement bonds)
+		      (PP of
+			  (NP 1989)))
+		  ,
+		  (NP Series B))))
+      ,
+      (PP via
+          (NP competitive bid))
+      .))
+( (NP (NP (NP Trinity River Authority)
+          ,
+          (NP Texas))
+      --
+      (NP (NP $ 134,750,000 *U*)
+          (PP of
+              (NP (NP regional wastewater system improvement revenue bonds)
+                  ,
+                  (NP Series 1989)
+                  ,)))
+      (PP via
+          (NP competitive bid))
+      .))
+( (NP (NP (NP City and County)
+          (PP of
+              (NP (NP Honolulu)
+                  ,
+                  (NP Hawaii))))
+      --
+      (NP (NP (QP $ 75 million) *U*)
+	  (PP of
+	      (NP (NP (NP obligation bonds)
+		      ,
+		      (NP 1989 Series B))
+		  ,
+		  (ADJP due
+			(NP-TMP 1993-2009)))))
+      ,
+      (PP via
+          (NP competitive bid))
+      .))
+( (NP (NP Beverly Hills)
+      --
+      (NP (NP (QP $ 110 million) *U*)
+	  (PP of
+	      (NP (NP (NP civic center project certificates)
+		      (PP of
+			  (NP participation)))
+		  ,
+		  (NP Series 1989)
+		  ,)))
+      (PP via
+          (NP a Goldman , Sachs & Co. group))
+      .))
+( (NP (NP (NP Broward County School District)
+          ,
+          (NP Florida))
+      --
+      (NP (NP (QP $ 185 million) *U*)
+	  (PP of
+	      (NP school district general bonds)))
+      ,
+      (PP via
+          (NP a First Boston Corp. group))
+      .))
+( (NP (NP Connecticut Housing Finance Authority)
+      --
+      (NP (NP $ 132,620,000 *U*)
+	  (PP of
+	      (NP (NP housing mortgage revenue
+		      -LRB- AMT and non-AMT -RRB- bonds))))
+      ,
+      (PP via
+          (NP a PaineWebber group))
+      .))
+( (NP (NP Maryland Stadium Authority)
+      --
+      (NP (NP $ 137,550,000 *U*)
+	  (PP of
+	      (NP (NP sports facilities lease revenue Alternative Minimum Tax (PRN -LRB- AMT -RRB-) bonds)
+		  ,
+		  (NP Series 1989 D))))
+      ,
+      (PP via
+          (NP a Morgan Stanley & Co. group))
+      .))
+( (NP (NP Michigan)
+      --
+      (NP (NP (QP $ 80 million) *U*)
+	  (PP of
+	      (NP Michigan First general bonds))
+	  ,
+	  (PP including
+	      (NP (NP (NP (QP $ 70 million) *U*)
+		      (PP of
+			  (NP environmental protection project bonds)))
+		  and
+		  (NP (NP (QP $ 10 million) *U*)
+		      (PP of
+			  (NP recreation project bonds))))))
+      ,
+      (PP via
+          (NP a Shearson Lehman Hutton group))
+      .))
+( (NP (NP West Virginia Parkways Economic Development and Tourism Authority)
+      --
+      (NP (NP (QP $ 143 million) *U*)
+	  (PP of
+	      (NP (NP parkway revenue bonds)
+		  ,
+		  (NP Series 1989))))
+      ,
+      (PP via
+          (NP a PaineWebber group))
+      .))
+( (NP (NP (NP San Antonio)
+          ,
+          (NP Texas))
+      --
+      (NP (NP (QP $ 640 million) *U*)
+	  (PP of
+	      (NP gas and electric revenue refunding bonds)))
+      ,
+      (PP via
+          (NP a First Boston group))
+      .))

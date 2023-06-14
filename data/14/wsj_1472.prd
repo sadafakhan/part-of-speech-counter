@@ -1,0 +1,133 @@
+
+
+( (S (NP-SBJ (NP Moody 's)
+             Investors Service Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP lowered
+                      (NP (NP the ratings)
+			  (PP of
+			      (NP (NP some (QP $ 145 million) *U*)
+				  (PP of
+				      (NP Pinnacle debt)))))
+		      (PP-PRP because of
+			      (NP ``
+				  (NP accelerating deficiency)
+				  (PP in
+				      (NP liquidity))
+				  , ''
+				  (SBAR (WHNP-2 which)
+					(S (NP-SBJ it)
+					   (VP said
+					       (SBAR 0
+						     (S (NP-SBJ-1 *T*-2)
+							(VP was
+							    (VP evidenced
+								(NP *-1)
+								(PP by
+								    (NP-LGS (NP (NP Pinnacle 's)
+										elimination)
+									    (PP of
+										(NP dividend payments)))))))))))))))))
+     .))
+( (S (NP-SBJ (NP Henry Sargent Jr.)
+             ,
+             (NP Pinnacle executive vice president)
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the action)
+                  ``
+                  (VP wo n't
+                      (ADVP really)
+                      (VP have
+                          (NP any effect)
+			  (PP-CLR on
+				  (NP us)))))))
+     .))
+( (S (S (NP-SBJ We)
+        (VP are n't
+            (VP selling
+                (NP bonds)
+		(ADVP-TMP right now))))
+     , and
+     (S (NP-SBJ I)
+        (VP do n't
+            (VP think
+                (SBAR 0
+                      (S (NP-SBJ it)
+                         (VP will
+                             (VP affect
+                                 (NP (NP the value)
+                                     (PP of
+                                         (NP our existing bonds))))))))))
+     . ''))
+( (S (NP-SBJ The rating agency)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP lowered
+                      (NP (NP the ratings)
+                          (PP on
+                              (NP (NP (QP $ 75 million) *U*)
+				  (PP of
+				      (NP (NP the holding company 's)
+					  convertible subordinated Eurodebentures)))))
+                      (PP-DIR to
+			      (ADJP B-3))
+                      (PP-DIR from
+			      (ADJP B-1))))))
+     .))
+( (S (NP-SBJ (NP Moody 's))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (ADVP also)
+                  (VP (VP lowered
+                          (NP (NP the ratings)
+                              (PP of
+                                  (NP (NP (QP $ 70 million) *U*)
+				      (PP-3 of
+					    (NP (NP Pinnacle 's)
+						MeraBank thrift unit long-term deposits)))))
+                          (PP-DIR-1 to
+				    (ADJP B-3))
+                          (PP-DIR-2 from
+				    (ADJP B-2)))
+                      , and
+                      (VP (PP=3 on
+				(NP its subordinated debt))
+			  (PP-DIR=1 to
+				    (ADJP Ca))
+			  (PP-DIR=2 from
+				    (ADJP Caa)))))))
+     .))
+( (S (NP-SBJ (NP (NP MeraBank 's)
+		 rating)
+             (PP for
+                 (NP short-term deposits)))
+     (VP remains
+         (ADJP-PRD Not Prime))
+     .))
+( (S (S-TPC-1 (NP-SBJ (NP Securities)
+		      (PP of
+			  (NP MeraBank)))
+	      (VP (VP were
+		      (VP placed
+			  (PP-LOC-CLR under
+				      (NP review))
+			  (NP-TMP last May)))
+		  , and
+		  (VP will
+		      (VP remain
+			  (PP-PRD under
+				  (NP review))
+			  (PP for
+			      (NP downgrade))))))
+     ,
+     (NP-SBJ the agency)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))

@@ -1,0 +1,456 @@
+
+
+( (S (NP-SBJ (NP (NP France 's)
+                 national tobacco company)
+             ,
+             (VP known
+                 (NP *)
+                 (PP-CLR for
+			 (S-NOM (NP-SBJ *)
+				(VP making
+				    (NP (NP brown-tobacco cigarettes)
+					(PP such
+					    as
+					    (NP Gauloises
+						and
+						Gitanes)))))))
+             ,)
+     (VP is
+         (VP branching
+             (PRT out)))
+     .))
+( (S (S-ADV (NP-SBJ *-2)
+	    (ADJP-PRD Concerned
+		      (PP by
+			  (NP (NP dipping demand)
+			      (PP for
+				  (NP its traditional products))))))
+     ,
+     (NP-SBJ-2 it)
+     (VP is
+	 (VP moving
+	     (PP-DIR (CONJP not only)
+		     (PP into
+			 (NP blonde cigarettes))
+		     , 
+		     (CONJP but also)
+		     (PP into
+			 (NP (NP electronic car-parking payment cards)
+			     (SBAR (WHNP 0)
+				   (S (NP-SBJ-1 *)
+				      (VP to
+					  (VP be
+					      (VP sold
+						  (NP *-1)
+						  (PP-LOC in
+							  (NP neighborhood tobacco stores))))))))))))
+     .))
+( (S (NP-SBJ (NP Brown tobacco)
+             (PP-LOC in
+		     (NP France)))
+     (VP is
+         (NP-PRD (NP a 
+		     (ADJP more pungent)
+		     ,
+		     (ADJP stronger)
+		     grade)
+                 (PP than
+                     (NP (NP (NP the lighter grade)
+                             , or
+                             (NP blonde tobacco)
+                             ,)
+                         (VP used
+                             (NP *)
+                             (PP-LOC in
+				     (NP so-called American-style cigarettes)))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ We)
+		 (VP are n't
+		     (NP-PRD Philip Morris Cos.)))
+	,
+	''
+	(VP says
+	    (S *T*-1))
+	(NP-SBJ (NP Bertrand de Galle)
+		,
+		(NP (NP chairman)
+		    (PP of
+			(NP (NP government-owned Societe Nationale d'Exploitation Industrielle des Tabacs & Allumettes S.A.)
+			    ,
+			    (S (NP-SBJ *)
+			       (VP known
+				   (NP *)
+				   (PP-CLR as
+					   (NP Seita))))))))
+	.))
+( (S (NP-SBJ He)
+     (VP says
+         (SBAR that
+               (S (SBAR-PRP because
+			    (S (NP-SBJ-1 (NP Seita 's)
+					 profits)
+			       (VP are
+				   (VP limited
+				       (NP *-1)
+				       (PP by
+					   (NP-LGS government-controlled cigarette prices))))))
+                  ,
+                  (NP-SBJ he)
+                  (VP does n't
+                      (VP have
+			  (NP the cash)
+			  (SBAR (WHADVP-3 0)
+				(S (NP-SBJ *)
+				   (VP to
+				       (VP diversify
+					   (ADVP (ADVP as heavily)
+						 (SBAR *ICH*-2))
+					   (PP into
+					       (NP food and drink))
+					   (SBAR-2 as
+						   (S (NP-SBJ the U.S. concern)
+						      (VP has
+							  (VP done))))
+					   (ADVP *T*-3))))))))))
+     .))
+( (S -LRB-
+     (NP-TMP Last year)
+     ,
+     (PP for
+         (NP example))
+     ,
+     (NP-SBJ (NP Seita 's)
+             net profit)
+     (VP soared
+         (NP-EXT 150 %)
+         (PP-DIR to
+		 (NP (NP (QP 461.6 million) French francs)
+		     -LRB-
+		     (NP (QP $ 73.5 million) *U*)
+		     -RRB-))
+	 (PP on
+	     (NP (NP sales)
+		 (PP of
+		     (NP (NP (QP FFr 27.68 billion)
+			     *U*)
+			 -
+			 (NP a (ADJP 1.7 %) profit margin))))))
+     .
+     -RRB-))
+( (S (ADVP Instead)
+     ,
+     (NP-SBJ he)
+     (VP said
+         (PP-LOC in
+		 (NP an interview))
+	 ,
+	 (SBAR 0
+	       (S (NP-SBJ he)
+		  (VP is
+		      (VP looking
+			  (PP-CLR for
+				  (NP (NP ways)
+				      (SBAR (WHADVP-1 0)
+					    (S (NP-SBJ *) 
+					       (VP to
+						   (VP exploit
+						       (NP (NP (NP (NP France 's)
+								   network)
+							       (PP of
+								   (NP 39,000 tobacco agents))))
+						       ,
+						       (S-ADV (NP-SBJ (NP most)
+								      (PP of
+									  (NP them)))
+							      (NP-PRD cafes))
+						       (ADVP-MNR *T*-1))))))))))))
+     .))
+( (S (SBAR-ADV While
+	       (S (NP-SBJ Seita)
+		  (VP does n't
+		      (VP own
+			  (NP the French tabacs)))))
+     ,
+     (NP-SBJ (NP its close alliance)
+             (PP with
+                 (NP them)))
+     (VP offers
+         (NP distribution possibilities))
+     .))
+( (S (NP-SBJ One proposal)
+     (VP is
+	 (S-PRD (NP-SBJ *)
+		(VP to
+		    (VP introduce
+			(NP (NP a new payment system)
+			    (PP for
+				(NP parking))
+			    (PP-LOC in
+				    (NP Paris)))))))
+     .))
+( (S (PP Instead of
+         (S-NOM (NP-SBJ *-2)
+		(VP paying
+		    (PP-CLR for
+			    (NP parking))
+		    (PP-MNR by
+			    (S-NOM (NP-SBJ *)
+				   (VP putting
+				       (NP money)
+				       (PP-PUT in
+					       (NP (NP the existing machines)
+						   ,
+						   (SBAR (WHNP-1 which)
+							 (S (NP-SBJ *T*-1)
+							    (VP deliver
+								(NP little paper receipts))))))))))))
+     ,
+     (NP-SBJ-2 drivers)
+     (VP would
+         (VP be
+             (ADJP-PRD able
+                       (S (NP-SBJ *-2)
+                          (VP to
+                              (VP buy
+                                  (NP electronic cards)
+				  (PP-LOC in
+					  (NP local tobacco shops))))))))
+     .))
+( (S (SBAR-TMP Once
+	       (S (NP-SBJ-3 *)
+		  (VP activated
+		      (NP *-3))))
+     ,
+     (NP-SBJ-2 the card)
+     (VP would
+         (VP sit
+             (PP-LOC in
+		     (NP (NP the car 's)
+			 window))
+	     ,
+	     (S-ADV (NP-SBJ *-2)
+		    (VP showing
+			(NP traffic wardens)
+			(SBAR-NOM (WHNP-1 (WHADVP how
+						  much)
+					  time)
+				  (S (NP-SBJ the motorist)
+				     (VP could
+					 (VP remain
+					     (NP-TMP *T*-1)))))))))
+     .))
+( (S (SBAR-TMP (WHADVP-1 When)
+	       (S (NP-SBJ the motorist)
+		  (VP returned
+		      (PP-CLR to
+			      (NP his car))
+		      (ADVP-TMP *T*-1))))
+     (NP-SBJ he)
+     (VP (VP could
+	     (VP turn
+		 (NP-PRD the card)
+		 (PRT off)))
+	 and
+	 ,
+	 (VP (SBAR-ADV if
+		       (S (NP-SBJ it)
+			  (VP showed
+			      (NP time remaining))))
+	     ,
+	     (VP save
+		 (NP it)
+		 (PP-CLR for
+			 (NP later)))))
+     .))
+( (S (NP-SBJ Seita)
+     (VP is
+         (NP-PRD (NP a partner)
+                 (PP-LOC in
+			 (NP (NP the project)
+			     ,
+			     (SBAR (WHNP-2 which)
+				   (S (NP-SBJ-1 *T*-2)
+				      (VP was
+					  (VP developed
+					      (NP *-1)
+					      (PP by
+						  (NP-LGS Matra SA))
+					      (S-ADV (NP-SBJ *)
+						     (VP using
+							 (NP Japanese technology)))))))))))
+     .))
+( (S (NP-SBJ Seita
+             and
+             Matra)
+     (ADVP-TMP currently)
+     (VP are
+         (VP negotiating
+             (PP-CLR with
+		     (NP city officials))
+             (PP for
+                 (NP the right
+                     (S (NP-SBJ *)
+                        (VP to
+                            (VP begin
+                                (NP service))))))))
+     .))
+( (S And
+     (NP-SBJ Seita)
+     (VP is
+         (VP considering
+             (NP further diversification)))
+     .))
+( (S (NP-SBJ-1 It)
+     (VP (VP wanted
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP buy
+                        (NP (NP (NP RJR Nabisco Inc. 's)
+                                French cracker subsidiary)
+                            ,
+                            (NP-LOC Belin)
+                            ,))))
+	     (PP in
+		 (NP (NP hopes)
+		     (PP of
+			 (S-NOM (NP-SBJ *-1)
+				(VP selling
+				    (NP its products)
+				    (PP-LOC in
+					    (NP tobacco stores))))))))
+         , but
+         (VP lost
+             (NP the bidding)
+             (PP-CLR to
+		     (NP food group
+			 BSN SA))))
+     .))
+( (S (NP-SBJ-1 It)
+     (ADVP-TMP currently)
+     (VP is
+         (VP considering
+             (S (NP-SBJ *-1)
+                (VP bidding
+                    (PP-CLR for
+			    (NP Swedish Match Co))))))
+     .))
+( (S And
+     (NP-SBJ it)
+     (VP retains
+         (NP (NP an interest)
+             (PP in
+                 (S-NOM (NP-SBJ *)
+			(VP acquiring
+			    (NP (NP (NP candies)
+				    and
+				    (NP other articles))
+				(SBAR (WHNP-2 that)
+				      (S (NP-SBJ-1 *T*-2)
+					 (VP might
+					     (VP be
+						 (VP sold
+						     (NP *-1)
+						     (PP-LOC in
+							     (NP tobacco shops)))))))))))))
+     .))
+( (S (NP-SBJ-1 It)
+     (ADVP also)
+     (VP is
+         (VP trying
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP shore
+                        (PRT up)
+                        (NP its tobacco business))))))
+     .))
+( (S (NP-SBJ (NP Brown-tobacco cigarettes)
+             (PP such
+		 as
+		 (NP Gauloises)))
+     (ADVP-TMP now)
+     (VP make
+         (PRT up)
+         (NP (NP (NP just 40 %)
+                 (PP of
+                     (NP the French tobacco market)))
+             ,
+             (NP (NP half
+		     the level)
+                 (PP of
+		     (NP (NP about two decades)
+			 (ADVP-TMP ago))))))
+     .))
+( (S (SBAR-ADV While
+	       (S (NP-SBJ Seita)
+		  (VP retains
+		      (NP a manufacturing monopoly)
+		      (PP-LOC in
+			      (NP France)))))
+     ,
+     (NP-SBJ-1 it)
+     (VP is
+	 (VP being
+	     (VP hurt
+		 (NP *-1)
+		 (PP (PP by
+			 (NP-LGS rising imports))
+		     and
+		     (PP from
+			 (NP waning cigarette demand))))))
+     .))
+( (S (ADVP So)
+     (NP-SBJ-1 Seita)
+     (VP (VP has
+	     (VP introduced
+		 (NP blonde cigarettes)
+		 (PP-LOC under
+			 (NP the Gauloises label))))
+	 , and
+	 (VP intends
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP relaunch
+			(NP the unsuccessful Gitanes Blondes)
+			(PP-MNR in
+				(NP (NP new packaging)
+				    ,
+				    (ADJP similar
+					  (PP to
+					      (NP (NP the slide-packs)
+						  (VP used
+						      (NP *)
+						      (PP by
+							  (NP-LGS brown-tobacco Gitanes)))))))))))))
+     .))
+( (S-2 (NP-SBJ The aim)
+       (PRN ,
+	    (SINV (VP says
+		      (S *T*-2))
+		  (NP-SBJ Mr. de Galle))
+	    ,)
+       (VP is
+	   (S-PRD (S (NP-SBJ *)
+		     (VP to
+			 (VP win
+			     (NP market share)
+			     (PP-CLR from
+				     (NP imported cigarettes)))))
+		  , and
+		  (S (NP-SBJ *)
+		     (VP to
+			 (VP persuade
+			     (NP (NP-4 smokers)
+				 (SBAR (WHNP-1 who)
+				       (S (NP-SBJ *T*-1)
+					  (VP are
+					      (VP switching
+						  (PP-CLR to
+							  (NP blonde cigarettes)))))))
+			     (S (NP-SBJ-3 *-4)
+				(VP to
+				    (VP keep
+					(S (NP-SBJ *-3)
+					   (VP buying
+					       (ADVP-CLR French)))))))))))
+       .))

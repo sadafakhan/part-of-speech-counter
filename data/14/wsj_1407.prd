@@ -1,0 +1,238 @@
+
+
+( (S (NP-SBJ (NP A former Sperry Corp. marketing executive)
+             ,
+             (VP admitting
+                 (NP (NP his role)
+                     (PP-LOC in
+			     (NP the Pentagon procurement scandal))))
+             ,)
+     (VP pleaded
+         (ADJP-PRD guilty)
+	 (PP-CLR to
+		 (NP (NP bribery and conspiracy charges)
+		     (PP for
+			 (S-NOM (NP-SBJ-1 *)
+				(VP helping
+				    (S (NP-SBJ *-1)
+				       (VP funnel
+					   (NP $ 400,000 *U*)
+					   (PP-CLR to
+						   (NP a midlevel Navy acquisition official))))
+				    (PP-TMP during
+					    (NP the early 1980s))))))))
+     .))
+( (S (NP-SBJ-2 (NP Frank Lavelle)
+	       ,
+	       (SBAR (WHNP-1 who)
+		     (S (PP-TMP at
+				(NP the time))
+			(NP-SBJ *T*-1)
+			(VP was
+			    (NP-PRD (NP the marketing director)
+				    (PP for
+					(NP Sperry))
+				    (PP-LOC in
+					    (NP (NP Clearwater)
+						,
+						(NP Fla.))))))
+		     ,))
+     (VP admitted
+         (S (NP-SBJ *-2)
+            (VP participating
+                (PP-CLR in
+			(NP (NP a scheme)
+			    (SBAR (WHPP-3 0)
+				  (S (NP-SBJ *) 
+				     (VP to
+					 (VP bribe
+					     (NP (NP Garland Tomlin)
+						 ,
+						 (NP the Navy official))
+					     (PP-LOC *T*-3))))))))))
+     .))
+( (S (NP-SBJ (NP Mr. Tomlin)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP left
+                          (NP the Navy)
+                          (PP-TMP in
+				  (NP 1985)))))
+             ,)
+     (VP pleaded
+         (ADJP-PRD guilty)
+         (ADVP-TMP earlier
+		   (NP this year))
+         (PP-CLR to
+		 (NP related conspiracy , bribery and tax-evasion charges)))
+     .))
+( (S (NP-SBJ The bribery scheme)
+     (VP took
+         (NP-CLR place)
+         (PP-TMP between
+		 (NP 1982
+		     and
+		     1985))
+	 ,
+	 (PP according
+	     (PP to
+		 (NP (NP documents)
+		     (VP filed
+			 (NP *)
+			 (PP by
+			     (NP-LGS prosecutors))
+			 (PP in
+			     (NP (NP connection)
+				 (PP with
+				     (NP (NP Mr. Lavelle 's)
+					 guilty plea))))
+			 (PP-LOC in
+				 (NP (NP federal district court)
+				     (PP-LOC in
+					     (NP (NP Alexandria)
+						 ,
+						 (NP Va))))))))))
+     .))
+( (S (NP-SBJ Sperry)
+     (VP merged
+         (PP-CLR with
+		 (NP Burroughs Corp.))
+         (S-ADV (NP-SBJ *)
+		(VP to
+		    (VP become
+			(NP-PRD Unisys Corp.))))
+	 (PP-TMP in
+		 (NP late 1986)))
+     .))
+( (S (NP-SBJ (NP Court documents)
+             (VP filed
+                 (NP *)
+                 (PP by
+                     (NP-LGS prosecutors))))
+     (VP indicate
+         (SBAR 0
+               (S (NP-SBJ-1 Mr. Tomlin)
+                  (VP tried
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP steer
+                                 (PP-CLR to
+					 (NP Sperry))
+                                 (NP (NP a (ADJP multimillion dollar) contract)
+				     (SBAR (WHNP-2 0)
+					   (S (NP-SBJ *T*-2)
+					      (VP to
+						  (VP computerize
+						      (NP (NP maintenance)
+							  (PP of
+							      (NP certain Navy electronics equiment)))))))))))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ Mr. Tomlin)
+	      ,
+	      (PP among
+		  (NP other things))
+	      ,
+	      (VP (ADVP-MNR illegally)
+		  provided
+		  (NP Mr. Lavelle)
+		  (PP-CLR with
+			  (NP (NP inside information and documents)
+			      (VP intended
+				  (S (NP-SBJ *)
+				     (VP to
+					 (VP give
+					     (NP Sperry)
+					     (NP (NP an unfair advantage)
+						 (PP-LOC in
+							 (NP the competition)))))))))))
+     ,
+     (NP-SBJ the documents)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ-1 Sperry)
+     (ADVP-TMP ultimately)
+     (VP was
+         (VP eliminated
+             (NP-2 *-1)
+             (PP-CLR from
+		     (NP the competition))
+             (PP without
+                 (S-NOM (NP-SBJ *-2)
+			(VP receiving
+			    (NP the work))))))
+     .))
+( (S (NP-SBJ (NP Documents)
+             (VP filed
+                 (NP *)
+                 (PP by
+                     (NP-LGS prosecutors))))
+     (VP (ADVP also)
+         indicate
+         (SBAR that
+               (S (NP-SBJ (NP Mr. Lavelle)
+                          and
+                          (NP his fellow conspirators))
+                  (VP requested
+		      and
+		      obtained
+		      ``
+		      (NP (NP approval)
+			  (PP of
+			      (NP the scheme)))
+		      ''
+		      (PP-CLR from
+			      (NP more-senior Sperry officials))
+		      ``
+		      (SBAR-PRP because
+				(S (NP-SBJ (NP the payment)
+					   (SBAR (WHNP-1 which)
+						 (S (NP-SBJ -LCB- Mr . -RCB- Tomlin)
+						    (VP requested
+							(NP *T*-1)))))
+				   (VP was
+				       (ADJP-PRD so large))))))))
+     . ''))
+( (S (NP-SBJ-1 (NP (NP Charles Gardner)
+		   ,
+		   (NP a former Unisys vice president))
+	       , and
+	       (NP (NP James Neal)
+		   ,
+		   (NP a former company consultant)
+		   ,))
+     (VP have
+         (VP admitted
+             (S (NP-SBJ *-1)
+                (VP participating
+                    (PP-CLR in
+			    (NP (NP this) and (NP other bribery schemes)))))))
+     .))
+( (S (NP-SBJ Unisys)
+     (VP has
+         (VP said
+             (SBAR that
+                   (S (NP-SBJ (NP all)
+			      (PP of
+				  (NP the company officials))
+                              (SBAR (WHNP-1 who)
+                                    (S (NP-SBJ *T*-1)
+                                       (VP participated
+                                           (PP-CLR in
+						   (NP improper activities))))))
+                      (VP have
+                          (VP left
+                              (NP the company)))))))
+     .))
+( (S (NP-SBJ Mr. Lavelle)
+     (VP faces
+         (NP (NP (NP a maximum)
+                 (PP of
+                     (NP (NP 20 years)
+                         (PP-LOC in
+				 (NP jail)))))
+             and
+             (NP a (ADJP $ 500,000 *U*) fine)))
+     .))

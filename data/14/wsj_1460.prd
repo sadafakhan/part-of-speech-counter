@@ -1,0 +1,177 @@
+
+
+( (S (NP-SBJ (NP Britain 's)
+             Serious Fraud Office)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP will
+                      (VP investigate
+                          (NP (NP the circumstances)
+                              (VP surrounding
+                                  (NP (NP alleged phantom contracts)
+                                      (PP-LOC at
+					      (NP (NP Ferranti International Signal PLC 's)
+						  International Signal & Control unit))))))))))
+     .))
+( (S (NP-SBJ (NP The investigation)
+             ,
+             (SBAR (WHNP-2 which)
+                   (S (NP-SBJ-1 *T*-2)
+                      (VP will
+			  (VP be
+			      (VP coordinated
+				  (NP *-1)
+				  (PP-CLR with
+					  (NP (NP one)
+					      (PP-LOC (ADVP already) under
+						      (NP (NP way)
+							  (PP-LOC in
+								  (NP the U.S.)))))))))))
+             ,)
+     (VP follows
+         (NP (NP the discovery)
+             (PP of
+		 (SBAR-NOM (WHNP-3 what)
+			   (S (NP-SBJ Ferranti)
+			      (VP has
+				  (VP called
+				      (S (NP-SBJ *T*-3)
+					 (NP-PRD (NP a `` serious '' fraud)
+						 (VP involving
+						     (NP its U.S. subsidiary)))))))))))
+     .))
+( (S (NP-SBJ-1 (NP (NP International Signal & Control)
+                   ,
+                   (NP-LOC (NP Lancaster)
+			   ,
+			   (NP Pa.))
+                   ,)
+               (NP a defense-equipment manufacturer)
+               ,)
+     (VP was
+         (VP bought
+             (NP *-1)
+             (PP by
+                 (NP-LGS Ferranti))
+             (PP-TMP in
+		     (NP 1987))
+             (PP-CLR for
+		     (NP (NP (QP # 420 million) *U*)
+			 (PRN -LRB-
+			      (NP (QP $ 670.3 million) *U*)
+			      -RRB-)))))
+     .))
+( (S (NP-SBJ Ferranti)
+     (VP has
+         (VP said
+             (SBAR that
+                   (S (NP-SBJ-1 it)
+                      (VP would
+			  (VP be
+			      (VP forced
+				  (S (NP-SBJ *-1)
+				     (VP to
+					 (VP write
+					     (PRT off)
+					     (NP (QP # 185 million) *U*)
+					     (PP against
+						 (NP the phantom contracts))
+					     ,
+					     (S-ADV (NP-SBJ *)
+						    (VP reducing
+							(NP its net asset value)
+							(PP-CLR by
+								(NP (QP more
+									than
+									half)))))))))))))))
+     .))
+( (S (NP-SBJ (NP The Serious Fraud Office)
+             ,
+             (NP (NP a division)
+		 (PP of
+		     (NP (NP London 's)
+			 Metropolitan Police))
+                 (ADJP responsible
+                       (PP for
+                           (S-NOM (NP-SBJ *)
+				  (VP investigating
+				      (NP financial crimes))))))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ its work)
+                  (VP would
+                      (VP take
+                          (PRT in)
+			  ``
+			  (NP (NP allegations)
+                              (PP of
+                                  (NP (NP fraud)
+                                      (UCP-TMP (ADVP prior
+						     (PP to
+							 (NP *RNR*-1)))
+					       ,
+					       (VP surrounding
+						   (NP *RNR*-1))
+					       and
+					       (ADJP subsequent
+						     (PP to
+							 (NP *RNR*-1)))
+					       (NP-1 the merger))))))))))
+     . ''))
+( (S (NP-SBJ Ferranti)
+     (VP said
+         (SBAR (SBAR that
+                     (S (NP-SBJ it)
+                        (VP welcomes
+                            (NP the investigation))))
+               and
+               (SBAR that
+                     (S (NP-SBJ it)
+                        (VP will
+			    ``
+			    (VP cooperate
+                                (ADVP fully)))))))
+     . ''))
+( (S (NP-SBJ (NP Derek Alun-Jones)
+             ,
+             (NP (NP Ferranti 's)
+                 chairman)
+             ,)
+     (VP has
+         (VP said
+             (SBAR 0
+                   (S (NP-SBJ-1 he)
+                      (VP hoped
+                          (S (NP-SBJ *-1)
+                             (VP to
+                                 (VP pursue
+                                     (NP (NP legal action)
+                                         (PP against
+                                             (NP (NP those)
+                                                 (ADJP responsible))))))))))))
+     .))
+( (S (NP-SBJ The British defense electronics group)
+     (VP has
+         (VP said
+             (SBAR 0
+                   (S (NP-SBJ-1 it)
+                      (VP (VP will
+			      (VP sell
+				  (NP (NP (QP # 100 million) *U*)
+				      (PP in
+					  (NP assets)))))
+			  and
+			  (VP may
+			      (VP seek
+				  (NP a merger)
+				  (S-PRP (NP-SBJ *-1)
+					 (VP to
+					     (VP strengthen
+						 (NP itself)
+						 (PP-TMP in
+							 (NP (NP the wake)
+							     (PP of
+								 (NP its troubles))))))))))))))
+     .))

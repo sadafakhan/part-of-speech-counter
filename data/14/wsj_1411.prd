@@ -1,0 +1,1799 @@
+
+
+( (S (NP-SBJ-1 The Dallas Cowboys)
+     (VP are
+	 (VP looking
+	     (PP-CLR at
+		     (NP a long-yardage situation))
+	     ,
+	     (S-ADV (NP-SBJ-2 *-1)
+		    (VP struggling
+			(S (NP-SBJ *-2)
+			   (VP to
+			       (VP pull
+				   (ADVP-CLR ahead 
+					     (PP of
+						 (NP the Atlanta Falcons))))))))))
+     .))
+( (S (PP-LOC Up
+	     (PP in
+		 (NP his stadium box)))
+     ,
+     (NP-SBJ (NP their (ADJP new and controversial) owner)
+             ,
+             (NP Jerral `` Jerry '' Jones)
+             ,)
+     (VP watches
+         (ADVP-MNR anxiously)
+	 (SBAR-TMP as
+		   (S (NP-SBJ the team)
+		      (VP bounds
+			  (PP-DIR up
+				  (PP to
+				      (NP the scrimmage line)))))))
+     .))
+( (S (NP-SBJ Mr. Jones)
+     (VP takes
+         (NP-CLR heart))
+     .))
+( (S (NP-SBJ There)
+     (PP-LOC in
+	     (NP (NP the center)
+		 (PP of
+		     (NP the pack))))
+     (VP is
+         (NP-PRD (NP quarterback
+                     Troy Aikman)
+                 ,
+                 (NP (NP the key)
+                     (PP to
+                         (NP (NP the Cowboys ')
+                             comeback strategy)))))
+     .))
+( (FRAG (ADJP So key)
+	,
+	(PP in
+	    (NP fact))
+	,
+	(SBAR that
+	      (S (S (NP-SBJ Mr. Jones)
+		    (VP (VP signed
+			    (NP him)
+			    (PP-TMP in
+				    (NP April))
+			    (PP-CLR for
+				    (NP (QP $ 11.4 million) *U*))
+			    (PP-TMP over
+				    (NP the next six years)))
+			--
+			(NP (NP a record)
+			    (PP for
+				(NP a rookie)))))))
+	.))
+( (SINV (S-TPC-1 ``
+		 (NP-SBJ He)
+		 (VP 's
+		     (NP-PRD a genuine Wheaties-box athlete))
+		 , '')
+	(VP gushes
+	    (S *T*-1))
+	(NP-SBJ Mr. Jones)
+	.))
+( (S (PP With
+         (NP (NP three minutes)
+             (ADJP left
+                   (PP-LOC on
+			   (NP the clock)))))
+     ,
+     (NP-SBJ Mr. Aikman)
+     (VP (VP takes
+             (NP the snap))
+         ,
+         (VP steps
+             (ADVP-DIR back))
+         and
+         (VP fires
+             (NP a 21-yard pass)
+             --
+             (PP-DIR straight into
+		     (NP (NP the hands)
+			 (PP of
+			     (NP an Atlanta defensive back))))))
+     .))
+( (S (S (NP-SBJ The crowd)
+        (VP groans))
+     ,
+     (S (NP-SBJ Mr. Jones)
+        (VP shakes
+            (NP his head)))
+     ,
+     (S (NP-SBJ the Cowboys)
+        (VP lose
+            (NP the game)))
+     .))
+( (S (PP-TMP (NP A few days)
+	     after
+	     (NP that Sept. 17 game))
+     ,
+     (NP-SBJ Mr. Aikman)
+     (VP broke
+	 (NP a finger)
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP sidelining
+		    (NP him)
+		    (PP-TMP for
+			    (NP weeks)))))
+     .))
+( (FRAG (INTJ Ah)
+	,
+	(NP (NP the glamour)
+	    (PP of
+		(NP professional sports)))
+	.))
+( (S (PP For
+         (NP Mr. Jones))
+     ,
+     (S-NOM-SBJ (NP-SBJ *)
+		(VP losing
+		    (NP his quarterback)
+		    (ADVP-TMP temporarily)))
+     (VP was
+         (NP-PRD (NP just the latest)
+                 (PP in
+                     (NP (NP a string)
+			 (PP of
+			     (NP setbacks))
+                         (SBAR (WHNP-1 that)
+                               (S (NP-SBJ *T*-1)
+                                  (VP has
+                                      (VP (VP (VP beset
+						  (NP-2 the Dallas Cowboys)
+						  (PP-TMP *NOT*))
+					      -- 
+					      and 
+					      ,
+					      (VP (NP-TMP this year)
+						  ,
+						  (NP=2 (NP much)
+							(PP of
+							    (NP the National Football League)))))))))))))
+     .))
+( (S (S (NP-SBJ *-1)
+	(ADJP-PRD Once fat and happy))
+     ,
+     (NP-SBJ-1 the Cowboys)
+     (ADVP-TMP now)
+     (VP are
+	 (VP losing
+	     (NP games , fans and money)))
+     .))
+( (S (NP-TMP Last year)
+     ,
+     (NP-SBJ the team)
+     (VP ended
+         (PRT up)
+         (NP (NP (QP $ 2 million) *U*)
+	     (PP in
+		 (NP (NP the red)
+		     (PP on
+			 (NP (NP (QP $ 30 million) *U*)
+			     (PP in
+				 (NP revenue))))))))
+     .))
+( (S (NP-SBJ It)
+     (VP has
+         (NP (NP some)
+             (PP of
+                 (NP (NP the highest costs)
+                     (PP-LOC in
+			     (NP the league))))))
+     .))
+( (S (NP-SBJ Its attendance)
+     (VP is
+         (ADVP-PRD off
+                   (NP-EXT 23 %)
+                   (PP-TMP from
+			   (ADVP (NP six years)
+				 ago))))
+     .))
+( (S (PP At
+         (NP the very least))
+     ,
+     (NP-SBJ (NP Mr. Jones)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP cultivates
+                          (NP the society circuit)
+                          (ADVP (ADVP as eagerly)
+                                (PP as
+                                    (NP his bench))))))
+             ,)
+     (VP can
+         (VP take
+             (NP-CLR comfort)
+             (PP-CLR in
+		     (NP (NP one fact)
+			 :
+			 (S (NP These days)
+			    ,
+			    (NP-SBJ he)
+			    (VP is n't
+				(ADJP-PRD alone)))))))
+     .))
+( (S (NP-SBJ (NP (QP Nearly half)
+		 the owners)
+             (PP of
+                 (NP the 28 National Football League teams)))
+     (VP (VP are
+	     (VP losing
+		 (NP money)))
+	 ,
+	 (NP (NP the result)
+	     (PP of
+		 (NP (NP flat attendance)
+		     ,
+		     (NP aging stadiums)
+		     and 
+		     (PRN --
+			  (ADJP (ADJP more)
+				(PP than
+				    (NP anything)))
+			  --)
+		     (NP (NP skyrocketing salaries)
+			 (PP for
+			     (NP (NP star players)
+				 (PP like
+				     (NP Mr. Aikman)))))))))
+     .))
+( (S (NP-TMP Last year)
+     ,
+     (NP-SBJ (NP the (QP top 12) players)
+             (PP on
+                 (NP each NFL team)))
+     (VP took
+         (ADVP-DIR home)
+         (NP (NP an average $ 536,000 *U*)
+             ,
+             (NP (NP a figure)
+                 (ADJP (ADJP comparable
+                             (PP to
+                                 (NP baseball)))
+                       and
+                       (ADJP (ADJP higher)
+                             (PP than
+                                 (PP in
+                                     (NP basketball))))))))
+     .))
+( (S (S (NP-SBJ First-round draft picks)
+        (VP have
+            (VP done
+                (ADJP even better))))
+     :
+     (S (NP-SBJ (NP Average salaries and bonuses)
+                (PP for
+                    (NP them)))
+        (VP rose
+            (PP-DIR to
+		    (NP $ 685,000 *U*))
+            (NP-TMP this year)
+            ,
+            (ADVP-CLR up
+		      (NP-EXT 44 %)
+		      (PP-TMP from
+			      (NP 1987)))))
+     .))
+( (SINV (S-TPC-1 ``
+		 (NP-SBJ It)
+		 (VP 's
+		     (NP-PRD a vicious circle))
+		 , 
+		 '')
+	(VP says
+	    (SBAR 0
+		  (S *T*-1)))
+	(NP-SBJ (NP Art Modell)
+		,
+		(NP (NP owner)
+		    (PP of
+			(NP the Cleveland Browns))))
+	.))
+( (S ``
+     (S (NP-SBJ One team)
+        (VP pays
+            (NP so much)))
+     and
+     (S (NP-SBJ the other)
+        (VP pays
+            (NP more)))
+     .))
+( (S (NP-SBJ We)
+     (ADVP just)
+     (VP do n't
+         (VP have
+             (NP (NP that kind)
+                 (PP of
+                     (NP income stream)))))
+     . ''))
+( (S (NP-SBJ All
+             this)
+     (VP is
+         (VP causing
+             (NP convulsions)
+	     (PP-LOC in
+		     (NP professional football))))
+     .))
+( (S (NP-SBJ (NP Owners)
+             (ADJP , largely complacent
+                   (PP-TMP in
+			   (NP the past))
+                   ,))
+     (VP (VP are
+	     (ADVP-TMP now)
+	     (VP (ADVP-MNR almost desperately)
+		 looking
+		 (PP-CLR for
+			 (NP (NP ways)
+			     (SBAR (WHADVP-1 0)
+				   (S (NP-SBJ *)
+				      (VP to
+					  (VP (VP lower
+						  (NP costs))
+					      and
+					      (VP raise
+						  (NP revenue))
+					      (ADVP-MNR *T*-1)))))))))
+	 --
+	 (S-ADV (NP-SBJ *)
+		(VP embracing
+		    (NP some revolutionary ideas)
+		    (PP-TMP in
+			    (NP the process)))))
+     .))
+( (S (PP Though
+         (ADVP not intentionally))
+     ,
+     (NP-SBJ-1 (NP the Cowboys ')
+	       Mr. Jones)
+     (VP has
+         (VP come
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP represent
+                        (NP (NP this new breed)
+                            (PP of
+                                (NP owner))))))))
+     .))
+( (S (UCP (PP-TMP Shortly after
+		  (S-NOM (NP-SBJ *)
+			 (VP buying
+			     (NP (NP 66 %)
+				 (PP of
+				     (NP the team)))
+			     (PP-CLR from
+				     (NP H.R. `` Bum '' Bright))
+			     (PP-CLR for
+				     (NP (QP $ 145 million) *U*)))))
+	  , and
+	  (ADJP mindful
+		(PP of
+		    (NP (NP the Cowboys ')
+			ragged bottom line)))
+	  ,)
+     (NP-SBJ the 47-year-old
+	     (NP Mr. Jones))
+     (VP set
+	 (PP-CLR about
+		 (NP (NP his own round)
+		     (PP of
+			 (NP team cuts)))))
+     .))
+( (S (ADVP-TMP First)
+     ,
+     (NP-SBJ he)
+     (VP (ADVP-MNR unceremoniously)
+         sacked
+         (NP (NP Tom Landry)
+             ,
+             (NP (NP the legendary coach)
+                 (SBAR (WHNP-1 who)
+                       (S (NP-SBJ *T*-1)
+                          (VP took
+                              (NP the Cowboys)
+                              (PP-DIR to
+				      (NP (NP five Super Bowls)
+					  and
+					  (NP 20 consecutive winning seasons)))))))))
+     .))
+( (S (PP-LOC In
+	     (NP Dallas))
+     ,
+     (NP-SBJ Mr. Landry)
+     (VP has
+         (NP (NP a standing)
+             (ADJP just shy
+                   (PP of
+                       (NP sainthood)))))
+     .))
+( (S (S (NP-SBJ Anti-Jones sentiment)
+        (VP flooded
+            (NP the local press)))
+     :
+     (S (SINV (FRAG-TPC-1 (NP `` A crude obnoxious hick , ''))
+              (VP said
+		  (FRAG *T*-1))
+              (NP-SBJ one writer))
+        ;
+        (SINV (FRAG-TPC-2 (NP `` a real oink , ''))
+              (VP said
+		  (FRAG *T*-2))
+              (NP-SBJ another))
+        ;
+        (SINV (SBARQ-TPC-4 ``
+			   (WHNP-3 (WHNP Who)
+				   (PP in
+				       (NP the hell)))
+			   does
+			   (SQ (NP-SBJ he)
+			       (VP think
+				   (SBAR 0
+					 (S (NP-SBJ he)
+					    (VP is
+						(NP-PRD *T*-3))))))
+			   ? '')
+              (VP wrote
+		  (SBARQ *T*-4))
+              (NP-SBJ a third)))
+     .))
+( (S (PP For
+         (NP Mr. Jones))
+     ,
+     (NP-SBJ it)
+     (VP was
+         (NP-PRD just the beginning))
+     .))
+( (S (NP-SBJ He)
+     (VP (VP (ADVP-MNR quickly)
+             cut
+             (NP (NP the team 's)
+                 bloated administrative staff)
+             (PP-CLR by
+		     (NP half)))
+         ,
+         (VP shut
+             (PRT down)
+             (NP a Cowboys-owned dance academy))
+         and 
+	 (VP ,
+	     (PP-TMP in
+		     (NP July))
+	     ,
+	     announced
+             (NP plans
+                 (S (NP-SBJ *)
+                    (VP to
+                        (VP sell
+                            (NP (NP Valley Ranch)
+                                ,
+                                (NP (NP (NP the team 's)
+                                        30-acre practice camp)
+                                    and
+                                    (NP (NP the (ADJP most lavish) training facility)
+                                        (PP-LOC in
+						(NP the NFL)))))))))))
+     .))
+( (S (NP-SBJ Mr. Jones)
+     (VP calls
+         (S (NP-SBJ the ranch)
+	    ``
+	    (NP-PRD (NP the Pentagon)
+		    (PP of
+			(NP Sportdom)))))
+     . ''))
+( (S (NP-SBJ It)
+     (VP is
+         (NP-PRD (NP a maze)
+		 (PP of
+		     (NP halls))
+                 (SBAR (WHNP-1 that)
+                       (S (NP-SBJ *T*-1)
+                          (VP connects
+                              (NP (NP (NP film rooms)
+                                      ,
+                                      (NP elaborate spas)
+                                      and
+                                      (NP weight-training centers))
+                                  (SBAR (WHNP-2 that)
+                                        (S (NP-SBJ *T*-2)
+                                           (VP testify
+                                               (PP-CLR to
+						       (NP a richer , more free-spending era)))))))))))
+     .))
+( (S (NP-SBJ-1 He)
+     (VP likes
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP tell
+                    (NP (NP the yarn)
+                        (PP of
+                            (SBAR-NOM (WHADVP-2 how)
+				      (S (NP-SBJ he)
+					 (VP (VP got
+						 (ADJP-PRD lost)
+						 (PP-LOC on
+							 (NP the expansive ranch))
+						 (PP-TMP during
+							 (NP an early visit)))
+					     ,
+					     (VP took
+						 (NP refuge)
+						 (PP-LOC in
+							 (NP an office)))
+					     and
+					     (VP called
+						 (NP the front desk)
+						 (PP for
+						     (NP help)))
+					     (ADVP *T*-2))))))))))
+     .))
+( (S ``
+     (NP-SBJ I)
+     (VP said ,
+         (S `
+            (NP-SBJ Somebody)
+            (VP come
+                (VP get
+                    (NP me)))))
+     .))
+( (S (NP-SBJ I)
+     (VP 'm
+         (PP-LOC-PRD at
+		     (NP extension 29)))
+     . '
+     ''))
+( (S (PP With
+         (S-NOM (NP-SBJ a new day)
+		(VP dawning
+		    (PP-LOC-CLR on
+				(NP the sport)))))
+     ,
+     (NP-SBJ Mr. Jones)
+     (VP does n't
+         (VP see
+             (NP (NP a place)
+                 (PP for
+                     (NP (NP this sort)
+                         (PP of
+                             (NP luxury)))))))
+     .))
+( (S (S-TPC-1 ``
+	      (NP-SBJ It)
+	      (VP 's
+		  (ADJP-PRD just not cost efficient))
+	      , '')
+     (NP-SBJ he)
+     (VP says
+	 (S *T*-1))
+     .))
+( (S (NP-SBJ The place)
+     (VP costs
+         (NP (NP (QP nearly $ 2 million) *U*)
+             (NP-ADV a year))
+         (S-PRP (NP-SBJ *)
+		(VP to
+		    (VP maintain))))
+     .))
+( (S (SBAR-TMP (WHADVP-1 When)
+	       (S (NP-SBJ he)
+		  (VP sells
+		      (NP it)
+		      (ADVP-TMP *T*-1))))
+     (PRN ,
+	  (S (NP-SBJ he)
+	     (VP says))
+	  ,)
+     (NP-SBJ the Cowboys)
+     (VP will
+	 (VP move
+	     (PP-DIR to
+		     (NP (NP a
+			     (ADJP more practical
+				   (PRN --
+					(S (NP-SBJ *)
+					   (VP read
+					       (ADJP affordable)))
+					--))
+			     grass practice field)
+			 (PP-LOC near
+				 (NP Texas Stadium))))))
+     .))
+( (S And
+     (PP as
+         (PP for
+             (NP Tom Landry)))
+     ,
+     (INTJ well)
+     ,
+     (PP in
+         (NP (NP Mr. Jones 's)
+             mind))
+     ,
+     (NP-SBJ he)
+     (VP had
+	 (VP played
+	     (PRT out)
+	     (NP his winning years)))
+     .))
+( (S (S-TPC-1 (PP-TMP After
+		      (S-NOM (NP-SBJ *)
+			     (VP posting
+				 (NP losing seasons)
+				 (PP-TMP in
+					 (NP (NP each)
+					     (PP of
+						 (NP the last three years)))))))
+	      ,
+	      (NP-SBJ the Cowboys)
+	      (VP needed
+		  (NP a change)))
+     ,
+     (NP-SBJ he)
+     (VP says
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ Football)
+     (VP has
+         (VP (ADVP-TMP long)
+             been
+             (NP-PRD (NP Mr. Jones 's)
+                     passion)
+	     ,
+	     (PP-LOC both on and off
+		     (NP the field))))
+     .))
+( (S (S (NP-SBJ *-2)
+	(NP-PRD An Arkansas native))
+     ,
+     (NP-SBJ-2 he)
+     (VP started
+         (PP at
+             (NP guard))
+         (PP-LOC on
+		 (NP (NP the undefeated 1964
+			 (NAC University
+			      (PP of
+				  (NP Arkansas)))
+			 team)
+		     (SBAR (WHNP-1 that)
+			   (S (NP-SBJ *T*-1)
+			      (VP won
+				  (NP a national championship)))))))
+     .))
+( (S (PP-TMP After
+	     (NP college))
+     ,
+     (NP-SBJ he)
+     (VP (VP worked
+             (PP-LOC at
+		     (NP (NP (NP his father 's)
+			     insurance company)
+			 (PP-LOC in
+				 (NP Little Rock)))))
+         , and
+	 (VP (PP-TMP in
+		     (NP 1966))
+	     led
+             (NP an aborted attempt
+                 (S (NP-SBJ *)
+                    (VP to
+                        (VP buy
+                            (NP the San Diego Chargers)))))))
+     .))
+( (S (ADVP-TMP (NP Years)
+	       later)
+     ,
+     (PP with
+         (NP (NP cash)
+             (PP from
+                 (NP (NP the sale)
+                     (PP of
+                         (NP the insurance company))))))
+     ,
+     (NP-SBJ he)
+     (VP founded
+         (NP (NP Arkoma Production Corp.)
+             ,
+             (NP (NP an oil and gas exploration company)
+                 (VP based
+                     (NP *)
+                     (PP-LOC-CLR in
+				 (NP Little Rock))))))
+     .))
+( (S (ADVP So)
+     (NP-SBJ it)
+     (VP was n't
+         (ADJP-PRD surprising
+                   (SBAR that
+                         (S (NP-SBJ Mr. Jones)
+                            (VP returned
+                                (PP-DIR to
+					(NP his Arkansas roots))
+				(SBAR-TMP (WHADVP-1 when)
+					  (S (NP-SBJ-2 he)
+					     (VP went
+						 (S (NP-SBJ *-2)
+						    (VP looking
+							(PP-CLR for
+								(NP (NP a replacement)
+								    (PP for
+									(NP Mr. Landry))))
+							(ADVP-TMP *T*-1)))))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP tapped
+         (NP (NP Jimmy Johnson)
+             ,
+             (NP (NP (NP a teammate)
+                     (PP on
+                         (NP the 1964
+                             (NAC University
+				  (PP of
+				      (NP Arkansas)))
+                             squad)))
+                 and
+                 (NP (NP the head coach)
+                     (PP-LOC at
+			     (NP (NP the University)
+				 (PP of
+				     (NP Miami))
+				 ,
+				 (SBAR (WHADVP-1 where)
+				       (S (NP-SBJ he)
+					  (VP led
+					      (NP the Hurricanes)
+					      (PP-CLR to
+						      (NP (NP five winning seasons)
+							  and
+							  (NP (NP a national championship)
+							      (PP-TMP in
+								      (NP 1987)))))
+					      (ADVP-LOC *T*-1))))))))))
+     .))
+( (S (SBAR-ADV Whatever
+	       (FRAG (NP (NP Mr. Johnson 's)
+			 talents)))
+     ,
+     (PP-LOC in
+	     (NP (NP the hearts and minds)
+		 (PP of
+		     (NP many Dallas fans))))
+     ,
+     (NP-SBJ he)
+     (VP is
+	 (NP-PRD no Tom Landry))
+     .))
+( (S (NP-TMP (NP Seven games
+		 (PRN -LRB-
+		      and 
+		      ,
+		      (PP-TMP after
+			      (NP (NP a loss)
+				  (PP to
+				      (NP the Kansas City Chiefs)))
+			      (NP-TMP yesterday))
+		      ,
+		      (NP seven losses)
+		      -RRB-))
+	     (PP into
+		 (NP the season)))
+     ,
+     (NP-SBJ the `` new '' Cowboys)
+     (VP are n't
+         (VP doing
+             (ADVP (ADVP any better)
+                   (PP than
+                       (NP the old)))))
+     .))
+( (S (PP In
+         (NP fact))
+     ,
+     (NP-SBJ (NP the last time)
+             (SBAR (WHADVP-1 0)
+                   (S (NP-SBJ they)
+                      (VP played
+                          (ADVP-MNR this badly)
+			  (ADVP *T*-1)))))
+     (VP was
+         (PP-TMP-PRD in
+		     (NP (NP 1960)
+			 ,
+			 (NP their opening season))))
+     .))
+( (S (NP-SBJ (NP (NP Average attendance)
+                 (PP-LOC at
+			 (NP their games)))
+             ,
+             (NP (NP (QP about 49,000))
+		 (NP-TMP last year))
+	     ,)
+     (VP continues
+         (ADVP-CLR flat))
+     .))
+( (S (NP-SBJ Mr. Jones)
+     (VP is
+         (VP attacking
+             (NP the problem)
+	     (PP on
+		 (NP several fronts))))
+     .))
+( (S (NP-SBJ-1 He)
+     (VP continues
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP reshuffle
+                    (NP the team))))
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(VP trading
+		    (NP famed running back
+			Herschel Walker)
+		    (PP-DTV to
+			    (NP the Minnesota Vikings))
+		    (NP-TMP this month)
+		    (PP-CLR for
+			    (NP (NP a slew)
+				(PP of
+				    (NP (NP players)
+					and
+					(NP future draft picks))))))))
+     .))
+( (S (S-PRP (NP-SBJ-2 *-1)
+	    (VP To
+		(VP try
+		    (S (NP-SBJ *-2)
+		       (VP to
+			   (VP draw
+			       (NP more fans)))))))
+     ,
+     (NP-SBJ-1 he)
+     (VP has
+	 (VP dropped
+	     (NP end-zone ticket prices)
+	     (PP-DIR from
+		     (NP $ 25 *U*))
+	     (PP-DIR to
+		     (NP $ 19
+			 *U*))))
+     .))
+( (S But
+     (S (NP-SBJ (NP the general trend)
+                ,
+		(PP given
+		    (NP (NP rising costs)
+			(PP-LOC in
+				(NP the league))))
+                ,)
+        (VP has
+            (VP been
+		(S-PRD (NP-SBJ *)
+		       (VP to
+			   (VP raise
+			       (NP prices)))))))
+     , and
+     (S (NP-SBJ-1 Mr. Jones)
+        (VP is
+            (VP expected
+                (S (NP-SBJ *-1)
+                   (VP to
+                       (ADVP-TMP eventually)
+                       (VP follow
+                           (NP suit)))))))
+     .))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ It)
+		 (VP 's
+		     (ADJP-PRD simple))
+		 ,)
+	''
+	(VP says
+	    (S *T*-2))
+	(NP-SBJ (NP Lamar Hunt)
+		,
+		(SBAR (WHNP-1 who)
+		      (S (NP-SBJ *T*-1)
+			 (VP (VP owns
+				 (NP the Kansas City Chiefs))
+			     and
+			     (VP (NP-TMP last year)
+				 raised
+				 (NP ticket prices)
+				 (PP-CLR by
+					 (NP $ 2.40 *U*))
+				 (PP-DIR to
+					 (NP an average $ 17 *U*)))))))
+	.))
+( (S ``
+     (SBAR-ADV If
+	       (S (NP-SBJ we)
+		  (VP did n't
+		      (VP increase
+			  (NP prices)))))
+     ,
+     (NP-SBJ we)
+     (VP 'd
+	 (VP be
+	     (PP-PRD in
+		     (NP the red))))
+     . ''))
+( (S (S (NP-SBJ Mr. Jones)
+        (VP has
+            (ADVP also)
+            (VP beefed
+                (PRT up)
+                (NP his marketing staff)
+		(S-PRP (NP-SBJ *)
+		       (VP to
+			   (VP sell
+			       (NP (NP the 118 luxury suites)
+				   (VP topping
+				       (NP Texas Stadium)))))))))
+     (PRN -LRB-
+	  (S (NP-SBJ (NP his deal)
+		     (PP with
+			 (NP Bum Bright)))
+	     (VP included
+		 (NP (NP operating rights)
+		     (PP for
+			 (NP the stadium)))))
+	  -RRB-) .))
+( (S (NP-SBJ The suites)
+     (VP (VP are
+             (ADJP-PRD air-conditioned))
+         ,
+         (VP have
+             (NP (NP wet bars)
+                 and
+                 (NP plush seating)))
+         , 
+	 and
+         (VP offer
+             (NP (NP a clear view)
+                 (PP of
+                     (NP the field))))
+	 --
+	 (PP (NP all)
+	     for
+	     (NP (NP a sale price)
+		 (PP of
+		     (NP (NP (QP $ 475,000 
+				 to
+				 $ 1 million)
+			     *U*)
+			 ,
+			 (PP depending
+			     (PP on
+				 (NP their size and location))))))))
+     .))
+( (S (NP-SBJ-2 Mr. Jones)
+     (VP (VP has 
+	     (VP been
+		 (VP taking
+		     (NP prospective suite owners)
+		     (PP-LOC-CLR onto
+				 (NP the field))
+		     (PP-TMP during
+			     (NP practice))
+		     (S-PRP (NP-SBJ *-2)
+			    (VP to
+				(VP let
+				    (S (NP-SBJ them)
+				       (VP rub
+					   (NP elbows)
+					   (PP-CLR with
+						   (NP players))))))))))
+	 , and
+	 (VP promises
+	     (NP (NP those)
+		 (SBAR (WHNP-1 who)
+		       (S (NP-SBJ *T*-1)
+			  (ADVP actually)
+			  (VP buy
+			      (NP (NP one)
+				  (PP of
+				      (NP the rooms)))))))
+	     (NP (NP (NP an insider 's)
+		     look)
+		 (PP at
+		     (NP (NP the team 's)
+			 strategy))
+		 (PP-TMP before
+			 (NP game time)))))
+     .))
+( (S (S (NP-SBJ-2 The sales job)
+        (VP seems
+            (S (NP-SBJ *-2)
+               (VP to
+		   (VP be
+		       (VP paying
+			   (PRT off)))))))
+     :
+     (S (SBAR-ADV (WHADVP-3 When)
+		  (S (NP-SBJ he)
+		     (VP bought
+			 (NP the team)
+			 (ADVP-TMP *T*-3))))
+        ,
+        (NP-SBJ-1 (NP only six)
+                  (PP of
+                      (NP the suites)))
+        (VP had
+	    (VP been
+		(VP sold
+		    (NP *-1)))))
+     .))
+( (S (NP-TMP Today)
+     ,
+     (NP-SBJ 30)
+     (VP have 
+	 (VP *?*))
+     .))
+( (S (NP-SBJ Gate receipts)
+     (VP are
+         (ADVP only)
+         (NP-PRD (NP (NP the Cowboys ')
+		     second largest source)
+                 (PP of
+                     (NP cash))))
+     .))
+( (S (NP-SBJ The biggest)
+     (VP is
+         (NP-PRD (NP (NP the NFL 's)
+		     contract)
+		 (PP with
+                     (NP national television))
+                 (PP for
+                     (NP (NP broadcast)
+                         (PP of
+                             (NP (NP the league 's)
+                                 games))))))
+     .))
+( (S (NP-TMP Last year)
+     ,
+     (NP-SBJ (NP (NP the Cowboys ')
+		 share)
+             (PP of
+                 (NP that pie)))
+     (VP came
+         (PP-CLR to
+		 (NP (QP $ 17.6 million) *U*)))
+     .))
+( (S (NP-SBJ The team)
+     (VP (ADVP additionally)
+         earns
+         (PP between
+             (NP (QP $ 2 million 
+		     and
+		     $ 4 million) *U*))
+	 (PP-CLR for
+		 (NP local radio and television broadcast rights)))
+     .))
+( (S (NP-SBJ-1 Mr. Jones)
+     (VP is
+         (ADVP-TMP currently)
+         (VP trying
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP jack
+                        (PRT up)
+                        (NP (NP the price)
+                            (PP for
+                                (NP those local rights))))))))
+     .))
+( (S (NP-SBJ-2 He)
+     (VP is
+         (ADVP also)
+         (VP trying
+             (S (NP-SBJ *-2)
+                (VP to
+                    (VP get
+			(S (NP-SBJ (NP more stations)
+				   (PP-LOC in
+					   (NP (NP Mexico)
+					       ,
+					       (SBAR (WHADVP-1 where)
+						     (S (NP-SBJ the Cowboys)
+							(VP have
+							    (NP a following)
+							    (ADVP-LOC *T*-1))))
+					       ,)))
+                           (VP to
+                               (VP pick
+                                   (PRT up)
+                                   (NP the games)))))))))
+     .))
+( (S (NP-SBJ-1 (NP Mr. Jones)
+               ,
+               (SBAR (WHNP-2 whose
+                             (NP (NP twangy voice)
+                                 and
+                                 (NP folksy ways)))
+                     (S (NP-SBJ *T*-2)
+                        (VP belie
+                            (NP (NP an intense businessman)
+                                (SBAR (WHNP-3 who)
+                                      (S (NP-SBJ *T*-3)
+                                         (VP works
+                                             (NP 16-hour days))))))))
+               ,)
+     (VP is
+         (VP resigned
+             (NP *-1)
+             (PP-CLR to
+		     (NP (NP the hefty salaries)
+			 (SBAR (WHNP-4 0)
+			       (S (NP-SBJ he)
+				  (VP pays
+				      (NP his players)
+				      (NP *T*-4)
+				      (NP-TMP these days))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP (VP calls
+	     (S (NP-SBJ the contracts)
+		``
+		(ADJP-PRD critical
+			  (PP to
+			      (S-NOM (NP-SBJ *)
+				     (VP winning
+					 (PP-LOC in
+						 (NP the NFL))))))
+		''))
+	 and
+	 (VP has
+	     (VP played
+		 (NP (NP his part)
+		     (PP-LOC in
+			     (NP the bidding wars))))))
+     .))
+( (S (PP Besides
+         (S-NOM (NP-SBJ *-1)
+		(VP signing
+		    (NP Mr. Aikman)
+		    (PP-CLR to
+			    (NP a sizable contract)))))
+     ,
+     (NP-SBJ-1 Mr. Jones)
+     (VP has
+         (VP agreed
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP pay
+                        (NP rookie quarterback
+                            Steve Walsh)
+                        (NP (QP $ 4.1 million) *U*)
+                        (PP-TMP over
+				(NP the next four years)))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ This wage inflation)
+	      (VP is
+		  (VP bleeding
+		      (S (NP-SBJ the NFL)
+			 (ADJP-PRD dry)))))
+     ,
+     (NP-SBJ the owners)
+     (VP contend
+	 (S *T*-1))
+     .))
+( (SINV (S-TPC-4 (ADVP Soon)
+		 ,
+		 (NP-SBJ-2 only large corporations)
+		 (VP will
+		     (VP be
+			 (ADJP-PRD able
+				   (S (NP-SBJ-3 *-2)
+				      (VP to
+					  (VP afford
+					      (S (NP-SBJ *-3)
+						 (VP to
+						     (VP buy and run
+							 (NP football teams)))))))))))
+	,
+	(VP predicts
+	    (SBAR 0
+		  (S *T*-4)))
+	(NP-SBJ (NP John J. Veatch Jr.)
+		,
+		(NP (NP an investment banker)
+		    (PP with
+			(NP Salomon Brothers))
+		    (SBAR (WHNP-1 who)
+			  (S (NP-SBJ *T*-1)
+			     (VP handled
+				 (NP the Cowboys sale))))))
+	.))
+( (S (S-PRP (NP-SBJ *)
+	    (VP To
+		(VP tackle
+		    (NP the problem))))
+     ,
+     (NP-SBJ-1 NFL owners)
+     (VP have
+	 (VP proposed
+	     (S (NP-SBJ *-1)
+		(VP setting
+		    (NP a rookie wage scale)
+		    (S-PRP (NP-SBJ-2 *)
+			   (VP to
+			       (VP try
+				   (S (NP-SBJ *-2)
+				      (VP to
+					  (VP rein 
+					      (PRT in)
+					      (NP salaries)))))))))))
+     .))
+( (S (S (NP-SBJ (NP Details)
+                (PP of
+                    (NP (NP the plan)
+                        ,
+                        (SBAR (WHNP-2 which)
+                              (S (NP-SBJ *T*-2)
+                                 (VP would
+                                     (VP go
+                                         (PP-CLR into
+						 (NP effect))
+					 (PP-TMP in
+						 (NP 1993))))))
+                        ,)))
+        (VP are
+            (ADJP-PRD sketchy)))
+     , but
+     (S (NP-SBJ-1 each player)
+        (VP would
+	    (ADVP apparently)
+	    (VP be
+		(VP paid
+		    (NP *-1)
+		    (NP (NP a base salary)
+			(VP keyed
+			    (NP *)
+			    (PP-CLR to
+				    (NP his position and ability))))))))
+     .))
+( (S (NP-SBJ Bonuses)
+     (VP would
+	 (VP be
+	     (VP paid
+		 (S-MNR (NP-SBJ *)
+			(VP based
+			    (PP-CLR on
+				    (NP (NP playing time) and (NP performance))))))))
+     .))
+( (S (NP-SBJ The NFL Players Association)
+     ,
+     (ADVP-TMP meanwhile)
+     ,
+     (VP contends
+         (SBAR (SBAR that
+                     (S (NP-SBJ-1 athletes)
+                        (VP are
+                            (VP paid
+                                (NP *-1)
+                                (NP (NP a wage)
+                                    (ADJP commensurate
+                                          (PP with
+                                              (NP their ability
+                                                  (S (NP-SBJ *)
+                                                     (VP to
+                                                         (VP draw
+                                                             (NP fans))))))))))))
+               , and
+               (SBAR that
+                     (S (NP-SBJ some owners)
+                        (VP are
+                            (PP-PRD in
+                                    (NP financial trouble))
+			    (PP-PRP because of
+				    (NP (NP poor business management)
+					, not
+					(NP (NP players ')
+					    salaries))))))))
+     .))
+( (S (NP-SBJ-1 The owners)
+     (VP are
+         (VP trying
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP boost
+                        (NP profit)
+                        (PP-MNR in
+				(NP other ways)))))
+	     ,
+	     (ADVP too)))
+     .))
+( (S (NP-SBJ Many)
+     (VP (VP have
+	     (VP launched
+		 (NP (NP promotions)
+		     (SBAR (WHNP-1 0)
+			   (S (NP-SBJ *T*-1)
+			      (VP to
+				  (VP attract
+				      (NP new fans))))))))
+	 and
+	 (VP are
+	     (VP renegotiating
+		 (NP dated stadium contracts))))
+     .))
+( (S (NP-SBJ (NP Most)
+	     (PP of
+		 (NP the owners)))
+     (VP must
+         (VP pay
+             (NP (NP (QP up
+			 to
+			 10)
+		     %)
+		 (PP of
+		     (NP gross ticket sales)))
+             (PP for
+                 (NP (NP leases)
+                     (PP on
+                         (NP (NP stadiums)
+                             (SBAR (WHNP-1 0)
+                                   (S (NP-SBJ they)
+                                      (VP say
+                                          (SBAR 0
+                                                (S (NP-SBJ *T*-1)
+                                                   (VP are
+						       (ADJP-PRD either
+								 (ADJP too small)
+								 or
+								 (ADJP too old))))))))))))))
+     .))
+( (S (PP-LOC In
+	     (NP Chicago))
+     ,
+     (PP for
+         (NP example))
+     ,
+     (NP-SBJ size)
+     (VP is
+         (NP-PRD the issue))
+     .))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ We)
+		 (VP have
+		     (NP (NP the worst lease)
+			 (PP-LOC in
+				 (NP the NFL))))
+		 ,)
+	''
+	(VP contends
+	    (S *T*-2))
+	(NP-SBJ (NP Michael B. McCaskey)
+		,
+		(NP (NP (NP the president)
+			(PP of
+			    (NP the Chicago Bears)))
+		    and
+		    (NP (NP a grandson)
+			(PP of
+			    (NP (NP George Halas)
+				,
+				(SBAR (WHNP-1 who)
+				      (S (NP-SBJ *T*-1)
+					 (VP founded
+					     (NP (NP the NFL 's)
+						 predecessor organization)))))))))
+	.))
+( (S ``
+     (S (NP-SBJ We)
+        (VP 're
+            (PP-LOC-PRD in
+			(NP (NP a metro area)
+			    (PP with
+				(NP (NP millions)
+				    (PP of
+					(NP Bear fans))))))))
+     , and
+     (S (NP-SBJ-1 only a small number)
+        (VP can
+	    (VP be
+		(VP accommodated
+		    (NP *-1)))))
+     . ''))
+( (S-4 (SBAR-TMP (WHADVP-2 When)
+		 (S (NP-SBJ the lease)
+		    (VP expires
+			(PP-TMP in
+				(NP 1999))
+			(ADVP-TMP *T*-2))))
+       (PRN ,
+	    (S (NP-SBJ he)
+	       (VP says
+		   (S *T*-4))))
+       ,
+       ``
+       (NP-SBJ-3 It)
+       (VP 's
+	   (VP got
+	       (S (NP-SBJ-1 *-3)
+		  (VP to
+		      (VP be
+			  (VP changed
+			      (NP *-1)))))))
+       . ''))
+( (S (NP-TMP This year)
+     ,
+     (NP-SBJ the NFL)
+     (VP (ADVP also)
+         imposed
+         (NP (NP an 80-player limit)
+	     (ADVP *ICH*-1))
+         (PP-LOC-CLR on
+		     (NP (NP teams)
+			 (VP going
+			     (PP-DIR into
+				     (NP training camp)))))
+         ,
+         (ADVP-1 down
+		 (PP from
+		     (NP 120)))
+         ,
+	 (PP in
+	     (NP (NP a move)
+		 (VP meant
+		     (S (NP-SBJ *)
+			(VP to
+			    (VP trim
+				(NP payroll costs))))))))
+     .))
+( (S And
+     (NP-SBJ-2 the league)
+     (VP is
+         (VP trying
+             (S (NP-SBJ *-2)
+                (VP to
+                    (VP get
+                        (NP (NP more)
+                            (PP for
+                                (NP (NP its three-year national network contract)
+                                    ,
+                                    (SBAR (WHNP-1 which)
+                                          (S (NP-SBJ *T*-1)
+                                             (VP expires
+						 (PP-TMP-CLR after
+							     (NP this season)))))))))))))
+     .))
+( (S (NP-SBJ The current contract)
+     (VP pays
+         (NP the NFL)
+         (NP (QP $ 1.4 billion) *U*))
+     .))
+( (S (NP-SBJ Owners)
+     (VP say
+         (SBAR 0
+               (S (NP-SBJ they)
+                  (VP expect
+		      (S (NP-SBJ the league)
+                         (VP to
+                             (VP demand
+                                 (NP a (ADJP 50 %) increase))))
+		      ,
+		      (PP despite
+			  (NP the fact
+			      (SBAR that
+				    (S (NP-SBJ televised football games)
+				       (VP have
+					   (VP had
+					       (NP lackluster ratings)))))))))))
+     .))
+( (S (NP-SBJ An NFL spokesman)
+     (VP (ADVP also)
+         says
+         (SBAR 0
+               (S (NP-SBJ the league)
+                  (VP will
+                      (VP (ADVP probably)
+                          expand
+                          (NP its offerings)
+                          (PP-CLR to
+				  (NP (NP cable TV companies)
+				      (PP like
+					  (NP ESPN)))))))))
+     .))
+( (S (NP-SBJ The changes)
+     (VP have n't
+         (VP come
+             (ADVP-PRD easy)))
+     .))
+( (S (PP Like
+         (NP (NP the game)
+             (PP of
+                 (NP professional football))))
+     ,
+     (NP-SBJ (NP the NFL organization)
+             (NP itself))
+     (VP is
+         (PP-PRD in
+                 (NP turmoil)))
+     .))
+( (S (S (NP-SBJ (NP (NP The new breed)
+                    (PP of
+                        (NP team owner)))
+                ,
+                (NP (NP Mr. Jones)
+                    (ADJP included))
+                ,)
+        (VP has
+	    (VP been
+		(VP fighting
+		    (NP the NFL bureaucracy)
+		    (PP-CLR for
+			    (NP (NP a greater say)
+				(PP-LOC in
+					(NP league affairs))))))))
+     , and
+     (S (NP-SBJ the battle)
+        (VP has
+            (VP produced
+                (NP (NP a form)
+                    (PP of
+                        (NP organizational gridlock))))))
+     .))
+( (S (PP-TMP In
+	     (NP July))
+     ,
+     (NP-SBJ 11 NFL owners)
+     ,
+     (S-ADV (NP-SBJ (NP almost all)
+		    (PP of
+			(NP them)))
+	    (ADJP-PRD new))
+     ,
+     (VP blocked
+         (NP an effort
+             (S (NP-SBJ *)
+                (VP to
+                    (VP install
+                        (NP Jim Finks)
+                        (PP-CLR as
+				(NP (NP a replacement)
+				    (PP for
+					(NP retiring league commissioner
+					    Pete Rozelle)))))))))
+     .))
+( (S (NP-SBJ-1 Mr. Finks)
+     (VP is
+         (VP perceived
+             (NP *-1)
+             (PP by
+                 (NP-LGS some owners))
+             (PP-CLR as
+		     (NP (NP a standard-bearer)
+			 (PP for
+			     (NP the Old Guard))))))
+     .))
+( (S (NP-TMP Earlier this month)
+     ,
+     (NP-SBJ another effort
+             (S (NP-SBJ *)
+                (VP to
+                    (VP choose
+                        (NP a commissioner)))))
+     (VP failed)
+     .))
+( (S (NP-SBJ The owners)
+     (VP meet
+         (ADVP-TMP again)
+	 (NP-TMP tomorrow))
+     .))
+( (S (S (PP For
+            (NP his part))
+        ,
+        (NP-SBJ Jerry Jones)
+        (VP says
+            (SBAR 0
+                  (S (NP-SBJ he)
+                     (VP 's
+                         (PP-PRD in
+				 (NP the business))
+                         (PP-TMP for
+				 (NP the long haul)))))))
+     , and
+     (S (NP-SBJ-1 his work style)
+        (VP seems
+            (S (NP-SBJ *-1)
+               (VP to
+                   (VP support
+                       (NP that))))))
+     .))
+( (S (NP-SBJ He)
+     (VP (VP puts 
+	     (PRT in)
+             (NP (NP busy six-day weeks)
+                 (PRN -LRB-
+		      (PP excluding
+			  (NP game days))
+		      -RRB-)))
+         , and
+	 (VP (PP-TMP on
+		     (NP one recent afternoon))
+	     fielded
+             (NP (NP questions)
+		 (PP *ICH*-1))
+             ,
+             (PP-TMP in
+		     (NP (NP the course)
+			 (PP of
+			     (NP an hour))))
+             ,
+             (PP-1 from
+		   (NP (NP a TV producer)
+		       ,
+		       (NP his luxury-suite marketing manager)
+		       ,
+		       (NP a disgruntled customer)
+		       and
+		       (NP (NP a roomful)
+			   (PP of
+			       (NP Arkansas reporters)))))))
+     .))
+( (S (S-PRP (NP-SBJ *)
+	    (VP To
+		(VP keep
+		    (S (NP-SBJ his schedule)
+		       (PP-PRD on
+			       (NP track))))))
+     ,
+     (NP-SBJ he)
+     (VP flies
+	 (NP-1 two personal secretaries)
+	 (PRT in)
+	 (PP-DIR from
+		 (NP Little Rock))
+	 (S-CLR (NP-SBJ *-1)
+		(VP to
+		    (VP augment
+			(NP (NP his staff)
+			    (PP-LOC in
+				    (NP Dallas)))))))
+     .))
+( (S (S-TPC-2 ``
+	      (SBAR-TMP (WHADVP-1 When)
+			(S (NP-SBJ I)
+			   (VP made
+			       (NP this investment)
+			       (ADVP-TMP *T*-1))))
+	      ,
+	      (NP-SBJ I)
+	      (VP made
+		  (NP it)
+		  (PP on
+		      (NP a lifetime basis)))
+	      , '')
+     (NP-SBJ he)
+     (VP explains
+	 (S *T*-2))
+     .))
+( (S ``
+     (NP-SBJ I)
+     (VP 'm not
+	 (ADVP-LOC-PRD here)
+	 (S-PRP (NP-SBJ *)
+		(VP to
+		    (VP make
+			(NP money)
+			(PP-MNR by
+				(S-NOM (NP-SBJ *)
+				       (VP reselling
+					   (NP the team)
+					   (ADVP-TMP later on))))))))
+     .))
+( (S (SBAR-ADV While
+	       (S (NP-SBJ the Cowboys)
+		  (VP may not
+		      (VP be
+			  (NP-PRD the best investment)
+			  (ADVP-TMP now)))))
+     ,
+     (NP-SBJ I)
+     (VP do n't
+         (VP accept
+             (SBAR 0
+                   (S (NP-SBJ they)
+                      (VP ca n't
+                          (VP be 
+			      (NP-PRD *?*)
+			      (PP-TMP in
+				      (NP the future))))))))
+     . ''))
+( (S (ADVP Besides) ,
+     (PP to
+	 (NP a large extent))
+     ,
+     (NP-SBJ Mr. Jones)
+     (VP may
+	 (ADVP-TMP already)
+	 (VP be
+	     (VP getting
+		 (SBAR-NOM (WHNP-1 what)
+			   (S (NP-SBJ he)
+			      (VP wants
+				  (NP *T*-1)
+				  (PP out
+				      (PP of
+					  (NP the team))))))
+		 ,
+		 (SBAR-ADV even though
+			   (S (NP-SBJ it)
+			      (VP keeps
+				  (VP losing)))))))
+     .))
+( (S (S-NOM-SBJ (NP-SBJ *)
+		(VP Owning
+		    (NP the Cowboys)))
+     (VP has
+         (VP bought
+             (NP him)
+             (NP (NP entree)
+                 (PP to
+                     (NP (NP a glitzy life)
+                         (SBAR (WHNP-1 that)
+                               (S (S-NOM-SBJ (NP-SBJ *)
+					     (VP drilling
+						 (PP for
+						     (NP oil))
+						 (PP-LOC in
+							 (NP Arkansas))))
+                                  (ADVP just)
+                                  (VP did n't
+                                      (VP provide
+					  (NP *T*-1))))))))))
+     .))
+( (S (NP-SBJ There)
+     (VP is
+         (NP-PRD (NP the new private jet)
+                 ,
+                 (NP (NP the platoon)
+                     (PP of
+                         (NP assistants)))
+                 ,
+                 (NP (NP invitations)
+                     (PP to
+                         (NP the best parties)))
+                 , and
+                 (NP (NP television appearances)
+                     (PP on
+                         (NP (NP shows)
+                             (PP such
+				 as
+				 (NP `` Prime Time Live)))))))
+     . ''))
+( (S (ADVP-TMP (NP A few weeks)
+	       ago)
+     ,
+     (NP-SBJ Mr. Jones)
+     (ADVP even)
+     (VP entertained
+         (NP Elizabeth Taylor)
+	 (PP-LOC in
+		 (NP (NP his private suite)
+		     (PP-LOC at
+			     (NP Texas Stadium)))))
+     .))
+( (S (S-TPC-1 ``
+	      (NP-SBJ You)
+	      (VP 're
+		  (PP-LOC-PRD in
+			      (NP the catbird seat))
+		  (NP-TMP every day)
+		  (PP-LOC in
+			  (NP this job)))
+	      , '')
+     (NP-SBJ he)
+     (VP says
+	 (S *T*-1))
+     .))

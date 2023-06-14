@@ -1,0 +1,554 @@
+
+
+( (S (NP-SBJ Investors)
+     (VP bailed
+         (PP-CLR out
+		 (PP of
+		     (NP New York City bonds)))
+	 (PP-MNR in
+		 (NP droves))
+	 (NP-TMP last week)
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP (VP driving
+			(NP prices)
+			(ADJP lower))
+		    and
+		    (VP boosting
+			(NP yields)))))
+     .))
+( (S (NP-SBJ One bond trader)
+     (VP estimated
+         (SBAR that
+               (S (NP-SBJ-1 (NP (QP more
+				    than
+				    $ 50
+				    million) *U*)
+			    (PP of
+                                (NP New York City general obligation bonds)))
+                  (VP were
+                      (VP put
+                          (NP *-1)
+                          (PP-CLR up
+				  (PP for
+				      (NP sale)))
+                          (NP-TMP (NP Friday)
+				  (ADVP alone)))))))
+     .))
+( (S (SBAR While
+           (S (NP-SBJ that)
+              (VP represents
+                  (NP (NP a small percentage)
+		      (PP of
+			  (NP (NP (NP the city 's)
+				  public debt)
+			      (ADJP outstanding)))))))
+     ,
+     (NP-SBJ (NP Friday 's)
+             selling)
+     (VP followed
+         (NP a weeklong effort
+             (S (NP-SBJ *)
+                (VP to
+                    (VP unload
+                        (NP the bonds)
+                        (PP by
+                            (NP-LGS (NP a broad spectrum)
+				    (PP of
+					(NP institutional and individual investors)))))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ I)
+		 (VP 've
+		     (ADVP-TMP never)
+		     (VP seen
+			 (NP (NP so many -LCB- New York City -RCB- G.O. 's)
+			     (PP up
+				 (PP for
+				     (NP sale)))))))
+	,
+	''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ another trader)
+	.))
+( (S ``
+     (NP-SBJ Every broker)
+     (VP has
+         (NP (NP blocks)
+             (PP of
+                 (NP every size and maturity))))
+     . ''))
+( (S (NP-SBJ Municipal bond analysts)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 the sell-off)
+                  (VP was
+                      (VP triggered
+                          (NP *-1)
+                          (PP by
+                              (NP-LGS (NP (NP concerns)
+					  (PP about
+					      (NP (NP the city 's)
+						  financial health)))
+				      ,
+				      (NP (NP rumors)
+					  (PP of
+					      (NP (NP a (ADJP (QP $ 900 million) *U*) bond offering)
+						  (VP coming
+						      (ADVP-TMP soon)))))
+				      , and
+				      (NP political uncertainty))))))))
+     .))
+( (S (NP-SBJ (NP A spokesman)
+	     (PP for
+		 (NP the city)))
+     (VP (VP would n't
+	     (VP confirm
+		 (NP (NP the size)
+		     (PP of
+			 (NP the bond issue)))))
+	 , but
+	 (VP did
+	     (VP say
+		 (SBAR that
+		       (S (NP-SBJ a general obligation offering)
+			  (VP (VP is
+				  (PP-PRD in
+					  (NP the works)))
+			      and
+			      (VP should
+				  (VP be
+				      (VP priced
+					  (ADVP-TMP sometime
+						    (PP in
+							(NP the next two weeks)))
+					  ,
+					  (PP-TMP before
+						  (NP the November mayoral election)))))))))))
+     .))
+( (S -LRB-
+     (NP-SBJ-1 General obligation bonds)
+     (VP are
+         (VP backed
+             (NP *-1)
+             (PP by
+                 (NP-LGS (NP the city 's)
+			 overall revenues and credit))))
+     . -RRB-))
+( (S (SBAR-ADV Although
+	       (S (NP-SBJ many investors)
+		  (VP were
+		      (ADJP-PRD aware
+				(SBAR that
+				      (S (NP-SBJ-1 a bond offering)
+					 (VP was
+					     (VP being
+						 (VP scheduled
+						     (NP *-1))))))))))
+     ,
+     (NP-SBJ many)
+     (VP expected
+	 (S (NP-SBJ-3 (NP a (ADJP much smaller) amount)
+		      (PP of
+			  (NP bonds)))
+            (VP to
+		(VP be
+		    (VP sold
+			(NP *-3))))))
+     .))
+( (S (NP-SBJ-1 The fact
+               (SBAR that
+                     (S (NP-SBJ the city)
+                        (VP will
+                            (VP issue
+                                (NP (NP such a large amount)
+				    (PP of
+					(NP debt))))))))
+     (VP was
+         (VP interpreted
+             (NP *-1)
+             (PP-CLR as
+		     (NP a sign
+			 (SBAR that
+			       (S (NP-SBJ (NP New York 's)
+					  budgetary problems)
+				  (VP are
+				      (ADJP-PRD (ADJP more serious)
+						(SBAR than
+						      (S (NP-SBJ-2 *)
+							 (VP had
+							     (VP been
+								 (VP expected
+								     (NP *-2))))))))))))))
+     .))
+( (S (NP-SBJ (NP New York)
+             ,
+             (NP (NP one)
+                 (PP of
+                     (NP (NP (NP the nation 's)
+			     largest issuers)
+                         (PP of
+                             (NP tax-exempt bonds)))))
+             ,)
+     (VP sold
+         (NP (NP (QP $ 750 million) *U*)
+	     (PP of
+		 (NP municipal bonds)))
+	 (ADVP-TMP (NP just a few weeks)
+		   ago))
+     .))
+( (S (NP-SBJ There)
+     (VP have
+         (VP been
+             (NP-PRD reports
+		     (SBAR *ICH*-1))
+	     (PP-TMP for
+		     (NP months))
+	     (SBAR-1 that
+		     (S (NP-SBJ (NP the city 's)
+				economy)
+			(VP is
+			    (VP weakening
+				,
+				(SBAR-TMP as
+					  (S (NP-SBJ-2 the October 1987 stock market crash)
+					     (VP continues
+						 (S (NP-SBJ *-2)
+						    (VP to
+							(VP make
+							    (S (NP-SBJ itself)
+							       (VP felt))))))))))))))
+     .))
+( (S (NP-SBJ The recent sharp stock market decline)
+     (VP exacerbated
+         (NP those concerns))
+     .))
+( (S (ADVP Meanwhile)
+     ,
+     (NP-SBJ tax revenues)
+     (VP are
+         (VP falling
+             (SBAR-ADV while
+		       (S (NP-SBJ (NP the city 's)
+				  spending needs)
+			  (VP are
+			      (VP expanding))))))
+     .))
+( (S (NP-SBJ Rumors)
+     (VP persisted
+         (NP-TMP last week)
+         (SBAR that
+               (S (NP-SBJ (NP (NP New York 's)
+                              credit ratings)
+                          (PRN --
+			       (ADJP (ADJP single-A
+					   (PP from
+					       (NP (NP Moody 's)
+						   Investors Service Inc.)))
+				     and
+				     (ADJP single-A-minus
+					   (PP from
+					       (NP (NP Standard & Poor 's)
+						   Corp.))))
+			       --))
+                  (VP are
+                      (PP-PRD at
+                              (NP risk))))))
+     .))
+( (S (NP-SBJ (NP The weakness)
+             (PP-LOC in
+		     (NP New York City bonds)))
+     (VP follows
+         (NP (NP a warning)
+             (PP from
+                 (NP (NP New York state Comptroller)
+                     (NP Edward Regan)))
+             (SBAR that
+                   (S (NP-SBJ the 1987 crash)
+                      (ADVP-MNR seriously)
+		      (VP weakened
+                          (NP (NP the city 's)
+                              economy))))))
+     .))
+( (S (PP-LOC In
+	     (NP a study))
+     ,
+     (NP-SBJ the comptroller)
+     (VP said
+	 ,
+	 ``
+	 (S (NP-SBJ (NP The city 's)
+                    glory days)
+            (VP are
+                (PP-PRD over))))
+     . ''))
+( (S (NP-SBJ Mr. Regan)
+     (VP warned
+         (NP-2 mayoral candidates)
+	 ``
+	 (S (NP-SBJ *-2)
+            (VP to
+                (VP be
+                    (ADJP-PRD prepared
+                              (PP for
+                                  (NP (NP (NP limited options)
+					  and
+					  (NP (NP constraints)
+					      (PP on
+						  (NP (NP service increases)
+						      (SBAR (WHNP-1 0)
+							    (S (NP-SBJ *T*-1)
+							       (VP to
+								   (VP address
+								       (NP (NP the city 's)
+									   problems)))))))))
+				      (PP-TMP in
+					      (NP the next few years))))
+			      ,)
+		    (PP-PRP due
+			    to
+			    (NP (NP the now-evident weakening)
+				(PP-LOC in
+					(NP the New York City economy))))))))
+     . ''))
+( (S (NP-SBJ-1 (NP (NP New York City 's)
+		   revised financial plan)
+	       ,
+	       (ADJP due 
+		     (ADVP out)
+		     (NP-TMP later this month))
+	       ,)
+     (VP is
+         (VP expected
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP include
+                        (NP (NP measures)
+                            (SBAR (WHNP-2 0)
+				  (S (NP-SBJ *T*-2)
+				     (VP to
+					 (VP balance
+					     (NP (NP the city 's)
+						 (ADJP (QP $ 27 billion) *U*) budget)))))))))))
+     .))
+( (S (PP-TMP At
+	     (NP present))
+     ,
+     (NP-SBJ analysts)
+     (VP project
+         (NP (NP a budget gap)
+             (PP on
+                 (NP (NP the order)
+                     (PP of
+                         (NP (QP $ 500 million
+				 to
+				 $ 600 million ) *U*)))))
+	 (PP for
+	     (NP (NP the fiscal year)
+		 (VP ending
+		     (NP-TMP-CLR June 30 , 1990))))
+	 ,
+	 (SBAR-ADV although
+		   (S (NP-SBJ (NP the city 's)
+			      own budget analysts)
+		      (VP project
+			  (NP a narrower deficit)))))
+     .))
+( (S (NP-SBJ (NP Mark Page)
+             ,
+             (NP (NP (NP New York 's)
+		     deputy director)
+		 (PP of
+		     (NP finance)))
+             ,)
+     (VP said
+         (SBAR that
+               (S (NP-SBJ (NP (NP investors ')
+			      concerns)
+                          (PP about
+                              (NP (NP the city 's)
+                                  financial health)))
+                  (VP are
+		      ``
+		      (ADJP-PRD unwarranted)
+		      (PP given
+			  (NP our proven ability
+			      (S (NP-SBJ *)
+				 (VP to
+				     (VP manage
+					 (NP ourselves))))))))))
+     . ''))
+( (S (NP-SBJ He)
+     (VP charges
+         (NP (NP the city 's)
+             critics)
+         (PP-CLR with
+		 (S-NOM (NP-SBJ *)
+			(VP spreading
+			    (NP `` unfounded emotional rhetoric)))))
+     . ''))
+( (S (NP-SBJ There)
+     (VP are
+         (ADVP also)
+         (NP-PRD (NP questions)
+                 (PP about
+                     (SBAR-NOM whether
+			       (S (NP-SBJ a new and inexperienced mayor)
+				  (VP can
+				      (VP manage
+					  (NP the city)
+					  (PP through
+					      (SBAR (WHNP-1 what)
+						    (S (NP-SBJ *T*-1)
+						       (VP could
+							   (VP become
+							       (NP-PRD a financial crisis)))))))))))))
+     .))
+( (S (NP-SBJ-1 (NP The leading contender)
+               (PP for
+                   (NP (NP the mayoral office)
+                       ,
+                       (NP Democrat David Dinkins)
+                       ,)))
+     (VP has
+	 (VP been
+	     (VP criticized
+		 (NP *-1)
+		 (ADVP-TMP recently)
+		 (PP-CLR for
+			 (NP (NP the way)
+			     (SBAR (WHADVP-2 0)
+				   (S (NP-SBJ he)
+				      (VP handled
+					  (NP his personal financial affairs)
+					  (ADVP *T*-2)))))))))
+     .))
+( (S And
+     (NP-SBJ the controversy)
+     (VP has
+         (VP led
+             (PP-CLR to
+		     (NP (NP uncertainty)
+			 (PP about
+			     (NP (NP the outcome)
+				 (PP of
+				     (NP the election))))))))
+     .))
+( (S (PP-TMP Until
+	     (NP last week))
+     ,
+     (NP-SBJ-1 Mr. Dinkins)
+     (VP was
+         (VP considered
+             (S (NP-SBJ *-1)
+		(NP-PRD a shoo-in))))
+     .))
+( (SINV ``
+	(S-TPC-2 (S (NP-SBJ The market)
+		    (VP can
+			(VP adjust
+			    (PP-CLR to
+				    (NP (NP good news)
+					or
+					(NP bad news))))))
+		 , but
+		 (S (NP-SBJ uncertainty)
+		    (VP drives
+			(S (NP-SBJ people)
+			   (ADVP-PRD wild)))))
+	,
+	''
+	(VP said
+	    (S *T*-2))
+	(NP-SBJ (NP Bernard B. Beal)
+		,
+		(NP (NP chief executive)
+		    (PP of
+			(NP (NP M.R. Beal & Co.)
+			    ,
+			    (NP (NP a securities firm)
+				(SBAR (WHNP-1 that)
+				      (S (NP-SBJ *T*-1)
+					 (VP specializes
+					     (PP-CLR in
+						     (NP the municipal market))))))))))
+	.))
+( (S (PP-TMP Until
+	     (NP last week))
+     , ``
+     (NP-SBJ Everyone)
+     (VP felt
+         (ADJP-PRD certain
+                   (SBAR 0
+                         (S (NP-SBJ they)
+                            (VP knew
+                                (NP (NP the outcome)
+                                    (PP of
+                                        (NP the election))))))))
+     .))
+( (S (ADVP-TMP Now)
+     ,
+     (NP-SBJ there)
+     (VP have
+         (VP been
+             (NP-PRD (NP a number)
+                     (PP of
+                         (NP questions))
+		     (VP raised 
+			 (NP *)))))
+     . ''))
+( (S (NP-TMP Last week)
+     ,
+     (NP-SBJ (NP yields)
+             (PP on
+                 (NP long-term New York City general obligation bonds)))
+     (VP jumped
+         (NP-EXT half a percentage point))
+     .))
+( (S (NP-SBJ-1 (NP (NP New York City 's)
+                   (ADJP 6 %) bonds)
+               (ADJP due
+                     (NP-TMP 2018)))
+     ,
+     (PP for
+         (NP example))
+     ,
+     (VP were
+         (VP quoted
+             (NP *-1)
+             (NP-TMP late Friday)
+             (PP-CLR at
+		     (NP (NP a price)
+			 (SBAR (WHNP-2 0)
+			       (S (NP-SBJ *T*-2)
+				  (VP to
+				      (VP yield
+					  (NP 7.80 %)))))))
+             ,
+             (PP compared
+                 (PP with
+                     (NP 7.60 %)
+		     (NP-TMP Thursday)))))
+     .))
+( (S (SBAR-TMP As
+	       (S (NP-SBJ (NP the yield)
+			  (PP on
+			      (NP New York general obligation bonds)))
+		  (VP rose)))
+     ,
+     (NP-SBJ (NP the Bond Buyer 20-bond general obligation index)
+             ,
+             (NP (NP the (ADJP mostly widely followed) gauge)
+                 (PP of
+                     (NP the tax-exempt market)))
+             ,)
+     (VP held
+         (ADVP-MNR steady)
+         (PP-CLR at
+		 (NP 7.19 %))
+         (PP-TMP in
+		 (NP (NP the week)
+		     (VP ended
+			 (NP-TMP-CLR Oct. 19)))))
+     .))

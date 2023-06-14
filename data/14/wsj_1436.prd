@@ -1,0 +1,844 @@
+
+
+( (S (NP-SBJ (NP The neighborhood)
+             (PP-LOC around
+		     (NP (NP (NP Alexander Haagen Co. 's)
+			     Vermont-Slauson Shopping Center)
+			 (PP-LOC in
+				 (NP (NP the Watts section)
+				     (PP of
+					 (NP Los Angeles)))))))
+     (VP (VP resembles
+             (NP (NP the crime-ridden , deteriorating sections)
+		 (PP of
+		     (NP many inner cities))))
+         and
+         (VP (ADVP certainly)
+             is n't
+             (NP-PRD (NP the sort)
+		     (PP of
+			 (NP area))
+                     (SBAR (WHNP-1 0)
+                           (S (NP-SBJ-2 one)
+                              (VP would
+                                  (VP choose
+                                      (S (NP-SBJ *-2)
+                                         (VP to
+                                             (VP visit
+                                                 (NP *T*-1)))))))))))
+     .))
+( (S But
+     (S (NP-SBJ *)
+        (VP turn
+            (PP-DIR into
+		    (NP (NP the shopping center 's)
+			parking lot))))
+     , and
+     (S (NP-SBJ one)
+        (VP could
+            (VP be
+                (PP-PRD in
+                        (NP (NP the safe , busy mall)
+			    (PP of
+				(NP a prosperous suburb)))))))
+     .))
+( (S (ADVP Only)
+     (NP-SBJ it)
+     (VP is
+         (ADJP-PRD safer
+                   , and
+                   busier))
+     .))
+( (S (PP-TMP Over
+	     (NP the past year))
+     (NP-SBJ there)
+     (VP have
+         (VP been
+             (NP-PRD (NP only one burglary)
+                     ,
+                     (NP (NP three thefts)
+                         (PP of
+                             or
+                             from
+                             (NP autos)))
+                     ,
+                     (NP no purse-snatchings)
+                     , and
+                     (NP one attempted robbery))
+             (PP-LOC in
+		     (NP (NP the mall)
+			 ,
+			 (SBAR (WHNP-2 which)
+			       (S (NP-SBJ *T*-2)
+				  (VP opened
+				      (PP-TMP in
+					      (NP late 1981)))))))))
+     .))
+( (S (NP-SBJ-1 (NP A shopping center)
+	       (PP of
+		   (NP similar size))
+	       (PP-LOC in
+		       (NP an affluent Los Angeles suburb)))
+     (VP would
+	 ,
+	 (PP-TMP per
+		 (NP year))
+	 ,
+	 (VP be
+	     (VP expected
+		 (S (NP-SBJ *-1)
+		    (VP to
+			(VP have
+			    (NP (NP eight burglaries)
+				,
+				(NP (NP 70 thefts)
+				    (PP of
+					or
+					from
+					(NP autos)))
+				, and
+				(NP four robberies))))))))
+     .))
+( (S (S (NP-SBJ The Watts mall)
+        (VP has
+            (NP (NP annual sales)
+		(PP of
+		    (NP (NP (QP more
+				than
+				$ 350) *U*)
+			(PP per
+			    (NP leasable square foot)))))))
+     ;
+     (S (NP-SBJ (NP the figure)
+                (PP for
+                    (NP a comparable suburban shopping center)))
+        (VP would
+            (VP be
+                (NP-PRD $ 200 *U*))))
+     .))
+( (S (NP-SBJ (NP Three other Haagen shopping centers)
+             (PP-LOC in
+		     (NP the Watts area)))
+     (VP are
+         (VP doing
+             (ADVP-CLR almost as well)))
+     .))
+( (S (NP-SBJ (NP A successful low-crime mall)
+             (PP-LOC in
+		     (NP a high-crime area)))
+     (VP violates
+         (NP (NP the more typical inner-city pattern)
+             ,
+             (SBAR (WHPP-2 in
+			   (WHNP which))
+                   (S (NP-SBJ-1 commercial areas)
+                      (VP are
+                          (VP taken
+			      (PP *T*-2)
+                              (NP *-1)
+                              (PRT over)
+                              (PP by
+                                  (NP-LGS (NP unruly youth)
+					  ,
+					  (NP gangs)
+					  , and
+					  (NP the criminal element)))
+			      ,
+			      (PP with
+				  (NP (NP an erosion)
+				      (PP of
+					  (NP (NP the customer base)
+					      ,
+					      (NP development capital)
+					      , and
+					      (NP insurability)))))))))))
+     .))
+( (S (NP-SBJ-1 Major (ADJP regional and national) chain stores)
+     (VP are
+         (VP replaced
+             (NP *-1)
+             (PP by
+                 (NP-LGS (NP mom-and-pop operations)
+			 (VP offering
+			     (NP poorer-quality merchandise)
+			     (PP-CLR at
+				     (NP higher prices)))))))
+     .))
+( (SINV (PP-TPC-PRD-1 Along
+		      (PP with
+			  (NP (NP the exodus)
+			      (PP of
+				  (NP shopping opportunities)))))
+        (VP is
+	    (PP-PRD *T*-1))
+        (NP-SBJ (NP an exodus)
+                (PP of
+                    (NP (NP the jobs)
+                        (SBAR (WHNP-2 that)
+                              (S (NP-SBJ-3 the major chains)
+                                 (VP used
+                                     (S (NP-SBJ *-3)
+                                        (VP to
+                                            (VP provide
+                                                (NP *T*-2)
+                                                (PP-DTV to
+							(NP community residents)))))))))))
+        .))
+( (S (ADVP Thus)
+     (NP-SBJ there)
+     (VP is
+         (ADJP-PRD (ADJP even more
+			 (PP to
+			     (NP the Vermont-Slauson Center)))
+		   (PP than
+                       (NP (NP a good place)
+                           (PP to
+                               (NP shop))))))
+     .))
+( (S (NP-SBJ This defensible commercial zone)
+     (VP becomes 
+	 ,
+         (PP for
+             (NP the residents))
+         ,
+         (NP-PRD (NP (NP a secure oasis)
+                     (PP-LOC in
+			     (NP a barren urban landscape)))
+                 ,
+                 (NP evidence
+                     (SBAR (SBAR that
+                                 (S (NP-SBJ community decay)
+                                    (VP is
+                                        (ADJP-PRD not inevitable))))
+                           and
+                           (SBAR that
+                                 (S (NP-SBJ the gangs)
+                                    (VP are
+                                        (ADJP-PRD not invincible))))))))
+     .))
+( (S (NP-SBJ-2 The center)
+     (VP (VP improves
+	     (NP the community image)
+	     (PP to
+		 (NP outsiders))
+	     (ADVP as well))
+	 , and
+	 (VP may
+	     (VP help
+		 (S (NP-SBJ *-2)
+		    (VP to
+			(VP (VP arrest
+				(NP *RNR*-1))
+			    , or
+			    (VP (ADVP even)
+				reverse
+				(NP *RNR*-1))
+			    ,
+			    (NP-1 (NP the exodus)
+				  (PP of
+				      (NP capital and investment)))))))))
+     .))
+( (S (NP-SBJ An additional benefit)
+     (VP is
+         (NP-PRD (NP the creation)
+                 (PP of
+                     (NP jobs))))
+     .))
+( (S (NP-SBJ This)
+     (VP starts
+         (PP-TMP-CLR in
+		     (NP the construction phase))
+	 (PP-MNR through
+		 (NP (NP the use)
+		     (PP of
+			 (NP (NP minority contractors)
+			     and
+			     (NP local workers))))))
+     .))
+( (S (S (NP-SBJ It)
+        (VP continues
+            (PP-TMP through
+		    (NP (NP the life)
+			(PP of
+			    (NP the center))))))
+     ;
+     (S (NP-SBJ the Vermont-Slauson Center)
+        (VP has
+            (VP created
+                (NP 500 permanent private-sector jobs)
+                (PP at
+                    (NP a one-time cost))
+                (PP in
+                    (NP (NP public funds)
+                        (PP of
+                            (NP (NP (QP only $ 2,500) *U*)
+                                (PP per
+                                    (NP job)))))))))
+     .))
+( (S (SBAR-ADV As
+	       (S (NP-SBJ-1 (NP many)
+			    (PP of
+				(NP these jobs)))
+		  (VP are
+		      (VP filled
+			  (NP *-1)
+			  (PP by
+			      (NP-LGS (NP local residents)
+				      ,
+				      (SBAR (WHNP-2 who)
+					    (S (NP-SBJ *T*-2)
+					       (VP move
+						   (PP-DIR from
+							   (NP the welfare rolls))
+						   (PP-DIR to
+							   (NP the tax rolls)))))
+				      ,))))))
+     (NP-SBJ the (ADJP $ 2,500-per-job *U*) public investment )
+     (VP should
+         (VP repay
+             (NP itself)
+	     (PP-TMP in
+		     (NP a few years))))
+     .))
+( (S And
+     (NP-SBJ that)
+     (VP is
+         (PP-TMP-PRD before
+		     (NP (NP consideration)
+			 (PP of
+			     (NP (NP increased (UCP state and local) revenues)
+				 (PP from
+				     (NP (NP taxes
+					     and
+					     fees)
+					 (PP on
+					     (NP (NP sales)
+						 ,
+						 (NP real estate)
+						 ,
+						 (NP licenses)
+						 and
+						 (NP the like))))))))))
+     .))
+( (S (S (NP-SBJ Profits)
+        (VP are
+            (ADVP also)
+            (VP plowed
+                (ADVP-CLR back)
+                (PP-DIR into
+			(NP the community)))))
+     ;
+     (S (NP-SBJ the non-profit Vermont-Slauson Economic Development Corp.)
+        (VP (VP receives
+                (NP (NP 60 %)
+                    (PP of
+                        (NP (NP the profits)
+                            (PP from
+                                (NP the Vermont-Slauson Center))))))
+            and
+            (VP uses
+                (NP-1 the money)
+                (S-PRP (NP-SBJ *-1)
+		       (VP to
+			   (VP provide
+			       (NP (NP (NP moderate and low-cost housing)
+				       (PP-LOC in
+					       (NP the community))
+				       (PRN --
+					    (VP (ADVP-TMP now)
+						running
+						(PP into
+						    (NP (NP the hundreds)
+							(PP of
+							    (NP units)))))
+					    --))
+				   (CONJP as well
+					  as)
+				   (NP commercial and industrial development projects))))))))
+     .))
+( (S (NP-SBJ (NP Bradford Crowe)
+             ,
+             (NP (NP director)
+                 (PP of
+                     (NP (NP the mayor 's)
+                         City Economic Development Office)))
+             ,)
+     (VP says :
+	 ``
+	 (S (NP-SBJ There)
+            (VP is
+                (NP-PRD no question
+                        (SBAR that
+                              (S (NP-SBJ Vermont-Slauson)
+                                 (VP had
+                                     (NP a halo effect)
+                                     (PP-LOC on
+					     (NP the surrounding neighborhood)))))))))
+     .))
+( (S (SBAR-NOM-SBJ (WHNP-1 What)
+		   (S (NP-SBJ *T*-1)
+		      (VP had
+			  (VP been
+			      (NP-PRD (NP a deteriorated area)
+				      (PP with
+					  (NP (NP nothing) 
+					      (PP but
+						  (NP (NP wig shops) and (NP shoe shops))))))))))
+     (VP is
+         (ADVP-TMP now)
+         (VP experiencing
+             (NP (NP a major upgrading)
+                 (PP in
+                     (NP the (UCP housing and commercial) stock)))
+	     ,
+	     (NP-ADV (NP thanks)
+		     (PP to
+			 (NP (NP a
+				 (ADJP continuously replenished)
+				 source)
+			     (PP of
+				 (NP revitalization capital))
+			     (SBAR (WHNP-2 that)
+				   (S (NP-SBJ Vermont-Slauson)
+				      (VP yields
+					  (NP *T*-2)))))))))
+     . ''))
+( (S (NP-SBJ Another benefit)
+     (VP is
+         (SBAR-PRD that
+                   (S (NP-SBJ (NP substantial percentages)
+                              (PP of
+                                  (NP (NP the proprietors)
+                                      (PP-LOC in
+					      (NP these centers)))))
+                      (VP are
+                          (NP-PRD minority businessmen and women)))))
+     .))
+( (S (PP-LOC In
+	     (NP (NP the Grand Boulevard Plaza)
+		 (VP developed
+		     (NP *)
+		     (PP by
+			 (NP-LGS (NP Matanky Realty Group)
+				 (PP-LOC (PP in
+					     (NP (NP Chicago 's)
+						 Third Ward))
+					 ,
+					 (PP opposite
+					     (NP the Robert Taylor Homes))
+					 ,))))))
+     (NP-SBJ-1 (NP 29 %)
+	       (PP of
+		   (NP the stores)))
+     (PP-TMP to
+	     (NP date))
+     (VP have
+	 (VP been
+	     (VP leased
+		 (NP *-1)
+		 (PP-DTV-2 to
+			   (NP blacks)))))
+     and
+     (S (NP-SBJ=1 14 %)
+        (PP-DTV=2 to
+		  (NP (NP members)
+		      (PP of
+			  (NP other minority groups)))))
+     .))
+( (S (NP-SBJ (NP Children)
+             (PP from
+                 (NP the community)))
+     (VP will
+         (VP have
+             (NP (NP worthier role models)
+                 (PP than
+                     (NP the drug kingpins)))))
+     .))
+( (SBAR (ADVP So)
+	(WHNP-1 what)
+	(SQ (NP-SBJ *T*-1)
+	    (VP 's
+		(NP-PRD the catch)))
+	?))
+( (FRAG (SBAR (ADVP Primarily)
+	      that
+	      (S (NP-SBJ (S (NP-SBJ *)
+			    (VP putting
+				(NP (NP one)
+				    (PP of
+					(NP these inner-city deals)))
+				(ADVP-PUT together))))
+		 (VP takes
+		     (NP (NP (NP time)
+			     ,
+			     (NP patience)
+			     ,
+			     (NP (NP breadth)
+				 (PP of
+				     (NP vision)))
+			     and
+			     (NP negotiating skills))
+			 (SBAR (WHNP-1 that)
+			       (S (NP-SBJ not all developers)
+				  (VP possess
+				      (NP *T*-1))))))))
+	.))
+( (S (NP-SBJ Security costs)
+     (VP are
+         (ADVP also)
+         (ADJP-PRD quite high))
+     .))
+( (S (NP-SBJ (NP One)
+             (PP of
+                 (NP these centers)))
+     (VP can
+         (VP involve
+             (NP (NP years)
+                 (PP of
+                     (S-NOM (NP-SBJ *)
+			    (VP negotiating
+				(PP (PP with
+					(NP (NP numerous public agencies)
+					    ,
+					    (NP local political leaders)
+					    , and
+					    (NP citizen groups)))
+				    , and
+				    (PP with
+					(NP (NP prospective tenants)
+					    and
+					    (NP (NP sources)
+						(PP of
+						    (NP financing))))))))))))
+     .))
+( (S (S (NP-SBJ Suburban deals)
+        (VP are not
+            (PP-PRD without
+                    (NP their delays and complications))))
+     --
+     (S (NP-SBJ inner-city deals)
+        (ADVP just)
+        (VP have
+            (NP (NP more)
+		(PP of
+		    (NP them)))))
+     .))
+( (S (NP-SBJ (NP Security)
+             (PP at
+                 (NP a typical
+		     Haagen inner-city center)))
+     (VP is
+         (ADJP-PRD impressive
+                   , but
+                   unobtrusive))
+     .))
+( (S (NP-SBJ-1 The entire site)
+     (VP is
+         (VP enclosed
+             (NP *-1)
+             (PP by
+                 (NP-LGS (NP a 6-to-8-foot-high ornamental iron fence)
+			 (PP with
+			     (NP (NP a small number)
+				 (PP of
+				     (NP remote-controlled gates))))))))
+     .))
+( (S (NP-SBJ Shrubs and flowers)
+     (VP give
+         (NP it)
+         (NP a (ADJP pleasing and non-fortress-like) appearance))
+     .))
+( (S (S (NP-SBJ (NP Infrared motion detectors)
+                and
+                (NP closed-circuit TV cameras))
+        (VP monitor
+            (NP the entire center)))
+     ;
+     (S (NP-SBJ lighting levels)
+        (VP are
+	    (NP-PRD (QP three
+			to
+			five times)
+		    the industry standard)))
+     .))
+( (S (NP-SBJ (NP The security command post)
+             ,
+             (VP camouflaged
+                 (NP *)
+                 (PP-CLR as
+			 (NP second-story retail space)))
+             ,)
+     (VP has
+         (NP (NP its own ``
+		 (NP crow 's)
+		 nest '')
+	     (PP-LOC above
+		     (NP (NP the roofs)
+			 (PP of
+			     (NP the other buildings))))
+	     ,
+	     (PP with
+		 (NP (NP a panoramic view)
+		     (PP of
+			 (NP the entire center))))))
+     .))
+( (S (NP-SBJ Local law enforcement)
+     (VP is
+         (ADJP-PRD present
+                   (PP in
+                       (NP (NP a sub-station occupying space)
+                           (VP donated
+                               (NP *)
+                               (PP by
+                                   (NP-LGS the center)))))))
+     .))
+( (S (NP-SBJ These features)
+     (VP are
+         (ADVP also)
+         (VP used
+             (PP-LOC in
+		     (NP (NP Matanky Realty Group 's)
+			 Grand Boulevard Plaza))))
+     .))
+( (S (NP-SBJ Haagen)
+     (VP has
+         (NP (NP its own large security force)
+	     (PP of
+		 (NP well-trained and well-paid personnel)))
+	 (PP on
+	     (NP round-the-clock duty))
+	 (PP-LOC at
+		 (NP each center)))
+     .))
+( (S (NP-SBJ Security)
+     (VP is
+         (NP-PRD (NP (QP 60 %
+			 to
+			 70 %) *U*)
+		 (PP of
+		     (NP (NP the common area charges)
+			 (PP of
+			     (NP these centers))))
+		 ,
+                 (PP vs.
+                     (NP (NP an industry average)
+                         (PP of
+                             (NP (QP about 15) %))))))
+     .))
+( (S (NP-SBJ-1 These security costs)
+     (VP are
+         (VP kept
+             (S (NP-SBJ *-1)
+		(ADJP-PRD off-budget))
+	     (SBAR-PRP because
+		       (S (NP-SBJ-2 (NP the centers ')
+				    site acquisition , construction , and financing costs)
+			  (VP were
+			      (VP reduced
+				  (NP *-2)
+				  (PP by
+				      (NP-LGS (NP such programs)
+					      (PP as
+						  (NP (NP Urban Development Action Grants)
+						      ,
+						      (NP Economic Development Administration Grants)
+						      ,
+						      (NP Community Development Block Grants)
+						      ,
+						      (NP tax-free Industrial Development Bonds)
+						      ,
+						      (NP Enterprise Zone tax write-offs)
+						      ,
+						      (NP city infrastructure grants)
+						      , and
+						      (NP tax increment financing)))))))))))
+     .))
+( (S (NP-SBJ (NP Many)
+	     (PP of
+		 (NP these programs)))
+     (VP (VP (ADVP-TMP no longer)
+	     exist)
+	 , or
+	 (VP have 
+	     (VP been
+		 (ADVP-MNR severely)
+		 (VP cut
+		     (PRT back)))))
+     .))
+( (S (ADVP However)
+     ,
+     (SBAR-ADV since
+	       (S (NP-SBJ-1 these centers)
+		  (VP appear
+		      (S (NP-SBJ *-1)
+			 (VP to
+			     (VP pay
+				 (PP-CLR for
+					 (NP themselves))))))))
+     ,
+     (NP-SBJ there)
+     (VP is
+	 (NP-PRD nothing
+		 (S (NP-SBJ *)
+		    (VP to
+			(VP prevent
+			    (NP-2 (UCP state and local) governments)
+			    (PP from
+				(S-NOM (NP-SBJ *-2)
+				       (VP enacting
+					   (NP (NP legislation)
+					       (PP with
+						   (NP similar provisions)))))))))))
+     .))
+( (S (NP-SBJ Many states)
+     (ADVP-TMP already)
+     (VP have
+         (NP (NP Enterprise Zones)
+             and
+             (NP (NP legislation)
+                 (SBAR (WHNP-1 that)
+                       (S (NP-SBJ *T*-1)
+                          (VP combines
+                              (NP (NP tax incentives)
+                                  ,
+                                  (NP loans)
+                                  , and
+                                  (NP grants))
+			      (S-PRP (NP-SBJ *)
+				     (VP to
+					 (VP encourage
+					     (NP (NP investment)
+						 (PP in
+						     (NP depressed areas)))
+					     (PP with
+						 (NP (NP requirements)
+						     (PP for
+							 (NP (NP the hiring)
+							     (PP of
+								 (NP (NP the unemployed)
+								     and
+								     (NP minorities))))))))))))))))
+     .))
+( (S (NP-SBJ-1 These programs)
+     (VP could
+	 (VP be
+	     (VP expanded
+		 (S (NP-SBJ *-1)
+		    (VP to
+			(VP focus
+			    (PP-CLR on
+				    (NP (NP (NP funds)
+					    (PP (PP for
+						    (NP project planning))
+						(PP *ICH*-4)))
+					,
+					(S-NOM (NP-SBJ *)
+					       (VP identifying
+						   (NP (NP sources)
+						       (PP of
+							   (NP funds)))))
+					, and
+					(PP-4 for
+					      (S-NOM (NP-SBJ *)
+						     (VP (VP acquiring
+							     (NP a site))
+							 and
+							 (VP preparing
+							     (NP it)))))))))))))
+     .))
+( (S (S-NOM-SBJ (NP-SBJ *)
+		(VP Combatting
+		    (NP (NP crime)
+			and
+			(NP (NP the fear)
+			    (PP of
+				(NP it))))
+		    (PP-LOC in
+			    (NP (ADJP inner-city commercial)
+				areas))))
+     (VP should
+         (VP give
+             (NP Enterprise Zones)
+             (NP (NP more success)
+                 (SBAR than
+		       (S (NP-SBJ most)
+			  (VP have
+			      (VP enjoyed
+				  (PP-TMP to
+					  (NP date)))))))))
+     .))
+( (S (SBAR With
+	   (S (NP-SBJ many suburban areas)
+	      (ADJP-PRD basically overbuilt
+			(PP with
+			    (NP shopping centers)))))
+     ,
+     (NP-SBJ inner-city areas)
+     (VP may
+         (VP represent
+             (NP (NP a major new untapped market)
+                 (PP for
+                     (NP investment)))))
+     .))
+( (S (NP-SBJ (NP New approaches)
+             (PP to
+                 (NP mall design and operation)))
+     (VP make
+         (S (NP-SBJ (NP it)
+		    (S *EXP*-1))
+	    (ADJP-PRD possible)
+	    (S-1 (NP-SBJ *)
+		 (VP to
+		     (VP tap
+			 (NP these markets))))))
+     .))
+( (S (SBAR-ADV If
+	       (S (NP-SBJ the risks and rewards)
+		  (VP are
+		      (ADJP-PRD reasonable))))
+     ,
+     (NP-SBJ developers)
+     (VP will
+         (VP respond))
+     .))
+( (S (NP-SBJ (NP Government officials)
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP wonder
+                          (SBAR-NOM (WHADJP-2 how
+					      important)
+				    (S (NP-SBJ (NP it)
+					       (SBAR *EXP*-4))
+				       (VP is
+					   (ADJP-PRD *T*-2)
+					   (SBAR-4 for
+						   (S (NP-SBJ them)
+						      (VP to
+							  (VP encourage
+							      (NP (NP development)
+								  (PP-LOC in
+									  (NP high-risk areas))))))))))))))
+     (VP should
+         (VP (VP visit
+                 (NP (NP Vermont-Slauson)
+                     and
+                     (NP Grand Boulevard Plaza)))
+             and
+             (VP decide
+                 (PP for
+                     (NP themselves)))))
+     .))
+( (S (NP-SBJ The answer)
+     (VP will
+         (VP be
+             (ADJP-PRD obvious)))
+     .))
+( (S (NP-SBJ Mr. Titus)
+     (VP is
+         (NP-PRD (NP a researcher)
+                 (PP-LOC at
+			 (NP (NP (NP the Justice Department 's)
+				 National Institute)
+			     (PP of
+				 (NP Justice))))))
+     .))

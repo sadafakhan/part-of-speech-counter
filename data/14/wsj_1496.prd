@@ -1,0 +1,80 @@
+
+
+( (S (NP-SBJ Wisconsin Toy Co.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (ADVP definitively)
+                  (VP agreed
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP acquire
+                                 (NP (NP closely held Everything 's a Dollar Inc.)
+                                     (PP of
+                                         (NP (NP Virginia Beach)
+                                             ,
+                                             (NP Va.)
+                                             ,)))
+                                 (PP for
+                                     (NP (NP stock)
+                                         (VP (ADVP-TMP currently)
+                                             valued
+                                             (PP-CLR at
+						     (NP (QP about $ 4.7 million) *U*))))))))))))
+     .))
+( (S (NP-SBJ The Milwaukee toy retailer)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the agreement)
+                  (VP calls
+                      (SBAR for
+                            (S (NP-SBJ Everything 's a Dollar holders)
+                               (VP to
+                                   (VP receive
+                                       (PP-CLR for
+					       (NP their holdings))
+                                       (NP (NP a total)
+                                           (PP of
+                                               (NP 354,600 (ADJP newly issued) Wisconsin Toy shares)))))))))))
+     .))
+( (S (NP-SBJ Wisconsin Toy)
+     (ADVP-TMP currently)
+     (VP has
+         (NP (NP (QP about 4.7 million) shares)
+             (ADJP outstanding)))
+     .))
+( (S (NP-SBJ A company official)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP Arthur Borie)
+			  ,
+			  (NP (PP until
+				  (NP January))
+			      (NP chief operating officer)
+			      (PP of
+				  (NP Pic 'N Save Inc.)))
+			  ,)
+                  (VP (VP will
+			  (VP buy
+			      (NP (NP a (ADJP 20 %) stake)
+				  (PP-LOC in
+					  (NP the new Wisconsin Toy subsidiary)))))
+		      , and
+		      (VP will
+			  (VP act
+			      (PP-CLR as
+				      (NP (NP head)
+					  (PP of
+					      (NP Everything 's a Dollar))))))))))
+     .))
+( (S (NP-SBJ Wisconsin Toy)
+     (VP has
+         (NP 71 retail stores)
+	 ,
+	 (PP-LOC (ADVP primarily) in
+		 (NP discount settings)))
+     .))
+( (S (NP-SBJ Everything 's a Dollar)
+     (VP operates
+         (NP 60 specialty-retail stores))
+     .))

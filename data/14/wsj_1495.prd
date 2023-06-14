@@ -1,0 +1,501 @@
+
+
+( (S (NP-SBJ (NP David Baltimore)
+             ,
+             (SBAR (WHNP-2 who)
+                   (S (NP-SBJ-1 *T*-2)
+                      (VP has
+			  (ADVP-TMP just)
+			  (VP been
+			      (VP named
+				  (S (NP-SBJ *-1)
+				     (NP-PRD (NP president)
+					     (PP of
+						 (NP Rockefeller University)))))))))
+             ,)
+     (ADVP-TMP already)
+     (VP knows
+         (SBAR (WHNP-3 what)
+               (S (NP-SBJ (NP it)
+			  (S *EXP*-4))
+                  (VP 's
+                      (PP-PRD like
+			      (NP *T*-3))
+		      (S-4 (NP-SBJ *)
+			   (VP to
+			       (VP go
+				   (PP-CLR through
+					   (NP life))
+				   (PP-MNR with
+					   (NP ``
+					       (NP Nobel laureate)
+					       ''
+					       (VP appended
+						   (NP *)
+						   (PP-CLR to
+							   (NP (NP one 's)
+							       name))))))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP is
+         (ADVP-TMP currently)
+         (VP experiencing
+             (SBAR (WHNP-1 what)
+                   (S (NP-SBJ (NP it)
+			      (S *EXP*-2))
+		      (VP 's
+			  (PP-PRD like
+				  (NP *T*-1))
+			  (S-2 (NP-SBJ *)
+			       (VP to
+				   (VP have
+				       (NP (NP the phrase)
+					   ,
+					   ``
+					   (PP under
+					       (NP (NP investigation)
+						   (PP for
+						       (NP scientific fraud))))
+					   , '')
+				       (VP (ADVP also)
+					   attached
+					   (PP-CLR to
+						   (NP his name)))))))))))
+     .))
+( (S (S (NP-SBJ The Nobel committee)
+        (VP made
+            (NP the first addition)))
+     ;
+     (S (NP-SBJ (NP John Dingell 's)
+                congressional committee)
+        (VP created
+            (NP the second)))
+     .))
+( (S (NP-SBJ (NP Both)
+	     (PP of
+		 (NP (NP Dr. Baltimore 's)
+		     public faces)))
+     (VP have
+	 (VP been
+	     (PP-PRD on
+		     (NP view))
+	     (NP-TMP the past few weeks)
+	     (SBAR-ADV while
+		       (S (NP-SBJ he)
+			  (VP was
+			      (PP-PRD under
+				      (NP consideration
+					  (S (NP-SBJ *)
+					     (VP to
+						 (VP succeed
+						     (NP Joshua Lederberg)
+						     (PP-CLR as
+							     (NP (NP head)
+								 (PP of
+								     (NP the prestigious Rockefeller research institution))))))))))))))
+     .))
+( (S (NP-SBJ (NP It)
+	     (SBAR *EXP*-2))
+     (VP came
+         (S-PRD (NP-SBJ *)
+		(VP to
+		    (VP light)))
+         (SBAR-2 that
+		 (S (NP-SBJ (NP a substantial number)
+			    (PP of
+				(NP (NP Rockefeller 's)
+				    faculty)))
+		    (VP were
+			(VP (VP upset
+				(PP-CLR over
+					(NP *RNR*-1)))
+			    or
+			    (VP (ADVP even)
+				opposed
+				(PP-CLR to
+					(NP *RNR*-1)))
+			    (NP-1 (NP Dr. Baltimore)
+				  's impending appointment))))))
+     .))
+( (S (NP-SBJ-1 They)
+     (VP were
+         (VP disturbed
+             (NP *-1)
+             (PP-CLR at
+		     (SBAR-NOM (WHNP-4 what)
+			       (S (NP-SBJ they)
+				  (VP regarded
+				      (NP *T*-4)
+				      (PP-CLR as
+					      (NP (NP (NP Dr. Baltimore 's)
+						      confrontational attitude)
+						  (PP toward
+						      (NP (NP the Dingell committee)
+							  ,
+							  (SBAR (WHNP-2 which)
+								(S (NP-SBJ *T*-2)
+								   (VP held
+								       (NP (NP hearings)
+									   (PP on
+									       (NP (NP a dispute)
+										   (PP over
+										       (NP (NP the lab notebooks)
+											   (PP of
+											       (NP (NP a researcher)
+												   (SBAR (WHNP-3 who)
+													 (S (NP-SBJ *T*-3)
+													    (VP had
+														(VP co-authored
+														    (NP a scientific paper)
+														    (PP with
+															(NP Dr. Baltimore))))))))))))))))))))))))))
+     .))
+( (S (NP-SBJ (NP Readers)
+             (PP of
+                 (NP (NP these columns)
+                     (PRN -LRB-
+			  (NP ``
+			      (NP-TTL The Science Police)
+			      ,
+			      ''
+			      (NP-TMP May 15))
+			  -RRB-))))
+     (VP will
+         (VP recall
+             (SBAR that
+                   (S (NP-SBJ Dr. Baltimore)
+                      (VP was
+                          (ADVP merely)
+                          (NP-PRD (NP the (ADJP most well-known) part)
+                                  (PP of
+                                      (NP (NP (NP the Dingell committee 's)
+                                              larger investigation)
+                                          ,
+                                          (SBAR (WHNP-1 which)
+                                                (S (NP-SBJ *T*-1)
+                                                   (VP touched
+                                                       (NP (NP MIT)
+                                                           ,
+                                                           (NP Tufts)
+                                                           ,
+                                                           (NP Duke)
+                                                           ,
+                                                           (NP (NP the National Institutes)
+                                                               (PP of
+                                                                   (NP Health)))
+                                                           and 
+							   (NP elsewhere)))))))))))))
+     .))
+( (S (NP-SBJ-1 Rep. Dingell)
+     (ADVP even)
+     (VP managed
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP enlist
+                    (NP (NP the services)
+                        (PP of
+                            (NP the Secret Service)))
+                    (PP-LOC in
+			    (NP (NP his investigation)
+				(PP of
+				    (NP the Baltimore paper))))))))
+     .))
+( (S (SBAR-ADV Insofar as
+	       (S (NP-SBJ Mr. Dingell)
+		  (VP has
+		      (NP (NP a special interest)
+			  (PP-LOC in
+				  (NP (NP NIH)
+				      and
+				      (NP (NP the institutions)
+					  (SBAR (WHNP-1 that)
+						(S (NP-SBJ *T*-1)
+						   (VP receive
+						       (NP its funding)))))))))))
+     ,
+     (NP-SBJ the Rockefeller scientists)
+     (VP were
+         (ADJP-PRD (NP no doubt)
+                   discomfited
+                   (PP by
+                       (NP (NP (NP Dr. Baltimore 's)
+			       unflattering public opinion)
+			   (PP of
+			       (NP (NP this congressional patron)
+				   ,
+				   (SBAR (WHNP-2 whose behavior)
+					 (S (NP-SBJ *T*-2)
+					    (VP reminded
+						(NP (NP Dr. Baltimore)
+						    (PP of
+							(NP the McCarthy era))))))))))))
+     .))
+( (S (NP-SBJ This)
+     (ADVP well)
+     (VP may
+         (VP be
+             (NP-PRD (NP the first time)
+                     (SBAR (WHADVP-1 that)
+                           (S (NP-SBJ the venerable Rockefeller University)
+                              (VP has
+                                  (VP brushed
+                                      (ADVP-CLR up)
+                                      (ADVP-LOC publicly)
+                                      (PP-CLR against
+					      (NP (NP the intimidations)
+						  (ADJP now common
+							(PP-LOC in
+								(NP American science)))))
+				      (ADVP-TMP *T*-1))))))))
+     .))
+( (S (S (NP-SBJ John Dingell)
+        (VP demagogues
+            (NP a David Baltimore)))
+     ,
+     (S (NP-SBJ animal-rights activists)
+        (VP do
+            (NP (NP (QP $ 3.5 million) *U*)
+		(PP of
+		    (NP damage)))
+            (PP-CLR to
+		    (NP (NP labs)
+			(PP-LOC at
+				(NP the U.Cal-Davis))))))
+     ,
+     (S (NP-SBJ Meryl Streep)
+        (VP decries
+            (NP (NP the horrors)
+                (PP of
+                    (NP chemistry)))
+	    (PP-LOC on
+		    (NP talk shows))))
+     ,
+     (S (NP-SBJ-1 Jeremy Rifkin)
+        (VP files
+            (NP lawsuits)
+            (PP-LOC in
+		    (NP federal court))
+	    (S-PRP (NP-SBJ *-1)
+		   (VP to
+		       (VP thwart
+			   (NP biotech experiments))))))
+     , and
+     (S (NP-SBJ (NP (NP Dutch-elm-disease researcher
+			Gary Strobel 's)
+		    own colleagues)
+		(PP-LOC at
+			(NP Montana State)))
+        (VP denounce
+            (NP him)
+            (PP-CLR for
+		    ``
+		    (S-NOM (NP-SBJ *)
+			   (VP violating 
+			       ''
+			       (NP EPA rules))))))
+     .))
+( (S (NP-SBJ-3 (NP Scientists)
+               (SBAR *ICH*-2))
+     (VP are
+         (VP mistaken
+             (NP *-3)
+	     (SBAR-2 (WHNP-1 who)
+		     (S (NP-SBJ *T*-1)
+			(VP (ADVP-TMP still)
+			    think
+			    (SBAR (SBAR that
+					(S (NP-SBJ (NP the anti-science movement)
+						   (PP-LOC in
+							   (NP this country)))
+					   (VP is n't
+					       (NP-PRD their concern))))
+				  or
+				  (SBAR that
+					(S (NP-SBJ a David Baltimore)
+					   (VP could
+					       (VP have
+						   (ADVP somehow)
+						   (VP placated
+						       (NP a John Dingell))))))))))))
+     .))
+( (S -LRB-
+     (NP-SBJ Mr. Dingell)
+     (PP , by
+         (NP the way)
+         ,)
+     (VP has
+         (VP decreed
+             (NP (NP another NIH investigation)
+                 (PP of
+                     (NP the Baltimore paper)))
+	     ,
+	     (S-ADV (NP-SBJ *)
+		    (VP adding
+			(PP-CLR to
+				(NP several previous investigations))))))
+     .))
+( (S (NP-SBJ-1 (NP Something)
+               (ADJP other
+                     (PP than
+			 (SBAR (WHNP-2 what)
+			       (S (NP-SBJ most scientists)
+				  (VP would
+				      (VP recognize
+					  (NP *T*-2)
+					  (PP-CLR as
+						  (NP the truth)))))))))
+     (VP is
+	 (VP being
+	     (VP sought
+		 (NP *-1)
+		 (ADVP-LOC here))))
+     .
+     -RRB-))
+( (S (ADVP Fortunately)
+     ,
+     (NP-SBJ there)
+     (VP are
+         (NP-PRD signs
+                 (SBAR that
+                       (S (NP-SBJ (NP increasing numbers)
+                                  (PP of
+                                      (NP scientists)))
+                          (VP understand
+                              (NP (NP the necessity)
+                                  (PP of
+                                      (S-NOM (NP-SBJ *)
+					     (VP speaking
+						 (PRT out))))))))))
+     .))
+( (S (NP-SBJ (NP David Hubel)
+             ,
+             (NP (NP a Nobel laureate)
+                 (PP-LOC at
+			 (NP Harvard)))
+             ,)
+     (VP has
+         (VP taken
+             (NP (NP the lead)
+                 (PP in
+                     (S-NOM (NP-SBJ *)
+			    (VP defending
+				(NP (NP research)
+				    (PP with
+					(NP animals)))))))
+	     ,
+	     (SBAR-ADV as
+		       (SINV (VP has)
+			     (NP-SBJ Dr. Michael DeBakey)))))
+     .))
+( (S (NP-SBJ NASA)
+     (VP defended
+         (NP itself)
+         (ADVP-MNR vigorously
+		   and
+		   successfully)
+	 (PP against
+             (NP (NP a Rifkin suit)
+                 (SBAR (WHNP-1 0)
+		       (S (NP-SBJ *T*-1)
+			  (VP to
+			      (VP block
+				  (NP the Galileo launch))))))))
+     .))
+( (S (NP-SBJ-1 Scientists)
+     (VP need
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP understand
+                    (SBAR that
+                          (S (SBAR-ADV while
+				       (S (NP-SBJ-2 they)
+					  (VP tend
+					      (S (NP-SBJ *-2)
+						 (VP to
+						     (VP believe
+							 (SBAR 0
+							       (S (NP-SBJ their work)
+								  (VP is
+								      (ADVP primarly)
+								      (PP-PRD about
+									      (S-NOM (NP-SBJ *)
+										     (VP (VP establishing
+											     (NP new knowledge))
+											 or
+											 (VP doing
+											     (NP good))))))))))))))
+                             , 
+			     (NP-TMP today)
+                             (NP-SBJ it)
+			     (VP is
+				 (ADVP also)
+				 (PP-PRD about
+					 (NP power)))))))))
+     .))
+( (S (PP-LOC In
+	     (NP a media-linked world))
+     ,
+     (S (NP-SBJ scientists)
+        (VP may
+            (VP earn
+                (NP (NP wide praise)
+                    and
+                    (NP even Nobels))
+                (PP-CLR for
+			(NP their work)))))
+     , but
+     (S (NP-SBJ they)
+        (ADVP also)
+        (VP attract
+            (NP (NP the attention)
+                (PP of
+                    (NP (NP people)
+                        (SBAR (WHNP-1 who)
+                              (S (NP-SBJ-2 *T*-1)
+                                 (VP wish
+                                     (S (NP-SBJ *-2)
+                                        (VP to
+                                            (VP gain
+                                                (NP (NP control)
+                                                    (PP over
+                                                        (NP (NP the content , funding and goals)
+                                                            (PP of
+                                                                (NP that work))))))))))))))))
+     .))
+( (S (SBAR (WHADVP-2 When)
+           (S (NP-SBJ (NP a David Baltimore)
+                      (PRN --
+			   or
+			   (NP the next target)
+			   --))
+              (VP decides
+                  (SBAR 0
+                        (S (NP-SBJ (NP it)
+				   (S *EXP*-3))
+                           (VP is
+                               (ADJP-PRD better)
+			       (S-3 (NP-SBJ *)
+				    (VP to
+					(VP stand
+					    (PRT up)
+					    (PP-CLR to
+						    (NP these forces))))))))
+		  (ADVP-TMP *T*-2))))
+     ,
+     (NP-SBJ-4 his fellow scientists)
+     (VP would
+         (VP do
+             (ADVP-CLR well)
+             (S (NP-SBJ *-4)
+                (VP to
+                    (VP (VP recognize
+                            (SBAR (WHNP-1 what)
+                                  (S (NP-SBJ *T*-1)
+                                     (VP is
+                                         (ADVP fundamentally)
+                                         (PP-PRD at
+                                                 (NP stake))))))
+                        , and
+                        (VP offer
+                            (NP their public support)))))))
+     .))

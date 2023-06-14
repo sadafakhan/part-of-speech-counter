@@ -1,0 +1,88 @@
+
+
+( (S (NP-SBJ-2 A shareholder)
+     (VP filed
+         (NP suit)
+	 ,
+	 (S-ADV (NP-SBJ-3 *-2)
+		(VP seeking
+		    (S (NP-SBJ *-3)
+		       (VP to
+			   (VP block
+			       (NP (NP Unitel Video Inc. 's)
+				   proposed plan
+				   (S (NP-SBJ-1 *)
+				      (VP to
+					  (VP be
+					      (VP acquired
+						  (NP *-1)
+						  (PP by
+						      (NP-LGS (NP a new affiliate)
+							      (PP of
+								  (NP closely held Kenmare Capital Corp.))))
+						  (PP-CLR for
+							  (NP (NP (NP $ 15 *U*)
+								  (NP-ADV a share))
+							      , or
+							      (NP (QP $ 33.6 million) *U*))))))))))))))
+     .))
+( (S (NP-SBJ-1 (NP The suit)
+               ,
+               (SBAR (WHNP-2 which)
+                     (S (NP-SBJ *T*-2)
+                        (VP seeks
+                            (NP class-action status))))
+               ,)
+     (VP was
+         (VP filed
+             (NP *-1)
+             (PP-LOC-CLR in
+			 (NP Delaware Chancery Court))))
+     .))
+( (S (NP-SBJ The complaint)
+     (VP alleges
+         (SBAR (SBAR that
+                     (S (NP-SBJ the price)
+                        (VP is
+			    ``
+			    (ADJP-PRD (ADJP unfair) and (ADJP grossly inadequate))
+			    '')))
+               and
+               (SBAR that
+                     (S (NP-SBJ-1 the defendants)
+                        (VP are
+                            (VP seeking
+                                (S (NP-SBJ *-1)
+                                   (VP to
+                                       (VP ensure
+                                           (NP (NP a `` lockup '')
+                                               (PP of
+                                                   (NP (NP the purchase)
+                                                       (PP of
+                                                           (NP Unitel))))))))
+				,
+				(S-ADV (NP-SBJ *)
+				       (VP (ADVP thereby)
+					   discouraging
+					   (NP other bids)))))))))
+     .))
+( (S (NP-SBJ It)
+     (VP seeks
+         (NP unspecified money damages))
+     .))
+( (S (NP-SBJ The New York company)
+     (VP called 
+         (S (NP-SBJ the lawsuit)
+	    (PP-PRD without
+		    (NP merit))))
+     .))
+( (S (NP-SBJ-1 Shareholders)
+     (VP are
+         (VP scheduled
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP vote
+                        (PP-CLR on
+				(NP the transaction))
+			(NP-TMP Nov))))))
+     .))

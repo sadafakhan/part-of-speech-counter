@@ -1,0 +1,601 @@
+
+
+( (S (NP-SBJ (NP Ford Motor Co.)
+             and
+             (NP (NP Saab-Scania AB)
+                 (PP of
+                     (NP Sweden))))
+     (VP broke
+         (PRT off)
+         (NP (NP talks)
+             (PP about
+                 (NP a possible alliance)))
+	 (SBAR-TMP after
+		   (S (NP-SBJ Ford officials)
+		      (VP concluded
+			  (SBAR that
+				(S (NP-SBJ the cost
+					   (S (NP-SBJ *) 
+					      (VP to
+						  (VP modernize
+						      (NP (NP Saab 's)
+							  car operations)))))
+				   (VP would
+				       (VP outweigh
+					   (NP the likely return)))))))))
+     .))
+( (S (PP With
+         (NP (NP the collapse)
+	     (PP of
+		 (NP the talks))
+             (NP-TMP Friday)))
+     ,
+     (NP-SBJ European analysts)
+     (VP expect
+         (S (NP-SBJ Ford)
+            (VP to
+                (VP intensify
+                    (NP (NP its pursuit)
+                        (PP of
+                            (NP (NP British luxury car maker)
+                                (NP (NP Jaguar PLC)
+                                    ,
+                                    (SBAR (WHNP-1 which)
+                                          (S (NP-SBJ-2 *T*-1)
+                                             (VP is
+                                                 (VP scrambling
+                                                     (S (NP-SBJ-3 *-2)
+                                                        (VP to
+                                                            (VP fend
+                                                                (PRT off)
+                                                                (NP a hostile Ford bid)
+								(PP-MNR by
+									(S-NOM (NP-SBJ *-3)
+									       (VP negotiating
+										   (NP (NP a friendly alliance)
+										       (PP with
+											   (NP (NP (NP Ford 's)
+												   archrival)
+											       ,
+											       (NP General Motors Corp))))))))))))))))))))))
+     .))
+( (S (NP-SBJ-1 Saab)
+     ,
+     (ADVP-TMP meanwhile)
+     ,
+     (VP is
+         (VP left
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP continue
+                        (NP (NP its search)
+			    (PP for
+				(NP (NP an ally)
+				    (SBAR (WHNP-2 0)
+					  (S (NP-SBJ *T*-2)
+					     (VP to
+						 (VP shore
+						     (PRT up)
+						     (NP its sagging car business)))))))))))))
+     .))
+( (S (NP-SBJ Saab)
+     (VP said
+         (NP-TMP last week)
+         (SBAR 0
+               (S (NP-SBJ-2 it)
+		  ``
+		  (VP (VP has
+			  (VP had
+			      (NP *RNR*-1)))
+		      and
+		      (VP will
+			  (VP continue
+			      (S (NP-SBJ *-2)
+				 (VP to
+				     (VP have
+					 (NP *RNR*-1))))))
+		      (NP-1 (NP contacts)
+			    (PP with
+				(NP other manufacturers)))))))
+     . ''))
+( (S (SINV-TPC-2 (PP-TPC-LOC-PRD-1 Among
+				   (NP the possible suitors))
+		 (VP is
+		     (PP-LOC-PRD *T*-1))
+		 (NP-SBJ (NP Italy 's)
+			 Fiat S.p . A))
+     ,
+     (NP-SBJ analysts)
+     (VP said
+	 (SINV *T*-2)
+	 (NP-TMP last week))
+     .))
+( (S (NP-SBJ-2 Ford and Saab officials)
+     (VP declined
+         (S (NP-SBJ *-2)
+            (VP to
+                (VP elaborate
+                    (ADVP-MNR publicly)
+                    (PP-CLR on
+			    (NP (NP the announcement
+				    (SBAR *ICH*-3))
+				(NP-TMP Friday)
+				(SBAR-3 that
+					(S (NP-SBJ-4 their negotiations)
+					   (VP failed
+					       (S (NP-SBJ *-4)
+						  (VP to
+						      (VP yield
+							  (NP (NP an agreement)
+							      (SBAR ``
+								    (WHNP-1 that)
+								    (S (NP-SBJ *T*-1)
+								       (VP could
+									   (VP make
+									       (NP long-term business sense)
+									       (PP-CLR to
+										       (NP both parties)))))))))))))))))))
+     . ''))
+( (S (NP-SBJ (NP Individuals)
+             (ADJP close
+                   (PP to
+                       (NP (NP the Ford side)
+			   (PP of
+			       (NP the negotiations))))))
+     (VP said
+         (NP-TMP late last week)
+         (SBAR that
+               (S (NP-SBJ the No. 2 U.S. auto maker)
+		  (VP lost
+		      (NP interest)
+		      (SBAR-TMP as
+				(S (NP-SBJ it)
+				   (VP became
+				       (ADJP-PRD clear
+						 (SBAR that
+						       (S (NP-SBJ (NP the Swedish auto maker 's)
+								  automotive operations)
+							  (VP had
+							      (NP (NP little)
+								  (VP to
+								      (VP offer
+									  (PP in
+									      (NP (NP the way)
+										  (PP of
+										      (NP image or technology))))))))))))))))))
+     .))
+( (S (NP-SBJ Ford)
+     (ADVP originally)
+     (VP had
+         (VP seen
+             (NP a Saab alliance)
+             (PP-CLR as
+		     (NP a way
+			 (S (NP-SBJ *)
+			    (VP to
+				(VP expand
+				    (NP (NP its presence)
+					(PP-LOC in
+						(NP the (UCP European and U.S.) luxury car markets))))))))))
+     .))
+( (S (PP In
+         (NP addition))
+     ,
+     (NP-SBJ Ford
+             and
+             Saab)
+     (VP had
+         (VP discussed
+             (NP (NP a possible link)
+		 (PP between
+		     (NP their heavy truck operations)))))
+     .))
+( (S But
+     (NP-SBJ (NP the talks)
+	     (PP on
+		 (NP a heavy truck alliance)))
+     (ADVP apparently)
+     (VP did n't
+         (VP go
+             (ADVP-DIR far)))
+     .))
+( (S (NP-SBJ Some European analysts)
+     (VP speculated
+         (SBAR that
+               (S (NP-SBJ (NP officials)
+                          (PP of
+                              (NP (NP Saab 's)
+                                  (ADJP highly profitable)
+                                  Scania truck operation)))
+                  (VP balked
+                      (PP-CLR at
+			      (S-NOM (NP-SBJ *)
+				     (VP surrendering
+					 (NP (NP any)
+					     (PP of
+						 (NP their autonomy))))))))))
+     .))
+( (S (ADVP-TMP Meanwhile)
+     ,
+     (NP-SBJ Ford officials)
+     (VP became
+         (ADJP-PRD convinced
+                   (SBAR 0
+                         (S (NP-SBJ-2 they)
+                            (VP could n't
+                                (VP expect
+                                    (S (NP-SBJ *-2)
+                                       (VP to
+                                           (VP recover
+                                               (NP (NP the investment)
+                                                   (SBAR (WHNP-1 0)
+                                                         (S (NP-SBJ it)
+                                                            (VP would
+                                                                (VP require
+                                                                    (NP *T*-1)
+								    (S-PRP (NP-SBJ *)
+									   (VP to
+									       (VP make
+										   (S (NP-SBJ (NP Saab 's)
+											      cars)
+										      (ADJP-PRD competitive
+												(PP in
+												    (NP the increasingly crowded luxury market)))))))))))))))))))))
+     .))
+( (S (NP-SBJ-1 (NP Saab 's)
+               problems)
+     (VP were
+         (VP underscored
+             (NP *-1)
+	     (NP-TMP Friday)
+	     (SBAR-TMP (WHADVP-2 when)
+		       (S (NP-SBJ the company)
+			  (VP announced
+			      (SBAR that
+				    (S (NP-SBJ its car division)
+				       (VP had
+					   (NP (NP a
+						   (NP (ADJP (ADJP (QP 1.2 billion) kronor)
+							     -LRB-
+							     (ADJP (QP $ 186.1 million) *U*)
+							     -RRB-))
+						   loss)
+					       (PP-TMP during
+						       (NP (NP the first eight months)
+							   (PP of
+							       (NP this year))))
+					       ,
+					       (ADJP (ADJP slightly worse)
+						     (SBAR than
+							   (S (NP-SBJ Saab-Scania)
+							      (VP had
+								  (VP forecast
+								      (PP-LOC in
+									      (NP its first-half report))
+								      (NP-TMP last month)))))))
+					   (ADVP-TMP *T*-2)))))))))
+     .))
+( (S (ADVP Overall)
+     ,
+     (NP-SBJ (NP (NP Saab-Scania 's)
+		 pretax profit)
+             (PP-TMP during
+		     (NP (NP the first eight months)
+			 (PP of
+			     (NP the year)))))
+     (VP plunged
+         (NP-EXT 48.9 %)
+         (PP-DIR (PP to
+		     (NP (NP (QP 1 billion Swedish) kronor)
+			 -LRB-
+			 (NP (QP $ 155.1 million) *U*)
+			 -RRB-))
+		 (PP from
+		     (NP (NP (QP 1.96 billion) kronor)
+			 -LRB-
+			 (NP (QP $ 303.9 million) *U*)
+			 -RRB-)
+		     (ADVP-TMP (NP a year)
+			       earlier))))
+     .))
+( (S (NP-SBJ (NP Industry analysts)
+             (PP-LOC in
+		     (NP Europe)))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP the (ADJP most likely) suitor)
+                          (PP for
+                              (NP Saab)))
+                  (ADVP-TMP now)
+		  (VP is
+                      (NP-PRD Fiat)))))
+     .))
+( (S (NP-SBJ-2 Saab
+	       and
+	       Fiat)
+     (VP (VP have
+	     (VP worked
+		 (ADVP-CLR together)
+		 (PP-TMP in
+			 (NP the past))))
+	 ,
+	 (S-ADV (PP in
+		    (NP one case))
+		(NP-SBJ *-2)
+		(VP developing
+		    (ADVP jointly)
+		    (NP (NP a new auto chassis)
+			(SBAR (WHNP-1 that)
+			      (S (NP-SBJ *T*-1)
+				 (VP became
+				     (NP-PRD (NP the foundation)
+					     (PP of
+						 (NP (NP (NP Saab 's)
+							 9000 model)
+						     ,
+						     (NP (NP Fiat 's)
+							 Croma)
+						     and
+						     (NP (NP Lancia 's)
+							 Thema)))))))))))
+     .))
+( (S (NP-TMP Last month)
+     ,
+     (NP-SBJ Saab-Scania Chief Executive Georg Karnsund)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ his company)
+                  (VP has
+                      (VP had
+                          (NP (NP talks)
+                              (PP with
+                                  (NP Fiat))
+                              (PP about
+                                  (NP a broader alliance))))))))
+     .))
+( (S (S-TPC-2 But
+	      (NP-SBJ the talks)
+	      (VP yielded
+		  (NP ``
+		      (NP nothing)
+		      (ADJP (ADJP so advanced)
+			    (SBAR that
+				  (S (NP-SBJ-1 we)
+				     (VP needed
+					 (S (NP-SBJ *-1)
+					    (VP to
+						(VP make
+						    (NP a public announcement)
+						    (PP about
+							(NP it))))))))))))
+     , ''
+     (NP-SBJ he)
+     (VP said
+	 (S *T*-2))
+     .))
+( (S (PP As
+         (PP for
+             (NP Ford)))
+     ,
+     (NP-SBJ analysts)
+     (VP expect
+         (SBAR 0
+               (S (NP-SBJ (NP the end)
+                          (PP of
+                              (NP the Saab play)))
+                  (VP will
+                      (VP allow
+                          (S (NP-SBJ the U.S. auto maker)
+                             (VP to
+                                 (VP focus
+                                     (NP its resources)
+                                     (PP-LOC-CLR on
+						 (NP (NP the intensifying struggle)
+						     (PP with
+							 (NP GM))
+						     (PP for
+							 (NP (NP a stake)
+							     (PP-LOC in
+								     (NP Jaguar))))))))))))))
+     .))
+( (SINV (S-TPC-1 (NP-SBJ (NP The failure)
+			 (PP of
+			     (NP the Saab talks)))
+		 ``
+		 (VP makes
+		     (S (NP-SBJ (NP it)
+				(SBAR *EXP*-2))
+			(ADJP-PRD even more crucial)
+			(SBAR-2 for
+				(S (NP-SBJ -LCB- Ford -RCB-)
+				   (VP to
+				       (VP be
+					   (ADJP-PRD victorious ''
+						     (PP in
+							 (NP the Jaguar contest))))))))))
+	,
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP Stephen Reitman)
+		,
+		(NP (NP European auto industry analyst)
+		    (PP-LOC at
+			    (NP (NP UBS-Phillips & Drew)
+				(PP-LOC in
+					(NP London))))))
+	.))
+( (S (NP-SBJ Ford)
+     (VP faces
+         (NP (NP an uphill fight)
+	     (PP for
+		 (NP Jaguar)))
+	 ,
+	 (ADVP however))
+     .))
+( (S (NP-SBJ Jaguar executives)
+     (VP said
+         (NP-TMP last week)
+         (SBAR 0
+               (S (NP-SBJ-1 they)
+                  (VP expect
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP have 
+                                 (S (NP-SBJ (NP a friendly alliance)
+					    (PP with
+						(NP GM)))
+				    (VP wrapped
+					(PRT up)))
+				 (PP-TMP by
+					 (NP (NP the end)
+					     (PP of
+						 (NP the month)))))))))))
+     .))
+( (S (NP-SBJ GM)
+     ,
+     (ADVP-TMP meanwhile)
+     ,
+     (VP is
+         (VP hosting
+             (NP (NP a delegation)
+		 (PP of
+		     (NP (NP members)
+			 (PP of
+			     (NP the British Parliament))
+			 (SBAR (WHNP-1 who)
+			       (S (NP-SBJ *T*-1)
+				  (VP are
+				      (VP touring
+					  (NP (NP (NP the auto maker 's)
+						  headquarter operations)
+					      (PP-LOC in
+						      (NP Detroit))))))))))))
+     .))
+( (S (NP-SBJ A GM spokesman)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the visit)
+                  (VP is n't
+                      (ADJP-PRD connected
+                                (PP to
+                                    (NP the Jaguar situation)))))))
+     .))
+( (S But
+     (NP-SBJ Ford)
+     (VP (ADVP clearly)
+         views
+         (NP Jaguar)
+         (PP-CLR as
+		 (NP (NP a prize)
+		     (PP worth
+			 (S-NOM (NP-SBJ *)
+				(VP fighting 
+				    (PP for
+					(NP *?*)))))))
+	 ,
+	 (SBAR-PRP since
+		   (S (NP-SBJ (NP the company 's)
+			      gilded brand image)
+		      (VP would
+			  (VP give
+			      (NP Ford)
+			      (NP (NP a (ADJP badly needed) leg up)
+				  (PP-LOC in
+					  (NP (NP the high end)
+					      (PP of
+						  (NP (NP the luxury markets)
+						      (PP in
+							  (NP both
+							      (NP Europe)
+							      and
+							      (NP the U.S)))))))))))))
+     .))
+( (S (NP-TMP Last week)
+     ,
+     (NP-SBJ Ford)
+     (VP encountered
+         (NP (NP a setback)
+             (PP in
+                 (NP its effort
+                     (S (NP-SBJ *)
+                        (VP to
+                            (VP broaden
+                                (NP its U.S. luxury offerings)))))))
+	 (SBAR-TMP (WHADVP-1 when)
+		   (S (NP-SBJ-2 it)
+		      (VP was
+			  (VP forced
+			      (S (NP-SBJ *-2)
+				 (VP to
+				     (VP abandon
+					 (NP a four-year-old effort
+					     (S (NP-SBJ *)
+						(VP to
+						    (VP market
+							(NP its German-built Scorpio sedan)
+							(PP-LOC in
+								(NP the U.S.))
+							(PP-CLR as
+								(NP (NP a luxury import)
+								    (PP under
+									(NP the Merkur brand name)))))))))))
+			      (ADVP-TMP *T*-1))))))
+     .))
+( (S (ADVP So)
+     (PP despite
+         (NP the GM-Jaguar romance))
+     ,
+     (NP-SBJ analysts)
+     (VP say
+         (SBAR 0
+               (S (NP-SBJ Ford)
+                  (PP-TMP by
+			  (NP last Friday))
+                  (VP had
+                      (VP boosted
+                          (NP its Jaguar holding)
+                          (PP-DIR to
+				  (NP (NP (QP about 11) %)
+				      (PP of
+					  (NP (NP (NP the luxury auto maker 's)
+						  shares)
+					      (ADJP outstanding)))))
+			  (PP-DIR from
+				  (NP 10.4 %)
+				  (ADVP-TMP early last week)))))))
+     .))
+( (S (S (NP-SBJ (QP About 5.4 million) Jaguar shares)
+        (VP changed
+            (NP hands)
+            (PP-LOC in
+		    (NP (NP active trading)
+			(PP-LOC on
+				(NP (NP London 's)
+				    stock exchange))
+			(NP-TMP Friday)))))
+     , and
+     (S (NP-SBJ Jaguar shares)
+        (VP moved
+            (ADVP-DIR up
+		      (NP-EXT 19 pence))
+	    (PP-DIR to
+		    (NP (NP 696 pence)
+			-LRB-
+			(NP $ 11 *U*)
+			-RRB-))))
+     .))
+( (S (PP-LOC On
+	     (NP the U.S. over-the-counter market))
+     ,
+     (NP-SBJ (NP Jaguar 's)
+             American depositary receipts)
+     (VP rose
+         (NP-EXT 12.5 cents)
+         (PP-DIR to
+		 (NP $ 11.125 *U*)))
+     .))
+( (S (NP-SBJ Joann S. Lublin)
+     (VP contributed
+         (PP-CLR to
+		 (NP this article)))
+     .))

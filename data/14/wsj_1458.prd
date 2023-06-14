@@ -1,0 +1,180 @@
+
+
+( (S (NP-SBJ-1 (NP The long-running scandal)
+               (VP surrounding
+                   (NP (NP the 1982 collapse)
+                       (PP of
+                           (NP Banco Ambrosiano)))))
+     (VP was
+         (VP reignited
+             (NP *-1)
+             (PP by
+                 (NP-LGS (NP the arrest)
+			 (NP-TMP last week)
+			 (PP of
+			     (NP Rome businessman
+				 Flavio Carboni))
+			 (PP on
+			     (NP fraud charges))))))
+     .))
+( (S (NP-SBJ Rome magistrates)
+     (VP accuse
+         (NP-2 (NP Mr. Carboni)
+	       and
+	       (NP several other people))
+	 (PP-CLR of
+		 (S-NOM (NP-SBJ-1 *-2)
+			(VP trying
+			    (S (NP-SBJ *-1)
+			       (VP to
+				   (VP extort
+				       (NP (NP (QP 1.2 billion) lire)
+					   (PRN -LRB-
+						(NP $ 880,000 *U*)
+						-RRB-))
+				       (PP-CLR from
+					       (NP the Vatican))
+				       (PP in
+					   (NP (NP return)
+					       (PP for
+						   (NP (NP documents)
+						       (VP contained
+							   (NP *)
+							   (PP-LOC in
+								   (NP (NP the briefcase)
+								       (PP of
+									   (NP (NP Roberto Calvi)
+									       ,
+									       (NP (NP the Ambrosiano chairman)
+										   (VP found
+										       (S (NP-SBJ *)
+											  (VP hanged
+											      (PP-LOC under
+												      (NP (NP London 's)
+													  (NP Blackfriar 's)
+													  Bridge))
+											      (PP-TMP shortly before
+												      (NP (NP the bank 's)
+													  collapse))))))))))))))))))))))
+     .))
+( (S (NP-SBJ (NP Banco Ambrosiano)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP was
+                          (NP-PRD (NP Italy 's)
+                                  largest private-sector bank))))
+             ,)
+     (VP collapsed
+         (PP-TMP in
+		 (NP 1982))
+         (PP with
+             (NP (NP (QP $ 1.3 billion) *U*)
+                 (PP of
+                     (NP debts)))))
+     .))
+( (S (NP-SBJ-3 (NP Most)
+	       (PP of
+		   (NP the money)))
+     (VP was
+         (VP lent
+              (NP *-3)
+	      (PP-DTV to
+		      (NP (NP a series)
+			  (PP of
+			      (NP (NP shell companies)
+				  (PP-LOC in
+					  (NP Panama
+					      and
+					      Luxembourg))
+				  (SBAR (WHNP-2 that)
+					(S (NP-SBJ-1 *T*-2)
+					   (VP were
+					       (VP owned
+						   (NP *-1)
+						   ,
+						   (ADVP directly or indirectly)
+						   ,
+						   (PP by
+						       (NP-LGS the Vatican bank))))))))))))
+     .))
+( (S (NP-SBJ (NP The Vatican)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP denies
+                          (NP any wrongdoing))))
+             ,)
+     (VP paid
+         (NP (QP $ 250 million) *U*)
+         (PP-DTV to
+		 (NP (NP the Milan bank 's)
+		     creditors))
+         (PP as
+             (NP a `` goodwill gesture ''))
+	 (PP-TMP in
+		 (NP 1985)))
+     .))
+( (S (NP-SBJ Italian news reports)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP Mr. Carboni)
+                          and
+                          (NP a colleague))
+                  (VP obtained
+                      (NP (NP (QP 1.2 billion) lire)
+			  (PP in
+			      (NP checks)))
+                      (PP-CLR from
+			      (NP (NP a Vatican official)
+				  ,
+				  (NP Pavel Hnilica)))))))
+     .))
+( (S (NP-SBJ Italian papers)
+     (VP speculated
+         (SBAR 0
+               (S (NP-SBJ the briefcase)
+                  (VP contained
+                      (NP (NP papers)
+                          (VP either
+			      (VP exonerating
+				  (NP the Vatican bank)
+				  (PP-CLR from
+					  (NP (NP blame)
+					      (PP in
+						  (NP the scandal)))))
+			      , or
+			      (VP showing
+				  (SBAR that
+					(S (NP-SBJ (NP the bank)
+						   ,
+						   (VP known
+						       (NP *)
+						       (PP-CLR as
+							       (NP the Istituto per le Opere di Religione)))
+						   ,)
+					   (VP channeled
+					       (NP funds)
+					       (PP-DIR to
+						       (NP (NP East bloc groups)
+							   (PP such
+							       as
+							       (NP (NP Solidarity)
+								   (PP-LOC in
+									   (NP Poland))))))))))))))))
+     .))
+( (S (NP-SBJ-1 Neither
+               (NP Mr. Hnilica)
+               ,
+               (NP Mr. Carboni)
+               nor
+               (NP Vatican officials))
+     (VP could
+	 (VP be
+	     (VP reached
+		 (NP *-1)
+		 (PP-CLR for
+			 (NP comment))
+		 (PP-TMP over
+			 (NP the weekend)))))
+     .))

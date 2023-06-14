@@ -1,0 +1,68 @@
+
+
+( (S (NP-SBJ MCI COMMUNICATIONS Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP filed
+                      (NP a shelf registration)
+                      (PP-CLR with
+			      (NP the Securities and Exchange Commission))
+                      (PP-CLR for
+			      (NP (NP issuance)
+				  (PP of
+				      (NP (NP (QP as much
+						  as
+						  $ 750 million) *U*)
+					  (PP of
+					      (NP debt securities))))))))))
+     .))
+( (S (NP-SBJ The debt)
+     (VP will
+         (VP include
+             (NP (NP medium-term notes)
+                 (VP sold
+                     (NP *)
+                     (PP through
+                         (NP (NP Merrill Lynch Capital Markets)
+                             ;
+                             (NP Drexel Burnham Lambert Inc.)
+                             ;
+                             (NP Goldman , Sachs & Co.)
+                             and
+                             (NP Salomon Brothers Inc)))))))
+     .))
+( (S (NP-SBJ-1 The funds)
+     (VP will
+	 (VP be
+	     (VP used
+		 (NP *-1)
+		 (PP-CLR (PP for
+			     (S-NOM (NP-SBJ *)
+				    (VP refinancing
+					(NP (NP existing debt)
+					    (PP of
+						(NP the
+						    (NAC-LOC Washington
+							     ,
+							     D.C.
+							     ,)
+						    concern)))
+					(PP-CLR at
+						(NP lower interest rates)))))
+			 and
+			 (PP for
+			     (NP other general purposes))))))
+     .))
+( (S (NP-SBJ-2 (NP The effective date)
+	       (PP of
+		   (NP the registration)))
+     (VP is
+	 (S (NP-SBJ-1 *-2)
+	    (VP to
+		(VP be
+		    (VP determined
+			(NP *-1)
+			(PP by
+			    (NP-LGS the SEC)))))))
+     .))

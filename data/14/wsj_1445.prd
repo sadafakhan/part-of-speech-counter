@@ -1,0 +1,609 @@
+
+
+( (S (NP-SBJ (NP Conner Peripherals Inc.)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP has
+                          (NP (NP a near-monopoly)
+                              (PP-LOC on
+				      (NP (NP a key part)
+					  (VP used
+					      (NP *)
+					      (PP-LOC in
+						      (NP many portable computers)))))))))
+             ,)
+     (VP is
+         (PP-PRD on
+                 (NP target))
+	 (S-ADV (NP-SBJ *)
+		(VP to
+		    (VP surpass
+			(NP Compaq Computer Corp.)
+			(PP-CLR as
+				(NP (NP the fastest-growing start-up manufacturing firm)
+				    (PP-LOC in
+					    (NP U.S. business history))))))))
+     .))
+( (S (NP-SBJ Conner)
+     (VP dominates
+         (NP (NP the market)
+             (PP for
+                 (NP (NP hard-disk drives)
+                     (VP used
+                         (NP-1 *)
+                         (S-CLR (NP-SBJ *-1)
+				(VP to
+				    (VP store 
+					(NP data))))
+                         (PP-LOC-CLR in
+				     (NP laptop computers)))))))
+     .))
+( (S (NP-SBJ It)
+     (VP said 
+	 (NP-TMP yesterday)
+         (SBAR that
+               (S (NP-SBJ (NP net income)
+                          (PP for
+                              (NP its third quarter)))
+                  (VP soared
+                      (NP-EXT 72 %)
+                      (PP-DIR to
+			      (NP (NP (QP $ 11.8 million) *U*)
+				  , or
+				  (NP (NP 28 cents)
+				      (NP-ADV a share))
+				  ,))
+		      (PP-DIR from
+			      (NP (NP (QP $ 6.8 million) *U*)
+				  , or
+				  (NP (NP 19 cents)
+				      (NP-ADV a share))
+				  ,)
+			      (PP-TMP in
+				      (NP the year-ago period)))))))
+     .))
+( (S (NP-SBJ Its revenue)
+     (VP totaled
+         (NP (NP (QP $ 184.4 million) *U*)
+             ,
+             (NP (NP an increase)
+                 (PP of
+                     (NP 172 %))
+		 (PP from
+		     (NP (QP $ 67.8 million) *U*)
+		     (ADVP-TMP (NP a year)
+			       ago)))))
+     .))
+( (S (PP-TMP For
+	     (NP the nine months))
+     ,
+     (NP-SBJ the (ADJP San Jose , Calif.-based) company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ net income)
+                  (VP jumped
+                      (NP-EXT 84 %)
+                      (PP-DIR to
+			      (NP (NP (QP $ 26.9 million) *U*)
+				  , or
+				  (NP (NP 69 cents)
+				      (NP-ADV a share))
+				  ,))
+                      (PP-DIR from
+			      (NP (NP (QP $ 14.6 million) *U*)
+				  , or
+				  (NP (NP 43 cents)
+				      (NP-ADV a share))))))))
+     .))
+( (S (NP-SBJ Revenue)
+     (ADVP nearly)
+     (VP tripled
+         (PP-DIR to
+		 (NP (QP $ 479 million) *U*)
+		 ,)
+	 (PP-DIR from
+		 (NP (QP $ 160 million) *U*)))
+     .))
+( (S (NP-SBJ Analysts)
+     (VP expect
+	 (S (NP-SBJ (NP Conner 's)
+		    earnings)
+            (VP to
+                (VP reach
+                    (NP (NP (QP roughly $ 40 million) *U*)
+                        , or
+                        (NP (NP (QP $ 1
+				    to
+				    $ 1.05 ) *U*)
+			    (NP-ADV a share))
+                        ,)
+                    (PP on
+                        (NP (NP sales)
+                            (PP of
+                                (NP (QP $ 650 million) *U*))))
+		    ,
+		    (PP-TMP for
+			    (NP (NP 1989)
+				,
+				(NP (NP (NP the company 's)
+					third full year)
+				    (PP-LOC in
+					    (NP business)))))))))
+     .))
+( (S (NP-SBJ That)
+     (VP 's
+         (NP-PRD (NP a faster growth rate)
+                 (SBAR than
+		       (S (NP-SBJ *)
+			  (VP reported
+			      (PP by
+				  (NP-LGS (NP Compaq)
+					  ,
+					  (SBAR (WHNP-1 which)
+						(S (NP-SBJ *T*-1)
+						   (VP did n't
+						       (VP post
+							   (NP similar results)
+							   (PP-TMP until
+								   (NP (NP its fourth year)
+								       ,
+								       (PP-TMP in
+									       (NP 1986)))))))))))))))
+     .))
+( (S But
+     (NP-SBJ Compaq)
+     (VP had
+         (VP achieved
+             (NP (NP that level)
+                 (PP of
+                     (NP sales)))
+             (ADVP (ADVP faster)
+                   (PP than
+                       (NP any previous manufacturing start-up)))))
+     .))
+( (S (NP-SBJ-1 (NP Conner 's)
+               performance)
+     (VP is
+         (ADVP-MNR closely)
+	 (VP tied
+             (NP *-1)
+             (PP-CLR to
+		     (NP (NP the burgeoning demand)
+			 (PP for
+			     (NP (NP battery-operated computers)
+				 ,
+				 (NP (NP the computer industry 's)
+				     fastest-growing segment)))))))
+     .))
+( (S (PP-TMP Since
+	     (NP its inception))
+     ,
+     (NP-SBJ-3 Conner)
+     (VP has
+         (VP both
+             (VP benefited
+                 (PP-CLR from
+			 (NP *RNR*-1)))
+             and
+             (VP helped
+                 (S (NP-SBJ *-3)
+		    (VP make
+			(S (ADJP-PRD possible)
+			   (NP-SBJ *RNR*-1)))))
+             (NP-1 (NP the rapid spread)
+                   (PP of
+                       (NP portable computers)))
+	     (PP-MNR by
+		     (S-NOM (NP-SBJ *-3)
+			    (VP selling
+				(NP (NP storage devices)
+				    (SBAR (WHNP-2 that)
+					  (S (NP-SBJ *T*-2)
+					     (VP consume
+						 (NP (NP (QP five to 10 times)
+							 less electricity)
+						     (PP than
+							 (NP (NP drives)
+							     (VP used
+								 (NP *)
+								 (PP-LOC in
+									 (NP desktop machines)))))))))))))))
+     .))
+( (S (NP-TMP Today)
+     ,
+     (NP-SBJ Conner)
+     (VP controls
+         (NP (NP an estimated 90 %)
+	     (PP of
+		 (NP (NP the hard-disk drive market)
+		     (PP for
+			 (NP laptop computers))))))
+     .))
+( (S (NP-SBJ The company)
+     (VP supplies
+         (NP drives)
+         (PP-DTV (PP to
+		     (NP (NP (NP Compaq)
+			     and
+			     (NP Zenith Data Systems))
+			 ,
+			 (NP (NP the top two U.S. manufacturers)
+			     (PP of
+				 (NP laptops)))))
+		 , and
+		 (PP to
+		     (NP (NP (NP Toshiba Corp.)
+			     ,
+			     (NP NEC Corp.)
+			     and
+			     (NP Sharp Corp.))
+			 ,
+			 (NP the leading Japanese laptop makers)))))
+     .))
+( (SINV ``
+	(S-TPC-1 (S (NP-SBJ They)
+		    (VP 've
+			(VP had
+			    (NP this field)
+			    (PP-CLR to
+				    (NP themselves))
+			    (PP-TMP for
+				    (NP over a year now)))))
+		 , and
+		 (S (NP-SBJ-2 they)
+		    (VP 've
+			(VP been
+			    (VP (ADVP greatly)
+				rewarded
+				(NP *-2))))))
+	,
+	''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP Bob Katsive)
+		,
+		(NP (NP an analyst)
+		    (PP-LOC at
+			    (NP (NP Disk/Trend Inc.)
+				,
+				(NP (NP a market researcher)
+				    (PP-LOC in
+					    (NP (NP Los Altos)
+						,
+						(NP Calif))))))))
+	.))
+( (S (PP-TMP In
+	     (NP the coming months))
+     ,
+     (ADVP however)
+     ,
+     (NP-SBJ-1 this)
+     (VP is
+         (ADJP-PRD likely
+                   (S (NP-SBJ *-1)
+                      (VP to
+                          (VP change)))))
+     .))
+( (S (NP-TMP Next month)
+     ,
+     (NP-SBJ-2 (NP Seagate Technology)
+	       ,
+	       (SBAR (WHNP-1 which)
+		     (S (NP-SBJ *T*-1)
+			(VP is
+			    (NP-PRD (NP the dominant supplier)
+				    (PP of
+					(NP (NP hard-disk drives)
+					    (PP for
+						(NP personal computers))))))))
+	       ,)
+     (VP plans
+         (S (NP-SBJ *-2)
+            (VP to
+                (VP introduce
+                    (NP (NP its first family)
+                        (PP of
+                            (NP (NP low-power drives)
+                                (PP for
+                                    (NP battery-operated computers)))))))))
+     .))
+( (S And
+     (NP-SBJ-1 the Japanese)
+     (VP are
+         (ADJP-PRD likely
+                   (S (NP-SBJ *-1)
+                      (VP to
+                          (VP keep
+                              (ADJP-PRD close
+                                        (PP on
+                                            (NP (NP Conner 's)
+                                                heels))))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ-2 They)
+		 (VP are
+		     (VP going
+			 (S (NP-SBJ *-2)
+			    (VP to
+				(VP catch
+				    (PRT up)))))))
+	, ''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP David Claridge)
+		,
+		(NP (NP an analyst)
+		    (PP with
+			(NP Hambrecht & Quist))))
+	.))
+( (S (S-TPC-1 (S (NP-SBJ Both
+			 Toshiba
+			 and
+			 NEC)
+		 (ADVP-TMP already)
+		 (VP produce
+		     (NP hard-disk drives)))
+	      , and
+	      (S (NP-SBJ Sony)
+		 (ADVP also)
+		 (VP is
+		     (VP studying
+			 (NP the field)))))
+     ,
+     (NP-SBJ Mr. Claridge)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S But
+     (NP-SBJ Conner)
+     (VP is n't
+	 (VP standing
+	     (ADVP still)))
+     .))
+( (S (NP-TMP Yesterday)
+     ,
+     (NP-SBJ the company)
+     (VP introduced
+         (NP (NP four products)
+             ,
+             (NP (SBAR-NOM (WHNP-3 (NP three)
+				   (PP of
+				       (WHNP which)))
+			   (S (NP-SBJ-1 *T*-3)
+			      (VP are
+				  (VP aimed
+				      (NP *-1)
+				      (PP-CLR at
+					      (NP (NP a hot new class)
+						  (PP of
+						      (NP computers))
+						  (VP called
+						      (S (NP-SBJ *)
+							 (NP-PRD notebooks))))))))))))
+     .))
+( (S (S (NP-SBJ (NP Each)
+                (PP of
+                    (NP the three drives)))
+        (VP uses
+            (NP (NP a mere 1.5 watts)
+                (PP of
+                    (NP power)))))
+     and
+     (S (NP-SBJ one)
+        (VP weighs
+            (NP just 5.5 ounces)))
+     .))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ (NP Most)
+			 (PP of
+			     (NP our competitors)))
+		 (VP are
+		     (VP announcing
+			 (NP (NP products)
+			     (VP based
+				 (NP *)
+				 (PP-CLR on
+					 (NP our (PRN -LRB- older -RRB-) products)))))))
+	,
+	''
+	(VP said
+	    (SBAR 0
+		  (S *T*-2)))
+	(NP-SBJ (NP Finis Conner)
+		,
+		(NP (NP (NP chief executive officer)
+			and 
+			(NP founder))
+		    (PP of
+			(NP (NP the firm)
+			    (SBAR (WHNP-1 that)
+				  (S (NP-SBJ *T*-1)
+				     (VP bears
+					 (NP his name))))))))
+	.))
+( (S ``
+     (NP-SBJ-1 We)
+     (VP continue
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP develop
+                    (NP products)
+                    (ADVP (ADVP faster)
+                          (SBAR than
+				(S (NP-SBJ anyone else)
+				   (VP can
+				       (VP *?*)))))))))
+     . ''))
+( (S (S-TPC-1 (NP-SBJ These new products)
+	      (VP could
+		  (VP account
+		      (PP-CLR for
+			      (NP (NP (QP as much
+					  as
+					  35)
+				      %)
+				  (PP of
+				      (NP (NP (NP the company 's)
+					      business)
+					  (PP-TMP in
+						  (NP 1990)))))))))
+     ,
+     (NP-SBJ Mr. Conner)
+     (VP estimated
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ We)
+	      (VP 're not
+		  (ADJP-PRD afraid
+			    (PP of
+				(S-NOM (NP-SBJ-2 *)
+				       (VP obsoleting
+					   (NP (NP some)
+					       (PP of
+						   (NP our old stuff)))
+					   (S-PRP (NP-SBJ *-2)
+						  (VP to
+						      (VP stay
+							  (PP-LOC-PRD ahead 
+								      (PP of
+									  (NP the competition))))))))))))
+     ,
+     ''
+     (NP-SBJ he)
+     (VP said
+	 (S *T*-1))
+     .))
+( (S (NP-SBJ Conner)
+     (ADVP-TMP already)
+     (VP is
+         (VP shipping
+             (NP its new drives)))
+     .))
+( (S (NP-TMP Last week)
+     ,
+     (PP for
+         (NP instance))
+     ,
+     (NP-SBJ Compaq)
+     (VP introduced
+         (NP its first notebook computer)
+         (S (NP-SBJ *)
+	    (VP to
+		(VP rave
+		    (NP reviews)))))
+     .))
+( (S (NP-SBJ Conner)
+     (VP is
+         (VP supplying
+             (NP hard-disk drives)
+             (PP-CLR for
+		     (NP (NP the machine)
+			 ,
+			 (SBAR (WHNP-1 which)
+			       (S (NP-SBJ *T*-1)
+				  (VP (VP weighs
+					  (NP (QP only six) pounds))
+				      and
+				      (VP fits
+					  (PP-LOC-CLR in
+						      (NP a briefcase))))))))))
+     .))
+( (S (PP From
+         (NP its inception))
+     ,
+     (NP-SBJ-3 Conner)
+     (VP has
+         (VP targeted
+             (NP (NP the market)
+                 (PP for
+                     (NP battery-operated machines)))
+	     ,
+	     (S-ADV (NP-SBJ *-3)
+		    (VP building
+			(NP (NP hard-disk drives)
+			    (SBAR (WHNP-2 that)
+				  (S (NP-SBJ *T*-2)
+				     (VP (VP are
+					     (ADJP-PRD (ADJP smaller)
+						       (PP *RNR*-1)))
+					 and
+					 (VP use
+					     (NP (NP (ADJP far less)
+						     power)
+						 (PP *RNR*-1)))
+					 (PP-1 than
+					       (NP (NP those)
+						   (VP offered
+						       (PP by
+							   (NP-LGS (NP competitors)
+								   (PP such
+								       as
+								       (NP Seagate)))))))))))))))
+     .))
+( (S (NP-SBJ (NP The availability)
+             (PP of
+                 (NP these drives)))
+     ,
+     (PP in
+         (NP turn))
+     ,
+     (VP boosted
+         (NP (NP demand)
+             (PP for
+                 (NP (NP laptop computers)
+                     ,
+                     (SBAR (WHNP-1 whose usefulness)
+                           (S (NP-SBJ *T*-1)
+                              (VP had
+                                  (VP been
+                                      (ADJP-PRD limited)
+				      (PP-PRP because of
+					      (NP (NP lack)
+						  (PP of
+						      (NP storage))))))))))))
+     .))
+( (S (NP-SBJ Conner)
+     (ADVP also)
+     (VP (VP makes
+             (NP hard-disk drives)
+	     (PP for
+		 (NP desktop computers)))
+         and
+         (VP is
+             (NP-PRD (NP a major supplier)
+                     (PP to
+                         (NP (NP Compaq)
+                             ,
+                             (SBAR (WHNP-1 which)
+                                   (S (PP-TMP as
+					      (PP of
+						  (NP July)))
+                                      (NP-SBJ *T*-1)
+                                      (VP owned
+                                          (NP (NP 40 %)
+                                              (PP of
+                                                  (NP (NP Conner 's)
+                                                      stock)))))))))))
+     .))
+( (S (NP-SBJ (NP Sales)
+             (PP to
+                 (NP Compaq)))
+     (VP represented
+         (NP (NP 26 %)
+	     (PP of
+		 (NP (NP Conner 's)
+		     business))
+	     (PP-TMP in
+		     (NP its third quarter))
+             ,
+             (VP compared
+                 (NP *)
+                 (PP-CLR with
+			 (NP 42 %)
+			 (PP-TMP in
+				 (NP the year-ago period))))))
+     .))

@@ -1,0 +1,1030 @@
+
+
+( (S (S-ADV (NP-SBJ *-1)
+	    (VP Sitting
+		(PP-LOC-CLR at
+			    (NP (NP the bar)
+				(PP of
+				    (NP the Four Seasons restaurant))))))
+     ,
+     (NP-SBJ-1 architect
+	       William McDonough)
+     (VP seems
+	 (ADJP-PRD oblivious
+		   (PP to
+		       (NP (NP the glamorous clientele)
+			   and
+			   (NP the elegant setting)))))
+     .))
+( (S (NP-SBJ He)
+     (VP is
+         (VP ogling
+             (NP (NP the curtains)
+                 (VP rippling
+                     (PP-LOC above
+			     (NP the ventilation ducts))))))
+     .))
+( (S ``
+     (S-TPC-2 (NP-SBJ *)
+	      (VP Look
+		  (SBAR (WHNP-1 (WHADJP how much) air)
+			(S (NP-SBJ *T*-1)
+			   (VP is
+			       (VP moving
+				   (ADVP-CLR around)))))))
+     ! ''
+     (NP-SBJ he)
+     (VP says
+	 (S *T*-2))
+     .))
+( (S ``
+     (NP-SBJ The ventilation)
+     (ADVP-LOC here)
+     (VP is
+         (ADJP-PRD great))
+     ! ''))
+( (S (NP-SBJ You)
+     (VP may
+         (VP be
+             (VP hearing
+                 (NP more)
+                 (PP-CLR about
+			 (NP (NP the 38-year-old Mr. McDonough)
+			     and
+			     (NP (NP his preoccupation)
+				 (PP with
+				     (NP clean air))))))))
+     .))
+( (S (PP-TMP After
+	     (NP (NP years)
+		 (PP of
+		     (NP relative obscurity))))
+     ,
+     (NP-SBJ-1 he)
+     (VP is
+         (VP starting
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP attract
+                        (NP (NP notice)
+                            (PP for
+                                (NP (NP (NP the ecological
+					    (NX *RNR*-2))
+					(CONJP as well as)
+					(NP the aesthetic
+					    (NX *RNR*-2))
+					(NX-2 quality))
+				    (PP of
+					(NP his architecture))))))))))
+     .))
+( (S (NP-SBJ Mr. McDonough)
+     (VP believes
+         (SBAR that
+               (S (NP-SBJ (NP the well-being)
+                          (PP of
+                              (NP the planet)))
+                  (VP depends
+                      (PP-CLR on
+			      (NP (NP such stratagems)
+				  (PP as
+				      (S-NOM (NP-SBJ *)
+					     (VP (VP opening
+						     (NP windows)
+						     (S-PRP (NP-SBJ *)
+							    (VP to
+								(VP cut
+								    (NP indoor air pollution)))))
+						 ,
+						 (VP tacking
+						     (ADVP down)
+						     (NP carpets)
+						     (PP instead of
+							 (S-NOM (NP-SBJ *)
+								(VP using
+								    (NP toxic glues)))))
+						 ,
+						 and
+						 (VP avoiding
+						     (NP (NP mahogany)
+							 ,
+							 (SBAR (WHNP-1 which)
+							       (S (NP-SBJ *T*-1)
+								  (VP comes
+								      (PP-CLR from
+									      (NP endangered rain forests))))))))))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP has
+         (VP put
+             (NP (NP some)
+                 (PP of
+                     (NP his aesthetic ideas)))
+             (PP-PUT into
+		     (NP practice))
+             (PP with
+                 (NP (NP (NP (NP his design)
+                             (PP of
+                                 (NP the four-star Quilted Giraffe restaurant)))
+                         (PRN --
+			      (S ``
+				 (ADJP-TPC-1 architecturally impeccable)
+				 ,
+				 ''
+				 (NP-SBJ Progressive Architecture magazine)
+				 (VP called
+				     (S (NP-SBJ it)
+					(ADJP-PRD *T*-1))))
+			      --))
+                     and
+                     (NP (NP his remodeling)
+                         (PP of
+                             (NP (NP Paul Stuart)
+                                 ,
+                                 (NP the Madison Avenue clothing store))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP has
+         (VP designed
+             (NP (NP furniture and homes)
+                 (CONJP as well as)
+		 (NP commercial and office space))))
+     .))
+( (S (NP-SBJ He)
+     (VP is
+         (ADVP-TMP now)
+         (VP designing
+             (NP (NP a Broadway stage set)
+                 (PP for
+                     (NP (NP a show)
+                         (PP by
+                             (NP the band
+                                 Kid Creole and the Coconuts)))))))
+     .))
+( (S (SBAR-NOM-SBJ (WHNP-1 What)
+		   (S (NP-SBJ *T*-1)
+		      (VP (ADVP really)
+			  stirs
+			  (NP his muse))))
+     ,
+     (ADVP though)
+     ,
+     (VP is
+         (NP-PRD aerobic architecture))
+     .))
+( (S (ADVP-TMP Now)
+     (NP-SBJ the question)
+     (VP is :
+         (SQ-PRD Is
+                 (NP-SBJ Poland)
+                 (ADJP-PRD ready
+			   (PP for
+			       (NP it)))))
+     ?))
+( (S (NP-SBJ Mr. McDonough)
+     (VP is
+         (VP about
+	     (S (NP-SBJ *)
+		(VP to
+		    (VP tackle
+			(NP (NP his biggest clean-air challenge yet)
+			    ,
+			    (NP (NP (NP the proposed
+					Warsaw Trade Center)
+				    (PP-LOC in
+					    (NP Poland)))
+				,
+				(NP (NP the first such center)
+				    (PP-LOC in
+					    (NP Eastern Europe))))))))))
+     .))
+( (S (NP-SBJ The project)
+     (VP has
+         (ADVP-TMP already)
+         (VP acquired
+             (NP a certain New York cachet)))
+     .))
+( (S (NP-SBJ-1 Bloomingdale 's)
+     (VP plans
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP sell
+                    (NP (NP a foot-tall chocolate model)
+                        (PP of
+                            (NP the center)))
+		    (PP-TMP during
+			    (NP the holidays))))))
+     .))
+( (S (NP-SBJ (NP Some)
+             (PP of
+                 (NP the sales proceeds)))
+     (VP will
+         (VP go
+             (PP-CLR to
+		     (NP (NP the Design Industries Foundation)
+			 (PP for
+			     (NP AIDS))))))
+     .))
+( (S (NP-SBJ-1 (NP A cake)
+               (VP topped
+                   (NP *)
+                   (PP-CLR with
+			   (NP (NP a replica)
+			       (PP of
+				   (NP the center))))))
+     (VP will
+	 (VP be
+	     (VP auctioned
+		 (NP *-1)
+		 (PP-LOC at
+			 (NP (NP an AIDS benefit)
+			     (PP-LOC at
+				     (NP (NP Sotheby 's)))))
+		 (PP-TMP in
+			 (NP December)))))
+     .))
+( (S (SBAR-ADV If
+	       (S (NP-SBJ-2 (NP Mr. McDonough 's)
+			    plans)
+		  (VP get
+		      (VP executed
+			  (NP *-2)))))
+     , 
+     (NP-SBJ-1 (NP as much)
+               (PP of
+                   (NP the Polish center))
+               (PP as
+                   (ADJP possible)))
+     (VP will
+	 (VP be
+	     (VP made
+		 (NP *-1)
+		 (PP-CLR from
+			 (NP (NP aluminum , steel and glass)
+			     (VP recycled
+				 (NP *)
+				 (PP-CLR from
+					 (NP (NP Warsaw 's)
+					     abundant rubble))))))))
+     .))
+( (S (NP-SBJ A 20-story mesh spire)
+     (VP will
+         (VP stand
+             (PP-LOC-CLR atop
+			 (NP (NP 50 stories)
+			     (PP of
+				 (NP commercial space))))))
+     .))
+( (S (NP-SBJ Solar-powered batteries)
+     (VP will
+         (VP make
+             (S (NP-SBJ the spire)
+		(ADJP-PRD glow))))
+     .))
+( (S (NP-SBJ The windows)
+     (VP will
+         (VP open))
+     .))
+( (S (S (NP-SBJ The carpets)
+        (VP wo n't
+	    (VP be
+		(VP glued
+		    (PRT down)))))
+     , and
+     (S (NP-SBJ-1 walls)
+        (VP will
+	    (VP be
+		(VP coated
+		    (NP *-1)
+		    (PP-CLR with
+			    (NP nontoxic finishes))))))
+     .))
+( (S (PP To
+         (NP (NP the extent)
+             (SBAR (WHADVP-1 that)
+                   (S (NP-SBJ the (ADJP (QP $ 150 million) *U*) budget)
+                      (VP will
+                          (VP allow
+                              (NP it)
+			      (ADVP-EXT *T*-1)))))))
+     ,
+     (NP-SBJ-2 Mr. McDonough)
+     (VP will
+         (VP rely
+             (PP-CLR on
+		     (NP (NP solid wood)
+			 ,
+			 (PP rather
+			     than
+			     (NP plywood or particle board))
+			 ,))
+             (S-PRP (NP-SBJ *-2)
+		    (VP to
+			(VP limit
+			    (NP (NP the emission)
+				(PP of
+				    (NP formaldehyde))))))))
+     .))
+( (S (SBAR-ADV If
+	       (S (NP-SBJ Mr. McDonough)
+		  (VP has
+		      (NP his way))))
+     ,
+     (NP-SBJ the Poles)
+     (VP will
+         (VP compensate
+             (PP-CLR for
+		     (NP (NP (NP the trade center 's)
+			     emissions)
+			 (PP of
+			     (NP (NP carbon dioxide)
+				 ,
+				 (NP (NP a prime suspect)
+				     (PP-LOC in
+					     (NP (NP the global atmospheric warming)
+						 (SBAR (WHNP-1 0)
+						       (S (NP-SBJ many scientists)
+							  (VP fear
+							      (NP *T*-1)))))))))))))
+     .))
+( (S (NP-SBJ The Poles)
+     (VP would
+         (VP plant
+             (NP a 10-square-mile forest)
+             (ADVP-LOC somewhere
+		       (PP in
+			   (NP the country)))
+             (PP at
+                 (NP (NP a cost)
+                     (PP of
+                         (NP $ 150,000 *U*))))
+	     ,
+	     (PP with
+		 (S-NOM (NP-SBJ (NP the center 's)
+				developer)
+			(VP footing
+			    (NP the bill))))))
+     .))
+( (S (NP-SBJ The news)
+     (VP has n't
+         (ADVP exactly)
+         (VP moved
+	     (S (NP-SBJ (NP others)
+			(PP in
+			    (NP (NP Mr. McDonough 's)
+				profession)))
+                (VP to
+                    (VP become
+                        (NP-PRD architectural Johnny Appleseeds))))))
+     .))
+( (S-3 (S (NP-SBJ-2 All architects)
+	  (VP want
+	      (S (NP-SBJ *-2)
+		 (VP to
+		     (VP be
+			 (ADJP-PRD aware
+				   (PP of
+				       (NP (NP the ecological consequences)
+					   (PP of
+					       (NP their work))))))))))
+       (PRN ,
+	    (SINV (VP says
+		      (SBAR 0
+			    (S *T*-3)))
+		  (NP-SBJ (NP John Burgee)
+			  ,
+			  (SBAR (WHNP-1 whose
+					New York firm)
+				(S (NP-SBJ *T*-1)
+				   (VP is
+				       (VP designing
+					   (NP (NP the redevelopment)
+					       (PP of
+						   (NP Times Square)))))))))
+	    ,)
+       ``
+       (S but
+	  (NP-SBJ we)
+	  (VP ca n't
+	      (NP-ADV all)
+	      (VP carry
+		  (NP it)
+		  (PP-CLR to
+			  (NP that extreme)))))
+       . ''))
+( (S (NP-SBJ (NP Karen Nichols)
+             ,
+             (NP (NP senior associate)
+                 (PP-LOC at
+			 (NP (NP (NP Michael Graves 's)
+				 architecture firm)
+			     (PP-LOC in
+				     (NP (NP Princeton)
+					 ,
+					 (NP N.J.)
+					 ,))))))
+     (VP says :
+	 ``
+	 (S (NP-SBJ We)
+            (VP 're
+                (ADVP really)
+                (PP-PRD at
+                        (NP (NP the mercy)
+                            (PP of
+				(SBAR (WHNP-1 what)
+				      (S (NP-SBJ the construction industry)
+					 (VP can and
+					     will
+					     (VP do
+						 (NP *T*-1)
+						 (ADVP-MNR readily)))))))))))
+     . ''))
+( (S (NP-SBJ Mr. McDonough)
+     (VP responds 
+	 :
+	 ``
+	 (S (NP-SBJ I)
+            (VP 'm
+                (VP asking
+                    (NP-1 people)
+                    (S (NP-SBJ *-1)
+                       (VP to
+                           (VP broaden
+                               (NP their agendas))))))))
+     . ''))
+( (S (NP-SBJ-3 (NP (NP The son)
+		   (PP of
+		       (NP (NP (NP a Seagram 's)
+			       executive)
+			   (SBAR (WHNP-2 who)
+				 (S (NP-SBJ-1 *T*-2)
+				    (VP was
+					(VP stationed
+					    (NP *-1)
+					    (PP-LOC-CLR in
+							(NP (NP many countries)
+							    (PP-LOC around
+								    (NP the world)))))))))))
+	       ,
+	       (NP Mr. McDonough))
+     (VP (VP was
+	     (VP born
+		 (PP-LOC in
+			 (NP Tokyo))))
+	 and
+	 (VP attended
+	     (NP (NP 19 schools)
+		 (PP-LOC in
+			 (NP (NP places)
+			     (VP ranging
+				 (PP-CLR (PP from
+					     (NP Hong Kong))
+					 (PP to
+					     (NP (NP Shaker Heights)
+						 ,
+						 (NP Ohio))))))))
+	     ,
+	     (PP-TMP before
+		     (S-NOM (NP-SBJ *-3)
+			    (VP entering
+				(NP Dartmouth College))))))
+     .))
+( (S (NP-SBJ He)
+     (VP earned
+         (NP (NP (NP a master 's)
+		 degree)
+	     (PP in
+		 (NP architecture)))
+         (PP from
+             (NP Yale)))
+     .))
+( (S (NP-SBJ (NP His interest)
+             (PP in
+                 (NP the natural environment)))
+     (VP dates
+         (PP-TMP-CLR from
+		     (NP his youth)))
+     .))
+( (S (NP-SBJ-1 (NP He)
+	       and
+	       (NP his father))
+     (ADVP-TMP still)
+     (VP spend
+         (NP-CLR time)
+         (NP-TMP each summer)
+         (S-CLR (NP-SBJ *-1)
+		(VP fly-fishing
+		    (PP-CLR for
+			    (NP salmon))
+		    (PP-LOC in
+			    (NP Iceland)))))
+     .))
+( (S-1 (S-NOM-SBJ (NP-SBJ *)
+		  (VP Living
+		      (PP-LOC-CLR in
+				  (NP Hong Kong))))
+       (PRN ,
+	    (S (NP-SBJ he)
+	       (VP says
+		   (SBAR 0
+			 (S *T*-1))))
+	    ,)
+       (VP made
+	   (S (NP-SBJ him)
+	      (ADJP-PRD sensitive
+			(PP to
+			    (NP (NP the limits)
+				(PP on
+				    (NP food , power and water supplies)))))))
+       .))
+( (S (PP-LOC At
+	     (NP (NP his first school)
+		 (PP-LOC in
+			 (NP the U.S.))))
+     (NP-SBJ-1 he)
+     (VP was
+         (VP thought
+             (S (NP-SBJ *-1)
+		(ADJP-PRD a little strange))
+	     (PP-PRP for
+		     (S-NOM (NP-SBJ *-1)
+			    (VP (VP shutting
+				    (PRT off)
+				    (NP open water taps))
+				and
+				(VP admonishing
+				    (S (NP-SBJ his schoolmates)
+				       (VP to
+					   (VP take
+					       (NP only brief showers))))))))))
+     .))
+( (S (NP-SBJ (NP He)
+             and
+             (NP a Dartmouth roommate))
+     (VP established
+         (NP (NP a company)
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ *T*-1)
+                      (VP restored
+                          (NP (NP three hydroelectric power plants)
+                              (PP in
+                                  (NP Vermont))))))))
+     .))
+( (S (PP-LOC At
+	     (NP Yale))
+     ,
+     (NP-SBJ he)
+     (VP designed
+         (NP (NP one)
+             (PP of
+                 (NP (NP the first solarheated houses)
+                     (SBAR (WHNP-2 0)
+			   (S (NP-SBJ-1 *T*-2)
+			      (VP to
+				  (VP be
+				      (VP built
+					  (NP *-1)
+					  (PP-LOC in
+						  (NP Ireland)))))))))))
+     .))
+( (S (NP-SBJ (NP (NP Mr. McDonough 's)
+                 first professional project)
+             (SBAR (WHNP-1 0)
+		   (S (ADVP fully)
+		      (NP-SBJ *T*-1)
+		      (VP to
+			  (VP reflect
+			      (NP his environmental ardor))))))
+     (VP was
+         (NP-PRD (NP his 1986 design)
+                 (PP for
+                     (NP (NP the headquarters)
+                         (PP of
+                             (NP (NP the Environmental Defense Fund)
+                                 (PP-LOC in
+					 (NP New York))))))))
+     .))
+( (S (NP-SBJ The offices)
+     (VP took
+         (NP (NP 10,000 square feet)
+             (PP of
+                 (NP (NP a building)
+                     (PP with
+                         (NP (NP 14-foot ceilings)
+                             and
+                             (NP big , operable windows)))))))
+     .))
+( (S (PP-TMP Since
+	     (NP the 1970s energy crisis))
+     ,
+     (NP-SBJ some efforts
+             (S (NP-SBJ-1 *)
+                (VP to
+                    (VP conserve
+                        (NP energy)
+                        (PP-MNR by
+				(S-NOM (NP-SBJ *-1)
+				       (VP sealing
+					   (NP buildings))))))))
+     (VP have
+         (VP had
+             (NP (NP an unintended side effect)
+                 :
+                 (NP high indoor pollution))))
+     .))
+( (S (S-PRP (NP-SBJ To)
+	    (VP reduce
+		(NP it)
+		(PP-LOC at
+			(NP (NP the fund 's)
+			    building))))
+     ,
+     (NP-SBJ workers)
+     (VP rubbed
+	 (NP (NP beeswax)
+	     (CONJP instead of)
+	     (NP polyurethane))
+	 (PP-LOC on
+		 (NP (NP the floors)
+		     (PP-LOC in
+			     (NP (NP the executive director 's)
+				 office)))))
+     .))
+( (S (S (NP-SBJ (NP Jute)
+                ,
+                (CONJP rather than)
+		(NP a synthetic material)
+                ,)
+        (VP lies
+            (PP-LOC under
+		    (NP the tacked-down carpets))))
+     , and
+     (S (NP-SBJ the desks)
+        (VP are
+            (PP-PRD of
+                    (NP (NP wood and granite)
+                        (CONJP instead of)
+			(NP plastic)))))
+     .))
+( (S (NP-SBJ The budget)
+     (VP was
+         (NP-PRD (QP only $ 400,000) *U*))
+     .))
+( (S ``
+     (NP-TPC-1 (NP Athens)
+	       (PP with
+		   (NP Spartan means)))
+     ,
+     ''
+     (NP-SBJ Mr. McDonough)
+     (VP says
+	 (NP *T*-1))
+     .))
+( (S (NP-SBJ (NP The fund 's)
+             lawyers)
+     (VP work
+         (PP-LOC in
+		 (NP (NP an Athenian grove)
+		     (PP of
+			 (NP potted trees)))))
+     .))
+( (S (NP-SBJ Economists and administrators)
+     (VP sit
+         (PP-LOC along
+		 (NP (NP a `` boulevard '')
+		     (PP with
+			 (NP street lamps and ficus trees)))))
+     .))
+( (S (PP-LOC In
+	     (NP offices))
+     ,
+     (NP-SBJ triphosphorous bulbs)
+     (VP simulate
+         (NP daylight))
+     .))
+( (S (NP-SBJ (NP Offices)
+             (PP with
+                 (NP outside windows)))
+     (VP have
+         (NP inside windows)
+	 ,
+	 (ADVP too)
+	 ,
+	 (S-PRP (NP-SBJ *)
+		(VP to
+		    (VP let 
+			(PRT in)
+			(NP more real daylight)))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ We)
+		 (VP proved
+		     (SBAR 0
+			   (S (NP-SBJ a healthy office)
+			      (VP does n't
+				  (VP cost
+				      (NP more)))))))
+	,
+	''
+	(VP says
+	    (S *T*-1))
+	(NP-SBJ (NP Frederic Krupp)
+		,
+		(NP (NP executive director)
+		    (PP of
+			(NP the fund))))
+	.))
+( (SINV (S-TPC-2 (NP-SBJ It)
+		 ``
+		 (VP (VP (ADVP really)
+			 looks
+			 (ADJP-PRD beautiful))
+		     and
+		     (VP is
+			 (ADJP-PRD very light)))
+		 , '')
+	(VP says
+	    (S *T*-2))
+	(NP-SBJ (NP Ann Hornaday)
+		,
+		(NP (NP a free-lance writer)
+		    (SBAR (WHNP-1 who)
+			  (S (NP-SBJ *T*-1)
+			     (VP has
+				 (VP visited
+				     (NP the office)
+				     (PP-PRP for
+					     (NP lunch meetings))))))))
+	.))
+( (S But
+     ,
+     (NP-SBJ she)
+     (VP says
+	 ,
+	 ``
+	 (S (NP-SBJ I)
+	    (VP guess
+		(SBAR 0
+		      (S (NP-SBJ I)
+			 (VP did n't
+			     (ADVP really)
+			     (VP notice
+				 (NP the trees))))))))
+     .))
+( (S (ADVP Maybe)
+     (NP-SBJ-1 they)
+     (VP were
+         (VP hidden
+             (NP *-1)
+             (PP by
+                 (NP-LGS all
+			 the people))))
+     . ''))
+( (S (NP-SBJ Neither
+             (NP the Quilted Giraffe)
+             nor
+             (NP the Paul Stuart renovation))
+     (VP reflects
+         (NP (NP much)
+             (PP of
+                 (NP (NP Mr. McDonough 's)
+                     environmental concern))))
+     .))
+( (S (NP-SBJ-1 The restaurant)
+     (VP was
+         (VP conceived
+             (NP *-1)
+             (PP-CLR as
+		     (NP a sparkling , crystalline `` geode))))
+     . ''))
+( (S (NP-SBJ It)
+     (VP makes
+         (NP (NP extensive use)
+             (PP of
+                 (NP (NP stainless steel , silver and aluminum)
+                     (SBAR (WHNP-1 that)
+                           (S (NP-SBJ *T*-1)
+                              (VP sets
+                                  (PRT off)
+                                  (NP (NP black granite table tops)
+                                      and
+                                      (NP (NP a gray terrazzo)
+                                          (PP with
+                                              (NP zinc-strip floors)))))))))))
+     .))
+( (S (S-PRP (NP-SBJ *-1)
+	    (VP To
+		(VP (ADVP more
+			  than)
+		    replace
+		    (NP (NP (NP the wood)
+			    (PP from
+				(NP two English oaks)))
+			(VP used
+			    (NP *)
+			    (PP-CLR for
+				    (NP (NP paneling)
+					(PP-LOC at
+						(NP Paul Stuart)))))))))
+     ,
+     (ADVP however)
+     ,
+     (NP-SBJ-1 (NP Mr. McDonough)
+	       and
+	       (NP friends))
+     (VP planted
+	 (NP 1,000 acorns)
+	 (PP-LOC around
+		 (NP the country)))
+     .))
+( (S (NP-SBJ The ambitious Warsaw project)
+     (ADVP-TMP still)
+     (VP awaits
+         (NP (NP approval)
+             (PP by
+                 (NP city officials))))
+     .))
+( (S (NP-SBJ Its developer)
+     (VP is
+         (NP-PRD (NP a Polish American)
+                 ,
+                 (NP Sasha Muniak)))
+     .))
+( (S (NP-SBJ He)
+     (VP (VP had
+	     (VP worked
+		 (PP with
+		     (NP Mr. McDonough))
+		 (PP-LOC on
+			 (NP an earlier project))))
+	 and
+	 (VP recruited
+	     (NP him)
+	     (PP as
+		 (NP (NP architect)
+		     (PP for
+			 (NP the trade center))))))
+     .))
+( (S (NP-SBJ The center)
+     (VP will
+         (VP provide
+             (NP (NP space)
+                 (PP for
+                     (NP (NP (NP computer hardware) 
+			     and 
+			     (NP facsimile and other telecommunications equipment))
+			 ,
+                         (ADJP not readily accessible
+                               (PP-LOC in
+				       (NP Poland))
+                               (ADVP-TMP now))
+                         ,))
+		 (PP for
+		     (NP (NP a growing number)
+			 (PP of
+			     (NP (NP Westerners)
+				 (VP doing
+				     (NP business)
+				     (PP-LOC in
+					     (NP Eastern Europe))))))))))
+     .))
+( (S (NP-SBJ Mr. McDonough)
+     (VP thinks
+         (PP-CLR of
+		 (NP the center))
+         (PP-CLR as
+		 (NP (NP (NP the `` Eiffel Tower)
+			 (PP of
+			     (NP Warsaw))
+			 '')
+		     and
+		     (NP (NP `` a symbol)
+			 (PP of
+			     (NP (NP the resurgence)
+				 (PP of
+				     (NP Poland))))))))
+     . ''))
+( (S (SBAR-ADV If
+	       (S (NP-SBJ any nation)
+		  (VP can
+		      (VP use
+			  (NP (ADJP environmentally benign) architecture)))))
+     ,
+     (NP-SBJ it)
+     (VP is
+         (NP-PRD Poland))
+     .))
+( (S (NP-SBJ (NP Jessica Mathews)
+             ,
+             (NP (NP vice president)
+                 (PP of
+                     (NP (NP World Resources Institute)
+                         (PP-LOC in
+				 (NP (NP Washington)
+				     ,
+				     (NP D.C.)
+				     ,))))))
+     (VP says
+         (SBAR that
+               (S (NP-SBJ-1 (NP perhaps a quarter)
+                            (PP of
+                                (NP (NP Poland 's)
+                                    soil)))
+                  (VP is
+                      (VP (ADVP too)
+                          contaminated
+                          (NP *-1)
+                          (PP for
+                              (NP safe farming))
+			  (PP-PRP because of
+				  (NP air pollution)))))))
+     .))
+( (S (NP-SBJ The pollution)
+     (VP is
+         (ADVP also)
+         (VP (VP killing
+                 (NP forests))
+             and
+             (VP destroying
+                 (NP (NP buildings)
+                     (SBAR (WHNP-1 that)
+                           (S (NP-SBJ *T*-1)
+                              (VP date
+                                  (ADVP-TMP-CLR back)
+                                  (PP-TMP-CLR to
+					      (NP the Middle Ages)))))))))
+     .))
+( (S (NP-SBJ (NP The future)
+             (PP of
+                 (NP the forest)))
+     (VP remains
+         (ADJP-PRD uncertain))
+     .))
+( (S (S (NP-SBJ-2 (NP (NP Mr. Muniak 's)
+		      company)
+		  ,
+		  (NP Balag Ltd.)
+		  ,)
+        (VP has
+            (VP agreed
+                (S (NP-SBJ *-2)
+                   (VP to
+                       (VP set
+                           (ADVP-CLR aside)
+                           (NP (NP the money)
+                               (SBAR (WHADVP-3 0)
+				     (S (NP-SBJ *) 
+					(VP to
+					    (VP plant and maintain
+						(NP it)
+						(ADVP *T*-3))))))))))))
+     , but
+     (S (NP-SBJ discussions)
+        (VP are
+            (ADVP-TMP still)
+            (VP going
+                (ADVP-CLR on)
+		(PP-CLR over
+			(SBAR-NOM (SBAR-LOC (WHADVP-4 where)
+					    (S (NP-SBJ *)
+					       (VP to
+						   (VP place
+						       (NP it)
+						       (ADVP-LOC *T*-4)))))
+				  and
+				  (SBAR-MNR (WHADVP-5 how)
+					    (S (NP-SBJ *)
+					       (VP to
+						   (VP ensure
+						       (SBAR that
+							     (S (NP-SBJ-1 it)
+								(VP will
+								    (VP be
+									(VP maintained
+									    (NP *-1)
+									    (ADVP *T*-5)))))))))))))))
+     .))
+( (S (PP After
+         (NP all))
+     ,
+     (NP-SBJ Mr. Muniak)
+     (VP says
+	 ,
+	 ``
+	 (SBAR 0
+	       (S (PP-LOC in
+			  (NP Poland))
+		  (NP-SBJ there)
+		  (VP are n't
+		      (NP-PRD (NP too many people)
+			      (ADJP worried
+				    (PP about
+					(NP the environment))))))))
+     .))
+( (S (NP-SBJ They)
+     (VP 're
+         (ADJP-PRD more worried
+                   (PP about
+                       (NP (NP bread)
+                           (PP-LOC on
+				   (NP the table))))))
+     .))

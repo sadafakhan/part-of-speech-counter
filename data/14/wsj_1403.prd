@@ -1,0 +1,72 @@
+
+
+( (S (S-TPC-1 (NP-SBJ Japan)
+	      (VP had
+		  (NP (NP an unadjusted trade surplus)
+		      (PP of
+			  (NP (QP $ 1.82 billion) *U*)))
+		  (PP-TMP for
+			  (NP (NP the first 10 days)
+			      (PP of
+				  (NP October))))
+		  ,
+		  (ADVP down
+			(PP from
+			    (NP (QP $ 3.16 billion) *U*)
+			    (ADVP-TMP (NP a year)
+				      earlier)))))
+     ,
+     (NP-SBJ the Finance Ministry)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ The latest drop)
+     (VP shows
+         (SBAR 0
+               (S (NP-SBJ (NP the narrowing)
+			  (PP-LOC in
+				  (NP (NP the nation 's)
+				      trade gap))
+                          (VP reflected
+                              (NP *)
+                              (PP-LOC in
+				      (NP successive full monthly reports))))
+                  (VP is
+                      (VP continuing)))))
+     .))
+( (S (NP-SBJ The report)
+     (VP follows
+         (NP (NP five-consecutive declines)
+             (PP in
+                 (NP full monthly figures))))
+     .))
+( (S (NP-SBJ Imports)
+     (VP (VP rose
+	     (ADVP sharply)
+	     (PP-TMP in
+		     (NP the period))
+	     ,
+	     (PP-DIR to
+		     (NP (QP $ 5.19 billion) *U*))
+	     (PP-DIR from
+		     (NP (QP $ 4.04 billion) *U*)
+		     (ADVP-TMP (NP a year)
+			       earlier)))
+	 ,
+	 (NP (NP a change) 
+	     (PP of
+		 (NP 28 %))))
+     .))
+( (S (NP-SBJ (NP Exports)
+             (PP-TMP during
+		     (NP the period)))
+     (VP were
+         (NP-PRD (NP (QP $ 7.01 billion) *U*)
+                 ,
+                 (PP (NP 2.6 %)
+		     below
+		     (NP (NP (QP $ 7.20 billion) *U*)
+			 (ADVP-TMP (NP a year)
+				   ago)))))
+     .))

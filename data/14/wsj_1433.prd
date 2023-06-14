@@ -1,0 +1,65 @@
+
+
+( (S (NP-SBJ Falcon Cable Systems Co.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP proposed
+                      (NP (NP an amendment)
+                          (SBAR (WHNP-1 that)
+                                (S (NP-SBJ *T*-1)
+                                   (VP would
+                                       (VP allow
+                                           (S (NP-SBJ it)
+                                              (VP to
+                                                  (VP increase
+                                                      (NP its debt cap)
+                                                      (PP-DIR to
+							      (NP (NP 65 %)
+								  (PP of
+								      (NP (NP the company 's)
+									  fair market value))))
+						      (PP-DIR from
+							      (NP (NP the 40 %)
+								  (VP (ADVP-TMP currently)
+								      allowed)))))))))))))))
+     .))
+( (S (NP-SBJ (NP Falcon)
+             ,
+             (NP a limited partnership)
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (VP wanted
+                      (NP the increase)
+		      (UCP-PRP (SBAR in
+				     order
+				     (S (NP-SBJ *-1)
+					(VP to
+					    (VP continue
+						(NP its (ADJP $ 2.15-per-unit *U*) annual payment )))))
+			       , and
+			       (PP for
+				   (NP expansion and acquisitions)))))))
+     .))
+( (S (NP-SBJ (NP A spokesman)
+             (PP for
+                 (NP the company)))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 a meeting)
+                  (VP would
+		      (VP be
+			  (VP held
+			      (NP *-1)
+			      (SBAR-PRP for
+					(S (NP-SBJ shareholders)
+					   (VP to
+					       (VP vote
+						   (PP-CLR on
+							   (NP the amendment))
+						   (PP-TMP before
+							   (NP (NP year 's)
+							       end))))))))))))
+     .))

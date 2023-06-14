@@ -1,0 +1,1083 @@
+
+
+( (S (PP For
+         (NP bankers and regulators))
+     ,
+     (NP-SBJ Arizona)
+     (VP is
+         (VP looking
+             (PP-PRD more like
+		     (NP Texas))
+	     (NP-TMP every day)))
+     .))
+( (S (PP-TMP On
+	     (NP Friday))
+     ,
+     (NP-SBJ Los Angeles-based First Interstate Bancorp)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP expects
+                      (NP (NP a net loss)
+			  (PP of
+			      (NP (QP $ 16 million) *U*))
+			  (PP-TMP for
+				  (NP (NP the third quarter)
+				      (PP of
+					  (NP 1989)))))
+		      (PP-PRP because of
+			      (NP (NP hemorrhaging)
+				  (PP at
+				      (NP its
+					  (NAC First Interstate Bank
+					       (PP of
+						   (NP Arizona)))
+					  unit))))))))
+     .))
+( (S (NP-SBJ First Interstate)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP the unit)
+                          ,
+                          (VP bludgeoned
+                              (NP *)
+                              (PP by
+                                  (NP-LGS (NP Arizona 's)
+                                          worsening real-estate woes)))
+                          ,)
+                  (VP will
+                      (VP have
+                          (NP (NP a (ADJP (QP $ 174 million) *U*) loss)
+			      (PP-TMP for
+				      (NP the quarter))))))))
+     .))
+( (S (NP-SBJ First Interstate)
+     (VP took
+         (NP (NP a huge (ADJP (QP $ 350 million) *U*) provision)
+             (PP for
+                 (NP loan losses)))
+	 (PP-LOC at
+		 (NP the Arizona bank)))
+     .))
+( (S (NP-SBJ It)
+     (VP charged
+         (PRT off)
+         (NP (NP an estimated (QP $ 200 million) *U*)
+	     (PP of
+		 (NP Arizona loans)))
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP leaving
+		    (NP the unit)
+		    (PP-CLR with
+			    (NP (NP a reserve)
+				(PP for
+				    (NP (NP future losses)
+					(PP of
+					    (NP (NP (QP $ 255 million) *U*)
+						,
+						(NP (NP (QP about 61) %)
+						    (PP of
+							(NP (NP its (QP $ 416 million) *U*)
+							    (PP of
+								(NP (NP troubled loans)
+								    and
+								    (NP repossessed real estate)))))))))))))))
+     .))
+( (S (NP-SBJ First Interstate)
+     (VP made
+         (NP the move)
+	 (PP-LOC under
+		 (NP (NP pressure)
+		     (PP from
+			 (NP regulators)))))
+     .))
+( (S (NP-SBJ The action)
+     (VP (VP capped
+             (NP (NP a spurt)
+		 (PP of
+		     (NP grim Arizona banking news))
+		 (PP-TMP for
+			 (NP the third quarter))))
+         , and
+         (VP (ADVP-MNR emphatically)
+             signaled
+             (SBAR that
+                   (S (NP-SBJ Arizona)
+                      (VP is
+                          (VP challenging
+                              (NP (NP (NP Texas 's)
+				      long reign)
+				  (PP as
+				      (NP (NP banking 's)
+					  busiest graveyard)))))))))
+     .))
+( (S (NP-TMP Earlier last week)
+     ,
+     (NP-SBJ (NP Valley National Corp.)
+             ,
+             (NP (NP the state 's)
+                 largest locally owned banking company)
+             ,)
+     (VP (VP reported
+             (NP a (ADJP (QP $ 72.2 million) *U*) loss))
+         and
+         (VP suspended
+             (NP its dividend)))
+     .))
+( (S (NP-SBJ (NP Pinnacle West Capital Corp.)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP has
+			  (VP been
+			      (VP wrangling
+				  (PP-CLR with
+					  (NP regulators))
+				  (PP-TMP for
+					  (NP months))
+				  (PP over
+				      (SBAR-NOM (WHNP-2 what)
+						(S (NP-SBJ *)
+						   (VP to
+						       (VP do
+							   (NP *T*-2)
+							   (PP-CLR about
+								   (NP (NP Pinnacle 's)
+								       moribund Merabank thrift unit))))))))))))
+             ,)
+     (VP (VP suspended
+             (NP its dividend))
+         and
+         (VP reported
+             (NP (NP a (ADJP 91 %) plunge)
+		 (PP-LOC in
+			 (NP third-quarter net income)))))
+     .))
+( (S (NP-SBJ Security Pacific Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ third-quarter credit losses)
+                  (VP surged
+                      (NP-EXT a third)
+                      (PP-CLR to
+			      (NP (QP $ 109 million) *U*))
+		      ,
+		      (PP-PRP (ADVP mainly) because of
+			      (NP sour Arizona real-estate loans))))))
+     .))
+( (S (NP-SBJ (ADJP New York-based) Chase Manhattan Corp.)
+     (VP took
+         (NP an (ADJP (QP $ 85 million) *U*) Arizona-related charge))
+     .))
+( (S (ADVP Furthermore)
+     ,
+     (NP-SBJ (NP the regulatory maneuvering)
+             (PP behind
+                 (NP (NP First Interstate 's)
+                     loss)))
+     (VP suggests
+         (SBAR 0
+               (S (NP-SBJ regulators)
+                  (VP (VP have
+			  (VP concluded
+			      (SBAR that
+				    (S (NP-SBJ (NP lenders ')
+					       reserves)
+				       (VP are
+					   (ADJP-PRD far too low
+						     (SBAR (WHNP-1 0)
+							   (S (NP-SBJ *T*-1)
+							      (VP to
+								  (VP absorb
+								      (NP their future Arizona losses)))))))))))
+		      and
+		      (VP are
+			  (VP forcing
+			      (S (NP-SBJ bankers)
+				 (VP to
+				     (VP do
+					 (NP something)
+					 (PP-CLR about
+						 (NP it)))))))))))
+     .))
+( (S (S (NP-SBJ (NP Examiners)
+                (PP from
+                    (NP (NP the Office)
+                        (PP of
+                            (NP (NP the Comptroller)
+                                (PP of
+                                    (NP the Currency)))))))
+        (VP had
+	    (VP been
+		(VP combing
+		    (PP-LOC-CLR through
+				(NP (NP First Interstate 's)
+				    real-estate portfolio))
+		    (PP-TMP since
+			    (NP last month))))))
+     ;
+     (S (NP-SBJ they)
+        (ADVP-TMP first)
+        (VP recommended
+            (SBAR that
+                  (S (NP-SBJ First Interstate)
+                     (VP take
+                         (NP (NP a provision)
+                             (SBAR (WHNP-1 that)
+                                   (S (NP-SBJ *T*-1)
+                                      (VP was
+                                          (ADJP-PRD (ADJP less)
+                                                    (PP than
+                                                        (NP the eventual (ADJP (QP $ 350 million) *U*) third-quarter hit))))))))))))
+     .))
+( (S (SBAR-TMP (WHADVP-1 When)
+	       (S (NP-SBJ-2 First Interstate)
+		  (VP balked
+		      ,
+		      (S-ADV (NP-SBJ *-2)
+			     (VP arguing
+				 (SBAR that
+				       (S (NP-SBJ the figure)
+					  (VP was
+					      (ADJP-PRD too high))))))
+		      (ADVP-TMP *T*-1)
+		      ,)))
+     (NP-SBJ-3 regulators)
+     (VP responded
+         (PP-MNR by
+		 (S-NOM (NP-SBJ *-3)
+			(VP raising
+			    (NP their recommendation)
+			    (PP-DIR to
+				    (NP (QP $ 350 million) *U*))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (PP-TMP At
+			 (NP that point))
+		 ,
+		 (NP-SBJ -LCB- First Interstate -RCB-)
+		 (VP decided
+		     (SBAR 0
+			   (S (NP-SBJ (NP it)
+				      (S *ICH*-2))
+			      (VP was
+				  (NP-PRD (NP the better part)
+					  (PP of
+					      (NP valor)))
+				  (S-2 not
+				       (NP-SBJ *)
+				       (VP to
+					   (VP negotiate further))))))))
+	,
+	''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP one industry official)
+		(ADJP close
+		      (PP to
+			  (NP the talks))))
+	.))
+( (S (NP-SBJ (NP Thomas P. Marrie)
+             ,
+             (NP chief financial officer)
+             ,)
+     (VP would n't
+         (VP comment
+             (PP-CLR about
+		     (NP (NP the details)
+			 (PP of
+			     (NP the negotiations))))))
+     .))
+( (S (NP-SBJ He)
+     (VP said
+	 (SBAR 0
+	       (S (S (NP-SBJ the provision)
+		     ``
+		     (VP was n't
+			 (VP forced
+			     (PP-LOC-CLR upon
+					 (NP us)))))
+		  , but
+		  (S (NP-SBJ the regulators)
+		     (VP made
+			 (S (NP-SBJ (NP it)
+				    (SBAR *EXP*-1))
+			    (ADJP-PRD very clear)
+			    (SBAR-1 (WHNP-2 what)
+				    (S (NP-SBJ they)
+				       (VP thought
+					   (SBAR 0
+						 (S (NP-SBJ *T*-2)
+						    (VP was
+							(NP-PRD an appropriate number)))))))))))))
+     . ''))
+( (S (NP-SBJ The tough regulatory stance)
+     (VP portends
+         (NP large future losses)
+	 ,
+	 (PP-LOC (ADVP especially) at
+		 (NP (NP the state 's)
+		     thrifts)))
+     .))
+( (S (S (NP-SBJ-1 (NP (QP At 
+			  least
+			  six))
+		  (PP of
+		      (NP (NP Arizona 's)
+			  12 savings and loan institutions)))
+        (VP (VP have 
+		(ADVP either) 
+		(VP been
+		    (VP taken
+			(NP *-1)
+			(PRT over)
+			(PP by
+			    (NP-LGS (NP the government 's)
+				    conservatorship program)))))
+	    or
+	    (VP are
+		(ADJP-PRD essentially insolvent))))
+     ;
+     (S (NP-SBJ they)
+        (VP are
+            (VP sitting
+                (PP-LOC-CLR on
+			    (NP enormous unrecognized losses)))))
+     .))
+( (S (PP For
+         (NP example))
+     ,
+     (NP-SBJ (NP Western Savings & Loan Association)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP is
+                          (ADVP-TMP now)
+                          (PP-PRD in
+                                  (NP conservatorship)))))
+             ,)
+     (VP had
+         (NP (NP tangible capital-assets minus liabilities --)
+	     (PP of
+		 (NP a negative (QP $
+				    357.4 million)
+		     *U*)))
+	 (PP-TMP at
+		 (NP June 30)))
+     .))
+( (S (NP-SBJ It)
+     (VP had
+         (NP a (ADJP (QP $ 258.9 million) *U*) loss)
+	 (PP-TMP in
+		 (NP the second quarter)))
+     .))
+( (S Yet
+     (NP-SBJ it)
+     (ADVP-TMP still)
+     (VP held
+         (NP (NP (QP $ 916.3 million) *U*)
+	     (PP of
+		 (NP repossessed real estate))
+             ,
+             (SBAR (WHPP-1 for
+			   (WHNP which))
+                   (S (NP-SBJ it)
+                      (VP maintains
+                          (NP (NP no reserves) 
+			      (ADVP whatsoever))
+			  (PP *T*-1))))))
+     .))
+( (S (S (NP-SBJ It)
+        (ADVP also)
+        (VP had
+            (NP (NP (QP $ 479.7 million) *U*)
+		(PP of
+		    (NP past-due loans)))))
+     ;
+     (S (NP-SBJ (NP its level)
+                (PP of
+                    (NP (NP reserves)
+                        (PP against
+                            (NP those)))))
+        (VP was n't
+            (ADJP-PRD immediately available)
+	    ,
+	    (SBAR-ADV though
+		      (S (NP-SBJ-1 it)
+			 (VP is
+			     (VP believed
+				 (S (NP-SBJ *-1)
+				    (VP to
+					(VP be
+					    (ADJP-PRD small))))))))))
+     .))
+( (S (NP-SBJ (NP The rapid deterioration)
+             (PP of
+                 (NP the Arizona thrifts)))
+     (ADVP only)
+     (VP adds
+         (PP-CLR to
+		 (NP (NP the ever-swelling cost)
+		     (PP of
+			 (NP (NP (NP the government 's)
+				 massive thrift bailout)
+			     ,
+			     (VP (ADVP officially)
+				 estimated
+				 (NP *)
+				 (PP-CLR at
+					 (NP (QP about $ 166 
+						 billion) *U*))))))))
+     .))
+( (S (ADVP Together)
+     ,
+     (NP-SBJ the six (ADJP (ADJP government-controlled) or (ADJP essentially insolvent)) Arizona thrifts)
+     (VP have
+         (NP (NP (NP tangible capital)
+                 (PP of
+                     (NP a negative (QP $ 1.5 billion) *U*)))
+             ,
+             (NP (NP foreclosed property)
+		 (PP of
+		     (NP (QP $ 1.8 billion) *U*)))
+             and
+             (NP (NP pastdue loans)
+		 (PP of
+		     (NP (QP $ 1.63 billion) *U*)))))
+     .))
+( (S (S (NP-SBJ They)
+        (VP have
+            (NP (NP no reserves)
+                (PP against
+                    (NP the real estate)))))
+     , and
+     (S (NP-SBJ (NP their reserves)
+                (PP against
+                    (NP the loans)))
+        (VP are
+            (ADJP-PRD miniscule)
+	    (PP compared
+		(PP with
+		    (NP (NP the levels)
+			(PP of
+			    (NP reserves))
+			(SBAR (WHNP-1 0)
+			      (S (NP-SBJ-2 banks)
+				 (VP are
+				     (VP moving
+					 (S (NP-SBJ *-2)
+					    (VP to
+						(VP set
+						    (PRT up)
+						    (NP *T*-1)))))))))))))
+     .))
+( (S (NP-SBJ The thrifts)
+     (VP had
+         (NP (NP a combined loss)
+	     (PP of
+		 (NP (QP $ 487.8 million) *U*)))
+	 (PP-TMP in
+		 (NP the second quarter)))
+     .))
+( (S (NP-SBJ Other lenders)
+     (VP have
+	 (VP been
+	     (VP recovering
+		 (NP (NP (QP only 50) cents)
+		     (PP to
+			 (NP (NP 60 cents)
+			     (PP on
+				 (NP the dollar)))))
+		 (PP on
+		     (NP foreclosed Arizona property))
+		 ,
+		 (SBAR-ADV if
+			   (S (NP-SBJ they)
+			      (VP can
+				  (VP sell
+				      (NP it)
+				      (PP at
+					  (NP all)))))))))
+     .))
+( (S (NP-SBJ All
+             this havoc)
+     (VP is
+         (NP-PRD (NP the result)
+                 (PP of
+                     (NP (NP one)
+                         (PP of
+                             (NP (NP the worst busts)
+				 (PP in
+				     (NP (NP Arizona 's)
+					 boom-and-bust history))
+                                 ,
+				 (VP compounded
+				     (NP *)
+				     (PP by
+					 (NP-LGS (NP (NP some)
+						     (PP of
+							 (NP (NP the usual suspects)
+							     (PP in
+								 (NP 1980s banking debacles)))))
+						 :
+						 (NP (NP greed)
+						     ,
+						     (NP fraud)
+						     and
+						     (NP plain bad banking)))))))))))
+     .))
+( (S (PP-TMP In
+	     (NP (NP the late 1970s)
+		 and
+		 (NP early 1980s)))
+     ,
+     (NP-SBJ-1 lenders and developers)
+     (VP poured
+         (NP money)
+         (PP-CLR into
+		 (NP (NP office buildings)
+		     ,
+		     (NP condominiums)
+		     and
+		     (NP (NP massive tracts)
+			 (PP of
+			     (NP raw desert land)))))
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(ADJP-PRD confident
+			  (SBAR that
+				(S (NP-SBJ (NP Arizona 's)
+					   population)
+				   (VP would
+				       (VP grow
+					   (PP-CLR at
+						   (NP (NP annual rates)
+						       (PP of
+							   (NP (QP 4 %
+								   to
+								   6 %)
+							       *U*))))
+					   (PP-TMP for
+						   (NP (NP years)
+						       (SBAR (WHNP-2 0)
+							     (S (NP-SBJ *T*-2)
+								(VP to
+								    (VP come)))))))))))))
+     .))
+( (S (ADVP-TMP Now)
+     ,
+     (S (NP-SBJ annual population growth)
+        (VP is
+            (VP running
+                (PP-CLR at
+			(NP (NP (QP about 2) %)
+			    (NP-ADV a year))))))
+     ,
+     (S (NP-SBJ-1 (NP some desert tracts)
+                  (VP bought
+                      (ADVP-TMP (NP three years)
+				ago)
+                      (PP-CLR for
+			      (NP (NP $ 90,000 *U*)
+				  (NP-ADV an acre)))))
+        are
+        (VP being
+            (VP sold
+                (NP *-1)
+                (PP-CLR at
+			(NP (NP $ 25,000 *U*)
+			    (NP-ADV an acre))))))
+     and
+     (S (NP-SBJ Phoenix)
+        (VP has
+            (NP (NP a seven-year supply)
+                (PP of
+                    (NP unoccupied office space)))))
+     .))
+( (SINV ``
+	(S-TPC-1 (S (NP-SBJ (NP It)
+			    (S *EXP*-2))
+		    (VP 's
+			(ADJP-PRD horrible)
+			(S-2 (NP-SBJ *)
+			     (VP to
+				 (VP say)))))
+		 , but
+		 (S (NP-SBJ it)
+		    (VP 's
+			(ADJP-PRD unfortunate
+				  (SBAR 0
+					(S (NP-SBJ that earthquake)
+					   (VP was n't
+					       (PP-LOC-PRD in
+							   (NP Phoenix))))))))
+		 --
+		 (S (NP-SBJ it)
+		    might
+		    (VP have
+			(VP knocked
+			    (PRT out)
+			    (NP (NP some)
+				(PP of
+				    (NP our empty buildings)))))))
+	, ''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP C.W. Jackson)
+		,
+		(NP (NP a prominent Arizona businessman)
+		    (PP with
+			(NP (NP interests)
+			    (PP in
+				(NP (NP real estate)
+				    ,
+				    (NP banking)
+				    and
+				    (NP many other businesses)))))))
+	.))
+( (S (NP-SBJ Many Arizona real-estate experts)
+     (VP think
+         (SBAR 0
+               (S (NP-SBJ the worst)
+                  (VP may
+                      (VP be
+			  (S-PRD (ADVP-TMP yet)
+				 (NP-SBJ *)
+				 (VP to
+				     (VP come))))))))
+     .))
+( (S (NP-SBJ (NP Ralph Shattuck)
+             ,
+             (NP (NP publisher)
+                 (PP of
+                     (NP Foreclosure Update newsletter)))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ foreclosures)
+                  (VP have
+                      (VP climbed
+                          (PP-DIR to
+				  (NP (NP about 1,482)
+				      (NP-ADV a month)))
+                          (PP-LOC (ADVP just) in
+				  (NP (NP Maricopa County)
+				      ,
+				      (SBAR (WHADVP-2 where)
+					    (S (NP-SBJ-1 Phoenix)
+					       (VP is
+						   (VP located
+						       (NP *-1)
+						       (ADVP-LOC *T*-2))))))))))))
+     .))
+( (S (S (S (NP-SBJ That)
+           (VP 's
+               (ADVP-PRD up
+                         (PP from
+                             (NP (NP about 687)
+				 (NP-ADV a month))
+			     (PP-TMP in
+				     (NP 1985))))))
+        , and
+        (S (NP-SBJ it)
+           (VP 's
+               (VP accelerating))))
+     :
+     (S (NP-TMP (ADVP So far)
+		this month)
+        ,
+        (NP-SBJ foreclosures)
+        (VP are
+            (VP averaging
+                (NP (NP about 85)
+                    (NP-ADV a day)))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ It)
+	      (VP 's
+		  (ADJP-PRD frightening)))
+     ,
+     ''
+     (NP-SBJ Mr. Shattuck)
+     (VP said
+	 (S *T*-1))
+     .))
+( (S (ADVP Moreover)
+     ,
+     (NP-SBJ (NP Mr. Shattuck)
+             and
+             (NP others))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-2 (NP residential real estate)
+			    ,
+			    (SBAR (WHNP-1 which)
+				  (S (NP-SBJ *T*-1)
+				     (VP had
+					 (VP remained
+					     (ADJP-PRD fairly strong)
+					     (PP-TMP through
+						     (NP (NP most)
+							 (PP of
+							     (NP the downturn))))))))
+			    ,)
+                  (VP is
+                      (VP beginning
+                          (S (NP-SBJ *-2)
+                             (VP to
+                                 (VP comprise
+                                     (ADJP (ADJP more
+						 and
+						 more)
+					   (PP of
+                                               (NP the foreclosures)))))))))))
+     .))
+( (S And
+     (NP-SBJ (NP the generally frail condition)
+	     (PP of
+		 (NP (NP Arizona 's)
+		     lenders)))
+     (VP means
+         (SBAR 0
+               (S (NP-SBJ there)
+                  (VP is
+                      (NP-PRD (NP little capital)
+                              (ADJP available
+                                    (PP-LOC in
+					    (NP the state))
+                                    (S (NP-SBJ *)
+                                       (VP to
+                                           (VP (VP shore
+                                                   (PRT up)
+                                                   (NP the economy))
+                                               and
+                                               (VP slow
+                                                   (PRT down)
+                                                   (NP the slide)))))))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ It)
+		 (VP 's
+		     (ADJP-PRD reasonable
+			       (S (NP-SBJ *)
+				  (VP to
+				      (VP say
+					  (SBAR 0
+						(S (S (NP-SBJ there)
+						      (VP is not
+							  (NP-PRD a solvent S&L)
+							  (PP-LOC in
+								  (NP the state))))
+						   and
+						   (S (NP-SBJ (NP the amount)
+							      (PP of
+								  (NP viable bank capital)))
+						      (VP is
+							  (ADJP-PRD very low)))))))))))
+	,
+	''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ Mr. Jackson)
+	.))
+( (S ``
+     (NP-SBJ-1 We)
+     (VP 're
+         (VP going
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP see
+                        (NP (NP another big wave)
+                            (PP of
+                                (NP failures and defaults)))
+			(PP-TMP between
+				(NP now
+				    and
+				    year-end)))))))
+     ...  
+     .))
+( (S (NP-SBJ (NP The only thing)
+             (SBAR (WHNP-1 0)
+                   (S (NP-SBJ (NP a lot)
+                              (PP of
+                                  (NP these lenders)))
+                      (VP can
+                          (VP get
+			      (NP *T*-1)
+                              (PP-CLR out
+				      (PP of
+					  (NP their mouth)))
+			      (ADVP-TMP now))))))
+     (VP is :
+	 (S-PRD `
+		(NP-SBJ *)
+		(VP Pay
+		    (NP me)
+		    (PP-TMP in
+			    (NP 60 days)))))
+     . '
+     ''))
+( (S (NP-SBJ First Interstate)
+     (VP had
+         (NP (NP a (ADJP (QP $ 214.4 million) *U*) loss)
+	     (PP *ICH*-1))
+	 (PP-TMP in
+		 (NP (NP 1988 's)
+		     third quarter))
+	 ,
+	 (PP-1 (ADVP mainly) from
+	       (NP (NP writedowns and reserves)
+		   (VP connected
+		       (NP *)
+		       (PP-CLR with
+			       (NP its Texas operations))))))
+     .))
+( (S (PP-TMP For
+	     (NP (NP the six months)
+		 (VP ended
+		     (NP *)
+		     (NP-TMP-CLR June 30))))
+     ,
+     (NP-SBJ it)
+     (VP reported
+         (NP (NP net income)
+             (PP of
+                 (NP (NP (QP $ 234.3 million) *U*)
+                     , or
+                     (NP (NP $ 4.83 *U*)
+                         (NP-ADV a share))
+                     ,)))
+	 (PP including
+	     (NP (NP (QP $ 46 million) *U*)
+		 (PP from
+		     (NP tax credits and accounting changes)))))
+     .))
+( (S (NP-SBJ (NP The bank 's)
+             Arizona unit)
+     (VP holds
+         (NP (NP (QP about $ 6 
+		     billion) *U*)
+	     (PP of
+		 (NP (NP (NP First Interstate 's)
+			 (QP $ 50 billion)
+			 *U*)
+		     (PP of
+			 (NP assets))))))
+     .))
+( (S (NP-SBJ Mr. Marrie)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the bank)
+                  (VP expects
+		      (S (NP-SBJ (NP Arizona real-estate prices)
+				 ,
+				 (SBAR (WHNP-1 which)
+				       (S (NP-SBJ *T*-1)
+					  (VP plummeted
+					      (NP-EXT 40 %)
+					      (PP-TMP over
+						      (NP the last year)))))
+				 ,)
+                         (VP to
+                             (VP fall
+                                 (NP-EXT (QP another 20) %)
+                                 (PP-TMP before
+					 (S-NOM (NP-SBJ *)
+						(VP stabilizing))))))))))
+     .))
+( (S (NP-SBJ (NP Some)
+             (PP-LOC in
+		     (NP Arizona)))
+     (VP think
+         (SBAR 0
+               (S (NP-SBJ that)
+                  (VP may
+                      (VP be
+                          (ADJP-PRD optimistic))))))
+     .))
+( (S (NP-SBJ First Interstate)
+     (VP (VP said
+	     (SBAR 0
+		   (S (NP-SBJ (NP its operations)
+			      (ADVP-LOC outside
+					(PP of
+					    (NP Arizona))))
+		      ``
+		      (VP achieved
+			  (NP results)
+			  (SBAR as
+				(S (NP-SBJ *)
+				   (VP expected)))
+			  (PP-TMP for
+				  (NP the quarter))))))
+	 , '' but
+	 (VP did n't
+	     (VP specify
+		 (NP the results))))
+     .))
+( (S (NP-SBJ First Interstate stock)
+     (VP closed
+         (PP-CLR at
+		 (NP $ 57.625 *U*))
+         ,
+         (ADVP-CLR down
+		   (NP 25 cents))
+         ,
+         (PP-LOC in
+		 (NP composite trading))
+	 (NP-TMP Friday)
+	 (PP-LOC on
+		 (NP the New York Stock Exchange)))
+     .))
+( (S (PP-TMP Since
+	     (NP (NP its unsuccessful bid)
+		 (PP for
+		     (NP BankAmerica Corp.))
+		 (PP-TMP in
+			 (NP 1986)))
+	     ,)
+     (NP-SBJ the bank)
+     (VP has
+         (VP undertaken
+             (NP a major restructuring)
+             (PP-PRP in
+		     (NP an effort
+			 (S (NP-SBJ *)
+			    (VP to
+				(VP (VP cut
+					(NP costs))
+				    and
+				    (VP boost
+					(NP performance)))))))))
+     , but
+     (S (NP-SBJ many industry officials)
+        (VP believe
+            (SBAR 0
+                  (S (NP-SBJ it)
+                     (VP may
+                         (VP be
+                             (ADJP-PRD ripe
+                                       (PP for
+                                           (NP a takeover bid)))
+			     ,
+			     (SBAR (ADVP especially)
+				   with
+				   (S (NP-SBJ-1 interstate banking)
+				      (VP set
+					  (S (NP-SBJ *-1)
+					     (VP to
+						 (VP begin
+						     (PP-LOC in
+							     (NP California))
+						     (PP-TMP in
+							     (NP 1991))))))))))))))
+     .))
+( (S (NP-SBJ Mr. Marrie)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP the problems)
+                          (PP-LOC in
+				  (NP Arizona)))
+                  (VP have
+                      (ADVP only)
+		      ``
+		      (VP increased
+                          (NP our resolve
+                              (S (NP-SBJ-1 *)
+                                 (VP to
+                                     (VP continue
+                                         (S (NP-SBJ *-1)
+                                            (VP to
+                                                (VP make
+                                                    (S (NP-SBJ our restructuring)
+						       (ADJP-PRD even more effective))))))))))))))
+     . ''))
+( (S (ADVP Separately)
+     ,
+     (NP-SBJ (NP Standard & Poor 's)
+             Corp.)
+     (VP lowered
+         (NP (NP its ratings)
+             (PP on
+                 (NP (NP Valley National Corp. 's)
+                     senior debt)))
+         (PP-DIR to
+		 (ADJP double-B))
+	 (PP-DIR from
+		 (ADJP double-B-plus))
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP affecting
+		    (NP (NP (QP about $ 300 
+				million) *U*)
+			(PP of
+			    (NP long-term debt))))))
+     .))
+( (S (NP-SBJ S&P)
+     (ADVP also)
+     (VP lowered
+         (NP (NP ratings)
+             (PP on
+                 (NP (NP unsecured deposits and issues)
+                     (VP backed
+                         (NP *)
+                         (PP by
+                             (NP-LGS (NP a letter)
+                                     (PP of
+                                         (NP credit))
+                                     (PP from
+                                         (NP (NP (NP the bank holding company 's)
+                                                 principal unit)
+                                             ,
+                                             (NP (NP Valley National Bank)
+                                                 (PP of
+                                                     (NP Arizona))))))))))))
+     .))
+( (S (NP-SBJ The ratings service)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the downgrades)
+                  (VP reflect
+                      (NP (NP the continued slide)
+                          (PP-LOC in
+				  (NP (NP the company 's)
+				      financial condition)))))))
+     .))
+( (S (NP-SBJ (NP A spokesman)
+             (PP for
+                 (NP (ADJP Phoenix
+			   ,
+			   Ariz.-based)
+                     Valley National ,)))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 the concern)
+                  (VP will
+                      (VP be
+                          (ADJP-PRD able
+                                    (S (NP-SBJ *-1)
+                                       (VP to
+                                           (VP withstand
+                                               (NP (NP the current downturn)
+                                                   (PP-LOC in
+							   (NP Arizona real estate))))))))))))
+     .))
+( (S-1 (S (NP-SBJ Commercial paper holders)
+	  (VP have
+	      (VP reinvested
+		  (NP their funds))))
+       (PRN ,
+	    (S (NP-SBJ he)
+	       (VP said
+		   (SBAR 0
+			 (S *T*-1))))
+	    ,)
+       and
+       (S (NP-SBJ consumer deposits)
+	  (VP have
+	      (VP been
+		  (ADVP-PRD up)
+		  (PP-TMP in
+			  (NP the last few days)))))
+       .))

@@ -1,0 +1,260 @@
+
+
+( (FRAG (SBAR (WHADJP How
+		      interestingly clever
+		      (PP of
+			  (NP-1 Robert Goldberg)))
+	      (S (NP-SBJ-2 *-1)
+		 (VP to
+		     (VP use
+			 (NP (NP the form)
+			     (PP of
+				 (NP pretend advocacy journalism)))
+			 (S-PRP (NP-SBJ *-2)
+				(VP to
+				    (VP explain
+					(NP (NP his perception)
+					    (PP of
+						``
+						(NP-TTL (NP Days)
+							(PP of
+							    (NP Rage)))
+						''))
+					(PP-LOC in
+						(NP (NP his television critique)
+						    (PRN -LRB-
+							 (NP (NP Leisure & Arts)
+							     ,
+							     (NP-TMP Sept 11))
+							 -RRB-))))))))))
+	.))
+( (S (NP-SBJ-1 He)
+     (VP chastises
+         (NP Jo Franklin-Trout)
+         (PP-CLR for
+		 (NP (NP her inept presentation)
+		     (PP of
+			 (NP advocacy journalism))))
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(VP judging
+		    (NP her project)
+		    (PP-CLR as
+			    (ADJP `` intellectually slipshod)))))
+     . ''))
+( (SQ Was not
+      (NP-SBJ the title)
+      (ADJP-PRD very clear)
+      ?))
+( (FRAG (NP One example)
+	(SBAR (WHNP-1 0)
+	      (S (NP-SBJ he)
+		 (VP gives
+		     (NP *T*-1))))
+	:
+	``
+	(S (NP-SBJ She)
+	   (VP did n't
+	       (VP ask 
+		   ''
+		   -LRB-
+		   (SBAR (WHADVP-2 why)
+			 (S (NP-SBJ the Palestinian children)
+			    (VP are
+				(NP-PRD (NP soldiers)
+					(VP throwing
+					    (NP stones)))
+				(ADVP-PRP *T*-2))))
+		   -RRB-)))
+	.))
+( (SQ (ADVP Really
+	    now)
+      ,
+      did
+      (NP-SBJ-1 she)
+      (VP have
+	  (S (NP-SBJ *-1)
+	     (VP to
+		 (VP ask))))
+      ?))
+( (SQ Were not
+      (NP-SBJ (NP the pictures and happenings)
+	      ,
+	      (SBAR (WHNP-1 which)
+		    (S (NP-SBJ *T*-1)
+		       (VP have
+			   (VP been
+			       (VP continuing
+				   (NP news headlines))))))
+	      ,)
+      (NP-PRD answers enough)
+      ?))
+( (S (NP-SBJ Mr. Goldberg)
+     (VP contends
+         (SBAR that
+               (S (PP even as
+                      (NP `` propaganda ''))
+                  (NP-SBJ the film)
+                  (VP fails
+		      (SBAR-PRP because
+				(S (NP-SBJ it)
+				   (VP presents
+				       (NP only one view))))))))
+     .))
+( (S (S (PP Of
+            (NP course))
+        (NP-SBJ the Palestinians)
+        (VP complain
+            (PP-CLR about
+		    (NP their treatment))))
+     ;
+     (S (PP of
+            (NP course))
+        (NP-SBJ the Israelis)
+        (VP feel
+            (VP put
+                (PRT upon))))
+     .))
+( (S But
+     (NP-SBJ his complaint
+	     (SBAR that
+		   (S ``
+		      (NP-TTL-SBJ (NP Days)
+				  (PP of
+				      (NP Rage)))
+		      ''
+		      (VP does n't
+			  (VP contain
+			      (NP (NP balanced comments)
+				  (PP from
+				      (NP Israelis))
+				  (PP about
+				      (SBAR-NOM (WHADVP-1 how badly)
+						(S (NP-SBJ the Palestinians)
+						   (VP are
+						       (VP behaving
+							   (ADVP-MNR *T*-1))))))))))))
+     (VP is
+         (ADJP-PRD irrelevant))
+     .))
+( (S (NP-SBJ It)
+     (VP 's
+         (PP-PRD like
+                 (S-NOM (NP-SBJ *)
+			(VP (VP doing
+				(NP (NP a documentary)
+				    (PP on
+					(NP apartheid))))
+			    and
+			    (VP insisting
+				(SBAR that
+				      (S (NP-SBJ-1 equal time)
+					 (VP be
+					     (VP given
+						 (NP *-1)
+						 (PP-DTV to
+							 (SBAR (WHADVP-2 how
+									 terrific)
+							       (S (NP-SBJ white South Africans)
+								  (VP are
+								      (ADVP-PRD *T*-2))))))))))))))
+     .))
+( (S (NP-SBJ-7 This film)
+     (VP did
+         (VP emphasize
+             (SBAR-NOM (WHADVP-3 how
+				 long)
+		       (S (NP-SBJ the Israeli/Palestinian stalemate)
+			  (VP has
+			      (VP existed
+				  (ADVP-TMP *T*-3)))))
+             (PP-MNR by
+		     (S-NOM (NP-SBJ *-7)
+			    (VP tracing
+				(NP the conflict)
+				(PP-CLR to
+					(NP (NP the days)
+					    (PP of
+						(NP World War I))
+					    (SBAR-TMP (WHADVP-2 when)
+						      (S (NP-SBJ-4 the British)
+							 (VP tried
+							     (S (NP-SBJ-6 *-4)
+								(VP to
+								    (VP guarantee
+									(NP both
+									    (NP a Jewish state)
+									    and
+									    (NP a Palestinian state))
+									(PP without
+									    (S-NOM (NP-SBJ *-6)
+										   (VP specifying
+										       (SBAR-MNR (WHADVP-5 how)
+												 (S (NP-SBJ it)
+												    (VP was
+													(S-PRD (NP-SBJ-1 *)
+													       (VP to
+														   (VP be
+														       (VP done
+															   (NP *-1)
+															   (ADVP-MNR *T*-5))))))))))))))
+							     (ADVP-TMP *T*-2)))))))))))
+     .))
+( (S (INTJ Well)
+     ,
+     (NP-SBJ ``
+	     (NP-TTL (NP Days)
+		     (PP of
+			 (NP Rage)))
+	     ''
+	     (VP airing
+		 (PP (PP with
+			 (NP before-and-after packaging))
+		     , and
+		     (PP-TMP after
+			     (NP repeated delays))
+		     ,)))
+     (VP was
+	 (NP-PRD a beginning))
+     .))
+( (S (NP-SBJ Every issue)
+     (VP is
+         (ADJP-PRD multisided))
+     .))
+( (S (NP-SBJ-1 This film)
+     (VP attempts
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP show
+                    (NP (NP a side)
+			(VP (ADVP rarely)
+			    seen
+                            (PP-LOC in
+				    (NP our media))))))))
+     .))
+( (S (ADVP-TMP Now)
+     (NP-SBJ we)
+     (VP must
+         (VP endure
+             (NP (NP a rash)
+		 (PP of
+		     (NP (NP critics)
+			 (SBAR (WHNP-1 who)
+			       (S (NP-SBJ-2 *T*-1)
+				  (VP (ADVP apparently)
+				      wish
+				      (S (NP-SBJ *-2)
+					 (VP to
+					     (VP know
+						 (NP (NP details)
+						     (PP of
+							 (NP (NP one side)
+							     (ADVP only)))))))))))))))
+     .))
+( (NP Salaam .))
+( (NP Shalom .))
+( (NP (NP Charlotte Carpenter)
+      (NP (NP Bainbridge Island)
+          ,
+          (NP Wash))
+      .))

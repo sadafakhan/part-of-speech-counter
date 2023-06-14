@@ -1,0 +1,93 @@
+
+
+( (S (NP-SBJ (NP The top state environmental official)
+             (PP-LOC in
+		     (NP Massachusetts)))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP (NP Clean Harbors Inc. 's)
+			      environmental-impact statement)
+                          (PP for
+                              (NP (NP a proposed incinerator)
+                                  (PP-LOC in
+					  (NP Braintree)))))
+                  (VP was
+                      (ADJP-PRD inadequate)))))
+     .))
+( (S (NP-SBJ-1 (NP The official)
+	       ,
+	       (NP John DeVillars)
+	       ,)
+     (VP asked
+         (NP Clean Harbors)
+         (PP-CLR for
+		 (NP more information))
+	 (PP-TMP before
+		 (S-NOM (NP-SBJ *-1)
+			(VP ruling
+			    (PP-CLR on
+				    (NP (NP a permit)
+					(PP for
+					    (NP the site))))))))
+     .))
+( (S (NP-SBJ (NP Critics)
+	     (PP of
+		 (NP the plan))
+             ,
+             (PP including
+		 (NP (NP the town)
+		     (PP of
+			 (NP Braintree))))
+             ,)
+     (VP say
+         (SBAR 0
+               (S (NP-SBJ the incinerator)
+                  (VP is
+                      (NP-PRD a health hazard)))))
+     .))
+( (S (NP-SBJ (NP Clean Harbors)
+             ,
+             (VP based
+                 (NP *)
+                 (PP-LOC-CLR in
+			     (NP Quincy)))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  ``
+                  (VP will
+                      (VP proceed
+                          (ADVP-MNR expeditiously)
+			  ''
+			  (S-PRP (NP-SBJ *)
+				 (VP to
+				     (VP submit
+					 (NP (NP the data)
+					     (VP requested
+						 (NP *)))))))))))
+     .))
+( (S (NP-SBJ (NP Alan McKim)
+             ,
+             (NP (NP chief executive officer)
+                 (PP of
+                     (NP Clean Harbors))))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ he)
+                  (VP was
+                      (ADJP-PRD `` very much encouraged ''
+                                (PP by
+                                    (NP (NP (NP the official 's)
+					    praise)
+					(PP of
+					    (NP Clean Harbors))
+					(PP for
+					    (NP (NP the quality)
+						(PP of
+						    (NP (NP some)
+							(PP of
+							    (NP (NP the data)
+								(PP-LOC in
+									(NP the report)))))))))))))))
+     .))

@@ -1,0 +1,56 @@
+
+
+( (S (NP-SBJ CRI Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP reduced
+                      (NP (NP the estimated cash distribution)
+                          (PP for
+                              (NP its Capital Housing and Mortgage Partners Inc. trust)))
+                      (PP-DIR to
+			      (PP between
+				  (NP (NP (NP 71 cents)
+					  and
+					  (NP 74 cents))
+				      (NP-ADV a share))))
+                      ,
+                      (PP-DIR from
+			      (PP between
+				  (NP (NP 75 cents)
+				      and
+				      (NP 80 cents))))
+		      ,
+		      (PP-TMP for
+			      (NP (NP the year)
+				  (VP ending
+				      (NP-TMP-CLR June 9 , 1990))))))))
+     .))
+( (SINV (S-TPC-1 (NP-SBJ (NP The change)
+			 (PP in
+			     (NP (NP expected cash distributions)
+				 (PP from
+				     (NP the Champs real estate investment trust)))))
+		 (VP stems
+		     (PP-CLR from
+			     (NP (NP a revised estimate)
+				 (PP of
+				     (NP administrative costs))))))
+	,
+	(VP said
+	    (SBAR 0
+		  (S *T*-1)))
+	(NP-SBJ (NP Jay R. Cohen)
+		,
+		(NP Champs executive vice president))
+	.))
+( (S (NP-SBJ (NP CRI)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP sponsors
+                          (NP Champs))))
+             ,)
+     (VP is
+         (NP-PRD a world-wide real estate investment firm))
+     .))

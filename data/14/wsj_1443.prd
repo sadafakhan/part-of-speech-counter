@@ -1,0 +1,158 @@
+
+
+( (S (NP-SBJ Immunex Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ its scientists)
+                  (VP isolated
+                      (NP (NP a molecule)
+                          (SBAR (WHNP-1 which)
+                                (S (NP-SBJ *T*-1)
+                                   (VP may
+                                       (VP hold
+                                           (NP (NP potential)
+                                               (PP as
+                                                   (NP (NP a treatment)
+                                                       (PP for
+                                                           (NP (NP disruptions)
+							       (PP of
+								   (NP the immune-system))
+                                                               ,
+							       (VP ranging
+								   (PP-DIR from
+									   (NP organ-transplant rejection)
+									   ,)
+								   (PP-DIR to
+									   (NP allergies and asthma)))))))))))))))))
+     .))
+( (S (NP-SBJ The molecule)
+     (VP is
+         (NP-PRD (NP the mouse version)
+                 (PP of
+                     (NP (NP a protein)
+                         (VP called
+                             (S (NP-SBJ *)
+				(NP-PRD the interleukin-4 receptor)))))))
+     .))
+( (S (NP-SBJ IL-4)
+     (VP is
+         (NP-PRD (NP a hormone)
+                 (SBAR (WHNP-5 which)
+                       (S (NP-SBJ *T*-5)
+                          (VP directs
+                              (NP (NP the growth and function)
+                                  (PP of
+                                      (NP (NP white blood cells)
+                                          (VP involved
+                                              (NP *)
+                                              (PP-CLR in
+						      (NP (NP the body 's)
+							  immune response)))))))))))
+     .))
+( (S (NP-SBJ (NP The IL-4 receptor)
+             (PP-LOC on
+		     (NP (NP the surface)
+			 (PP of
+			     (NP such cells)))))
+     (VP receives
+         (NP (NP the hormone 's)
+             message
+             (S (NP-SBJ *)
+                (VP to
+                    (VP rally
+                        (NP (NP the body 's)
+                            defense))))))
+     .))
+( (S But
+     (PP in
+         (NP (NP certain conditions)
+             (PP such
+		 as
+		 (NP (NP autoimmune diseases)
+		     and
+		     (NP allergies)
+		     and 
+		     (NP transplant rejection)))))
+     ,
+     (NP-SBJ-1 doctors)
+     (VP would
+         (VP like
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP damp
+                        (NP the immune response)
+			(SBAR-PRP so
+				  (S (NP-SBJ such cells)
+				     (VP do n't
+					 (VP touch
+					     (PRT off)
+					     (NP (NP harmful inflammatory reactions) or (NP cell destruction)))))))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ (NP A soluble form)
+		      (PP of
+			  (NP the receptor)))
+	      (VP might
+		  (VP turn
+		      (PRT off)
+		      (NP-PRD (NP a specific part)
+			      (PP of
+				  (NP the immune response)))
+		      (PP without
+			  (NP general immune suppression)))))
+     ,
+     (NP-SBJ the company)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ The IL-4 receptor)
+     (VP is
+         (NP-PRD (NP one)
+                 (PP of
+                     (NP (NP five such receptors)
+                         (SBAR (WHNP-2 0)
+			       (S (NP-SBJ-3 *T*-2)
+				  (VP to
+				      (VP be
+					  (NP *-3)
+					  (VP developed
+					      and
+					      tested
+					      (PP by
+						  (NP-LGS (NP Receptech Corp.)
+							  ,
+							  (NP (NP a spinoff)
+							      (PP of
+								  (NP Immunex)))))
+					      ,
+					      (PP-MNR through
+						      (NP a proposed (ADJP (QP $ 30 million) *U*) initial public offering)))))))))))
+     .))
+( (S (NP-SBJ-1 Immunex)
+     (VP will
+         (VP contract
+             (PP-CLR with
+		     (NP the spinoff))
+             (S-PRP (NP-SBJ *-1)
+		    (VP to
+			(VP provide
+			    (NP (NP the research)
+				,
+				(NP development)
+				and
+				(NP (NP initial testing)
+				    (PP of
+					(NP the new agents)))))))))
+     .))
+( (S (NP-SBJ Immunex)
+     (VP will
+         (VP have
+	     (NP the option
+		 (S (NP-SBJ *)
+		    (VP to
+			(VP buy
+			    (PRT back)
+			    (NP Receptech shares)
+			    (PP-TMP after
+				    (NP five years))))))))
+     .))

@@ -1,0 +1,30 @@
+
+
+( (S (NP-SBJ The New York Stock Exchange)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 a seat)
+                  (VP was
+                      (VP sold
+                          (NP *-1)
+                          (PP-CLR for
+				  (NP $ 500,000 *U*))
+                          ,
+                          (S (NP-SBJ *-1)
+			     (ADJP-PRD unchanged
+				       (PP from
+					   (NP (NP the sale)
+					       (NP-TMP Thursday))))))))))
+     .))
+( (S (NP-SBJ-1 Seats)
+     (VP are
+         (VP quoted
+             (NP *-1)
+             (PP-CLR at
+		     (NP (NP (NP $ 430,000 *U*)
+			     (VP bid))
+			 and
+			 (NP (NP $ 525,000 *U*)
+			     (VP asked
+				 (NP *)))))))
+     .))

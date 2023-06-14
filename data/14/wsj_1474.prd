@@ -1,0 +1,850 @@
+
+
+( (S (NP-SBJ-1 High-definition television)
+     (VP promises
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP be
+                    (NP-PRD (NP the TV)
+                            (PP of
+                                (NP tomorrow))))))
+	 ,
+	 (SBAR-ADV so
+		   (S (NP-SBJ it)
+		      (VP is
+			  (NP-PRD a natural multibillion-dollar market)))))
+     .))
+( (S (SBAR-ADV Although
+	       (S (NP-SBJ major U.S. manufacturers)
+		  (VP have
+		      (ADVP all but)
+		      (VP ceded
+			  (NP (NP the main segment)
+			      (PP of
+				  (NP that future business)))
+			  (PP-DTV to
+				  (NP Japan))))))
+     ,
+     (NP-SBJ-1 not everyone)
+     (ADVP-LOC here)
+     (VP is
+         (ADJP-PRD ready
+                   (S (NP-SBJ *-1)
+                      (VP to
+                          (VP give
+                              (PRT up))))))
+     .))
+( (S (NP-SBJ-2 (NP A handful)
+	       (PP of
+		   (NP small U.S. companies)))
+     (VP are
+         (VP struggling
+             (S (NP-SBJ *-2)
+                (VP to
+                    (VP develop
+                        (NP (NP the technology)
+                            (SBAR (WHNP-3 0)
+				  (S (NP-SBJ *T*-3)
+				     (VP to
+					 (VP build
+					     (NP (NP the screens)
+						 (PP for
+						     (NP (NP the thin , high-quality televisions)
+							 (SBAR (WHNP-1 that)
+							       (S (NP-SBJ-4 *T*-1)
+								  (VP are
+								      (VP expected
+									  (S (NP-SBJ *-4)
+									     (VP to
+										 (VP hang
+										     (PP-LOC-CLR on
+												 (NP living room walls)))))
+									  (PP-TMP by
+										  (NP (NP the end)
+										      (PP of
+											  (NP the 1990s)))))))))))))))))))))
+     .))
+( (S (PP With
+         (NP (NP only small help)
+             (PP from
+                 (NP the government))))
+     ,
+     (NP-SBJ-2 these start-up concerns)
+     (VP are
+         (VP trying
+             (S (NP-SBJ *-2)
+                (VP to
+                    (VP compete
+                        (PP-CLR with
+				(NP (NP the Goliaths)
+				    (PP of
+					(NP the Japanese consumer electronics industry))
+				    ,
+				    (SBAR (WHNP-1 which)
+					  (S (NP-SBJ *T*-1)
+					     (VP enjoy
+						 (NP (NP considerable backing)
+						     (PP from
+							 (NP the Japanese government)))))))))))))
+     .))
+( (S (NP-SBJ-2 (NP Photonics Technology Inc.)
+	       (PP of
+		   (NP (NP Northwood)
+		       ,
+		       (NP Ohio)
+		       ,)))
+     (VP aims
+         (S (NP-SBJ *-2)
+            (VP to
+                (VP use
+                    (NP-3 (NP a new form)
+			  (PP of
+			      (NP plasma technology)))
+                    (S-CLR (NP-SBJ *-3)
+			   (VP to
+			       (VP put
+				   (NP movie-quality images)
+				   (PP-PUT on
+					   (NP (NP a TV display)
+					       (SBAR (WHNP-1 that)
+						     (S (NP-SBJ *T*-1)
+							(VP is
+							    (UCP-PRD (NP (NP 40 inches)
+									 (PP in
+									     (NP diameter)))
+								     but
+								     (ADJP (NP (QP only a few) inches)
+									   thick))))))))))))))
+     .))
+( (S (NP-SBJ (NP Planar Systems Inc.)
+	     (PP of
+		 (NP (NP Beaverton)
+		     ,
+		     (NP Ore.)
+		     ,))
+             (NP (NP the largest)
+                 (PP of
+                     (NP these firms))
+                 ,
+                 (PP with
+                     (NP (NP (QP $ 20 million) *U*)
+			 (PP in
+			     (NP annual revenue)))))
+             ,)
+     (VP has
+         (NP similar plans))
+     .))
+( (S (NP-SBJ It)
+     (ADVP-TMP already)
+     (VP has
+         (VP had
+             (NP (NP success)
+                 (PP in
+                     (NP (NP electroluminescence)
+                         ,)
+		     (NP (NP another promising technology)
+			 (ADJP adaptable
+			       (PP for
+				   (NP high-definition television))))))))
+     .))
+( (S (NP-SBJ (NP Two other firms)
+             ,
+             (NP (NP (NP Ovonic Imaging Systems Inc.)
+                     (PP of
+                         (NP (NP Troy)
+                             ,
+                             (NP Mich.)
+                             ,)))
+                 and
+                 (NP (NP Magnascreen Corp.)
+                     (PP of
+                         (NP Pittsburgh)))))
+     (VP are
+         (VP developing
+             (NP (NP a variation)
+		 (PP of
+		     (NP the flat-panel screens))
+                 (VP called
+                     (S (NP-SBJ *)
+			(NP-PRD active-matrix liquid crystal displays))))))
+     .))
+( (S (NP-SBJ-2 The new technologies)
+     (VP are
+         (VP intended
+             (S (NP-SBJ *-2)
+                (VP to
+                    (VP retire
+			(NP (NP the cathode-ray tube)
+			    ,
+			    (SBAR (WHNP-1 which)
+				  (S (NP-SBJ *T*-1)
+				     (VP accounts
+					 (PP-CLR for
+						 (NP (NP most)
+						     (PP of
+							 (NP (NP the bulk)
+							     (PP of
+								 (NP the conventional TV set)))))))))))))))
+     .))
+( (S (S-NOM-SBJ (NP-SBJ *)
+		(VP Replacing
+		    (NP the cathode-ray tube)
+		    (PP-CLR with
+			    (NP a large , thin screen))))
+     (VP is
+         (NP-PRD (NP the key)
+                 (PP to
+                     (NP (NP the creation)
+                         (PP of
+                             (NP (NP (NP a high-definition television)
+                                     , or
+                                     (NP HDTV)
+                                     ,)
+                                 (SBAR (WHNP-1 which)
+                                       (S (NP-SBJ-2 *T*-1)
+                                          (VP is
+                                              (VP expected
+                                                  (S (NP-SBJ *-2)
+                                                     (VP to
+                                                         (VP become
+                                                             (NP-PRD a (ADJP (QP $ 30 billion) *U*) business)
+                                                             (ADVP-LOC world-wide)
+							     (PP-TMP within
+								     (NP a decade)))))))))))))))
+     .))
+( (S (NP-SBJ Large U.S. companies)
+     (VP are
+         (ADJP-PRD interested
+                   (PP in
+                       (NP (NP other segments)
+			   (PP of
+			       (NP the HDTV business))
+                           ,
+                           (PP such
+			       as
+			       (NP signal-processing and broadcast equipment))))))
+     .))
+( (S But
+     (PP except
+         (PP for
+             (NP (NP Zenith Electronics Corp.)
+                 and
+                 (NP (NP International Business Machines Corp.)
+                     ,
+                     (SBAR (WHNP-1 which)
+                           (S (NP-SBJ *T*-1)
+                              (VP is
+                                  (VP collaborating
+                                      (PP-CLR with
+					      (NP Toshiba))
+                                      (PP on
+                                          (NP computer displays))))))))))
+     ,
+     (NP-SBJ-2 they)
+     (VP are
+         (VP (ADVP-MNR poorly)
+             positioned
+             (S (NP-SBJ *-2)
+                (VP to
+                    (VP exploit
+                        (NP (NP advances)
+                            (PP-LOC in
+				    (NP large panels))))))))
+     .))
+( (S (NP-SBJ General Electric Co.)
+     (ADVP-TMP recently)
+     (VP sold
+         (PRT off)
+         (NP (NP its interests)
+             (PP in
+                 (NP liquid-crystal displays)))
+         (PP-DTV to
+		 (NP (NP Thompson-CSF)
+		     (PP of
+			 (NP France)))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ We)
+	      (VP found
+		  (S (NP-SBJ the market)
+		     (VP not developing
+			 (SBAR-ADV as
+				   (S (NP-SBJ we)
+				      (VP thought
+					  (SBAR 0
+						(S (NP-SBJ it)
+						   (VP would
+						       (VP *?*)))))))))))
+     , ''
+     (NP-SBJ a GE spokesman)
+     (VP says
+	 (S *T*-1))
+     .))
+( (S (NP-SBJ The small U.S. firms)
+     (VP are
+         (VP persisting
+             (UCP-PRP (PP because of
+			  (NP (NP their strong positions)
+			      (PP-LOC in
+				      (NP patents)))
+			  ,)
+		      and
+		      (SBAR because
+			    (S (NP-SBJ the prize)
+			       (VP is
+				   (ADVP-TMP still)
+				   (ADVP-PRD there)
+				   (S-PRP (NP-SBJ-1 *)
+					  (VP to
+					      (VP be
+						  (VP seized
+						      (NP *-1)))))))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ No one)
+		 (ADVP-TMP yet)
+		 (VP has
+		     (VP shown
+			 (NP the ability
+			     (S (NP-SBJ *)
+				(VP to
+				    (VP manufacture
+					(NP these panels)
+					''
+					(PP-MNR at
+						(NP commercial costs)))))))))
+	,
+	(VP says
+	    (SBAR 0
+		  (S *T*-1)))
+	(NP-SBJ (NP Zvi Yaniv)
+		,
+		(NP (NP the president)
+		    (PP of
+			(NP Ovonic Imaging))))
+	.))
+( (S (NP-SBJ He)
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ he)
+                  (VP thinks
+                      (SBAR 0
+                            (S (NP-SBJ-1 his company)
+                               (VP is
+                                   (NP-PRD (NP just a few years)
+                                           (PP from
+                                               (S-NOM (NP-SBJ *-1)
+						      (VP doing
+							  (NP that))))))))))))
+     .))
+( (S (NP-SBJ (NP The Bush administration)
+             ,
+	     (VP hearing
+		 (NP (NP conflicting advice)
+		     (PP about
+			 (SBAR-NOM (WHNP-1 what)
+				   (S (NP-SBJ (NP its role)
+					      (PP-LOC in
+						      (NP HDTV)))
+				      (VP should
+					  (VP be
+					      (NP-PRD *T*-1))))))))
+             ,)
+     (VP is n't
+         (VP doing
+             (NP much)
+	     (PP-TMP for
+		     (NP now))))
+     .))
+( (S (NP-SBJ (NP The only material support)
+             (SBAR (WHNP-1 0)
+                   (S (NP-SBJ it)
+                      (VP is
+                          (VP extending
+                              (NP *T*-1)
+                              (PP-DTV to
+				      (NP the struggling U.S. industry)))))))
+     (VP is
+         (NP-PRD (NP-PRD (QP $ 30 million) *U*)
+		 (PP in
+		     (NP (NP awards)
+			 (PP from
+			     (NP (NP the Pentagon 's)
+				 Defense Advanced Research Projects Agency))))))
+     .))
+( (S (NP-SBJ The DARPA funds)
+     (VP are
+         (NP-PRD a pittance)
+	 (PP compared
+	     (PP with
+		 (SBAR-NOM (WHNP-1 what)
+			   (S (NP-SBJ (NP Japan)
+				      and
+				      (NP other prospective competitors))
+			      (VP are
+				  (VP spending
+				      (NP *T*-1))))))))
+     .))
+( (S (NP-SBJ The Commerce Department)
+     (VP estimates
+         (SBAR that
+               (S (NP-SBJ (NP Japanese government and industry spending)
+                          (PP on
+                              (NP HDTV research)))
+                  (VP is
+                      (ADVP-TMP already)
+                      (PP-PRD over
+                              (NP (QP $ 1 billion) *U*))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (SBAR-ADV Unless
+			   (S (NP-SBJ it)
+			      (VP gets
+				  (NP more help))))
+		 ,
+		 (NP-SBJ the U.S. industry)
+		 (VP wo n't
+		     (VP have
+			 (NP a chance))))
+	,
+	''
+	(VP says
+	    (S *T*-1))
+	(NP-SBJ (NP Peter Friedman)
+		,
+		(NP (NP Photonics 's)
+		    executive vice president))
+	.))
+( (S (ADVP-TMP Thus far)
+     ,
+     (NP-SBJ (NP almost all)
+             (PP of
+                 (NP (NP the basic technology)
+                     (VP relating
+                         (PP to
+                             (NP high-definition television))))))
+     (VP has
+         (VP come
+             (PP-CLR from
+		     (NP U.S. laboratories))))
+     .))
+( (S But
+     (NP-SBJ (NP Peter Brody)
+	     ,
+	     (NP (NP Magnascreen 's)
+		 president)
+	     ,)
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ-1 Japanese companies)
+                  (VP are
+                      (VP poised
+                          (S (NP-SBJ *-1)
+                             (VP to
+                                 (VP (VP snatch
+                                         (NP the technology))
+                                     and
+                                     (VP put
+                                         (NP it)
+                                         (PP-PUT to
+						 (NP commercial use))))
+				 ,
+				 (SBAR-ADV just as
+					   (S (NP-SBJ they)
+					      (VP did
+						  (PP-CLR with
+							  (NP (NP earlier U.S. innovations)
+							      (PP in
+								  (NP (NP color television) and (NP video recording)))))))))))))))
+     .))
+( (S (PP-TMP In
+	     (NP the 1970s))
+     ,
+     (NP-SBJ-1 Mr. Brody)
+     (VP helped
+         (S (NP-SBJ *-1)
+	    (VP develop
+		(NP (NP the first display panels)
+		    (VP based
+			(NP *)
+			(PP-LOC-CLR on
+				    (NP active-matrix liquid crystals))))
+		(PP-LOC at
+			(NP (NP (NP Westinghouse Electric Corp. 's)
+				research labs)
+			    (PP-LOC in
+				    (NP Pittsburgh)))))))
+     .))
+( (S (NP-SBJ The panels)
+     (VP are
+         (PP-PRD like
+                 (NP (NP oversized semiconductors)
+                     (VP surfaced
+                         (NP *)
+                         (PP-CLR with
+				 (NP (NP (QP a million or more) picture elements)
+				     ,
+				     (NP (NP each)
+					 (VP contributing
+					     (PP-CLR to
+						     (NP (NP the color and tone)
+							 (PP of
+							     (NP a TV image))))))))))))
+     .))
+( (S (PP-TMP In
+	     (NP 1979))
+     ,
+     (ADVP however)
+     ,
+     (NP-SBJ Westinghouse)
+     (VP abandoned
+         (NP the project)
+         (PP along
+             (PP with
+                 (NP (NP its stake)
+                     (PP-LOC in
+			     (NP advanced television))))))
+     .))
+( (S (NP-SBJ-1 Mr. Brody)
+     (VP left
+         (NP the company)
+         (S-PRP (NP-SBJ *-1)
+		(VP to
+		    (VP find
+			(NP other backers)))))
+     .))
+( (S (S (NP-SBJ He)
+        (VP has
+            (NP (NP a claim)
+                (PP to
+                    (NP the right
+                        (S (NP-SBJ *)
+                           (VP to
+                               (VP commercialize
+                                   (NP the Westinghouse patents)))))))))
+     , but
+     (S (NP-SBJ he)
+        (VP contends
+            (SBAR that
+                  (S (NP-SBJ-1 those patents)
+                     (VP are
+			 (VP being
+			     (VP infringed
+				 (NP *-1)
+				 (PP by
+				     (NP-LGS (NP a number)
+					     (PP of
+						 (NP Japanese producers)))))))))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ Most American investors)
+	      (VP have
+		  (ADVP just)
+		  (VP given
+		      (PRT up))))
+     ,
+     ''
+     (NP-SBJ Mr. Brody)
+     (VP says
+	 (S *T*-1))
+     .))
+( (S ``
+     (NP-SBJ-1 They)
+     (VP are n't
+         (ADJP-PRD prepared
+                   (S (NP-SBJ *-1)
+                      (VP to
+                          (VP compete
+                              (PP-LOC in
+				      (NP (NP an area)
+					  (SBAR (WHADVP-2 where)
+						(S (NP-SBJ-3 the Japanese)
+						   (VP want
+						       (S (NP-SBJ *-3)
+							  (VP to
+							      (VP enter
+								  (ADVP-LOC *T*-2))))))))))))))
+     . ''))
+( (S (S (NP-SBJ Many critics)
+        (VP question
+            (NP (NP (NP the industry 's)
+		    need)
+		(PP for
+		    (NP federal support)))))
+     ;
+     (S (NP-SBJ the Pentagon)
+        (VP justifies
+            (NP its help)
+            (PP on
+                (NP national-security grounds))))
+     .))
+( (SINV ``
+	(S-TPC-1 (S (NP-SBJ We)
+		    (VP do n't
+			(VP see
+			    (NP (NP a domestic source)
+				(PP for
+				    (NP (NP some)
+					(PP of
+					    (NP our -LCB- HDTV -RCB- requirements))))))))
+		 , and
+		 (S (NP-SBJ that)
+		    (VP 's
+			(NP-PRD (NP a source)
+				(PP of
+				    (NP concern))))))
+	,
+	''
+	(VP says
+	    (S *T*-1))
+	(NP-SBJ (NP Michael Kelly)
+		,
+		(NP (NP director)
+		    (PP of
+			(NP (NP DARPA 's)
+			    defense manufacturing office))))
+	.))
+( (S (ADVP So)
+     (NP-SBJ-1 DARPA)
+     (VP is
+         (VP trying
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP keep
+                        (S (NP-SBJ the industry)
+			   (ADJP-PRD interested
+				     (PP in
+					 (S-NOM (NP-SBJ *)
+						(VP developing
+						    (NP large display panels)))))))))
+	     (PP-MNR by
+		     (S-NOM (NP-SBJ *-1)
+			    (VP doling
+				(PRT out)
+				(NP research funds))))))
+     .))
+( (S (NP-SBJ HDTV)
+     (ADVP-TMP already)
+     (VP has
+         (NP (NP some military applications)
+             ,
+             (PP such
+		 as
+		 (S-NOM (NP-SBJ *)
+			(VP (VP creating
+				(NP realistic flight simulations))
+			    and
+			    (VP transmitting
+				(NP information)
+				(PP-CLR to
+					(NP combat commanders))))))))
+     .))
+( (S (S (NP-SBJ The Navy)
+        (VP is
+            (VP ordering
+                (NP displays)
+                (PP-BNF for
+			(NP its Aegis cruisers)))))
+     and
+     (S (NP-SBJ the Army)
+        (VP wants
+            (NP (NP smaller versions)
+                (PP for
+                    (NP its Abrams battle tanks)))))
+     .))
+( (S (NP-SBJ-2 The Commerce Department)
+     (ADVP also)
+     (VP is
+         (VP trying
+             (S (NP-SBJ *-2)
+                (VP to
+                    (VP encourage
+                        (NP HDTV))))
+	     (PP-PRP because of
+		     (NP (NP the benefits)
+			 (SBAR (WHNP-1 that)
+			       (S (NP-SBJ *T*-1)
+				  (VP could
+				      (VP spin
+					  (ADVP off)
+					  (PP to
+					      (NP the semiconductor and computer industries))))))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ It)
+		 (VP is n't
+		     (NP-PRD just yuppie television)))
+	,
+	''
+	(VP argues
+	    (S *T*-1))
+	(NP-SBJ (NP Jack Clifford)
+		,
+		(NP (NP director)
+		    (PP of
+			(NP (NP (NP the department 's)
+				office)
+			    (PP of
+				(NP microelectronics and instrumentation))))))
+	.))
+( (S ``
+     (NP-SBJ The industry)
+     (VP will
+         (VP create
+             (NP (NP industrial products)
+                 (PP such
+		     as
+		     (NP (NP displays)
+			 (PP for
+			     (NP (NP work stations)
+				 and
+				 (NP medical diagnostic equipment))))))
+	     (SBAR-TMP before
+		       (S (NP-SBJ it)
+			  (VP acquires
+			      (NP a mass consumer market))))))
+     . ''))
+( (S (SBAR-ADV Although
+	       (S (NP-SBJ some HDTV advocates)
+		  (VP are
+		      (VP calling
+			  (PP-CLR for
+				  (NP (NP other forms)
+				      (PP of
+					  (NP aid))
+				      ,
+				      (PP such
+					  as
+					  (NP (NP antitrust relief)
+					      (PP for
+						  (NP research consortia))))
+				      ,))))))
+     (NP-SBJ the small firms)
+     (ADVP simply)
+     (VP would
+         (VP prefer
+             (NP more DARPA funds)))
+     .))
+( (S (NP-SBJ-1 Each)
+     (VP (VP claims
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP possess
+                        (NP the right technology)))))
+         and
+         (VP wants
+             (NP (QP just a bit more) money)
+             (S-PRP (NP-SBJ *)
+		    (VP to
+			(VP make
+			    (S (NP-SBJ it)
+			       (ADJP-PRD commercial)))))))
+     .))
+( (S (NP-SBJ They)
+     (ADVP also)
+     (VP want
+	 (S (NP-SBJ U.S. trade policy)
+            (VP to
+                (VP reflect
+                    (NP (NP (NP the Pentagon and Commerce department 's)
+			    concern)
+			(PP over
+			    (NP their future)))))))
+     .))
+( (S (NP-SBJ (NP They) 
+             (NP all))
+     (VP are
+         (ADJP-PRD strongly opposed
+                   (PP to
+                       (NP (NP a petition
+			       (S *ICH*-2))
+                           (PP from
+                               (NP (NP several Japanese TV manufacturers)
+                                   ,
+                                   (PP including
+                                       (NP Matsushita
+                                           ,
+                                           Hitachi
+                                           , and
+                                           Toshiba))
+                                   ,))
+                           (S-2 (NP-SBJ *)
+				(VP to
+				    (VP exempt
+					(NP (NP portable color TVs)
+					    (PP with
+						(NP liquid-crystal displays)))
+					(PP-CLR from
+						(NP (NP anti-dumping duties)
+						    (SBAR (WHNP-1 that)
+							  (S (NP-SBJ the U.S.)
+							     (VP imposes
+								 (NP *T*-1)
+								 (PP-LOC on
+									 (NP the larger Japanese color TVs))))))))))))))
+     .))
+( (S And
+     (NP-SBJ they)
+     (VP want
+	 (S (NP-SBJ the U.S.)
+            (VP to
+                (VP help
+                    (S (NP-SBJ them)
+		       (VP sell
+			   (ADVP-LOC overseas)))))))
+     .))
+( (S (NP-SBJ Planar President
+             James Hurd)
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ-1 he)
+                  (VP has
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP pay
+                                 (NP (NP tariffs)
+                                     (ADJP (ADJP as high)
+                                           (PP as
+                                               (NP 15 %)))))))
+		      (S-PRP (NP-SBJ *-1)
+			     (VP to
+				 (VP sell
+				     (NP his display panels)
+				     (PP-LOC in
+					     (NP (NP Japan)
+						 and
+						 (NP South Korea)))))))
+		  ,
+                  (SBAR-ADV while
+			    (S (NP-SBJ (NP panels)
+				       (PP from
+					   (NP those countries)))
+			       (VP enter
+				   (NP the U.S.)
+				   (ADVP-MNR duty-free)))))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ This)
+	      (VP is n't
+		  (NP-PRD (NP a technology issue)
+			  , but
+			  (NP an attitude issue))))
+     ,
+     ''
+     (NP-SBJ he)
+     (VP says
+	 (S *T*-1))
+     .))
+( (S ``
+     (NP-SBJ We)
+     (ADVP just)
+     (VP have n't
+         (VP learned
+             (SBAR (WHNP-1 what)
+                   (S (NP-SBJ it)
+                      (VP takes
+                          (NP *T*-1)
+                          (S-PRP (NP-SBJ *)
+				 (VP to
+				     (VP compete))))))))
+     .))

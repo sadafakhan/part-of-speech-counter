@@ -1,0 +1,83 @@
+
+
+( (S (NP-SBJ (NP Burmah Oil PLC)
+             ,
+             (NP a British independent oil and specialty-chemicals marketing concern)
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ SHV Holdings N.V.)
+                  (VP has
+                      (VP built
+                          (PRT up)
+                          (NP (NP a (ADJP 7.5 %) stake)
+			      (PP-LOC in
+				      (NP the company))))))))
+     .))
+( (S (NP-SBJ (NP The holding)
+             (PP of
+                 (NP (QP 13.6 million) shares)))
+     (VP is
+         (ADVP-PRD up)
+         (PP from
+	     (NP (NP a (ADJP 6.7 %) stake)
+		 (SBAR (WHNP-1 0)
+		       (S (NP-SBJ that Burmah)
+			  (VP announced
+			      (SBAR 0
+				    (S (NP-SBJ SHV)
+				       (VP held
+					   (NP *T*-1)
+					   (PP-TMP as 
+						   (PP of
+						       (NP last Monday))))))))))))
+     .))
+( (S (NP-SBJ-1 (NP SHV)
+	       ,
+	       (PP of
+		   (NP the Netherlands))
+	       ,
+               (SBAR (SBAR (WHNP-3 which)
+                           (S (NP-SBJ *T*-3)
+                              (NP-TMP last year)
+                              (VP merged
+                                  (NP its North Sea oil and gas operations)
+                                  (PP-CLR with
+					  (NP (NP those)
+					      (PP of
+						  (NP Calor Group PLC)))))))
+                     and
+                     (SBAR (WHNP-2 which)
+                           (S (NP-SBJ *T*-2)
+                              (VP owns
+                                  (NP (NP 40 %)
+				      (PP of
+					  (NP Calor)))))))
+               ,)
+     (VP was
+         (VP identified
+             (NP *-1)
+             (PP-CLR as
+		     (NP (NP a possible suitor)
+			 (PP for
+			     (NP Burmah))))))
+     .))
+( (S (NP-SBJ Burmah)
+     (VP said
+         (SBAR (SBAR 0
+                     (S (NP-SBJ it)
+                        (VP had n't
+                            (VP held
+                                (NP (NP any discussions)
+                                    (PP with
+                                        (NP SHV)))))))
+               and
+               (SBAR that
+		     ``
+		     (S (NP-SBJ (NP no deal)
+                                (PP of
+                                    (NP any nature)))
+                        (VP is
+                            (PP-PRD in
+                                    (NP contemplation)))))))
+     .))

@@ -1,0 +1,159 @@
+
+
+( (S (S (NP-SBJ-1 One company)
+        (ADVP-TMP recently)
+        (VP was
+            (VP listed
+                (NP *-1)
+                (PP-LOC on
+			(NP the New York Stock Exchange)))))
+     , and
+     (S (NP-SBJ another)
+        (VP will
+            (VP join
+                (NP the Big Board)
+                (PP from
+                    (NP the over-the-counter market))
+		(NP-TMP this week))))
+     .))
+( (S (NP-SBJ-1 (NP Putnam Investment Grade Municipal Trust)
+               ,
+               (NP Boston)
+               ,)
+     (VP was
+         (VP listed
+             (NP *-1)
+             (PP-CLR with
+		     (NP (NP the symbol)
+			 (NP PGM)))))
+     .))
+( (S (NP-SBJ The new closed-end management investment company)
+     (VP trades
+         (NP (NP shares)
+             (PP of
+                 (NP beneficial interest))))
+     .))
+( (S (NP-SBJ It)
+     (VP invests
+         (ADVP primarily)
+         (PP-LOC-CLR in
+		     (NP tax-exempt municipal securities)))
+     .))
+( (S (NP-SBJ (NP Hibernia Corp.)
+             ,
+             (NP a New Orleans bank holding company)
+             ,)
+     (VP will
+         (VP join
+             (NP the Big Board Thursday)
+             (PP-LOC under
+		     (NP HIB))))
+     .))
+( (S (NP-SBJ-1 Three companies)
+     (VP began
+         (S (NP-SBJ *-1)
+            (VP trading
+                (PP-MNR over
+			(NP the counter)))))
+     .))
+( (S (NP-SBJ (NP Exabyte Corp.)
+             ,
+             (NP (NP a
+		     (NAC-LOC Boulder
+			      ,
+			      Colo.
+			      ,)
+		     maker)
+		 (PP of
+		     (NP (NP high-capacity tape cartridge systems)
+			 (VP used
+			     (NP-1 *)
+			     (S-CLR (NP-SBJ *-1)
+				    (VP to
+					(VP back
+					    (PRT up)
+					    (NP computer disk drives))))))))
+             ,)
+     (VP started
+         (NP OTC trading)
+         (PP with
+             (NP the symbol
+                 EXBT)))
+     .))
+( (S (NP-SBJ-1 (NP (NP Rally 's)
+		   Inc.)
+	       ,
+	       (NP a
+		   (NAC-LOC Louisville
+			    ,
+			    Ky.
+			    ,)
+		   restaurant franchisor)
+	       ,)
+     (VP started
+         (S (NP-SBJ *-1)
+            (VP trading
+                (PP under
+                    (NP RLLY)))))
+     .))
+( (S (NP-SBJ-1 (NP Sierra Tucson Cos.)
+	       ,
+	       (NP (NP Tucson)
+		   ,
+		   (NP Ariz.))
+	       ,)
+     (VP started
+         (S (NP-SBJ *-1)
+            (VP trading
+                (PP-LOC under
+			(NP STSN)))))
+     .))
+( (S (NP-SBJ It)
+     (VP operates
+         (NP (NP various types)
+	     (PP of
+		 (NP addiction-treatment facilities))))
+     .))
+( (S (ADVP Separately)
+     ,
+     (PP-LOC on
+	     (NP the Pacific Stock Exchange))
+     ,
+     (NP-SBJ-1 (NP put and call options)
+	       (PP on
+		   (NP (NP the common stock)
+		       (PP of
+			   (NP Aldus Corp.)))))
+     (VP started
+         (S (NP-SBJ *-1)
+            (VP trading)))
+     .))
+( (S (NP-SBJ (NP Aldus)
+             ,
+             (NP Seattle)
+             ,)
+     (VP makes
+         (NP computer software products))
+     .))
+( (S (NP-SBJ Options)
+     (VP give
+         (NP a holder)
+         (NP (NP (NP the right)
+                 (S *RNR*-1))
+             , 
+	     (CONJP but
+		    not)
+	     (NP (NP the obligation)
+                 (S *RNR*-1))
+             ,
+             (S-1 (NP-SBJ *)
+                  (VP to
+		      (VP buy or sell
+			  (NP a security)
+			  (PP-CLR at
+				  (NP a set price))
+			  (PP-TMP within
+				  (NP (NP a set period)
+				      (PP of
+					  (NP time)))))))))
+     .))

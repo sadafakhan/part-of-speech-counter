@@ -1,0 +1,203 @@
+
+
+( (S (NP-SBJ (NP Chairman
+                 Jamie Whitten)
+             (PRN -LRB-
+		  (NP (NP D.)
+		      ,
+		      (NP-LOC Miss .))
+		  -RRB-)
+	     (PP of
+                 (NP the House Appropriations Committee)))
+     (VP proposed
+         (NP (NP a (ADJP (QP $ 2.85 billion) *U*) emergency funding package)
+	     (SBAR (WHADVP-1 0)
+		   (S (NP-SBJ *)
+		      (VP to
+			  (VP (VP assist
+				  (NP (NP (NP California 's)
+					  recovery)
+				      (PP from
+					  (NP (NP last week 's)
+					      earthquake))))
+			      and
+			      (VP extend
+				  (NP further aid)
+				  (PP-CLR to
+					  (NP (NP East Coast victims)
+					      (PP of
+						  (NP Hurricane Hugo)))))
+			      (ADVP *T*-1)))))))
+     .))
+( (S (NP-SBJ The sweeping measure)
+     (VP incorporates
+         (NP (NP (NP (QP $ 500 million) *U*)
+		 (PP in
+		     (NP small-business loans)))
+             ,
+             (NP (NP (QP $ 1 billion) *U*)
+                 (PP in
+                     (NP highway-construction funds)))
+             and
+             (NP (NP (QP $ 1.25 billion) *U*)
+                 (VP divided
+                     (NP *)
+                     (PP-CLR between
+			     (NP (NP general emergency assistance)
+				 and
+				 (NP (NP a reserve)
+				     (SBAR (WHNP-2 0)
+					   (S (NP-SBJ *T*-2)
+					      (VP to
+						  (VP be
+						      (ADJP-PRD available
+								(PP to
+								    (NP President Bush))
+								(S (NP-SBJ *)
+								   (VP to
+								       (VP meet
+									   (NP (NP unanticipated costs)
+									       (PP from
+										   (NP the two disasters))))))))))))))))))
+     .))
+( (S (NP-SBJ-1 The funds)
+     (VP would
+	 (VP be
+	     (VP attached
+		 (NP *-1)
+		 (PP-CLR to
+			 (NP (NP a stop-gap spending bill)
+			     (VP required
+				 (S (NP-SBJ *)
+				    (VP to
+					(VP keep
+					    (S (NP-SBJ (NP most)
+						       (PP of
+							   (NP the government)))
+					       (VP operating
+						   (PP-TMP past
+							   (NP Wednesday)))))))))))))
+     .))
+( (S (NP-SBJ-2 The measure)
+     (VP is
+         (VP scheduled
+             (S (NP-SBJ-1 *-2)
+                (VP to
+		    (VP be
+			(VP taken
+			    (NP *-1)
+			    (PRT up)
+			    (PP by
+				(NP-LGS the Appropriations Committee))
+			    (NP-TMP today)))))))
+     .))
+( (S (NP-SBJ-1 The panel)
+     (VP (VP is
+	     (VP expected
+		 (S (NP-SBJ *-1)
+		    (VP to
+			(VP add
+			    (NP (NP provisions)
+				(VP waiving
+				    (NP (NP restrictions)
+					(PP on
+					    (NP (NP the use)
+						(PP of
+						    (NP federal highway funds))))))))))))
+	 and
+	 (VP may also
+	     (VP shift
+		 (NP money)
+		 (PP-LOC within
+			 (NP the package))
+		 (S-PRP (NP-SBJ *-1)
+			(VP to
+			    (VP bolster
+				(NP (NP the share)
+				    (PP for
+					(NP the Small Business Administration)))))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (S (NP-SBJ We)
+		    (VP will
+			(VP support
+			    (NP it))))
+		 ,
+		 (S (NP-SBJ we)
+		    (VP will
+			(VP thank
+			    (NP him))))
+		 , and
+		 (S (NP-SBJ we)
+		    (VP will
+			(VP augment
+			    (NP it)
+			    (SBAR-LOC (WHADVP where)
+				      (FRAG (ADJP appropriate)))))))
+	,
+	''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP Rep. Vic Fazio)
+		(PRN -LRB-
+		     (NP (NP D.)
+			 ,
+			 (NP-LOC Calif .))
+		     -RRB-))
+	.))
+( (S (S-ADV (NP-SBJ *-1)
+	    (VP Dubbed
+		(NP (NP the `` Dire Emergency Supplemental)
+		    (SBAR (WHNP-2 0)
+			  (S (NP-SBJ *T*-2)
+			     (VP to
+				 (VP Meet
+				     (NP (NP the Needs)
+					 (PP of
+					     (NP (NP Natural Disasters)
+						 (PP of
+						     (NP National Significance))))))))))))
+     , ''
+     (NP-SBJ-1 the measure)
+     (VP is
+	 (NP-PRD vintage Whitten)
+	 (PP (PP in
+		 (S-NOM (NP-SBJ *)
+			(VP asserting
+			    (NP federal responsibility))))
+	     and
+	     (PP in
+		 (S-NOM (NP-SBJ *)
+			(VP disdaining
+			    (NP budget impediments))))))
+     .))
+( (S-1 (S ``
+	  (NP-SBJ-2 Such other amounts)
+	  (VP will
+	      (VP be
+		  (VP made
+		      (S (NP-SBJ *-2)
+			 (ADJP-PRD available))
+		      (ADVP-TMP subsequently)
+		      (SBAR-ADV as
+				(FRAG (VP required)))))))
+       (PRN ,
+	    ''
+	    (S (NP-SBJ the legislation)
+	       (VP reads
+		   (SBAR 0
+			 (S *T*-1))))
+	    ,)
+       and
+       (S (NP-SBJ the new obligations)
+	  ``
+	  (VP shall not
+	      (VP be
+		  (NP-PRD (NP a charge)
+			  (PP against
+			      (NP (NP the Budget Act)
+				  ,
+				  (NP Gramm-Rudman-Hollings)
+				  , or
+				  (NP other ceilings)))))))
+       .))

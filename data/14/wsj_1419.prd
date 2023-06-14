@@ -1,0 +1,617 @@
+
+
+( (S (NP-SBJ Qintex Australia Ltd.)
+     (VP encountered
+         (NP another setback)
+	 (NP-TMP Friday)
+	 (SBAR-ADV (WHADVP-1 when)
+		   (S (NP-SBJ (NP its Los Angeles-based affiliate)
+			      ,
+			      (NP Qintex Entertainment Inc.)
+			      ,)
+		      (VP filed
+			  (PP-CLR for
+				  (NP (NP protection)
+				      (PP-LOC under
+					      (NP (NP Chapter 11)
+						  (PP of
+						      (NP the U.S. Bankruptcy Code))))))
+			  (ADVP-TMP *T*-1)))))
+     .))
+( (S (NP-SBJ Qintex Entertainment)
+     (VP (ADVP also)
+         said
+         (SBAR 0
+               (S (NP-SBJ (NP (NP (NP David Evans)
+                                  ,
+                                  (NP its president
+                                      and
+                                      chief executive))
+                              , and
+                              (NP (NP Roger Kimmel)
+                                  ,
+                                  (NP a director))
+                              ,))
+		  (ADVP both)
+                  (VP resigned))))
+     .))
+( (S (NP-SBJ-1 Neither)
+     (VP could
+	 (VP be
+	     (VP reached
+		 (NP *-1)
+		 (PP-CLR for
+			 (NP comment)))))
+     .))
+( (S (NP-TMP Earlier this month)
+     ,
+     (NP-SBJ (NP Qintex Australia 's)
+             (ADJP (QP $ 1.5 billion) *U*) agreement
+             (S (NP-SBJ *)
+                (VP to
+                    (VP acquire
+                        (NP MGM/UA Communications Co.)))))
+     (VP collapsed
+         (PP-PRP because of
+		 (NP (NP a dispute)
+		     (PP over
+			 (NP (NP a (ADJP (QP $ 50 million) *U*) letter)
+			     (PP of
+				 (NP credit))
+			     (SBAR (WHNP-1 0)
+				   (S (NP-SBJ (NP the Australian operator)
+					      (PP of
+						  (NP television stations and resorts)))
+				      (VP was
+					  (S-PRD (NP-SBJ *)
+						 (VP to
+						     (VP have
+							 (VP supplied
+							     (NP *T*-1)
+							     (PP-CLR as
+								     (NP (NP security)
+									 (PP-LOC in
+										 (NP the transaction))))))))))))))))
+     .))
+( (S (NP-SBJ Mr. Evans)
+     (VP had
+         (VP been
+             (NP-PRD (NP the de facto head)
+                     (PP of
+                         (NP MGM/UA)))
+	     (PP-TMP for
+		     (NP months))))
+     .))
+( (S (NP-SBJ (NP Qintex Entertainment)
+             ,
+             (NP (NP (NP a producer and distributor)
+                     (PP of
+                         (NP television programs)))
+		 (VP (ADVP most)
+		     noted
+		     (NP *)
+                     (PP-CLR for
+			     (NP (NP its co-production)
+				 (PP of
+				     (NP (NP the hit miniseries)
+					 (NP-TTL `` Lonesome Dove)))))))
+             , '')
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP filed
+                      (PP-CLR for
+			      (NP Chapter 11 protection))
+		      (SBAR-TMP after
+				(S (NP-SBJ-1 Qintex Australia)
+				   (VP failed
+				       (S (NP-SBJ *-1)
+					  (VP to
+					      (VP provide
+						  (NP it)
+						  (PP-CLR with
+							  (NP (NP (QP $ 5.9 million) *U*)
+							      (VP owed
+								  (NP *)
+								  (PP-DTV to
+									  (NP MCA Inc.))
+								  (PP in
+								      (NP (NP connection)
+									  (PP with
+									      (NP (NP the distribution)
+										  (PP of
+										      ``
+										      (NP-TTL The New
+											      (NAC-TTL (S-TTL (NP-SBJ *)
+													      (VP Leave
+														  (NP It)
+														  (PP to
+														      (NP Beaver))))
+												       Show))))))))))))))))))))
+     . ''))
+( (S (NP-SBJ Qintex Entertainment)
+     (VP (VP is
+             (ADJP-PRD (NP-EXT 43 %)
+		       owned
+		       (PP by
+			   (NP-LGS Qintex Australia))))
+         and
+         (VP said
+             (SBAR 0
+                   (S (NP-SBJ it)
+                      (VP relies
+                          (PP-CLR on
+				  (NP the Australian company))
+                          (PP for
+                              (S-NOM (NP-SBJ *)
+				     (VP funding
+					 (NP its working capital requirements)))))))))
+     .))
+( (S (PP After
+         (NP (NP the announcement)
+             (PP of
+                 (NP the bankruptcy filing))))
+     ,
+     (NP-SBJ-1 Qintex Entertainment stock)
+     (VP sank
+         (NP-EXT $ 2.625 *U*)
+         (PP-LOC in
+		 (NP over-the-counter trading))
+         (S-ADV (NP-SBJ *-1)
+		(VP to
+		    (VP close
+			(PP-CLR at
+				(NP $ 1.50 *U*))
+			(PP on
+			    (NP (NP heavy volume)
+				(PP of
+				    (NP (QP more
+					    than
+					    1.4 million)
+					 shares))))))))
+     .))
+( (S (NP-SBJ The stock)
+     (VP traded
+         (ADJP (ADJP as high)
+               (PP as
+                   (NP $ 10 *U*)))
+	 (NP-TMP this past summer))
+     .))
+( (S (NP-SBJ (NP Jonathan Lloyd)
+             ,
+             (NP (NP (NP executive vice president)
+		     and
+		     (NP chief financial officer))
+		 (PP of
+                     (NP Qintex Entertainment)))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 Qintex Entertainment)
+                  (VP was
+                      (VP forced
+                          (S (NP-SBJ *-1)
+                             (VP to
+                                 (VP file
+                                     (PP-CLR for
+					     (NP protection))
+				     (S-PRP (NP-SBJ-2 *)
+					    (VP to
+						(VP avoid
+						    (S (NP-SBJ *-2)
+						       (VP going
+							   (PP-CLR into
+								   (NP default))
+							   (PP-LOC under
+								   (NP (NP its agreement)
+								       (PP with
+									   (NP MCA)))))))))))))))))
+     .))
+( (S (S (NP-SBJ The (ADJP (QP $ 5.9 million) *U*) payment)
+        (VP was
+            (ADJP-PRD due
+                      (NP-TMP Oct. 1))))
+     and
+     (S (NP-SBJ (NP the deadline)
+                (PP for
+                    (NP default)))
+        (VP was
+            (NP-PRD Oct. 19)))
+     .))
+( (S (NP-SBJ Mr. Lloyd)
+     (VP said
+         (S (SBAR-ADV if
+		      (S (NP-SBJ Qintex)
+			 (VP had
+			     (VP defaulted))))
+            (NP-SBJ-1 it)
+            (VP could
+		(VP have
+		    (VP been
+			(VP required
+			    (S (NP-SBJ *-1)
+			       (VP to
+				   (VP repay
+				       (NP (NP (QP $ 92 million) *U*)
+					   (PP in
+					       (NP debt))))))
+			    (PP-LOC under
+				    (NP its loan agreements))))))))
+     .))
+( (S (NP-SBJ MCA)
+     (PP-TMP on
+	     (NP Friday))
+     (VP said
+         (SBAR that
+               (S (PP-PRP as
+			  (NP (NP a result)
+			      (PP of
+				  (NP (NP Qintex 's)
+				      failure
+				      (S (NP-SBJ *)
+					 (VP to
+					     (VP make
+						 (NP the required payment))))))))
+                  (NP-SBJ it)
+                  (VP was
+                      (VP terminating
+                          (NP (NP the distribution agreement)
+                              (PP on
+                                  (NP (NP-TTL `` The New
+					      (S-TTL (NP-SBJ *)
+						     (VP Leave
+							 (NP It)
+							 (PP-CLR to
+								 (NP Beaver))))
+					      '')
+                                      (CONJP as well
+					     as)
+				      (NP other MCA properties)))))))))
+     .))
+( (S (NP-SBJ Qintex Australia)
+     (VP was
+	 ``
+	 (VP saying
+             (ADVP-TMP (ADVP as recently)
+		       (PP as
+			   (NP last weekend)))
+             (SBAR that
+                   (S (NP-SBJ they)
+                      (VP would
+                          (VP take
+                              (NP-CLR care)
+			      (PP of
+				  (NP the situation))))))))
+     .))
+( (SINV (S-TPC-2 (NP-SBJ-1 They)
+		 (VP continued
+		     (S (NP-SBJ *-1)
+			(VP to
+			    (VP represent
+				(NP that)
+				(PP-CLR to
+					(NP the board))))))
+		 , '')
+	(VP said
+	    (S *T*-2))
+	(NP-SBJ Mr. Lloyd)
+	.))
+( (S ``
+     (NP-SBJ We)
+     (VP were
+         (VP reassured
+             (SBAR 0
+                   (S (NP-SBJ they)
+                      (VP would
+                          (VP stand
+                              (PP-LOC-CLR behind
+					  (NP the company))))))))
+     . ''))
+( (S (NP-SBJ Mr. Lloyd)
+     (VP said
+         (SBAR 0
+               (S (S (NP-SBJ-3 both
+			       (NP Qintex Entertainment)
+			       and
+			       (NP Qintex Australia))
+                     (VP had
+                         (VP attempted
+                             (S (NP-SBJ *-3)
+                                (VP to
+                                    (VP secure
+                                        (NP (NP a loan)
+                                            (SBAR (WHNP-2 that)
+                                                  (S (NP-SBJ *T*-2)
+                                                     (VP would
+                                                         (VP allow
+                                                             (S (NP-SBJ the company)
+                                                                (VP to
+                                                                    (VP make
+                                                                        (NP the (ADJP (QP $ 5.9 million) *U*) payment)))))))))))))))
+                  but
+                  (S (NP-SBJ-1 the request)
+                     (VP was
+                         (VP turned
+                             (NP-PRD *-1)
+                             (ADVP-CLR down)
+                             (PP by
+                                 (NP-LGS an unidentified lender))
+			     (PP-TMP on
+				     (NP Oct. 14))))))))
+     .))
+( (S-1 (PP-TMP At
+	       (NP that point))
+       (PRN ,
+	    (S (NP-SBJ he)
+	       (VP said
+		   (SBAR 0
+			 (S *T*-1))))
+	    ,)
+       (NP-SBJ Qintex Australia)
+       (VP stated
+	   (SBAR 0
+		 (S (NP-SBJ-2 it)
+		    (VP would
+			``
+			(VP endeavor
+			    (S (NP-SBJ *-2)
+			       (VP to
+				   (VP arrange 
+				       ''
+				       (NP the financing)))))))))
+       .))
+( (S (ADVP However)
+     (NP-SBJ a Qintex Australia spokesman)
+     (VP said
+	 (SBAR 0
+	       (S (NP-SBJ-1 his firm)
+		  (VP had
+		      (ADVP-TMP never)
+		      (VP ``
+			  promised
+			  or
+			  guaranteed
+			  ''
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP make
+				     (NP the payment)))))))))
+     .))
+( (S (PP-LOC In
+	     (NP (NP a prepared statement)
+		 (PP from
+		     (NP Australia))))
+     ,
+     (NP-SBJ the company)
+     (VP (ADVP also)
+         said
+         (SBAR that
+               (S ,
+                  (PP-TMP following
+			  (NP (NP the breakdown)
+			      (PP of
+				  (NP the MGM talks))))
+                  ,
+                  (NP-SBJ-1 it)
+		  (VP ``
+		      (VP had 
+			  (VP been
+			      (VP re-evaluating
+				  (NP (NP its position)
+				      (PP as
+					  (NP (NP (NP a significant shareholder)
+						  and
+						  (NP a substantial creditor))
+					      (PP of
+						  (NP Qintex Entertainment)))))))
+			  '')
+		      and
+		      (VP had
+			  ``
+			  (VP resolved
+			      (S (NP-SBJ *-1)
+				 (VP to
+				     (VP minimize
+					 (NP (NP the degree)
+					     (PP of
+						 (NP (NP further loans)
+						     (PP to
+							 (NP Qintex Entertainment))
+						     (PP in
+							 (NP (NP excess)
+							     (PP of
+								 (NP (NP that)
+								     (VP (ADVP-TMP previously)
+									 made)))))))))))))))))
+     . ''))
+( (S (NP-SBJ The Qintex Australia spokesman)
+     (VP added
+         (SBAR that
+               (S (NP-SBJ his company)
+                  (VP had
+                      (VP opposed
+                          (NP the Chapter 11 filing))))))
+     .))
+( (S (NP-SBJ He)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the company)
+                  (VP believed
+                      (SBAR 0
+                            (S (NP-SBJ-1 (NP Qintex Entertainment 's)
+                                         financial problems)
+                               (VP could
+				   (VP have
+				       (VP been
+					   (VP resolved
+					       (NP *-1)
+					       (PP-MNR by
+						       (NP other means))))))))))))
+     .))
+( (S (NP-SBJ (NP The report)
+             (PP of
+                 (NP the bankruptcy filing)))
+     (VP stunned
+         (NP Hollywood executives and investors))
+     .))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ It)
+		 (VP 's
+		     (NP-PRD a shocker)))
+	,
+	''
+	(VP said
+	    (SBAR 0
+		  (S *T*-2)))
+	(NP-SBJ (NP Joseph Di Lillo)
+		,
+		(NP (NP chairman)
+		    (PP of
+			(NP (NP Drake Capital Securities)
+			    ,
+			    (NP (NP a brokerage firm)
+				(SBAR (WHNP-1 that)
+				      (S (NP-SBJ *T*-1)
+					 (VP has
+					     (NP (NP an investment)
+						 (PP-LOC in
+							 (NP Qintex Entertainment)))))))))))
+	.))
+( (S (S (NP-SBJ-1 Qintex Australia)
+        (VP was
+	    ``
+	    (VP going
+                (S (NP-SBJ *-1)
+                   (VP to
+                       (VP pay
+			   (NP (QP more
+				   than
+				   $ 1 
+				   billion ) *U*)
+			   (PP-CLR for
+				   (NP MGM/UA))))))))
+     and
+     (S (ADVP-TMP then)
+        (NP-SBJ they)
+        (VP could n't
+            (VP come
+                (PRT up)
+                (PP-CLR with
+			(NP (NP the
+				(ADJP far smaller)
+				sum)
+			    (PP of
+				(NP (QP $ 5.9 million) *U*)))))))
+     . ''))
+( (S (NP-SBJ Qintex)
+     (VP said
+         (SBAR (SBAR 0
+                     (S (NP-SBJ (NP Mr. Evans)
+                                ,
+                                (NP the former president)
+                                ,)
+                        (VP resigned
+                            (PP-PRP for
+				    (NP `` personal reasons '')))))
+               and
+               (SBAR that
+                     (S (NP-SBJ (NP Mr. Kimmel)
+                                ,
+                                (NP an attorney)
+                                ,)
+                        (VP resigned
+                            (SBAR-PRP because
+				      (S (NP-SBJ (NP his participation)
+						 (PP in
+						     (S-NOM (NP-SBJ *)
+							    (VP evaluating
+								(NP (NP (NP the company 's)
+									role)
+								    (PP in
+									(S-NOM (NP-SBJ *)
+									       (VP buying
+										   (NP MGM/UA)))))))))
+					 (VP was
+					     (ADJP-PRD no longer necessary)))))))))
+     .))
+( (S (NP-SBJ Mr. Kimmel)
+     (VP was
+         (NP-PRD (NP a director)
+                 (PP of
+                     (NP (NP the company)
+                         and
+                         (NP a predecessor firm))))
+	 (PP-TMP since
+		 (NP 1980)))
+     .))
+( (S (NP-SBJ-2 The announcement)
+     (VP seemed
+         (S (NP-SBJ *-2)
+            (VP to
+                (VP (ADVP further)
+                    damp
+                    (NP (NP prospects)
+                        (SBAR that
+                              (S (NP-SBJ-1 (NP talks)
+                                           (PP between
+                                               (NP (NP Qintex Australia)
+                                                   and
+                                                   (NP MGM/UA))))
+                                 (VP might
+				     (VP be
+					 (VP revived
+					     (NP *-1)))))))))))
+     .))
+( (S (NP-SBJ It)
+     (VP 's
+         (VP understood
+             (SBAR that
+                   (S (NP-SBJ MGM/UA)
+                      (ADVP-TMP recently)
+		      (VP contacted
+                          (NP (NP (NP Rupert Murdoch 's)
+                                  News Corp.)
+                              ,
+                              (SBAR (WHNP-1 which)
+                                    (S (NP-SBJ *T*-1)
+                                       (VP made
+                                           (NP (NP two failed bids)
+                                               (PP for
+                                                   (NP the movie studio))))))
+                              ,)
+			  (S-PRP (NP-SBJ *)
+				 (VP to
+				     (VP see
+					 (SBAR-ADV if
+						   (S (NP-SBJ the company)
+						      (VP was
+							  (ADJP-PRD still interested))))))))))))
+     .))
+( (S (ADVP However)
+     , ``
+     (NP-SBJ we)
+     (VP are n't
+         (ADVP-TMP currently)
+         (VP doing
+             (NP anything)))
+     .))
+( (SINV (S-TPC-1 (NP-SBJ It)
+		 (VP is n't
+		     (NP-PRD (NP a current topic)
+			     (PP of
+				 (NP conversation)))
+		     (PP-LOC at
+			     (NP the company)))
+		 , '')
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP Barry Diller)
+		,
+		(NP (NP chairman)
+		    and
+		    (NP chief executive officer)
+		    (PP of
+			(NP (NP the Fox Inc. unit)
+			    (PP of
+				(NP News Corp))))))
+	.))

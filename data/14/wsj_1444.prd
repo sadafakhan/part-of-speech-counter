@@ -1,0 +1,73 @@
+
+
+( (S (NP-SBJ The following issues)
+     (VP were
+         (ADVP-TMP recently)
+         (VP filed
+	     (PP-CLR with
+		     (NP the Securities and Exchange Commission))))
+     :))
+( (NP (NP (NP Heller Financial Inc.)
+          ,
+          (NP (NP an indirect subsidiary)
+              (PP of
+                  (NP Fuji Bank Ltd.)))
+          ,)
+      (NP (NP shelf offering)
+          (PP of
+              (NP (ADJP (QP up
+			    to
+			    $ 1 billion)
+			*U*)
+		  debt securities and warrants)))
+      .))
+( (NP (NP Jason Overseas Ltd.)
+      ,
+      (NP (NP (NP proposed offering)
+              (PP of
+                  (NP (QP five million) common shares)))
+          ,
+          (PP via
+              (NP (NP Smith Barney & Co.)
+                  and
+                  (NP Mabon Nugent & Co))))
+      .))
+( (NP (NP MCI Communications Corp.)
+      ,
+      (NP (NP (NP shelf offering)
+              (PP of
+                  (NP (NP (QP up
+			      to
+			      $ 750 million)
+			  *U*)
+		      (PP of
+			  (NP debt securities)))))
+          (PP via
+              (NP (NP Merrill Lynch Capital Markets)
+                  ,
+                  (NP Drexel Burnham Lambert Inc.)
+                  ,
+                  (NP Goldman , Sachs & Co.)
+                  , and
+                  (NP Salomon Brothers Inc))))
+      .))
+( (NP (NP Millicom Inc.)
+      ,
+      (NP (NP (NP offering)
+              (PP of
+                  (NP (ADJP (QP $ 60 million) *U*) subordinated exchangeable debentures)))
+          ,
+          (PP via
+              (NP Bear , Stearns & Co. Inc)))
+      .))
+( (NP (NP Union Tank Car Co.)
+      ,
+      (NP (NP (NP offering)
+              (PP of
+                  (NP (NP (QP $ 100 million) *U*)
+		      (PP of
+			  (NP equipment trust certificates)))))
+          ,
+          (PP via
+              (NP Salomon Brothers)))
+      .))

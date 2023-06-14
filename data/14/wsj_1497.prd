@@ -1,0 +1,100 @@
+
+
+( (S (SBAR-ADV While
+	       (S (NP-SBJ *-1)
+		  (VP welcoming
+		      (NP (NP (NP Nicholas McInnes 's)
+			      Sept. 18 letter)
+			  (VP offering
+			      (NP (NP corrections)
+				  (PP to
+				      (NP your `` World-Wide Tax Revolution '' table))))
+			  (PRN -LRB-
+			       (NP (NP editorial page)
+				   ,
+				   (NP-TMP Aug. 29))
+			       -RRB-)))))
+     ,
+     (NP-SBJ-1 I)
+     (VP am
+         (VP surprised
+             (NP *-1)
+             (SBAR that
+                   (S (NP-SBJ he)
+                      (VP neglected
+                          (NP (NP other errors)
+                              (SBAR (WHNP-2 that)
+                                    (S (NP-SBJ *T*-2)
+                                       ,
+                                       (PP for
+                                           (NP (NP some)
+                                               (PP of
+                                                   (NP us))))
+                                       ,
+                                       (VP strike
+                                           (ADVP-LOC close
+						     (PP to
+							 (NP home))))))))))))
+     .))
+( (S (PP As
+         (NP a Channel Islander))
+     ,
+     (NP-SBJ-1 I)
+     (VP was
+         (VP amazed
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP see
+                        (S (NP-SBJ my birthplace)
+			   (VP listed
+			       (PP-CLR as
+				       (NP (NP one)
+					   (PP of
+					       (NP ``
+						   (NP 86 countries)
+						   (PP with
+						       (NP an income tax)))))))))))))
+     . ''))
+( (S (PP Despite
+         (NP (NP a history)
+             (PP of
+                 (NP (NP heated local debate)
+                     (PP on
+                         (NP the topic))))))
+     ,
+     (NP-SBJ my passport)
+     (ADVP-MNR clearly)
+     (VP reads
+	 ``
+	 (NP British citizen))
+     . ''))
+( (S (SBAR-NOM-SBJ Whether
+		   (S (NP-SBJ (NP Mr. McInnes
+				  's)
+			      oversight)
+		      (VP is
+			  (ADVP merely)
+			  (NP-PRD (NP a sign)
+				  (PP of
+				      (NP (NP a mainlander 's)
+					  benign neglect))))))
+     (VP is
+         (NP-PRD (NP a question)
+                 (SBAR (WHNP-1 0)
+                       (S (NP-SBJ-2 (NP my fellow Channel Islanders)
+				    (PRN -LRB-
+					 and
+					 (NP (NP friends)
+					     (PP-LOC on
+						     (NP (NP the Isle)
+							 (PP of
+							     (NP Man)))))
+					 -RRB-))
+                          (VP will
+                              (VP continue
+                                  (S (NP-SBJ *-2)
+                                     (VP to
+                                         (VP ponder
+					     (NP *T*-1))))))))))
+     .))
+( (NP Patrick Basham))

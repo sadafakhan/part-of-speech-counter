@@ -1,0 +1,603 @@
+
+
+( (S (NP-SBJ This city)
+     (VP is
+         (VP girding
+             (PP-CLR for
+		     (NP gridlock))
+	     (NP-TMP today)
+	     (SBAR-TMP as
+		       (S (NP-SBJ (NP hundreds)
+				  (PP of
+				      (NP (NP thousands)
+					  (PP of
+					      (NP commuters)))))
+			  (VP avoid
+			      (NP (NP travel routes)
+				  (VP ravaged
+				      (NP *)
+				      (PP by
+					  (NP-LGS (NP last week 's)
+						  earthquake)))))))))
+     .))
+( (S (NP-SBJ (NP Estimates)
+             (PP of
+                 (NP (NP damage)
+                     (PP-LOC in
+			     (NP the six-county San Francisco Bay area)))))
+     (VP neared
+         (NP (QP $ 5 billion) *U*)
+	 ,
+	 (PP excluding
+	     (NP (NP the cost)
+		 (PP of
+		     (S-NOM (NP-SBJ *)
+			    (VP repairing
+				(NP (NP the region 's)
+				    transportation system)))))))
+     .))
+( (S (NP-SBJ-1 (NP The Bay Bridge)
+               ,
+               (NP (NP the main artery)
+                   (PP-DIR into
+			   (NP San Francisco))
+		   (PP-DIR from
+			   (NP the east)))
+               ,)
+     (VP will
+	 (VP be
+	     (VP closed
+		 (NP *-1)
+		 (PP-TMP for
+			 (NP (QP at
+				 least
+				 several)
+			     weeks)))))
+     .))
+( (S (NP-SBJ (NP Part)
+             (PP of
+                 (NP the bridge)))
+     (VP collapsed
+         (PP-LOC in
+		 (NP (NP the quake)
+		     ,
+		     (SBAR (WHNP-1 which)
+			   (S (NP-SBJ *T*-1)
+			      (VP registered
+				  (NP (NP 6.9)
+				      (PP-LOC on
+					      (NP the Richter scale)))))))))
+     .))
+( (S (NP-SBJ The bridge)
+     (ADVP normally)
+     (VP carries
+         (NP (NP 250,000 commuters)
+             (NP-ADV a day)))
+     .))
+( (S (ADVP Also)
+     ,
+     (NP-SBJ-1 (NP most)
+               (PP of
+                   (NP (NP the ramps)
+                       (VP connecting
+                           (NP the city)
+                           (PP-LOC-CLR to
+				       (NP (NP (NP its main link)
+					       (PP to
+						   (NP the south)))
+					   ,
+					   (NP the 101 freeway)
+					   ,))))))
+     (VP have
+	 (VP been
+	     (VP closed
+		 (NP *-1)
+		 (PP-PRP for
+			 (NP repairs)))))
+     .))
+( (S (NP-SBJ-1 (NP The Bay Area Rapid Transit system)
+               ,
+               (SBAR (WHNP-2 which)
+                     (S (NP-SBJ *T*-2)
+                        (VP runs
+                            (NP subway trains)
+                            (PP-LOC beneath
+				    (NP the bay)))))
+               ,)
+     (VP is
+         (VP braced
+             (NP *-1)
+             (PP-CLR for
+		     (NP (NP a doubling)
+			 (PP of
+			     (NP its daily regular ridership))
+			 (PP to
+			     (NP 300,000))))))
+     .))
+( (S (NP-SBJ BART)
+     (VP has
+         (VP increased
+             (NP service)
+             (PP-CLR to
+		     (NP (NP 24 hours)
+			 (NP-ADV a day)))
+	     (PP in
+		 (NP (NP preparation)
+		     (PP for
+			 (NP the onslaught))))))
+     .))
+( (SINV (ADJP-PRD-TPC-1 Most unusual)
+        (VP will
+	    (VP be
+		(ADJP-PRD *T*-1)))
+	(NP-SBJ (NP water-borne commuters)
+                (PP from
+                    (NP (NP the East Bay towns)
+                        (PP of
+                            (NP Oakland
+                                and
+                                Berkeley)))))
+        .))
+( (S (PP-TMP For
+	     (NP (NP the first time)
+		 (PP in
+		     (NP 32 years))))
+     ,
+     (NP-SBJ-1 ferry service)
+     (VP has
+	 (VP been
+	     (VP restored
+		 (NP *-1)
+		 (PP-LOC between
+			 (NP (NP the East Bay)
+			     and
+			     (NP San Francisco))))))
+     .))
+( (S (NP-SBJ (NP The Red and White Fleet)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP operates
+                          (NP (NP (NP regular commuter ferry service)
+                                  (PP to and from
+                                      (NP Marin County)))
+                              , and
+                              (NP (NP tourist tours)
+                                  (PP of
+                                      (NP the bay)))
+                              ,)))))
+     (VP is
+         (VP offering
+             (NP East Bay commuters)
+             (NP a chance
+                 (S (NP-SBJ *)
+                    (VP to
+                        (VP ride
+                            (NP the waves)))
+                    (PP for
+                        (NP (NP the price)
+                            (PP of
+                                (NP (NP $ 10 *U*)
+                                    (NP round-trip)))))))))
+     .))
+( (S (NP-SBJ That tariff)
+     (VP is
+         (ADJP-PRD too stiff)
+	 (PP for
+	     (NP some Financial District wage earners)))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ I)
+		 (VP 'll
+		     (VP stay
+			 (PP-CLR with
+				 (NP BART)))))
+	,
+	''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ-2 (NP one secretary))
+	,
+	(S-ADV (NP-SBJ *-2)
+	       (VP swallowing
+		   (NP (NP her fears)
+		       (PP about
+			   (S-NOM (NP-SBJ *)
+				  (VP using
+				      (NP the transbay tube)))))))
+	.))
+( (S (NP-SBJ Officials)
+     (VP expect
+	 (S (NP-SBJ-1 the Golden Gate Bridge)
+            (VP to
+		(VP be
+		    (VP swamped
+			(NP *-1)
+			(PP-CLR with
+				(NP (NP an extra load)
+				    (PP of
+					(NP commuters))))
+			,
+			(PP including
+			    (NP (NP East Bay residents)
+				(VP making
+				    (NP a long detour)))))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ We)
+		 (VP 're
+		     (VP anticipating
+			 (NP quite a traffic crunch))))
+	,
+	''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ one official)
+	.))
+( (S (NP-SBJ (QP About 23,000) people)
+     (ADVP typically)
+     (VP travel
+         (PP-LOC-CLR over
+		     (NP the Golden Gate Bridge))
+	 (PP-TMP during
+		 (NP commute hours)))
+     .))
+( (S (NP-SBJ (QP About 130,000) vehicles)
+     (VP cross
+         (PP-TMP during
+		 (NP a 24-hour period)))
+     .))
+( (S (NP-SBJ (NP Meetings)
+             (VP canceled
+                 (NP *)
+                 (PP-LGS (PP by
+			     (NP (NP Apple Computer Inc. 's)
+				 European sales force))
+			 and
+			 (PP by
+			     (NP other groups)))))
+     (VP raised
+         (NP (NP the specter)
+             (PP of
+                 (NP empty hotel rooms and restaurants))))
+     .))
+( (S (NP-SBJ It)
+     (ADVP also)
+     (VP raised
+         (NP (NP hackles)
+             (PP of
+                 (NP (NP the city 's)
+                     tourism boosters))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ Other cities)
+		 (VP are
+		     (VP (VP calling
+			     -LCB-
+			     (NP (NP groups)
+				 (VP booked
+				     (ADVP-LOC here)
+				     (PP for
+					 (NP tours and conferences))))
+			     -RCB-)
+			 and 
+			 (PRN --
+			      (S not
+				 (NP-SBJ *)
+				 (VP to
+				     (VP be
+					 (ADJP-PRD crass))))
+			      --)
+			 (VP stealing
+			     (NP our booking list)))))
+	,
+	''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP Scott Shafer)
+		,
+		(NP (NP a spokesman)
+		    (PP for
+			(NP Mayor Art Agnos))))
+	.))
+( (S (NP-SBJ City officials)
+     (VP stuck 
+	 (PRT by)
+         (NP (NP their estimate)
+             (PP of
+                 (NP (NP (QP $ 2 billion) *U*)
+		     (PP in
+			 (NP (NP damage)
+			     (PP to
+				 (NP the quake-shocked city))))))))
+     .))
+( (S (NP-SBJ The other five Bay area counties)
+     (VP have
+         (VP increased
+             (NP their total damage estimates)
+             (PP-CLR to
+		     (NP (QP $ 2.8 billion) *U*))))
+     .))
+( (S (NP-SBJ All estimates)
+     (VP exclude
+         (NP (NP highway repair)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP could
+                          (VP exceed
+                              (NP (QP $ 1 billion) *U*)))))))
+     .))
+( (SINV (PP-PRD-TPC-3 Among
+		      (NP the expensive unknowns))
+        (VP are
+	    (PP-PRD *T*-3))
+	(NP-SBJ (NP stretches)
+		(PP of
+		    (NP elevated freeway))
+		(PP-LOC in
+			(NP San Francisco))
+                (SBAR (WHNP-2 that)
+                      (S (NP-SBJ-1 *T*-2)
+                         (VP were
+                             (VP closed
+                                 (NP *-1)
+                                 (PP because of
+                                     (NP quake-inflicted damage)))))))
+        .))
+( (S (NP-SBJ The most worrisome stretch)
+     (VP is
+         (NP-PRD (NP 1.2 miles)
+                 (PP of
+                     (NP (NP waterfront highway)
+                         (VP known
+                             (NP *)
+                             (PP-CLR as
+				     (NP the Embarcadero Freeway)))))))
+     .))
+( (S (SBAR-TMP Until
+	       (S (NP-SBJ-1 it)
+		  (VP was
+		      (VP closed
+			  (NP *-1)
+			  (NP-TMP Tuesday)))))
+     ,
+     (NP-SBJ it)
+     (VP had
+         (VP provided
+             (NP (NP the quickest series)
+                 (PP of
+                     (NP exits))
+                 (PP for
+                     (NP (NP commuters)
+			 (PP from
+			     (NP the Bay Bridge))
+                         (VP heading
+                             (PP-DIR into
+				     (NP the Financial District))))))))
+     .))
+( (S (NP-SBJ Engineers)
+     (VP say
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP will
+                      (VP take
+                          (NP (QP at
+                                  least
+				  eight)
+			      months)
+			  (S-PRP (NP-SBJ *)
+				 (VP to
+				     (VP repair
+					 (NP the Embarcadero structure)))))))))
+     .))
+( (S (PP As
+         (NP (NP part)
+             (PP of
+                 (NP the quake recovery effort))))
+     ,
+     (NP-SBJ the city Building Department)
+     (VP has
+         (VP surveyed
+             (NP (QP about 3,000) buildings)
+	     ,
+	     (PP including
+		 (NP (NP all)
+		     (PP of
+			 (NP (NP the Financial District 's)
+			     high-rises))))))
+     .))
+( (SINV (S-TPC-1 (NP-SBJ (NP The preliminary conclusion)
+			 (PP from
+			     (NP (NP a survey)
+				 (PP of
+				     (NP 200 downtown high-rises)))))
+		 (VP is
+		     (SBAR-PRD that
+			       ``
+			       (S (NP-SBJ we)
+				  (VP were
+				      (ADJP-PRD incredibly lucky))))))
+	, ''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP Lawrence Kornfield)
+		,
+		(NP (NP San Francisco 's)
+		    chief building inspector))
+	.))
+( (S (SBAR-ADV While
+	       (S (NP-SBJ (NP many)
+			  (PP of
+			      (NP these buildings)))
+		  (VP sustained
+		      (NP heavy damage))))
+     ,
+     (NP-SBJ (NP little)
+             (PP of
+                 (NP that)))
+     (VP involved
+         (NP major structural damage))
+     .))
+( (S (NP-SBJ City building codes)
+     (VP require
+         (NP (NP construction)
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ *T*-1)
+                      (VP can
+                          (VP resist
+                              (NP temblors)))))))
+     .))
+( (S (PP-LOC In
+	     (NP England))
+     ,
+     (NP-SBJ (NP Martin Leach)
+             ,
+             (NP (NP a spokesman)
+                 (PP for
+                     (NP (NP Lloyd 's)
+                         (PP of
+                             (NP London))))))
+     ,
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 the insurance market)
+                  (VP has n't
+                      (ADVP-TMP yet)
+                      (VP been
+                          (ADJP-PRD able
+                                    (S (NP-SBJ *-1)
+                                       (VP to
+                                           (VP estimate
+                                               (NP (NP the total potential claims)
+                                                   (PP from
+                                                       (NP the disaster))))))))))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ (NP The extent)
+		      (PP of
+			  (NP the claims)))
+	      (VP wo n't
+		  (VP be
+		      (VP known
+			  (PP-TMP for
+				  (NP some time))))))
+     ,
+     ''
+     (NP-SBJ Mr. Leach)
+     (VP said
+	 (S *T*-1))
+     .))
+( (S (PP-TMP On
+	     (NP Friday))
+     ,
+     (PP-TMP during
+	     (NP (NP a visit)
+		 (PP to
+		     (NP California))
+		 (SBAR (WHADVP-1 0)
+		       (S (NP-SBJ *)
+			  (VP to
+			      (VP survey
+				  (NP quake damage)
+				  (ADVP *T*-1)))))))
+     ,
+     (NP-SBJ-2 President Bush)
+     (VP promised
+         (S (NP-SBJ *-2)
+            (VP to
+		``
+		(VP meet
+                    (NP (NP the federal government 's)
+                        obligation 
+			''
+                        (S (NP-SBJ *)
+                           (VP to
+                               (VP assist
+                                   (NP relief efforts)))))))))
+     .))
+( (S (NP-SBJ-1 California officials)
+     (VP plan
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP ask
+                    (NP Congress)
+                    (PP-CLR for
+			    (NP (NP (QP $ 3 billion  or more) *U*)
+				(PP of
+				    (NP federal aid))
+				,
+				(PP in
+				    (NP (NP the form)
+					(PP of
+					    (NP (NP grants)
+						and
+						(NP low-interest loans)))))))))))
+     .))
+( (S (NP-SBJ-1 The state)
+     (VP (VP has
+	     (NP a (ADJP (QP $ 1 billion) *U*) reserve))
+	 , and
+	 (VP is
+	     (VP expected
+		 (S (NP-SBJ *-1)
+		    (VP to
+			(VP add
+			    (NP (QP $ 1 billion) *U*)
+			    (PP-CLR to
+				    (NP that fund))
+			    (PP-TMP in
+				    (NP the next year))))))))
+     .))
+( (S (S (NP-SBJ (NP Some)
+                (PP of
+                    (NP that money)))
+        (VP will
+            (VP be
+                (ADJP-PRD available
+                          (PP for
+                              (NP (NP highway repair)
+                                  and
+                                  (NP special emergency aid)))))))
+     , but
+     (S (NP-SBJ (NP members)
+                (PP of
+                    (NP the legislature)))
+        (VP are
+            (ADVP also)
+            (VP mulling 
+		(PRT over)
+                (NP (NP a temporary state gasoline tax)
+                    (SBAR (WHNP-1 0)
+			  (S (NP-SBJ *T*-1)
+			     (VP to
+				 (VP raise
+				     (NP (NP money)
+					 (PP for
+					     (NP earthquake relief)))))))))))
+     .))
+( (S (ADVP However)
+     ,
+     (NP-SBJ state initiatives)
+     (VP restrict
+	 (NP (NP the ability
+		 (S *ICH*-1))
+	     (PP of
+		 (NP the legislature))
+	     (S-1 (NP-SBJ *)
+		  (VP to
+		      (VP raise
+			  (NP such taxes)))))
+	 (SBAR-ADV unless
+		   (S (NP-SBJ the voters)
+		      (VP approve
+			  (PP-LOC in
+				  (NP a statewide referendum))))))
+     .))
+( (S (NP-SBJ (NP G. Christian Hill)
+             and
+             (NP Ken Wells))
+     (VP contributed
+         (PP-CLR to
+		 (NP this article)))
+     .))

@@ -1,0 +1,1042 @@
+
+
+( (S (SBAR-ADV If
+	       (S (NP-SBJ growth)
+		  (VP regains
+		      (NP its glamour)
+		      (PP-LOC among
+			      (NP investors)))))
+     ,
+     (NP-SBJ (NP a sluggish segment)
+             (PP of
+                 (NP the Nasdaq over-the-counter market)))
+     (VP could
+         (VP show
+             (NP some flash)))
+     .))
+( (S (NP-SBJ Some stock pickers)
+     (ADVP-TMP already)
+     (VP are
+         (VP targeting
+             (NP (NP the OTC market)
+                 ,
+                 (SBAR (WHADVP-1 where)
+                       (PRN ,
+			    (S (NP-SBJ they)
+			       (VP say
+				    (SBAR 0
+					  (SINV *T*-2))))
+			    ,)
+		       (SINV-2 (VP await
+				   (ADVP-LOC *T*-1))
+			       (NP-SBJ (NP plenty)
+				       (PP of
+					   (NP (ADJP small - and medium-sized) growth stocks))))))))
+     .))
+( (S-1 (NP (NP Best)
+	   (PP of
+	       (NP all)))
+       (PRN ,
+	    (S (NP-SBJ they)
+	       (VP add
+		   (SBAR 0
+			 (S *T*-1))))
+	    ,)
+       (NP-SBJ these growth issues)
+       ,
+       (PP unlike
+	   (NP (NP their big blue-chip cousins)
+	       (PP-LOC on
+		       (NP the New York Stock Exchange))))
+       ,
+       (VP are
+	   (VP languishing
+	       (PP-CLR at
+		       (NP depressed prices))))
+       .))
+( (S-2 (NP-SBJ-1 Growth stocks)
+       (VP will
+	   (VP return
+	       (S (NP-SBJ *-1)
+		  (VP to
+		      (VP favor)))
+	       (PRN ,
+		    (S (NP-SBJ some analysts and money managers)
+		       (VP think
+			   (SBAR 0
+				 (S *T*-2))))
+		    ,)
+	       (PP-PRP (PP because of
+			   (NP (NP the jitters)
+			       (VP caused
+				   (NP *)
+				   (PP by
+				       (NP-LGS (NP (NP the market 's)
+						   steep slide)
+					       (PP-TMP on
+						       (NP Oct. 13)))))))
+		       , and
+		       (PP because of
+			   (NP (NP the current swell)
+			       (PP of
+				   (NP disappointing earnings announcements)))))))
+       .))
+( (S (PP-LOC Against
+	     (NP such a backdrop))
+     ,
+     (NP-SBJ (NP companies)
+             (PP with
+                 (NP (NP proven track records)
+                     (PP of
+                         (NP (NP earnings gains)
+                             (PP of
+                                 (NP (QP 20 % or so) *U*)))))))
+     (ADVP-TMP annually)
+     (VP have
+         (NP extra appeal))
+     .))
+( (SINV ``
+	(S-TPC-2 (S (NP-SBJ-1 The market)
+		    (VP will
+			(VP have
+			    (S (NP-SBJ *-1)
+			       (VP to
+				   (VP look
+				       (PP-CLR for
+					       (NP a new theme))
+				       (ADVP-TMP now)))))))
+		 and
+		 (S (NP-SBJ that theme)
+		    (VP will
+			(VP be
+			    (NP-PRD (NP a return)
+				    (PP to
+					(NP growth)))))))
+	,
+	''
+	(VP declares
+	    (S *T*-2))
+	(NP-SBJ (NP Mary Farrell)
+		,
+		(NP a PaineWebber analyst))
+	.))
+( (SINV (PP-TPC-1 Among
+		  (NP her OTC picks))
+        (VP are
+	    (PP-PRD *T*-1))
+        (NP-SBJ (NP Oshkosh B'Gosh)
+                and
+                (NP A&W Brands))
+        .))
+( (S (PP Like
+         (NP many OTC growth issues))
+     ,
+     (NP-SBJ they)
+     (VP have
+         (NP (NP market values)
+	     (PRN --
+		  (SBAR as
+			(S (NP-SBJ *)
+			   (VP measured
+			       (PP by
+				   (NP-LGS (NP stock price)
+					   (PP times
+					       (NP (NP shares)
+						   (ADJP outstanding))))))))
+		  --)
+	     (PP of
+                 (NP (QP roughly $ 100 million
+			 to
+			 $ 500 million ) *U*))))
+     .))
+( (S (NP-SBJ-2 Some)
+     (VP like
+         (S (NP-SBJ *-2)
+            (VP to
+                (VP specialize
+                    (PP-CLR in
+			    (NP (NP growth companies)
+				(SBAR (WHNP-1 whose shares)
+				      (S (NP-SBJ-3 *T*-1)
+					 (VP have n't
+					     (VP traded
+						 (NP *-3)
+						 (ADVP-MNR publicly)
+						 (ADVP-TMP very long)))))))))))
+     .))
+( (S (NP-SBJ These)
+     (VP are
+         (ADVP-TMP sometimes)
+         (VP dubbed
+             (NP `` emerging '' growth companies)
+	     ,
+	     (SBAR-ADV though
+		       (S (NP-SBJ they)
+			  (ADVP also)
+			  (VP have
+			      (NP expanding-profit track records))))))
+     .))
+( (S (SBAR-ADV While
+	       (S (NP-SBJ many growth stocks)
+		  (VP are
+		      (ADJP-PRD small))))
+     ,
+     (NP-SBJ not all small stocks)
+     (VP have
+         (NP earnings-growth momentum))
+     .))
+( (S (NP-SBJ That)
+     (VP 's
+         (NP-PRD an important distinction)
+	 (SBAR-PRP because
+		   (S (NP-SBJ (NP some analysts and brokers)
+			      ,
+			      (SBAR (WHNP-1 who)
+				    (S (NP-SBJ *T*-1)
+				       (ADVP-TMP perennially)
+				       (VP predict
+					   (SBAR that
+						 (S (NP-SBJ-2 small stocks)
+						    (VP are
+							(VP about
+							    (S (NP-SBJ *-2)
+							       (VP to
+								   (VP outperform
+								       (NP bigger issues)))))))))))
+			      ,)
+		      (VP may
+			  (VP use
+			      (NP-3 (NP any spurt)
+				    (PP in
+					(NP growth issues)))
+			      (S-CLR (NP-SBJ *-3)
+				     (VP to
+					 (VP help
+					     (S (NP-SBJ them)
+						(VP sell
+						    (NP all small stocks)))))))))))
+     .))
+( (SINV (S-TPC-1 ``
+		 (S (NP-SBJ You)
+		    (VP can
+			(VP find
+			    (NP some good , quality companies)
+			    (PP-LOC over
+				    (NP the counter)))))
+		 ,
+		 ''
+		 but
+		 (S (NP-SBJ investors)
+		    (VP should
+			(VP be
+			    (ADJP-PRD selective))))
+		 ,)
+	(VP says
+	    (SBAR 0
+		  (S *T*-1)))
+	(NP-SBJ (NP John Palicka)
+		,
+		(NP (NP chief portfolio manager)
+		    (PP-LOC at
+			    (NP (NP Midco Investors)
+				,
+				(NP (NP a
+					(NAC-LOC Newark
+						 ,
+						 N.J.)
+					,
+					money management company)
+				    (PP with
+					(NP (NP (QP about $ 900 million) *U*)
+					    (VP invested
+						(NP *)
+						(PP-CLR-LOC in
+							    (NP (NP growth stocks)
+								(PP of
+								    (NP varying sizes))))))))))))
+	.))
+( (S (NP-SBJ (NP (NP Mr. Palicka 's)
+		 picks)
+	     (PP from
+                 (NP the OTC market)))
+     (VP include
+         (NP (NP Legent)
+             ,
+             (NP Mail Boxes Etc.)
+             , and
+             (NP Payco American)))
+     .))
+( (S (NP-SBJ (NP The main argument)
+             (PP for
+                 (NP growth stocks)))
+     (VP is
+         (NP-PRD (NP their usually superior performance)
+                 (PP-LOC in
+			 (NP a slowing economy))))
+     .))
+( (SINV ``
+	(S-TPC-1 (SBAR-ADV If
+			   (S (NP-SBJ the market)
+			      (VP refocuses
+				  (PP-CLR on
+					  (NP earnings)))))
+		 ,
+		 (NP-SBJ we)
+		 (VP should
+		     (VP get
+			 (NP (NP better valuations)
+			     (PP of
+				 (NP growth stocks))))))
+	,
+	''
+	(VP says
+	    (S *T*-1))
+	(NP-SBJ (NP L. Keith Mullins)
+		,
+		(NP (NP a growth-stock analyst)
+		    (PP-LOC at
+			    (NP Morgan Stanley))))
+	.))
+( (S-1 (ADVP-TMP Eventually)
+       (PRN ,
+	    (NP-SBJ he)
+	    (VP believes
+		(SBAR 0
+		      (S *T*-1))))
+       ,
+       (NP-SBJ-2 investors)
+       (VP will
+	   (VP be
+	       (ADJP-PRD willing
+			 (S (NP-SBJ *-2)
+			    (VP to
+				(VP pay
+				    (NP higher prices)
+				    (PP for
+					(NP (NP companies)
+					    (PP with
+						(NP (NP proven track records)
+						    (PP of
+							(NP earnings growth))))))))))))
+       .))
+( (S (PP In
+         (NP (NP anticipation)
+             (PP of
+                 (NP that shift)))
+         ,)
+     (NP-SBJ (NP he)
+             and
+             (NP other analysts))
+     (VP are
+         (VP encouraging
+	     (S (NP-SBJ their clients)
+                (VP to
+                    (VP buy
+                        (NP such issues)
+                        (ADVP-TMP now))))))
+     .))
+( (S (ADVP Understandably)
+     ,
+     (NP-SBJ smaller growth stocks)
+     (VP have n't
+         (VP been
+             (PP-PRD in
+                     (NP favor))
+	     (ADVP-TMP recently)))
+     .))
+( (S (S-TPC-1 (NP-SBJ (NP The average issue)
+		      (PP on
+			  (NP (NP Standard & Poor 's)
+			      500-stock Index)))
+	      (VP gained
+		  (NP-EXT 35 %)
+		  (NP-TMP last year)))
+     ,
+     (NP-SBJ (NP Ms. Farrell)
+	     (PP of
+		 (NP PaineWebber)))
+     (VP says
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ Smaller-stock earnings)
+     ,
+     (PP by
+         (NP comparison))
+     ,
+     (VP rose
+         (PP-EXT between
+		 (NP (NP 15 %)
+		     and
+		     (NP 20 %))))
+     .))
+( (S (PP In
+         (NP addition))
+     ,
+     (NP-SBJ earnings growth)
+     (VP took
+         (NP-CLR a back seat)
+         (PP-CLR to
+		 (NP (NP (NP cash flow)
+			 ,
+			 (NP restructuring and takeover potential)
+			 , and
+			 (NP breakup value))
+		     (PP as
+			 (NP the preferred stock-picking standards))))
+	 (PP-TMP for
+		 (NP (NP much)
+		     (PP of
+			 (NP the year)))))
+     .))
+( (S (ADVP Also)
+     ,
+     (NP-SBJ the smaller growth stocks)
+     (VP (VP are n't
+	     (VP (ADVP-MNR widely)
+		 traded))
+	 , and
+	 (VP (ADVP so)
+	     are
+	     (ADJP-PRD (ADJP harder
+			     (SBAR (WHNP-1 0)
+				   (S (NP-SBJ *)
+				      (VP to
+					  (VP buy and sell
+					      (NP *T*-1)
+					      (ADVP-MNR quickly))))))
+		       (PP than
+			   (NP blue chips)))))
+     .))
+( (S (PP As
+         (NP a result))
+     ,
+     (NP-SBJ (NP (NP Morgan Stanley 's)
+		 Index)
+             (PP of
+                 (NP (NP 40 Emerging Growth Stocks)
+                     (PRN --
+			  (ADJP most
+				(PP of
+				    (SBAR-NOM (WHNP-1 which)
+					      (S (NP-SBJ *T*-1)
+						 (VP are
+						     (PP-LOC-PRD in
+								 (NP the OTC market)))))))
+			  --))))
+     (VP is
+         (ADVP-PRD up
+                   (NP (QP only 13) %)
+                   (PP-TMP for
+			   (NP the year)))
+	 ,
+	 (SBAR-TMP while
+		   (S (S (NP-SBJ the Dow Jones Industrial Average)
+			 (VP has
+			     (VP leaped
+				 (NP-EXT 24 %))))
+		      and
+		      (S (NP-SBJ the S&P 500)
+			 (VP has
+			     (VP grown
+				 (NP-EXT 25 %)))))))
+     .))
+( (S (S (NP-SBJ The Nasdaq Composite)
+        (VP has
+            (VP gained
+                (NP-EXT 23 %)
+		(NP-TMP this year))))
+     , but
+     (S (NP-SBJ that)
+        (VP 's 
+            (ADJP-PRD largely due
+                      (PP to
+                          (NP (NP the 100 largest nonfinancial stocks)
+                              ,
+                              (SBAR (WHNP-1 which)
+                                    (S (NP-SBJ *T*-1)
+                                       (VP have
+                                           (VP soared
+                                               (NP-EXT 30 %))))))))))
+     .))
+( (S (NP-SBJ Some investors)
+     (VP are
+         (ADJP-PRD skeptical
+                   (PP of
+                       (NP growth stocks)))
+	 (SBAR-PRP because
+		   (S (S-NOM-SBJ (NP-SBJ *)
+				 (VP investing
+				     (PP-CLR in
+					     (NP them))))
+		      (VP means
+			  (S (NP-SBJ *)
+			     (VP ignoring
+				 (NP (NP that maxim)
+				     (VP found
+					 (NP *)
+					 (PP-LOC in
+						 (NP (NP the fine print)
+						     (PP of
+							 (NP some investment advertisements)))))
+				     --
+				     (SBAR that
+					   (S (NP-SBJ past performance)
+					      (VP is n't
+						  (ADJP-PRD indicative
+							    (PP of
+								(NP future results)))))))))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ People)
+		 (VP are
+		     (ADJP-PRD naturally suspicious
+			       (PP of
+				   (NP them)))))
+	,
+	''
+	(VP says
+	    (S *T*-1))
+	(NP-SBJ (NP Mr. Mullins)
+		(PP of
+		    (NP Morgan Stanley)))
+	.))
+( (SINV (PP-TPC-1 Among
+		  (NP (NP his favorites)
+		      (PP in
+			  (NP (NP his firm 's)
+			      index))))
+        (VP are
+	    (PP-PRD *T*-1))
+        (NP-SBJ (NP Legent)
+                ,
+                (NP Silicon Graphics)
+                and
+                (NP Novell))
+        .))
+( (S (ADVP However)
+     ,
+     (NP-SBJ-1 more money managers)
+     (VP are
+         (VP reassured
+             (NP *-1)
+             (SBAR that
+                   (S (NP-SBJ profit)
+                      (VP is
+                          (VP regaining
+                              (NP importance)))))))
+     .))
+( (S (NP-SBJ (NP Mark Schoeppner)
+             ,
+             (NP (NP portfolio manager)
+                 (PP-LOC at
+			 (NP Pittsburgh-based Quaker Capital Management)))
+             ,)
+     (VP says
+         (SBAR that
+               (S (PP in
+                      (NP (NP reaction)
+                          (PP to
+                              (NP (NP nervousness)
+                                  (PP about
+                                      (NP debt-laden buy-out transactions))))))
+                  ,
+                  (NP-SBJ-2 analysts and investors)
+                  (ADVP-TMP now)
+                  (VP appear
+                      (S (NP-SBJ *-2)
+                         (VP to
+			     (VP be
+				 ``
+				 (VP valuing
+				     (NP stock)
+				     (PP-CLR based
+					     (PP on
+						 (NP (NP future earnings)
+						     (SBAR as
+							   (S (NP-SBJ *)
+							      (VP opposed
+								  (PP to
+								      (NP (NP the amount)
+									  (PP of
+									      (NP debt))
+									  (SBAR (WHNP-1 0)
+										(S (NP-SBJ the company)
+										   (VP can
+										       (VP support
+											   (NP *T*-1)))))))))))))))))))))
+     .
+     ''))
+( (S (NP-SBJ (NP Barney Hallingby)
+             ,
+             (NP (NP managing director)
+		 (PP of
+		     (NP research))
+		 (PP-LOC at
+			 (NP Hambrecht & Quist)))
+             ,)
+     (ADVP also)
+     (VP believes
+         (SBAR 0
+               (S (NP-SBJ-1 earnings growth)
+                  (VP is
+                      (VP beginning
+                          (S (NP-SBJ *-1)
+                             (VP to
+                                 (VP play
+                                     (NP (NP a greater part)
+					 (PP in
+					     (NP (NP investors ')
+						 buying decisions)))))))))))
+     .))
+( (S (PP-TMP On
+	     (NP Friday))
+     ,
+     (NP-SBJ Hambrecht & Quist)
+     (VP added
+         (NP St. Jude Medical)
+         (PP to
+             (NP (NP the list)
+                 (PP of
+                     (NP (NP 20 stocks)
+                         (SBAR (WHNP-1 0)
+                               (S (NP-SBJ it)
+                                  (VP (ADVP-MNR strongly)
+                                      recommends
+                                      (NP *T*-1)))))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ The opinion)
+	      (VP is
+		  (ADVP largely)
+		  (VP based
+		      (PP-CLR on
+			      (NP (NP the company 's)
+				  earnings momentum)))))
+     ,
+     (NP-SBJ Mr. Hallingby)
+     (VP says
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ (NP (NP St. Jude 's)
+		 market value)
+             (PP-LOC on
+		     (NP Nasdaq)))
+     (VP exceeds
+         (NP (QP $ 1 billion) *U*)
+	 ,
+	 (SBAR-ADV so
+		   (S (NP-SBJ it)
+		      (VP is n't
+			  (NP-PRD a small stock)))))
+     .))
+( (S (NP-SBJ (NP The medical devices maker 's)
+             earnings)
+     (VP (VP rose
+             (NP-EXT-1 nearly 35 %)
+             (PP-TMP-2 in
+		       (NP 1987))
+             (PP-TMP from
+		     (NP 1986)))
+         , and
+         (VP (NP-EXT=1 75 %)
+	     (PP-TMP=2 in
+		       (NP 1988))))
+     .))
+( (S (NP-SBJ (NP Kurt Kruger)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP follows
+                          (NP the stock)
+                          (PP for
+                              (NP Hambrecht & Quist)))))
+             ,)
+     (VP anticipates
+         (SBAR that
+               (S (NP-SBJ (NP the company 's)
+                          net income)
+                  (VP will
+                      (VP grow
+                          (NP-EXT 51 %)
+                          (PP-DIR to
+				  (NP (NP $ 2.15 *U*)
+				      (NP-ADV a share)))
+			  (NP-TMP this year))))))
+     .))
+( (S (NP-SBJ St. Jude)
+     (VP finished
+         (ADVP-CLR up
+		   (NP 1))
+	 (PP to
+	     (NP (QP 44 1)))
+	 (PP-TMP on
+		 (NP Friday)))
+     .))
+( (NP-HLN (NP Friday 's)
+	  Market Activity))
+( (S (NP-SBJ The Nasdaq Composite Index)
+     (VP eased
+         (NP-EXT 0.13)
+         (PP-CLR to
+		 (NP 470.67)))
+     .))
+( (S (NP-SBJ The composite)
+     (VP finished
+         (ADVP-CLR up
+		   (NP 0.7 %))
+	 (PP-TMP from
+		 (NP (NP last Friday 's)
+		     close)))
+     .))
+( (S (NP-SBJ It)
+     (VP was
+         (NP-PRD (NP a busy week)
+                 (PP for
+                     (NP OTC stocks))))
+     .))
+( (S (S (NP-SBJ (NP Friday 's)
+                volume)
+        (VP totaled
+            (NP (QP 158.2 million) shares)))
+     ;
+     (S (NP-SBJ (NP the daily average)
+                (PP for
+                    (NP the week)))
+        (VP was
+            (NP-PRD a bustling 176.7 million)))
+     .))
+( (S (NP-SBJ Valley National)
+     (VP lost
+         (NP-EXT (QP 1 3))
+	 (PP-DIR to
+		 (NP (QP 17 1)))
+         (PP on
+             (NP (NP volume)
+                 (PP of
+                     (NP (QP 1.9 million) shares)))))
+     .))
+( (S (NP-SBJ The company)
+     (VP reported
+         (NP a big third-quarter loss)
+	 (PP-TMP on
+		 (NP Thursday)))
+     .))
+( (S (NP-SBJ-1 (NP Merchants Bank)
+	       (PP of
+		   (NP New York)))
+     (VP lost
+         (NP-EXT 1)
+	 (PP-DIR to
+		 (NP 106))
+         (PP-TMP after
+		 (S-NOM (NP-SBJ *-1)
+			(VP reporting
+			    (SBAR that
+				  (S (NP-SBJ its third-quarter net income)
+				     (VP fell
+					 (PP-DIR to
+						 (NP (NP $ 1.62 *U*)
+						     (NP-ADV a share)))
+					 (PP from
+					     (NP (NP (NP last year 's)
+						     $ 1.67 *U*)
+						 (NP-ADV a share))))))))))
+     .))
+( (S (NP-SBJ-1 Eliot Savings Bank)
+     (VP lost
+         (NP-EXT 7)
+	 (PP to
+	     (NP (QP 1 5)))
+	 (PP after
+	     (S-NOM (NP-SBJ *-1)
+		    (VP reporting
+			(SBAR that
+			      (S (NP-SBJ it)
+				 (VP had
+				     (NP a (ADJP (QP $ 4.8 million) *U*) loss)
+				     (PP-TMP in
+					     (NP the latest third quarter))
+				     (PP-PRP (ADVP mostly) because of
+					     (NP loan-loss provisions)))))))))
+     .))
+( (S (PP-TMP In
+	     (NP the 1988 quarter))
+     ,
+     (NP-SBJ the bank)
+     (VP earned
+         (NP (QP $ 1.1 million) *U*))
+     .))
+( (S (NP-SBJ One bank stock)
+     (VP was
+         (NP-PRD a winner))
+     .))
+( (S (NP-SBJ-2 BanPonce)
+     (VP jumped
+         (NP-EXT (QP 4 1))
+	 (PP-DIR to
+		 (NP (QP 47 3)))
+	 (PP-TMP after
+		 (S-NOM (NP-SBJ *-2)
+			(VP agreeing
+			    (S (NP-SBJ-1 *)
+			       (VP to
+				   (VP be
+				       (VP acquired
+					   (NP *-1)
+					   (PP by
+					       (NP-LGS Banco Popular de Puerto Rico))
+					   (PP-CLR for
+						   (NP (NP $ 56.25 *U*)
+						       (NP-ADV a share)))))))))))
+     .))
+( (S (NP-SBJ Banco Popular)
+     ,
+     (ADVP meanwhile)
+     ,
+     (VP dropped
+         (NP-EXT (QP 1 1))
+	 (PP-DIR to
+		 (NP (QP 21 1))))
+     .))
+( (S (NP-SBJ (NP Sierra Tucson)
+             ,
+             (NP an initial public offering)
+             ,)
+     (VP made
+         (NP the most active list))
+     .))
+( (S (NP-SBJ-1 (NP The company 's)
+	       shares)
+     (VP (VP began
+             (S (NP-SBJ *-1)
+                (VP trading 
+                    (PP-CLR at
+			    (NP (NP (QP 12 1))
+				,
+				(ADVP up
+				      (PP from
+					  (NP (NP its initial offering price)
+					      (PP of
+						  (NP 12))))))))))
+         , and
+         (VP closed
+             (PP-CLR at
+		     (NP 13))))
+     .))
+( (S (NP-SBJ Sierra Tucson)
+     (VP operates
+         (NP an addiction treatment center))
+     .))
+( (S (PP Among
+         (NP declining issues))
+     ,
+     (NP-SBJ a weak earnings outlook)
+     (VP drove
+         (S (NP-SBJ Groundwater Technology)
+	    (ADVP-PRD down 
+		      (NP (QP 6 1)))
+	    (PP-DIR to
+		    (NP 24))))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP results)
+                          (PP for
+                              (NP (NP its second quarter)
+                                  (VP ended
+                                      (NP *)
+                                      (NP-TMP-CLR Oct. 28)))))
+                  (VP could
+                      (VP drop
+                          (NP (NP as much)
+                              (PP as
+                                  (NP (NP 20 %)
+                                      (PP below
+                                          (NP (NP (NP the 30 cents)
+                                                  (NP-ADV a share))
+                                              (VP reported
+                                                  (NP *)
+                                                  (PP-TMP in
+							  (NP the year-earlier quarter)))))))))))))
+     .))
+( (S (NP-SBJ Medstone International)
+     (VP plummeted
+         (NP-EXT (QP 3 1))
+         (PP-DIR to
+		 (NP (QP 7) 1)))
+     .))
+( (S (NP-SBJ A Food and Drug Administration advisory panel)
+     (VP has
+         (VP asked
+             (SBAR that
+                   (S (NP-SBJ Medstone)
+                      (VP perform
+                          (NP (NP more studies)
+                              (PP on
+                                  (NP (NP its device)
+                                      (SBAR (WHADVP-1 0)
+					    (S (NP-SBJ *)
+					       (VP to
+						   (VP treat
+						       (NP gallstones)
+						       (ADVP *T*-1)))))))))))))
+     .))
+( (S (NP-SBJ-1 Qintex Entertainment)
+     (VP dropped
+         (NP-EXT (QP 2) 5)
+         (PP-DIR to
+		 (NP (QP 1 1)))
+	 (PP-TMP after
+		 (S-NOM (NP-SBJ *-1)
+			(VP seeking
+			    (NP (NP protection)
+				(PP from
+				    (NP creditor lawsuits))
+				(PP-LOC under
+					(NP (NP Chapter 11)
+					    (PP of
+						(NP the federal Bankruptcy Code))))
+				(PP for
+				    (NP (NP itself)
+					and
+					(NP (NP its two operating subsidiaries)
+					    ,
+					    (NP (NP Hal Roach Studios)
+						and
+						(NP Qintex Productions))))))))))
+     .))
+( (S (NP-SBJ Raymond Corp.)
+     (VP lost
+         (NP-EXT 1)
+         (PP-DIR to
+		 (NP 10))
+	 (SBAR-TMP after
+		   (S (NP-SBJ it)
+		      (VP said
+			  (NP-TMP late Thursday)
+			  (SBAR that
+				(S (NP-SBJ it)
+				   (VP will
+				       (VP take
+					   (NP (NP a (ADJP (QP $ 4.4 million) *U*) charge)
+					       (PP-TMP in
+						       (NP its third quarter))
+					       (PP for
+						   (NP (NP reserves)
+						       (SBAR (WHNP-1 0)
+							     (S (NP-SBJ *T*-1)
+								(VP to
+								    (VP cover
+									(NP (NP potential charges)
+									    (PP in
+										(NP (NP connection)
+										    (PP with
+											(NP (NP the closing and sale)
+											    (PP of
+												(NP a manufacturing plant))))))))))))))))))))))
+     .))
+( (S (PP As
+         (NP a result))
+     ,
+     (NP-SBJ the company)
+     (VP has
+         (VP suspended
+             (NP its quarterly dividend)))
+     .))
+( (S (NP-SBJ (NP McCaw Cellular Communications)
+             and
+             (NP (NP its target)
+                 ,
+                 (NP LIN Broadcasting)
+                 ,))
+     (VP were
+         (ADJP-PRD active))
+     .))
+( (S (S (NP-SBJ LIN)
+        (VP added
+            (NP-EXT 5)
+            (PP-DIR to
+		    (NP (QP 110) 5))))
+     and
+     (S (NP-SBJ McCaw)
+        (VP lost
+            (NP-EXT 1)
+            (PP-DIR to
+		    (NP 41))))
+     .))
+( (S (NP-SBJ McCaw)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP has
+                      (VP secured
+                          (NP commitments
+			      (S *ICH*-1))
+			  (PP from
+			      (NP three banks))
+			  (S-1 (NP-SBJ-2 *)
+			       (VP to
+				   (VP help
+				       (S (NP-SBJ *-2)
+					  (VP finance
+					      (NP (NP its (ADJP $ 125-a-share *U*) bid)
+						  (PP for
+						      (NP (NP 22 million)
+							  (PP of
+							      (NP (NP Lin 's)
+								  shares)))))))))))))))
+     .))
+( (S (NP-SBJ McCaw)
+     (VP has
+         (VP called
+             (PP-CLR for
+		     (NP (NP a `` fair auction '')
+			 (PP of
+			     (NP (NP LIN)
+				 ,
+				 (SBAR (WHNP-1 which)
+				       (S (NP-SBJ *T*-1)
+					  (VP (ADVP-TMP earlier)
+					      entered
+					      (NP (NP a stock-swap merger pact)
+						  (PP with
+						      (NP BellSouth))))))))))))
+     .))
+( (S (PP-TMP Following
+	     (NP (NP the release)
+		 (PP of
+		     (NP (NP the company 's)
+			 fourth-quarter earnings))))
+     ,
+     (NP-SBJ Apple Computer)
+     (VP dropped
+	 (NP-EXT 3)
+	 (PP-DIR to
+		 (NP 48))
+	 (PP on
+	     (NP (NP volume)
+		 (PP of
+		     (NP (QP more
+			     than
+			     2.3 million)
+			 shares)))))
+     .))
+( (S (NP-SBJ Apple)
+     (VP earned
+         (NP (NP (QP $ 161.1 million) *U*)
+             , or
+             (NP (NP $ 1.24 *U*)
+                 (NP-ADV a share)))
+	 ,
+	 (PP-TMP in
+		 (NP the quarter))
+	 ,
+	 (PP including
+	     (NP (NP (QP $ 48 million) *U*)
+		 (PP from
+		     (NP (NP the sale)
+			 (PP of
+			     (NP its Adobe Systems stock)))))))
+     .))

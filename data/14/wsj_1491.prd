@@ -1,0 +1,98 @@
+
+
+( (S (NP-SBJ (NP Eastern Enterprises)
+             ,
+             (VP bolstered
+                 (NP *)
+                 (PP by
+                     (NP-LGS (NP improved tonnages)
+                             (PP-LOC in
+				     (NP its marine-shipping unit)))))
+             ,)
+     (VP had
+         (NP (NP a narrower third-quarter net loss)
+             (PP of
+                 (NP (NP (QP $ 1.1 million) *U*)
+                     , or
+                     (NP (NP five cents)
+                         (NP-ADV a share))))))
+     .))
+( (S (NP-TMP Last year)
+     ,
+     (NP-SBJ Eastern)
+     (VP had
+         (NP (NP a quarter loss)
+             (PP of
+                 (NP (NP (QP $ 1.7 million) *U*)
+                     , or
+                     (NP (NP eight cents)
+                         (NP-ADV a share))))))
+     .))
+( (S (NP-SBJ Quarter revenue)
+     (VP rose
+         (NP-EXT 44 %)
+         (PP-DIR to
+		 (NP $ 160.1 million *U*))
+         (PP-DIR from
+		 (NP $ 111.2 million *U*)
+		 (ADVP-TMP (NP a year)
+			   ago)))
+     .))
+( (S (NP-SBJ The
+             (NAC-LOC Weston
+		      ,
+		      Mass.
+		      ,)
+             utilities and marine-transport concern)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP results)
+                          (PP for
+                              (NP (NP the third quarter)
+                                  ,
+                                  (NP (NP usually a money-losing one)
+                                      (PP-PRP because of
+					      (NP (NP the seasonality)
+						  (PP of
+						      (NP the gas business)))))
+                                  ,)))
+                  (VP were
+                      (ADVP also)
+                      (VP aided
+                          (PP by
+                              (NP-LGS (NP higher gas sales)
+				      and
+				      (NP (NP the May 1989 acquisition)
+					  (PP of
+					      (NP Water Products Company))))))))))
+     .))
+( (S (PP-TMP For
+	     (NP the nine months))
+     ,
+     (NP-SBJ Eastern)
+     (VP had
+         (NP (NP net income)
+             (PP of
+                 (NP (NP (QP $ 41.8 million) *U*)
+                     , or
+                     (NP (NP $ 1.80 *U*)
+                         (NP-ADV a share))
+                     ,))
+             (ADVP up
+                   (NP 23 %)
+                   (PP from
+                       (NP (NP (QP $ 33.9 million) *U*)
+                           or
+                           (NP (NP $ 1.46 *U*)
+                               (NP-ADV a share)
+                               (ADVP-TMP (NP a year)
+					 ago)))))))
+     .))
+( (S (NP-SBJ Revenue)
+     (VP grew
+         (NP-EXT 24 %)
+         (PP-DIR to
+		 (NP (QP $ 614.5 million) *U*))
+         (PP-DIR from
+		 (NP (QP $ 497.1 million) *U*)))
+     .))

@@ -1,0 +1,148 @@
+
+
+( (S (NP-SBJ Royal Business Group Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (VP filed
+                      (NP-CLR suit)
+		      (PP-LOC in
+			      (NP (NP federal court) 
+				  (ADVP-LOC here)))
+		      (S-ADV (NP-SBJ *-1)
+			     (VP charging
+				 (NP-2 (NP Realist Inc.)
+				       and
+				       (NP its directors))
+				 (PP-CLR with
+					 (S-NOM (NP-SBJ-3 *-2)
+						(VP violating
+						    (NP federal securities laws)
+						    ``
+						    (PP-MNR by
+							    (S-NOM (NP-SBJ *-3)
+								   (VP engaging
+								       (PP-CLR in
+									       (NP a scheme
+										   (S (NP-SBJ *)
+										      (VP to
+											  (VP prevent ''
+											      (NP-4 Royal)
+											      (PP from
+												  (S-NOM (NP-SBJ *-4)
+													 (VP acquiring
+													     (NP Realist)))))))))))))))))))))
+     .))
+( (S (NP-SBJ (NP Royal)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP makes and distributes
+                          (NP business forms))))
+             ,)
+     (VP owns
+         (NP (NP an (ADJP 8 %) stake)
+	     (PP-LOC in
+		     (NP Realist))))
+     .))
+( (S (NP-SBJ Royal)
+     (VP contends
+         (SBAR that
+               (S (NP-SBJ-1 Realist)
+                  (VP failed
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP disclose
+                                 (NP (NP material information)
+                                     ,
+                                     (PP including
+                                         (NP (NP Realist 's)
+                                             negotiations
+                                             (S (NP-SBJ *)
+                                                (VP to
+                                                    (VP acquire
+                                                        (NP Ammann Laser Technik AG))))))
+                                     ,)
+                                 (PP-CLR to
+					 (NP stockholders))
+				 (PP-TMP prior 
+					 (PP to
+					     (NP (NP Realist 's)
+						 June 6 annual meeting))))))))))
+     .))
+( (S (NP-SBJ (NP Royal 's)
+             suit)
+     (VP contends
+         (SBAR that
+               (S (NP-SBJ-1 the Ammann acquisition)
+                  (VP was
+		      ``
+		      (VP designed
+                          (S (NP-SBJ *-1)
+                             (VP to
+                                 (VP (VP entrench
+                                         (NP management))
+                                     and
+                                     (VP thwart
+                                         (NP (NP Royal 's)
+                                             offer))))))))))
+     . ''))
+( (S (NP-SBJ Royal)
+     (VP withdrew
+         (NP its offer
+             (S (NP-SBJ *)
+                (VP to
+                    (VP buy
+                        (NP (NP Realist)
+                            ,
+                            (NP (NP (NP a maker)
+                                    (PP of
+                                        (NP optical and electronic products)))
+                                (VP based
+                                    (NP *)
+                                    (PP-LOC-CLR in
+						(NP (NP Menomonee Falls)
+						    ,
+						    (NP Wis.)
+						    ,)))))
+                        (PP-CLR for
+				(NP (NP $ 14.06 *U*)
+				    (NP-ADV a share)))
+			(PP-TMP in
+				(NP July))))))
+	 (SBAR-TMP after
+		   (S (NP-SBJ Realist)
+		      (VP disclosed
+			  (NP the Ammann purchase)))))
+     .))
+( (S (NP-SBJ The suit)
+     (VP seeks
+	 ``
+	 (PP-CLR in
+		 (NP (NP excess)
+		     (PP of
+			 (NP (NP $ 350,000 *U*)
+			     (PP in
+				 (NP damages)))))))
+     . ''))
+( (S (NP-SBJ A Realist official)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the company)
+                  (VP (VP had n't
+			  (ADVP-TMP yet)
+			  (VP received
+			      (NP the full complaint)))
+		      and
+		      (VP would n't
+			  (VP have
+			      (NP a response)
+			      (SBAR-TMP until
+					(S (NP-SBJ it)
+					   (VP had
+					       (NP an opportunity
+						   (S (NP-SBJ *)
+						      (VP to
+							  (VP review
+							      (NP it))))))))))))))
+     .))

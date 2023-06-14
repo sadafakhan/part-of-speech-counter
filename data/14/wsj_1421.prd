@@ -1,0 +1,645 @@
+
+
+( (S (NP-SBJ-1 (NP Japan 's)
+	       Finance Ministry)
+     (ADVP-MNR strongly)
+     (VP denied
+         (S (NP-SBJ *-1)
+            (VP playing
+                (NP (NP any role)
+                    (PP-LOC in
+			    (NP the New York stock-price free fall))))))
+     .))
+( (S (NP-SBJ (NP Makoto Utsumi)
+             ,
+             (NP (NP vice minister)
+                 (PP for
+                     (NP international affairs)))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the ministry)
+                  (VP did n't
+                      (PP in
+                          (NP any way))
+                      (VP suggest
+                          (PP-CLR to
+				  (NP Japanese banks))
+                          (SBAR that
+                                (S (NP-SBJ they)
+                                   (VP stay
+                                       (PP-CLR out
+					       (PP of
+						   (NP the UAL Corp. leveraged buy-out)))))))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ The ministry)
+	      (VP has
+		  (ADVP-TMP never)
+		  (ADVP even)
+		  (VP suggested
+		      (SBAR that
+			    (S (NP-SBJ Japanese banks)
+			       (VP be
+				   (ADJP-PRD cautious
+					     (PP about
+						 (NP leveraged buy-outs))
+					     (PP in
+						 (ADJP general)))))))))
+     ,
+     (NP-SBJ Mr. Utsumi)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S ``
+     (S-TPC-2 (NP-SBJ There)
+	      (VP are
+		  (NP-PRD no facts
+			  (PRN -LCB-
+			       (PP behind
+				   (NP the assertions))
+			       -RCB-)
+			  (SBAR-1 that
+				  (S (NP-SBJ we)
+				     (VP sent
+					 (NP (NP any kind)
+					     (PP of
+						 (NP signal)))))))))
+     ,
+     ''
+     (NP-SBJ he)
+     (VP declared
+	 (S *T*-2)
+	 (PP-LOC in
+		 (NP an interview)))
+     .))
+( (S (NP-SBJ The comments)
+     (VP (VP were
+             (NP-PRD (NP (NP the ministry 's)
+			 first detailed public statement)
+                     (PP on
+                         (NP the subject))))
+         , and
+         (VP reflect
+             (NP (NP the ministry 's)
+                 concern
+                 (SBAR that
+                       (S (NP-SBJ foreigners)
+                          (VP will
+                              (VP think
+                                  (SBAR 0
+                                        (S (NP-SBJ Japan)
+                                           (VP is
+                                               (VP using
+                                                   (NP its tremendous financial power)
+                                                   (S-PRP (NP-SBJ *)
+							  (VP to
+							      (VP control
+								  (NP (NP events)
+								      (PP-LOC in
+									      (NP foreign markets)))))))))))))))))
+     .))
+( (S (NP-SBJ (NP A number)
+             (PP of
+                 (NP (NP accounts)
+                     (PP of
+                         (NP (NP the events)
+                             (VP leading
+                                 (PP-CLR to
+					 (NP (NP the 190 point drop)
+					     (PP-LOC in
+						     (NP New York stock prices))
+					     (PP-TMP on
+						     (NP Oct. 13))))))))))
+     (VP accused
+         (NP (NP the ministry)
+             (PP of
+                 (S-NOM (NP-SBJ *)
+			(VP pulling
+			    (NP the plug)
+			    (PP-CLR on
+				    (NP the UAL deal))
+			    (PP-PRP for
+				    (NP (NP one reason)
+					or
+					(NP another))))))))
+     .))
+( (S (NP-SBJ Mr. Utsumi)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP the most)
+                          (SBAR (WHNP-1 0)
+                                (S (NP-SBJ the ministry)
+                                   (VP had
+                                       (ADVP-TMP ever)
+                                       (VP done
+                                           (NP *T*-1))))))
+                  (VP was
+		      (S-PRD (NP-SBJ *)
+			     (VP ask
+				 (NP Japanese banks)
+				 (PP-CLR about
+					 ``
+					 (NP (NP the status)
+					     (PP of
+						 (NP (NP their participation) ''
+						     (PP-LOC in
+							     (NP one previous U.S. leveraged buy-out))))))))))))
+     .))
+( (S (NP-SBJ The ministry)
+     (VP inquired
+	 (PP-CLR about
+		 (NP (NP that deal)
+		     (PRN --
+			  (SBAR (WHNP-2 which)
+				(S (NP-SBJ-3 Mr. Utsumi)
+				   (VP declined
+				       (S (NP-SBJ *-3)
+					  (VP to
+					      (VP identify
+						  (NP *T*-2)))))))
+			  --)))
+	 (SBAR-PRP because
+		   (S (S (NP-SBJ-1 (NP the large presence)
+				   (PP of
+				       (NP Japanese banks))
+				   (PP-LOC in
+					   (NP the deal)))
+			 (VP was
+			     ``
+			     (VP being
+				 (VP (ADVP-MNR strongly)
+				     criticized
+				     (NP *-1)
+				     (PP-LOC in
+					     (NP the U.S. Congress))))
+			     ''))
+		      and
+		      (S (NP-SBJ (NP it)
+				 (SBAR *EXP*-4))
+			 (VP was
+			     ``
+			     (ADJP-PRD necessary)
+			     (SBAR-4 for
+				     (S (NP-SBJ us)
+					(VP to
+					    (VP grasp
+						(NP the situation))))))))))
+     .
+     ''))
+( (S (S (NP-SBJ He)
+        (VP said
+            (SBAR 0
+                  (S (NP-SBJ the inquiry)
+                     (VP was n't
+                         (VP made
+                             (PP-MNR in
+				     (NP (NP a way)
+					 (SBAR (WHNP-2 that)
+					       (S (NP-SBJ the banks)
+						  (VP could
+						      (VP have
+							  (VP interpreted
+							      (NP-1 *T*-2)
+							      (PP-CLR as
+								      (S-NOM (NP-SBJ *-1)
+									     (VP either
+										 encouraging
+										 or
+										 discouraging
+										 (NP participation)))))))))))))))))
+     , and
+     (S (NP-SBJ he)
+        (VP added
+            (SBAR that
+                  (S (NP-SBJ (NP none)
+                             (PP of
+                                 (NP the Japanese banks)))
+                     (VP changed
+                         (NP (NP their posture)
+                             (PP on
+                                 (NP the deal)))
+			 (PP as
+			     (NP (NP a result)
+				 (PP of
+				     (NP the inquiry)))))))))
+     .))
+( (S (NP-SBJ Mr. Utsumi)
+     (ADVP also)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-2 some Japanese banks)
+                  (VP (VP were
+			  (ADJP-PRD willing
+				    (S (NP-SBJ *-2)
+				       (VP to
+					   (VP participate
+					       (PP-LOC in
+						       (NP the UAL financing))
+					       (PP-TMP up
+						       (PP to
+							   (NP the very end))))))))
+		      ,
+		      (SBAR (WHNP-1 which)
+			    (S (NP-SBJ *T*-1)
+			       (VP would
+				   (VP suggest
+				       (PP at
+					   (NP the very least))
+				       (SBAR that
+					     (S (NP-SBJ they)
+						(VP were n't
+						    (PP-PRD under
+							    (NP orders
+								(S (NP-SBJ *)
+								   (VP to
+								       (VP back
+									   (PRT out)))))))))))))))))
+     .))
+( (S-1 (PP In
+	   (ADJP general))
+       (PRN ,
+	    (S (NP-SBJ Mr. Utsumi)
+	       (VP said
+		   (S *T*-1)))
+	    ,)
+       (NP-SBJ Japanese banks)
+       (VP are
+	   (VP becoming
+	       (ADJP-PRD more `` independent '')
+	       (PP in
+		   (NP (NP their approach)
+		       (PP to
+			   (NP overseas deals))))))
+       .))
+( (S ``
+     (S-TPC-1 (NP-SBJ Each Japanese bank)
+	      (VP has
+		  (NP its own judgment)
+		  (PP on
+		      (NP (NP the profits and risks)
+			  (PP-LOC in
+				  (NP that -LCB- UAL -RCB- deal))))))
+     ,
+     ''
+     (NP-SBJ he)
+     (VP said
+	 (S *T*-1))
+     .))
+( (S ``
+     (NP-SBJ They)
+     (VP are
+         (VP becoming
+             (ADJP-PRD more independent)))
+     .))
+( (S (NP-SBJ It)
+     (VP 's
+         (NP-PRD a sound phenomenon))
+     . ''))
+( (S (NP-SBJ Sanwa Bank Ltd.)
+     (VP is
+         (NP-PRD (NP one Japanese bank)
+                 (SBAR (WHNP-1 that)
+                       (S (NP-SBJ *T*-1)
+                          (VP decided
+                              (S not
+                                 (NP-SBJ *)
+                                 (VP to
+                                     (VP participate
+                                         (PP-LOC in
+						 (NP the first UAL proposal))))))))))
+     .))
+( (S (NP-SBJ A Sanwa Bank spokesman)
+     (VP denied
+         (SBAR that
+               (S (NP-SBJ the finance ministry)
+                  (VP played
+                      (NP (NP any part)
+                          (PP in
+                              (NP (NP the bank 's)
+                                  decision)))))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ We)
+	      (VP made
+		  (NP our own decision)))
+     ,
+     ''
+     (NP-SBJ he)
+     (VP said
+	 (S *T*-1))
+     .))
+( (S (ADVP Still)
+     ,
+     (NP-SBJ Mr. Utsumi)
+     (VP may
+         (VP have
+             (S (NP-SBJ a hard time)
+		(VP convincing
+		    (NP (NP market analysts)
+			(SBAR (WHNP-1 who)
+			      (S (NP-SBJ *T*-1)
+				 (VP have
+				     (ADVP rightly
+					   or
+					   wrongly)
+				     (VP believed
+					 (SBAR that
+					       (S (NP-SBJ the ministry)
+						  (VP played
+						      (NP (NP a role)
+							  (PP-LOC in
+								  (S-NOM (NP-SBJ *)
+									 (VP orchestrating
+									     (NP (NP recent moves)
+										 (PP by
+										     (NP Japanese banks)))))))))))))))))))
+     .))
+( (S (NP-TMP All week)
+     (NP-SBJ there)
+     (VP has
+         (VP been
+             (NP-PRD (NP much speculation)
+		     (PP *ICH*-1))
+	     (PP-LOC in
+		     (NP (NP financial circles)
+			 (UCP-LOC (PP in
+				      (NP Tokyo))
+				  and
+				  (ADVP abroad))))
+	     (PP-1 about
+		   (NP (NP the ministry 's)
+		       real position))))
+     .))
+( (S (NP-SBJ Bank analysts)
+     (VP say
+         (SBAR 0
+               (S (NP-SBJ ministry officials)
+                  (VP have
+		      (VP been
+			  (VP growing
+			      (ADJP-PRD increasingly concerned
+					(PP *ICH*-1))
+			      (PP-TMP during
+				      (NP the past few months))
+			      (PP-1 about
+				    (S-NOM (NP-SBJ Japanese banks)
+					   (VP getting
+					       (PRT in)
+					       (PP-CLR over
+						       (NP their heads)))))))))))
+     .))
+( (SINV ``
+	(S-TPC-4 (NP-SBJ The -LCB- ministry -RCB-)
+		 (VP thinks
+		     (SBAR (SBAR 0
+				 (S (NP-SBJ the banks)
+				    (VP do n't
+					(VP know
+					    (SBAR (WHNP-2 what)
+						  (S (NP-SBJ they)
+						     (VP are
+							 (VP doing
+							     (NP *T*-2)))))))))
+			   ,
+			   (SBAR that
+				 (S (NP-SBJ they)
+				    (VP have
+					(NP (NP very little idea)
+					    (SBAR (WHADVP-3 how)
+						  (S (NP-SBJ *)
+						     (VP to
+							 (VP cope
+							     (PP-CLR with
+								     (NP risk))
+							     (ADVP-MNR *T*-3)))))))))))
+		 , '')
+	(VP said
+	    (S *T*-4))
+	(NP-SBJ (NP one foreign bank analyst)
+		(SBAR (WHNP-1 who)
+		      (S (NP-SBJ-5 *T*-1)
+			 (VP asked
+			     (S (NP-SBJ-6 *-5)
+				not
+				(VP to
+				    (VP be
+					(VP identified
+					    (NP *-6)))))))))
+	.))
+( (S (S-TPC-1 ``
+	      (NP-SBJ-2 The -LCB- ministry -RCB-)
+	      (VP wants
+		  (S (NP-SBJ *-2)
+		     (VP to
+			 (VP see
+			     (S (NP-SBJ the Japanese banks)
+				(VP pull
+				    (PRT in)
+				    (NP their horns)
+				    ''
+				    (PP on
+					(NP leveraged buy-outs)))))))))
+     ,
+     (NP-SBJ he)
+     (VP added
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (SBAR-ADV Although
+	       (S (NP-SBJ (NP some)
+			  (PP of
+			      (NP (NP the Japanese banks)
+				  (ADJP involved
+					(PP in
+					    (NP (NP the first proposed bid)
+						(PP for
+						    (NP UAL))))))))
+		  (VP bowed
+		      (ADVP out)
+		      (SBAR-PRP because
+				(S (NP-SBJ they)
+				   (VP found
+				       (S (NP-SBJ the terms)
+					  (ADJP-PRD unattractive))))))))
+     ,
+     (NP-SBJ observers)
+     (NP-LOC here)
+     (VP say
+         (SBAR 0
+               (S (NP-SBJ-1 they)
+                  (VP have
+                      (NP (NP a hard time)
+                          (S-NOM (NP-SBJ *-1)
+				 (VP believing
+				     (SBAR that
+					   (S (NP-SBJ commercial considerations)
+					      (VP were
+						  (NP-PRD the only reason)))))))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ Japanese banks)
+	      (VP are
+		  (PP-PRD under
+			  ``
+			  (NP political pressure)
+			  '')
+		  (PP as well)))
+     ,
+     (NP-SBJ the analyst)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (ADVP Moreover)
+     ,
+     (NP-SBJ analysts)
+     (VP point
+         (PRT out)
+         (SBAR that
+               (S (NP-SBJ-2 Japanese banks)
+                  (VP have
+                      (NP (NP a reputation)
+                          (PP for
+                              (S-NOM (NP-SBJ *-2)
+				     (VP doing
+					 (NP (NP deals)
+					     (SBAR (WHNP-1 that)
+						   (S (NP-SBJ *T*-1)
+						      (VP are n't
+							  (ADJP-PRD extremely profitable)))))))))
+		      (SBAR-ADV if
+				(S (NP-SBJ they)
+				   (VP offer
+				       (NP the chance
+					   (S (NP-SBJ *)
+					      (VP to
+						  (VP (VP build
+							  (NP market share))
+						      ,
+						      (VP cement
+							  (NP an important business relationship))
+						      or
+						      (VP curry
+							  (NP favor)
+							  (PP-CLR with
+								  (NP powerful bureaucrats))))))))))))))
+     .))
+( (S (ADVP Clearly)
+     ,
+     (NP-SBJ some financial authorities)
+     (VP are
+         (ADJP-PRD concerned
+                   (PP about
+                       (NP (NP the Japanese banks role)
+                           (PP-LOC in
+				   (NP leveraged buy-outs))))))
+     .))
+( (S (PP-LOC At
+	     (NP a news conference))
+     (NP-TMP this week)
+     ,
+     (NP-SBJ (NAC Bank
+		  (PP of
+		      (NP Japan)))
+             Gov.
+             Satoshi Sumita)
+     (VP cautioned 
+	 (S (NP-SBJ banks)
+            (VP to
+                (VP take
+                    (NP a `` prudent '' stance)
+		    (PP regarding
+			(NP highly leveraged deals))))))
+     .))
+( (S-CLF (PP Despite
+	     (NP (NP Mr. Sumita 's)
+		 statements))
+	 ,
+	 (NP-SBJ it)
+	 (VP is
+	     (NP-PRD (NP (NP the Finance Ministry)
+			 , not
+			 (NP the central bank)
+			 ,))
+	     (SBAR (WHNP-1 that)
+		   (S (NP-SBJ *T*-1)
+		      (VP makes
+			  (NP policy decisions)))))
+	 .))
+( (S (SBAR-ADV While
+	       (S (NP-SBJ recent events)
+		  (VP may
+		      (VP cool
+			  (NP (NP some)
+			      (PP of
+				  (NP the leveraged buy-out fever)))))))
+     ,
+     (NP-SBJ-1 Japanese banks)
+     (VP are n't
+         (ADJP-PRD likely
+                   (S (NP-SBJ *-1)
+                      (VP to
+                          (VP walk
+                              (ADVP-CLR away)
+                              (PP-DIR from
+				      (NP the game)))))))
+     .))
+( (S (S-TPC-1 (PP Despite
+		  (NP the risks))
+	      ,
+	      (NP-SBJ the deals)
+	      (VP can
+		  (VP be
+		      (NP-PRD an attractive way
+			      (SBAR for 
+				    (S (NP-SBJ Japanese banks)
+				       (VP to
+					   (VP increase
+					       (NP their presence)
+					       (PP-LOC in
+						       (NP the U.S. market))))))))))
+     ,
+     (NP-SBJ bank analysts)
+     (VP say
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (S-ADV (NP-SBJ *-2) 
+	    (UCP-PRD (ADJP Flush
+			   (PP with
+			       (NP cash))
+			   (PP-LOC at
+				   (NP home)))
+		     , but
+		     (PP with
+			 (S-NOM (NP-SBJ-1 fewer customers)
+				(VP to
+				    (VP lend 
+					(PP-DTV to
+						(NP *-1))))))))
+     ,
+     (NP-SBJ-2 leading banks)
+     (VP are
+	 (ADJP-PRD eager
+		   (S (NP-SBJ *)
+		      (VP to
+			  (VP expand
+			      (ADVP-LOC overseas))))))
+     .))
+( (S (S-NOM-SBJ (NP-SBJ *)
+		(VP Jumping
+		    (ADVP-DIR in)
+		    (PP on
+			(NP big deals))))
+     (VP is
+         (NP-PRD (NP a high profile way)
+                 (SBAR (WHNP-1 0)
+		       (S (NP-SBJ *T*-1)
+			  (VP to
+			      (VP leapfrog
+				  (NP (NP the problem)
+				      (PP of
+					  (S-NOM (NP-SBJ *)
+						 (VP not having
+						     (NP a strong retail-banking network)))))))))))
+     .))

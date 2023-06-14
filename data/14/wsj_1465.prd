@@ -1,0 +1,163 @@
+
+
+( (S (NP-SBJ-1 (NP (NP (NP Sotheby 's)
+		       Inc. 's)
+		   gamble)
+	       (PP-LOC in
+		       (NP the art-dealing business)))
+     (VP appears
+         (S-PRD (NP-SBJ *-1)
+		(VP to
+		    (VP have
+			(VP paid
+			    (PRT off))))))
+     .))
+( (S (NP-SBJ (NP The New York arm)
+             (PP of
+                 (NP the London-based auction house)))
+     (VP auctioned
+         (PRT off)
+         (NP (NP the estate)
+             (PP of
+                 (NP (NP John T. Dorrance Jr.)
+                     ,
+                     (NP (NP the Campbell 's)
+                         Soup Co. heir)
+                     ,)))
+         (PP for
+             (NP (NP (QP $ 131 million) *U*)
+                 (NP *ICH*-1)))
+	 (NP-TMP last week)
+	 ,
+	 (NP-1 (NP a record)
+	       (PP for
+		   (NP a single-owner art collection))))
+     .))
+( (S (NP-SBJ That total)
+     (VP (VP was
+             (PP-PRD below
+                     (NP (NP the (QP $ 140 million) *U*)
+                         (SBAR (WHNP-2 0)
+                               (S (NP-SBJ the auction house)
+                                  (VP estimated
+                                      (SBAR 0
+                                            (S (NP-SBJ the collection)
+                                               (VP might
+                                                   (VP sell
+                                                       (PP-CLR for
+							       (NP *T*-2))))))))))))
+         , but
+         (VP was
+	     (ADVP-PRD enough
+		       (S (NP-SBJ *)
+			  (VP to
+			      (VP ensure
+				  (SBAR that
+					(S (NP-SBJ (NP an unprecedented financial arrangement)
+						   (SBAR (WHNP-1 0)
+							 (S (NP-SBJ (NP Sotheby 's))
+							    (VP had
+								(VP made
+								    (NP *T*-1)
+								    (PP with
+									(NP the Dorrance family)))))))
+					   (VP proved
+					       (ADJP-PRD profitable
+							 (PP to
+							     (NP the auction house))))))))))))
+     .))
+( (S-3 (NP-SBJ-4 Sotheby 's)
+       (VP provided
+	   (NP the Dorrance family)
+	   (NP (NP a guarantee)
+	       (PP of
+		   (NP (NP (QP at
+			       least
+			       $ 100 million)
+			   *U*)
+		       , and
+		       (NP (QP as much
+			       as
+			       $ 120 million) 
+			   *U*)
+		       ,)))
+	   (S-PRP (NP-SBJ *-4)
+		  (VP to
+		      (VP obtain
+			  (NP the collection))))
+	   (PRN ,
+		(S (NP-SBJ (NP people)
+			   (ADJP familiar
+				 (PP with
+				     (NP the transaction))))
+		   (VP said
+		       (SBAR 0
+			     (S *T*-3))))
+		,)
+	   (S-ADV (ADVP thus)
+		  (NP-SBJ *)
+		  (VP taking
+		      (NP (NP a
+			      (ADJP greater
+				    than
+				    usual)
+			      financial interest)
+			  (PP in
+			      (NP (NP the property)
+				  (SBAR (WHNP-2 0)
+					(S (NP-SBJ-1 *T*-2)
+					   (VP to
+					       (VP be
+						   (VP sold
+						       (NP *-1))))))))))))
+       .))
+( (S (NP-SBJ (NP The Dorrance estate)
+             ,
+             (VP auctioned
+                 (NP *)
+                 (PRT off)
+                 (PP-LOC in
+			 (NP (NP a series)
+			     (PP of
+				 (NP sales))
+			     (VP held
+				 (NP *)
+				 (PP-TMP over
+					 (NP four days))))))
+             ,)
+     (VP included
+         (NP porcelains , furniture and paintings))
+     .))
+( (S (NP-SBJ (NP An Henri Matisse)
+             ,
+             (VP auctioned
+                 (NP *)
+                 (NP-TMP last Wednesday))
+             ,)
+     (VP fetched
+         (NP (NP (QP $ 12.4 million) *U*)
+             ,
+             (NP (NP a world record)
+                 (PP for
+                     (NP the artist)))))
+     .))
+( (S (PP In
+         (NP addition))
+     ,
+     (NP-SBJ-2 (NP a handful)
+	       (PP of
+		   (NP paintings))
+	       (PP from
+		   (NP the Dorrance collection)))
+     (VP remain
+         (S (NP-SBJ-1 *-2)
+            (VP to
+		(VP be
+		    (VP sold
+			(NP *-1)
+			(PP-LOC at
+				(NP (NP Sotheby 's)
+				    annual old masters paintings auction))
+			(PP-TMP in
+				(NP January)))))))
+     .))

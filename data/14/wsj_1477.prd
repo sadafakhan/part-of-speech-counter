@@ -1,0 +1,60 @@
+
+
+( (S (NP-SBJ Citizens & Southern Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP signed
+                      (NP a definitive agreement
+                          (S (NP-SBJ *)
+                             (VP to
+                                 (VP acquire
+                                     (NP (NP Security Pacific Corp. 's)
+                                         New York-based factoring unit)))))))))
+     .))
+( (S (NP-SBJ-1 (NP Terms)
+	       (PP of
+		   (NP (NP the bank holding companies ')
+		       agreement)))
+     (VP were n't
+         (VP disclosed
+	     (NP *-1)))
+     .))
+( (S (NP-SBJ Factoring)
+     (VP involves
+         (NP (NP the purchase and collection)
+             (PP of
+                 (NP (NP another company 's)
+                     receivables))))
+     .))
+( (S (S (NP-SBJ (NP Citizens)
+                ,
+                (VP based
+                    (NP *)
+                    (PP-LOC in
+			    (NP Atlanta)))
+                ,)
+        (VP said
+            (SBAR 0
+                  (S (NP-SBJ it)
+                     (VP has
+                         (NP (NP (QP about $ 4.6 billion) *U*)
+			     (PP in
+				 (NP factored sales)))
+                         (ADVP-TMP annually))))))
+     ;
+     (S (NP-SBJ the Security Pacific unit)
+        (VP has
+            (NP (QP about $ 1.8 billion) *U*)
+            (ADVP-TMP annually)))
+     .))
+( (S (NP-SBJ (NP Security Pacific 's)
+             factoring business)
+     (VP works
+         (PP-CLR with
+		 (NP (NP companies)
+		     (PP-LOC in
+			     (NP (NP the apparel , textile and food industries) ,
+				 (PP among
+				     (NP others)))))))
+     .))

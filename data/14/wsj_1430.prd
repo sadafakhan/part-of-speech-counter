@@ -1,0 +1,17 @@
+
+
+( (S (NP-SBJ (NP THE SUPREME COURT ruling)
+             (VP upholding
+                 (NP (NP Missouri 's)
+                     restrictive abortion law)))
+     (VP was
+         (NP-PRD Webster vs. Reproductive Health Services))
+     .))
+( (S (NP-SBJ-1 The citation)
+     (VP was
+         (VP misstated
+             (NP *-1)
+             (PP-LOC in
+		     (NP (NP Friday 's)
+			 edition))))
+     .))

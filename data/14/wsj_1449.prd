@@ -1,0 +1,440 @@
+
+
+( (S (NP-SBJ Bond Corp . Holdings Ltd.)
+     (VP posted
+         (NP (NP a loss)
+             (PP-TMP for
+		     (NP fiscal 1989))
+             (PP of
+                 (NP (NP (NP (QP 980.2 million) Australian dollars)
+                         (PRN -LRB-
+			      (NP (QP US$ 762.4 million) *U*)
+			      -RRB-))
+                     ,
+                     (NP (NP the largest)
+                         (PP-LOC in
+				 (NP Australian corporate history)))))))
+     .))
+( (S (NP-SBJ That loss)
+     (VP compared
+         (PP-CLR with
+		 (NP (NP a year-earlier profit)
+		     (PP of
+			 (NP (QP A$ 273.5 million) *U*)))))
+     .))
+( (S (PP-LOC In
+	     (NP (NP preliminary , unaudited results)
+		 (VP reported
+		     (NP *)
+		     (NP-TMP Friday))))
+     ,
+     (NP-SBJ Bond Corp.)
+     (ADVP also)
+     (VP posted
+         (NP (NP an operating loss)
+             (PP of
+                 (NP (NP (QP A$ 814.1 million) *U*)
+		     (PP for
+			 (NP (NP the year)
+			     (VP ended
+				 (NP *)
+				 (NP-TMP-CLR June 30))))
+                     ,
+                     (PP compared
+                         (PP with
+                             (NP (NP operating profit)
+                                 (PP of
+                                     (NP (NP (QP A$ 354.7 million) *U*)
+					 (ADVP-TMP (NP a year)
+						   earlier))))))))))
+     .))
+( (S (NP-SBJ Operating revenue)
+     (VP rose
+         (NP-EXT 69 %)
+         (PP-DIR to
+		 (NP (QP A$ 8.48 billion) *U*))
+	 (PP-DIR from
+		 (NP (QP A$ 5.01 billion) *U*)))
+     .))
+( (S But
+     (NP-SBJ the net interest bill)
+     (VP jumped
+         (NP-EXT 85 %)
+         (PP-DIR to
+		 (NP (QP A$ 686.7 million) *U*))
+	 (PP-DIR from
+		 (NP (QP A$ 371.1 million) *U*)))
+     .))
+( (S (NP-SBJ Bond Corp.)
+     (VP has
+         (NP (NP interests)
+             (PP in
+                 (NP (NP brewing)
+                     ,
+                     (NP media and communications)
+                     ,
+                     (NP natural resources)
+                     and
+                     (NP property)))))
+     .))
+( (S (NP-SBJ (NP Much)
+	     (PP of
+		 (NP (NP Bond Corp. 's)
+		     losses)))
+     (VP stemmed
+         (PP-CLR from
+		 (NP (NP one-time write-downs)
+		     (PP of
+			 (NP (NP the value)
+			     (PP of
+				 (NP (NP some)
+				     (PP of
+					 (NP (NP (NP Bond Corp. 's)
+						 assets)
+					     and
+					     (NP (NP those)
+						 (PP of
+						     (NP its units))))))))))))
+     .))
+( (S (NP-SBJ The results)
+     (VP included
+         (NP (NP (NP a (ADJP (QP A$ 453.4 million) *U*) write-off)
+		 (PP of
+		     (NP future income-tax benefits)))
+	     and
+             (NP (NP a provision)
+                 (PP for
+                     (NP (NP a loss)
+                         (PP of
+                             (NP (QP A$ 149.5 million) *U*))
+                         (PP on
+                             (NP (NP the sale)
+                                 (PP of
+                                     (NP (NP a stake)
+                                         (PP of
+                                             (NP (QP about 20) %))
+                                         (PP-LOC in
+						 (NP Lonrho PLC)))))))))))
+     .))
+( (S (ADVP However)
+     ,
+     (NP-SBJ Bond Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 the tax benefits)
+                  (VP (VP remain
+			  (ADJP-PRD available))
+		      and
+		      (VP might 
+			  (VP be
+			      (VP used
+				  (NP *-1)
+				  (ADVP-TMP later))))))))
+     .))
+( (S (NP-SBJ (NP Earnings)
+             (PP before
+                 (NP interest and tax))
+             (PP from
+                 (NP brewing)))
+     (VP dived
+         (NP-EXT 50 %)
+         (PP-DIR to
+		 (NP (QP A$ 123.8 million) *U*))
+	 (PP-DIR from
+		 (NP (QP A$ 247.3 million) *U*)))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (SBAR 0
+               (S (S (NP-SBJ (NP the general financial performance)
+                             (PP of
+                                 (NP (NP its U.S. brewing operations)
+                                     ,
+                                     (NP G. Heileman Brewing Co.)
+                                     ,)))
+                     (VP was
+			 ``
+			 (ADJP-PRD disappointing)))
+                  , and
+                  (S (NP-SBJ-1 this)
+                     (VP has
+			 (VP been
+			     (VP reflected
+				 (NP *-1)
+				 (PP-CLR in
+					 (NP the results)))))))))
+     . ''))
+( (S (NP-SBJ (NP Bond Corp. 's)
+             shares)
+     (VP closed
+	 (NP-TMP Friday)
+	 (PP-TMP before
+		 (NP (NP news)
+		     (PP of
+			 (NP (NP the results)
+			     (PP at
+				 (NP (NP 28 Australian cents)
+				     (NP-ADV a share)
+				     ,))
+			     (ADVP up
+				   (NP one Australian cent)))))))
+     .))
+( (S (NP-SBJ The staggering losses)
+     (VP cap
+         (NP (NP a tumultuous year)
+             (PP for
+                 (NP (NP Alan Bond)
+                     and
+                     (NP (NP his flagship)
+                         ,
+                         (NP Bond Corp))))))
+     .))
+( (S (ADVP-TMP (NP Only a year)
+	       ago)
+     ,
+     (NP-SBJ-2 (NP the chairman)
+	       (PP of
+		   (NP Bond Corp.))
+	       ,
+	       (SBAR (WHNP-1 who)
+		     (S (NP-SBJ *T*-1)
+			(VP controls
+			    (NP (NP (QP about 58) %)
+				(PP of
+				    (NP the company))))))
+	       ,)
+     (VP appeared
+         (S (NP-SBJ-3 *-2)
+            (VP to
+		(VP be
+		    (VP building
+			(NP a war chest)
+			(S-PRP (NP-SBJ *-3)
+			       (VP to
+				   (VP attack
+				       (NP some big companies)))))))))
+     .))
+( (S (ADVP-TMP Now)
+     (NP-SBJ-1 Bond Corp.)
+     (VP has
+         (VP agreed
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP sell
+                        (NP (QP at
+				least
+                                half)
+                            its Australian brewing assets))))))
+     .))
+( (S (NP-SBJ It)
+     (VP (VP has
+	     (VP sold
+		 (NP (NP billions)
+		     (PP of
+			 (NP (NP dollars)
+			     (PP of
+				 (NP other assets)))))))
+	 and
+	 (VP has
+	     (NP (NP more)
+		 (PP on
+		     (NP the block)))))
+     .))
+( (S But
+     (PP-LOC in
+	     (NP a TV interview))
+     (NP-TMP Sunday)
+     (NP-SBJ Mr. Bond)
+     (VP said ,
+	 ``
+	 (S (NP-SBJ We)
+            (VP 've
+                (VP taken
+                    (NP a big loss)))))
+     .))
+( (S (NP-SBJ We)
+     (VP 've
+         (VP taken
+             (NP it)
+             (PP-LOC-CLR on
+			 (NP the chin))))
+     .))
+( (S But
+     (S (NP-SBJ we)
+        (VP 're
+            (ADVP-LOC-PRD out there)))
+     and
+     (S (NP-SBJ-1 we)
+        (VP 're
+            (VP going
+                (S (NP-SBJ *-1)
+                   (VP to
+                       (VP stay
+                           (PP-LOC-CLR in
+				       (NP business))))))))
+     .))
+( (S (NP-SBJ Bond Corp.)
+     (VP signaled
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP will
+                      (VP focus
+                          (PP-CLR on
+				  (S-NOM (NP-SBJ *)
+					 (VP building
+					     (NP its 
+						 (ADJP domestic and international) 
+						 media and communications businesses)))))))))
+     .))
+( (S (NP-SBJ It)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP will
+                      (VP look
+                          (PP-CLR at
+				  (NP (NP opportunities)
+				      (PP in
+					  (NP brewing , property and energy resources))))
+			  (PP to
+			      (NP (NP the extent)
+				  (ADJP consistent
+					(PP with
+					    (NP (NP the dominant objective)
+						(PP of
+						    (NP manageable debt-to-assets ratios))))))))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ The result)
+	      ``
+	      (VP will
+		  (ADVP ultimately)
+		  (VP be
+		      (NP-PRD (NP a (ADJP very different) group)
+			      (PP in
+				  (NP size and structure))))))
+     ,
+     ''
+     (NP-SBJ Bond Corp. directors)
+     (VP said
+	 (PP-LOC in
+		 (NP a statement))
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (S (NP-SBJ Some analysts)
+        (VP contend
+            (SBAR 0
+                  (S (NP-SBJ the total writeoffs)
+                     (VP should
+			 (VP have
+			     (VP been
+				 (ADJP-PRD much greater))))))))
+     , and
+     (S (NP-SBJ (NP Bond Corp. 's)
+                auditors)
+        (VP cited
+            (NP (NP a list)
+                (PP of
+                    (NP (NP several assets and deals)
+                        (SBAR (WHPP-1 about
+				      (WHNP which))
+                              (S (NP-SBJ there)
+                                 (VP is
+                                     (NP-PRD ``
+					     (NP uncertainty)
+					     ''
+					     (VP regarding
+						 (NP (NP the current value)
+						     and
+						     (NP (NP potential impact)
+							 (PP on
+							     (NP the firm))))))
+				     (PP *T*-1)))))))))
+     .))
+( (S (NP-SBJ Bond Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the acknowledged losses)
+                  (VP mean
+                      (SBAR 0
+                            (S (NP-SBJ net asset backing)
+                               (VP is
+                                   (PP-PRD in
+                                           (NP the red))
+				   (PP to
+				       (NP (NP the tune)
+					   (PP of
+					       (NP (NP 53 Australian cents)
+						   (NP-ADV a share)))))
+				   ,
+				   (PP vs.
+				       (NP (NP positive asset backing)
+					   (PP of
+					       (NP (NP A$ 1.92 *U*)
+						   (NP-ADV a share)
+						   (ADVP-TMP (NP a year)
+							     ago))))))))))))
+     .))
+( (S-1 (ADVP Still)
+       (PRN ,
+	    (S (NP-SBJ the directors)
+	       (VP said
+		   (S *T*-1)))
+	    ,)
+       ``
+       (S-ADV (NP-SBJ *-2)
+	      (VP Having
+		  (VP (ADVP fully)
+		      considered
+		      (NP (NP (NP all aspects)
+			      (PP of
+				  (NP (NP (NP the company 's)
+					  state)
+				      (PP of
+					  (NP affairs)))))
+			  and
+			  (NP future cash flows)))))
+       ,
+       (NP-SBJ-2 the directors)
+       (VP confirm
+	   (ADVP absolutely)
+	   (SBAR that
+		 (S (NP-SBJ the company)
+		    (VP is
+			(ADJP-PRD solvent)))))
+       . ''))
+( (S (ADVP Indeed)
+     ,
+     (PP-LOC in
+	     (NP (NP a note)
+		 (PP to
+		     (NP the results))))
+     ,
+     (NP-SBJ directors)
+     (VP said
+         (SBAR 0
+               (S (SBAR-ADV if
+			    (S (NP-SBJ-1 (NP the `` true worth '')
+					 (PP of
+					     (NP (NP some)
+						 (PP of
+						     (NP (NP the group 's)
+							 assets)))))
+			       (VP were
+				   (VP taken
+				       (NP *-1)
+				       (PP-CLR into
+					       (NP account))
+				       (PP instead of
+					   (S-NOM (NP-SBJ *)
+						  (VP using
+						      (NP book values))))))))
+                  ,
+                  (NP-SBJ (NP the negative net asset)
+                          (VP backing
+                              (NP a share)))
+                  (VP would
+                      (VP turn
+                          (PP-CLR into
+				  (NP `` a substantial positive '' one)))))))
+     .))

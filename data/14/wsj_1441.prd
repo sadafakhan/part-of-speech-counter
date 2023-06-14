@@ -1,0 +1,208 @@
+
+
+( (S (NP-SBJ The following)
+     (VP were
+         (PP-PRD among
+                 (NP (NP (NP Friday 's)
+			 offerings and pricings)
+		     (PP-LOC in
+			     (NP the (UCP U.S. and non-U.S.) capital markets))))
+	 ,
+	 (PP with
+	     (NP (NP terms and syndicate manager)
+		 ,
+		 (SBAR as
+		       (S (NP-SBJ-1 *)
+			  (VP compiled
+			      (NP *-1)
+			      (PP by
+				  (NP-LGS Dow Jones Capital Markets Report))))))))
+     :))
+( (NP (NP Chicago &
+          North Western Acquisition Corp.)
+      --
+      (NP (NP (QP $ 475 million) *U*)
+	  (PP of
+	      (NP (NP senior subordinated resettable debentures)
+		  ,
+		  (ADJP due
+			(NP-TMP Oct. 15 , 2001))
+		  ,))
+          (VP priced
+              (NP *)
+              (PP-CLR at
+		      (ADJP par))
+              (S-PRP (NP-SBJ *)
+		     (VP to
+			 (VP yield
+			     (NP 14.75 %))))))
+      .))
+( (S (NP-SBJ The coupon)
+     (VP will
+         (VP be
+             (VP reset
+                 (PP-TMP in
+			 (NP one year))
+                 (PP at
+                     (NP (NP a rate)
+                         (SBAR (WHNP-1 that)
+                               (S (NP-SBJ *T*-1)
+                                  (VP will
+                                      (VP give
+                                          (NP the issue)
+                                          (NP (NP a market value)
+					      (PP of
+						  (NP 101))))))))))))
+     .))
+( (S (ADVP However)
+     ,
+     (NP-SBJ (NP the maximum coupon rate)
+	     (PP on
+		 (NP the issue))
+             (SBAR-TMP (WHADVP-1 when)
+		       (S (NP-SBJ it)
+			  (VP is
+			      (VP reset
+				  (ADVP-TMP *T*-1))))))
+     (VP can
+         (ADVP only)
+         (VP be
+             (NP-PRD 15.5 %)))
+     .))
+( (S (NP-SBJ Debenture holders)
+     (VP will
+         (ADVP also)
+         (VP receive
+             (NP (NP the equivalent)
+		 (PP of
+		     (NP (NP 10 %)
+			 (PP of
+			     (NP (NP the common stock)
+				 (PP of
+				     (NP CNW Holdings)))))))))
+     .))
+( (S (S (NP-SBJ The equity kicker)
+        (VP is not
+            (VP attached
+                (PP-CLR to
+			(NP the offering)))))
+     , but
+     (S (NP-SBJ underwriters)
+        (VP said
+            (SBAR 0
+                  (S (NP-SBJ-1 it)
+                     (VP will
+			 (VP be
+			     (VP offered
+				 (NP *-1)
+				 (SBAR-TMP after
+					   (S (NP-SBJ (NP a filing)
+						      (PP for
+							  (NP (NP 68,548 common shares)
+							      (PP of
+								  (NP CNW Holdings)))))
+					      (VP is
+						  (VP declared
+						      (S (NP-SBJ *) 
+							 (ADJP-PRD effective)
+							 (PP by
+							     (NP-LGS the Securities & Exchange Commission))))))))))))))
+     .))
+( (S (NP-SBJ The issue)
+     (VP (VP is
+             (ADJP-PRD noncallable
+                       (PP for
+                           (NP five years))))
+         and
+         (VP has
+             (NP (NP a sinking fund)
+                 (VP starting
+                     (PP-TMP-CLR in
+				 (NP 2000))
+		     (S-ADV (NP-SBJ *)
+			    (VP to
+				(VP retire
+				    (NP (NP 50 %)
+					(PP of
+					    (NP the issue)))
+				    (PP-TMP before
+					    (NP maturity)))))))))
+     .))
+( (S (S-ADV (NP-SBJ *-3)
+	    (VP Rated
+		(S (S (NP-SBJ *) 
+		      (ADJP-PRD-1 single-B-2)
+		      (PP-2 by
+			    (NP-LGS (NP Moody 's)
+				    Investors Service Inc.)))
+		   and
+		   (S (ADJP-PRD=1 single-B-minus)
+		      (PP=2 by
+			    (NP-LGS (NP Standard & Poor 's)
+				    Corp.))))))
+     ,
+     (NP-SBJ-3 the issue)
+     (VP will
+	 (VP be
+	     (VP sold
+		 (NP *-3)
+		 (PP through
+		     (NP (NP underwriters)
+			 (VP led
+			     (NP *)
+			     (PP by
+				 (NP-LGS Donaldson Lufkin & Jenrette Securities Corp))))))))
+     .))
+( (FRAG (NP (NP (NP Tokuyama Soda Co .)
+		(PRN -LRB-
+		     (NP Japan)
+		     -RRB-))
+	    --
+	    (NP (NP (QP $ 200 million) *U*)
+		(PP of
+		    (NP Eurobonds))
+		(ADJP due
+		      (NP-TMP Nov. 9 , 1993))
+		,
+		(PP with
+		    (NP equity-purchase warrants))
+		,
+		(S-ADV (NP-SBJ *)
+		       (VP indicating
+			   (NP a (ADJP 4 %) coupon)
+			   (PP at
+			       (ADJP par))))
+		,
+		(PP via
+		    (NP Nomura International Ltd)))
+	    .)))
+( (S (NP-SBJ Each (ADJP $ 5,000 *U*) bond)
+     (VP carries
+         (NP (NP one warrant
+		 (S *ICH*-3))
+             ,
+             (ADJP exercisable
+                   (PP-TMP (PP from
+			       (NP Nov. 28 , 1989))
+			   ,
+			   (PP through
+			       (NP Oct. 28 , 1993))))
+	     ,
+	     (S-3 (NP-SBJ *)
+		  (VP to
+		      (VP buy
+			  (NP company shares)
+			  (PP-CLR at
+				  (NP (NP an expected premium)
+				      (PP of
+					  (NP (NP (QP 2 1) %)
+					      (PP to
+						  (NP the closing share price))))))
+			  (SBAR-ADV (WHADVP-2 when)
+				    (S (NP-SBJ-1 terms)
+				       (VP are
+					   (VP fixed
+					       (NP *-1)
+					       (NP-TMP Oct. 27)
+					       (ADVP-TMP *T*-2))))))))))
+     .))

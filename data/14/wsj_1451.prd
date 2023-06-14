@@ -1,0 +1,75 @@
+
+
+( (S (NP-SBJ ENFIELD Corp.)
+     (VP said
+         (PP-LOC in
+		 (NP Toronto))
+         (SBAR that
+               (S (NP-SBJ-1 it)
+                  (VP hopes
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP raise
+                                 (NP (NP (QP 56 million) Canadian dollars)
+                                     (PRN -LRB-
+					  (NP (QP US$ 47.7 million) *U*)
+					  -RRB-))
+				 (PP-MNR through
+					 (NP (NP a rights offering)
+					     (PP to
+						 (NP shareholders)))))))))))
+     .))
+( (S (PP-LOC Under
+	     (NP the offer))
+     ,
+     (NP-SBJ shareholders)
+     (VP can
+         (VP purchase
+             (NP one Enfield share)
+             (PP-CLR at
+		     (NP (NP C$ 6.27 *U*)
+			 (PP for
+			     (NP (NP each five shares)
+				 (VP held
+				     (NP *))))))))
+     .))
+( (S (PP-LOC In
+	     (NP Toronto Stock Exchange trading))
+     (NP-TMP Friday)
+     ,
+     (NP-SBJ Enfield)
+     (VP closed
+         (PP-CLR at
+		 (NP C$ 6.75 *U*))
+         ,
+         (ADVP down
+	       (NP 37.5 cents)))
+     .))
+( (S (NP-SBJ The holding company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the rights offering)
+                  (VP should
+                      (VP (VP reduce
+                              (NP its (ADJP (QP C$ 171 million) *U*) debt)
+                              (PP-CLR to
+				      (NP `` more manageable levels ''))
+                              (PP-TMP before
+				      (NP Dec. 31)))
+                          and
+                          (VP allow
+			      (S (NP-SBJ it)
+                                 (VP to
+                                     (VP finance
+                                         (NP (NP future investments)
+                                             (PP with
+                                                 (NP equity capital))))))))))))
+     .))
+( (S (PP-TMP At
+	     (NP last report))
+     ,
+     (NP-SBJ Enfield)
+     (VP had
+         (NP (NP (QP about 44.5 million) shares)
+             (ADJP outstanding)))
+     .))

@@ -1,0 +1,60 @@
+
+
+( (S (NP-SBJ Rochester Telephone Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP completed
+                      (NP (NP its purchase)
+			  (PP of
+			      (NP (NP (NP Urban Telephone Corp. ,)
+				      (PP of
+					  (NP (NP Clintonville)
+					      ,
+					      (NP Wis.))))
+				  ,
+				  (NP (NP the second-largest unaffiliated independent telephone company)
+				      (PP-LOC in
+					      (NP that state))))))))))
+     .))
+( (S (S (NP-SBJ Rochester Telephone)
+        (VP said
+            (SBAR 0
+                  (S (NP-SBJ-1 the acquisition)
+                     (VP was
+                         (VP made
+                             (NP *-1)
+                             (PP in
+                                 (NP (NP an exchange)
+				     (PP of
+					 (NP its common shares))
+				     (PP for
+					 (NP (NP all
+						 the shares)
+					     (PP of
+						 (NP Urban Telephone))))))))))))
+     , but
+     (S (NP-SBJ a price)
+        (VP was n't
+            (VP disclosed)))
+     .))
+( (S (NP-SBJ Urban)
+     (VP is
+         (NP-PRD (NP (NP the company 's)
+		     first telephone subsidiary)
+                 (PP-LOC in
+			 (NP Wisconsin))))
+     .))
+( (S (PP-TMP Since
+	     (NP June))
+     ,
+     (NP-SBJ Rochester Telephone)
+     (VP signed
+         (NP (NP letters)
+             (PP of
+                 (NP intent
+		     (S (NP-SBJ *)
+			(VP to
+			    (VP purchase
+				(NP three other Wisconsin firms))))))))
+     .))

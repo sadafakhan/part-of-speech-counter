@@ -1,0 +1,837 @@
+
+
+( (S (NP-SBJ McCaw Cellular Communications Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP obtained
+                      (NP `` firm '' financing commitments)
+                      (PP from
+                          (NP three major banks))
+                      (PP in
+                          (NP (NP regard)
+                              (PP to
+                                  (NP (NP its offer)
+                                      (PP for
+                                          (NP (NP 50.3 %)
+                                              (PP of
+                                                  (NP LIN Broadcasting Corp))))))))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ (NP Morgan Guaranty Trust)
+		      ,
+		      (NP Toronto-Dominion Bank)
+		      and
+		      (NP (NP Provident National Bank)
+			  ,
+			  (NP (NP an affiliate)
+			      (PP of
+				  (NP PNC Financial Corp.)))
+			  ,))
+	      (VP (ADVP jointly)
+		  committed
+		  (NP (NP (NP (QP $ 1.2 billion) *U*)
+			  (PP of
+			      (NP financing)))
+		      ,
+		      (ADJP subject
+			    (PP to
+				(NP certain conditions)))
+		      ,)))
+     (NP-SBJ McCaw)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S Further ,
+     (NP-SBJ McCaw)
+     (VP said
+	 (SBAR 0
+	       (S (NP-SBJ the banks)
+		  (VP expressed
+		      (NP confidence
+			  (SBAR that
+				(S (NP-SBJ-1 (NP the balance)
+					     (PP of
+						 (NP the (ADJP (QP $ 4.5 billion) *U*) bank facility)))
+				   (VP will
+				       (VP be
+					   (VP committed
+					       (NP *-1)
+					       (PP-TMP within
+						       (NP the next several weeks))
+					       (PP by
+						   (NP-LGS (NP a syndicate)
+							   (PP of
+							       (NP foreign and domestic banks))))))))))))))
+     .))
+( (S (NP-SBJ (NP Morgan)
+             ,
+             (NP Toronto-Dominion)
+             and
+             (NP Provident))
+     (VP are
+         (VP leading
+             (NP that syndicate)))
+     .))
+( (S (NP-SBJ-2 McCaw)
+     (VP is
+         (VP offering
+             (S (NP-SBJ *-2)
+                (VP (VP to
+			(VP buy
+			    (NP (NP (QP 22 million) shares)
+				(PP of
+				    (NP LIN)))
+			    (PP-CLR for
+				    (NP (NP $ 125 *U*)
+					(NP-ADV each)
+					(PP in
+					    (NP cash))))))
+		    ,
+		    (SBAR-ADV (WHNP-1 which)
+			      (S (NP-SBJ *T*-1)
+				 (VP would
+				     (VP result
+					 (PP-CLR in
+						 (S-NOM (NP-SBJ McCaw)
+							(VP owning
+							    (NP (NP 50.3 %)
+								(PP of
+								    (NP the cellular-phone and broadcasting concern))))))))))))))
+     .))
+( (S (NP-SBJ The offer)
+     (VP is
+         (PP-PRD in
+                 (NP limbo))
+	 ,
+	 (ADVP however)
+	 ,
+	 (SBAR-PRP because
+		   (S (NP-SBJ-1 LIN)
+		      (VP has
+			  (VP agreed
+			      (S (NP-SBJ *-1)
+				 (VP to
+				     (VP merge
+					 (NP its cellular-phone businesses)
+					 (PP-CLR with
+						 (NP BellSouth Corp))))))))))
+     .))
+( (S (PP-LOC In
+	     (NP national over-the-counter trading))
+     (NP-TMP Friday)
+     ,
+     (NP-SBJ LIN shares)
+     (VP rose
+         (NP-EXT 62.5 cents)
+         (S-PRP (NP-SBJ *)
+		(VP to
+		    (VP close
+			(PP-CLR at
+				(NP $ 110.625 *U*))))))
+     .))
+( (S (NP-SBJ Beijing lawmakers)
+     (VP have
+         (VP called
+             (UCP (SBAR for
+			(S (NP-SBJ-3 jails)
+			   (VP to
+			       (VP be
+				   (VP built
+				       (NP-1 *-3)
+				       (S-PRP (NP-SBJ *-1)
+					      (VP to
+						  (VP house
+						      (NP prostitutes)))))))))
+		  and
+		  (PP for
+		      (NP (NP severe punishment)
+			  ,
+			  (PP including
+			      (NP the death sentence))
+			  ,
+			  (PP for
+			      (NP (NP anyone)
+				  (SBAR (WHNP-2 who)
+					(S (NP-SBJ *T*-2)
+					   (VP induces or coerces
+					       (NP women)
+					       (PP-CLR into
+						       (NP prostitution))))))))))))
+     .))
+( (S (NP-SBJ The official Xinhua News Agency)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the municipal government)
+                  (VP was
+                      (VP discussing
+                          (NP (NP a draft bill)
+                              (SBAR (WHNP-1 0)
+				    (S (NP-SBJ *T*-1)
+				       (VP to
+					   (VP give
+					       (NP the capital)
+					       (NP its first anti-prostitution statutes)))))))))))
+     .))
+( (S (NP-SBJ It)
+     (VP quoted
+         (NP-2 (NP Liu Changyi)
+	       ,
+	       (NP (NP deputy director)
+		   (PP of
+		       (NP the Beijing Public Security Bureau)))
+	       ,)
+         (PP-CLR as
+		 (S-NOM (NP-SBJ *-2)
+			(VP saying
+			    (SBAR that
+				  (S (NP-SBJ there)
+				     (VP were
+					 (NP-PRD (NP (ADJP many more) people)
+						 (VP involved
+						     (NP *)
+						     (PP-CLR in
+							     (NP prostitution))
+						     (ADVP-TMP (ADVP now)
+							       (PP than
+								   (PP-TMP in
+									   (NP (NP 1985)
+									       ,
+									       (SBAR (WHADVP-1 when)
+										     (S (NP-SBJ there)
+											(VP were
+											    (NP-PRD about 100 cases)
+											    (ADVP-TMP *T*-1)))))))))))))))))
+     .))
+( (S (S (NP-SBJ-2 (NP Foreigners)
+		  (VP involved
+		      (NP *)
+		      (PP-CLR in
+			      (NP prostitution))))
+        (VP will
+	    (VP be
+		(VP punished
+		    (NP *-2)
+		    (PP according
+			(PP to
+			    (NP the law)))))))
+     , and
+     (S (NP-SBJ-1 (NP those)
+                  (PP with
+                      (NP sexually transmitted diseases)))
+        (VP will
+	    (VP be
+		(VP expelled
+		    (NP *-1)
+		    (PP-CLR from
+			    (NP the country))
+		    ,
+		    (PP according
+			(PP to
+			    (NP the regulations)))))))
+     .))
+( (S (S (NP-SBJ-1 The Communists)
+        (VP (ADVP nearly)
+            succeeded
+            (PP-CLR in
+		    (S-NOM (NP-SBJ *-1)
+			   (VP eliminating
+			       (NP prostitution))))
+	    (PP-TMP after
+		    (S-NOM (NP-SBJ *-1)
+			   (VP taking 
+			       (PRT over)
+			       (PP-TMP in
+				       (NP 1949)))))))
+     , but
+     (S (NP-SBJ the practice)
+        (VP has
+            (VP returned
+		(PP-TMP in
+			(NP recent years))
+		(PP with
+		    (NP (NP (NP the country 's)
+			    increased exposure)
+			(PP to
+			    (NP the outside world)))))))
+     .))
+( (S (S-TPC-3 (NP-SBJ-1 Japan)
+	      (VP agreed
+		  (S (NP-SBJ *-1)
+		     (VP to
+			 (VP enforce
+			     (NP (NP a decision
+				     (S *ICH*-2))
+				 (PP by
+				     (NP an international wildlife conference))
+				 (S-2 (NP-SBJ *)
+				      (VP to
+					  (VP ban
+					      (NP (NP all trade)
+						  (PP in
+						      (NP ivory))))))))))))
+     ,
+     (NP-SBJ (NP a spokesman)
+	     (PP for
+		 (NP (NP the Ministry)
+		     (PP of
+			 (NP International Trade and Industry)))))
+     (VP said
+	 (S *T*-3))
+     .))
+( (S (ADVP-TMP Earlier)
+     ,
+     (NP-SBJ Japan)
+     (VP had
+	 (VP said
+	     (SBAR 0
+		   (S (NP-SBJ it)
+		      (VP might
+			  (VP file
+			      (NP (NP a reservation)
+				  (PP against
+				      (NP (NP the ivory ban)
+					  (VP decided
+					      (NP *)
+					      (PP by
+						  (NP-LGS ballot))
+					      (PP-LOC at
+						      (NP (NP the 103-nation United Nations Conference)
+							  (PP on
+							      (NP (NP International Trade)
+								  (PP in
+								      (NP Endangered Species))))
+							  (PP-LOC in
+								  (NP Switzerland))
+							  (NP-TMP last week)))))))))))))
+     .))
+( (S (NP-SBJ The Japanese)
+     (VP use
+         (NP (NP 40 %)
+             (PP of
+                 (NP (NP the world 's)
+                     ivory))))
+     .))
+( (S (S-TPC-1 (NP-SBJ Italy)
+	      (VP should
+		  (VP close
+		      (NP (NP the Leaning Tower)
+			  (PP of
+			      (NP Pisa)))
+		      (SBAR-PRP because
+				(S (NP-SBJ it)
+				   (VP 's
+				       (NP-PRD (NP a danger)
+					       (PP to
+						   (NP tourists)))))))))
+     ,
+     (NP-SBJ government-appointed experts)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S ``
+     (S-TPC-1 (PP-LOC In
+		      (NP some places))
+	      (NP-SBJ the stonework)
+	      (VP is
+		  (ADJP-PRD (ADJP so damaged)
+			    (SBAR 0
+				  (S (NP-SBJ-2 it)
+				     (VP shows
+					 (NP (NP signs)
+					     (PP of
+						 (S-NOM (NP-SBJ *-2)
+							(VP breaking
+							    (PRT off)))))))))))
+     ,
+     ''
+     (NP-SBJ scientists and technicians)
+     (VP said
+	 (S *T*-1)
+	 (PP-LOC in
+		 (NP (NP a report)
+		     (PP to
+			 (NP Public Works Minister
+			     Giovanni Prandini)))))
+     .))
+( (S (NP-TMP Each year)
+     ,
+     (NP-SBJ (QP nearly a million) people)
+     (VP pay
+         (NP (QP about $ 3) *U*)
+         (S-PRP (NP-SBJ *)
+		(VP to
+		    (VP make
+			(NP (NP the spiral climb)
+			    (PP up
+				(NP 294 steps))
+			    (PP to
+				(NP (NP the top)
+				    (PP of
+					(NP the 800-year-old marble tower)))))))))
+     .))
+( (S (NP-SBJ-1 East Germany)
+     (VP pledged
+         (S (NP-SBJ-2 *-1)
+            (VP to
+                (VP reduce
+                    (NP alcohol consumption)
+                    (PP-MNR by
+			    (S-NOM (NP-SBJ *-2)
+				   (VP boosting
+				       (NP (NP production)
+					   (PP of
+					       (NP (NP soft drinks) and (NP fruit juices)))))))))))
+     .))
+( (S (S (NP-SBJ Trade and Supply Minister
+                Gerhard Briksa)
+        (VP said
+            (PP-LOC in
+		    (NP (NP a letter)
+			(VP published
+			    (NP *)
+			    (PP-LOC in
+				    (NP the youth daily
+					Junge Welt)))))
+            (SBAR that
+                  (S (NP-SBJ-1 (NP the rise)
+                               (PP in
+                                   (NP alcohol consumption))
+                               (PP-LOC in
+				       (NP East Germany)))
+                     (VP had
+			 (VP been
+			     (VP halted
+				 (NP *-1))))))))
+     ; but
+     (S-3 (S-PRP (NP-SBJ *)
+		 (VP to
+		     (VP reduce
+			 (NP it)
+			 (ADVP further))))
+	  (PRN ,
+	       (S (NP-SBJ he)
+		  (VP said
+		      (S *T*-3)))
+	       ,)
+	  (NP-SBJ-2 (NP production and supply)
+		    (PP of
+			(NP (NP other beverages)
+			    ,
+			    (PP including
+				(NP fruit juices))
+			    ,)))
+	  (VP should
+	      (VP be
+		  (VP stepped
+		      (NP *-2)
+		      (ADVP up)))))
+     .))
+( (S (NP-SBJ He)
+     (VP added
+         (SBAR that
+               (S (NP-SBJ-1 shops)
+                  (VP will
+                      (VP have
+                          (S (NP-SBJ-2 *-1)
+                             (VP to
+                                 (VP (VP continue
+                                         (S (NP-SBJ *-2)
+                                            (VP reducing
+                                                (NP (NP their stocks)
+                                                    (PP of
+                                                        (NP liquor))))))
+                                     and
+                                     (VP avoid
+                                         (S (NP-SBJ *-2)
+                                            (VP displaying
+                                                (NP them)
+                                                (ADVP-MNR too prominently)
+                                                (PP-LOC in
+							(NP the window)))))))))))))
+     .))
+( (S (NP-SBJ Hong Kong)
+     (VP has
+         (VP built
+             (NP (NP a detention center)
+                 (PP for
+                     (NP (NP illegal immigrants)
+                         (PP from
+                             (NP China)))))
+	     (SBAR-PRP because
+		       (S (NP-SBJ-1 China)
+			  (VP has
+			      (VP refused
+				  (PP-TMP for
+					  (NP the past two weeks))
+				  (S (NP-SBJ *-1)
+				     (VP to
+					 (VP accept
+					     (NP them)
+					     (ADVP-CLR back))))))))))
+     .))
+( (S (S-TPC-2 (NP-SBJ-1 (NP The center)
+			,
+			(ADVP-LOC close
+				  (PP to
+				      (NP (NP (NP Hong Kong 's)
+					      border)
+					  (PP with
+					      (NP China)))))
+			,)
+	      (VP (VP will
+		      (VP be
+			  (ADJP-PRD ready)
+			  (NP-TMP today)))
+		  and
+		  (VP will
+		      (VP be
+			  (ADJP-PRD able
+				    (S (NP-SBJ *-1)
+				       (VP to
+					   (VP house
+					       (NP 1,000 inmates)))))))))
+     ,
+     (NP-SBJ Police Deputy Director
+	     Peter Wong)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (NP-SBJ The dispute)
+     (VP started
+         (SBAR-TMP-CLR (WHADVP-2 when)
+		       (S (NP-SBJ (NP China)
+				  ,
+				  (ADJP angry
+					(SBAR that
+					      (S (NP-SBJ Hong Kong)
+						 (VP had
+						     (VP allowed
+							 (S (NP-SBJ dissident swimmer Yang Yang)
+							    (VP to
+								(VP flee
+								    (PP-DIR to
+									    (NP the U.S.))))))))))
+				  ,)
+			  (VP halted
+			      (NP (NP the usual daily transfer)
+				  (PP of
+				      (NP (NP illegal immigrants)
+					  (VP caught
+					      (NP *)
+					      (PP-LOC in
+						      (NP (NP this British colony)
+							  ,
+							  (SBAR (WHNP-1 which)
+								(S (NP-SBJ *T*-1)
+								   (VP reverts
+								       (PP-CLR to
+									       (NP (NP Beijing 's)
+										   control))
+								       (PP-PRP in
+									       (NP 1997)))))))))))
+			      (ADVP-TMP *T*-2)))))
+     .))
+( (S (S-ADV (NP-SBJ *-1)
+	    (VP Sweating
+		(PP-LOC under
+			(NP (NP the glare)
+			    (PP of
+				(NP newly installed television lights))))))
+     ,
+     (NP-SBJ-1 (NP British members)
+	       (PP of
+		   (NP Parliament)))
+     (VP demanded
+	 (NP (NP a halt)
+	     (PP to
+		 (NP (NP the experimental televising)
+		     (PP of
+			 (NP debates))))))
+     .))
+( (S (NP-SBJ (NP A group)
+             (PP of
+                 (NP (NP senior Conservative legislators)
+                     ,
+                     (VP complaining
+                         (SBAR 0
+                               (S (NP-SBJ (NP the House)
+                                          (PP of
+                                              (NP Commons)))
+                                  (VP was
+                                      (PP-PRD like
+                                              (NP a sauna))))))
+                     ,)))
+     (VP demanded
+         (SBAR that
+               (S (NP-SBJ-1 the experiment)
+                  (VP be
+                      (VP stopped
+                          (NP *-1)
+			  (SBAR-ADV unless
+				    (S (NP-SBJ-2 (NP the intensity)
+						 (PP of
+						     (NP the lights)))
+				       (VP is
+					   (VP reduced
+					       (NP *-2))))))))))
+     .))
+( (S (NP-SBJ (NP One Conservative MP)
+             ,
+             (NP David Wilshire)
+             ,)
+     (VP said :
+         (S ``
+            (NP-SBJ I)
+            (VP should
+                (VP have
+                    (NP a wonderful suntan)
+                    (PP-TMP by
+			    (NP Christmas))))))
+     . ''))
+( (S (NP-SBJ Debates)
+     (VP are
+         (ADJP-PRD due
+                   (S (NP-SBJ-1 *)
+                      (VP to
+			  (VP be
+			      (VP broadcast
+				  (NP *-1)
+				  (ADVP-LOC nationally)
+				  (S-ADV (NP-SBJ *)
+					 (VP starting
+					     (NP-TMP-CLR Nov. 21))))))))
+	 (PP-TMP in
+		 (NP a six-month experiment)))
+     .))
+( (S (NP-SBJ-1 (NP A majority)
+	       (PP of
+		   (NP Japanese banks)))
+     (VP are
+         (VP said
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP be
+                        (ADJP-PRD wary
+                                  (PP of
+                                      (S-NOM (NP-SBJ *)
+					     (VP making
+						 (NP new loans)
+						 (PP-CLR to
+							 (NP Mexico))
+						 (PP-LOC under
+							 (NP the Brady plan))))))
+			(SBAR-PRP because
+				  (S (NP-SBJ they)
+				     (VP 're
+					 (ADJP-PRD uncertain
+						   (SBAR 0
+							 (S (NP-SBJ the Mexican economy)
+							    (VP will
+								(VP remain
+								    (ADJP-PRD stable))))))))))))))
+     .))
+( (S (S-TPC-2 (ADVP Instead)
+	      ,
+	      (NP-SBJ-1 (NP many (ADJP small and medium-sized) banks)
+			, and
+			(NP some larger ones)
+			,)
+	      (VP are
+		  (ADJP-PRD likely
+			    (S (NP-SBJ *-1)
+			       (VP to
+				   (VP take
+				       (NP (NP one)
+					   (PP of
+					       (NP (NP the other two options)
+						   (ADJP open
+							 (PP to
+							     (NP them))
+							 (PP-LOC under
+								 (NP the plan))))))))))))
+     ,
+     (NP-SBJ Japanese banking officials)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (NP-SBJ (NP The plan)
+             ,
+             (VP proposed
+                 (NP *)
+                 (PP by
+                     (NP-LGS (NAC U.S. Secretary
+				  (PP of
+				      (NP State)))
+			     Nicholas Brady)))
+             ,)
+     (VP calls
+         (SBAR-CLR for
+		   (S (NP-SBJ banks)
+		      (VP either
+			  (VP to
+			      (VP make
+				  (NP new loans)))
+			  or
+			  (VP to
+			      (VP reduce
+				  (NP (NP the principle)
+				      (PP on
+					  (NP existing loans)))))
+			  or
+			  (VP to
+			      (VP cut
+				  (NP (NP the interest rate)
+				      (PP on
+					  (NP those existing loans)))))))))
+     .))
+( (S (NP-SBJ The officials)
+     (VP said
+         (SBAR that
+               (S (NP-SBJ most Japanese banks)
+                  (VP prefer
+                      (NP (NP the losses)
+                          (SBAR (WHNP-1 0)
+                                (S (NP-SBJ they)
+                                   (VP 'd
+                                       (VP suffer
+                                           (NP *T*-1)
+                                           (PP-LOC in
+						   (NP (NP either)
+						       (PP of
+							   (NP the latter options)))))))))
+                      (PP-CLR to
+			      (NP (NP the risk)
+				  (PP of
+				      (NP new lending))))))))
+     .))
+( (S But
+     (NP-SBJ (NP an official)
+	     (PP-LOC at
+		     (NP a long-term credit bank)))
+     (VP explained
+         (SBAR that
+               (S (SBAR-PRP since
+			    (S (NP-SBJ some larger banks)
+			       (VP have
+				   (ADVP-TMP already)
+				   (VP taken
+				       (NP (NP loss provisions)
+					   (PP for
+					       (NP (NP loans)
+						   (PP to
+						       (NP other Third World nations)))))))))
+                  ,
+                  (NP-SBJ-1 further write-offs)
+                  (VP could
+		      (VP be
+			  (VP viewed
+			      (NP *-1)
+			      (PP-CLR as
+				      (ADJP intolerable))))))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ They)
+	      (VP ca n't
+		  (VP take
+		      (NP (NP the hit) ''
+			  (PP to
+			      (NP their earnings))))))
+     ,
+     (NP-SBJ he)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S-2 (PP As
+	   (NP a result))
+       (PRN ,
+	    (S (NP-SBJ the official)
+	       (VP said
+		   (SBAR 0
+			 (S *T*-2)))))
+       ,
+       (NP-SBJ-1 they)
+       (VP may
+	   (VP be
+	       (VP forced
+		   (NP *-1)
+		   (PP-CLR into
+			   (NP (NP a no-win situation)
+			       (SBAR (WHPP-3 in
+					     (WHNP which))
+				     (S (NP-SBJ they)
+					(VP make
+					    (PP-LOC *T*-3)
+					    (NP (NP risky loans)
+						(SBAR (WHNP-4 that)
+						      (S (NP-SBJ-5 they)
+							 (VP could
+							     (VP have
+								 (S (NP-SBJ *-5)
+								    (VP to
+									(VP write
+									    (PRT off)
+									    (NP *T*-4)
+									    (ADVP-TMP later)))))))))))))))))
+       .))
+( (S (NP-SBJ (NP A poll)
+             (PP-LOC in
+		     (NP male-dominated South Korea)))
+     (VP put
+         (S (NP-SBJ Margaret Thatcher)
+	    (ADJP-PRD first)
+	    (PP-LOC on
+		    (NP (NP a list)
+			(PP of
+			    (NP most-respected foreign leaders))))))
+     .))
+( (S (NP-SBJ The British prime minister)
+     (VP was
+         (NP-PRD (NP the only woman)
+                 (VP singled
+                     (NP *)
+                     (PRT out)
+                     (PP by
+                         (NP-LGS (NP respondents)
+                                 ,
+                                 (SBAR (WHNP-1 who)
+                                       (S (NP-SBJ *T*-1)
+                                          (VP put
+                                              (NP Soviet President Mikhail Gorbachev)
+                                              (PP-PUT in
+						      (NP second place))))))))))
+     ...
+     .))
+( (S (NP-SBJ The Soviet newspaper
+             Trud)
+     (VP reported
+         (SBAR that
+               (S (NP-SBJ Mickey Mouse)
+                  (VP will
+                      (VP appear
+                          (PP-LOC-CLR in
+				      (NP (NP a Russian-language comic book)
+					  (SBAR (WHNP-2 0)
+						(S (NP-SBJ-1 *T*-2)
+						   (VP to
+						       (VP be
+							   (VP issued
+							       (NP *-1)
+							       (NP (NP four times)
+								   (NP-ADV a year))
+							       (PP by
+								   (NP-LGS (NP Soviet publisher
+									       Fizkultura i Sport)
+									   and
+									   (NP (NP Denmark 's)
+									       Gutenberghus Group)))))))))))))))
+     .))
+( (S (NP-SBJ The comic book)
+     (VP will
+         (VP cost
+             (NP-CLR (QP about $ 2) *U*)))
+     .))

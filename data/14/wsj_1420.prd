@@ -1,0 +1,25 @@
+
+
+( (S (NP-SBJ Financial printer
+             Bowne & Co.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP formed
+                      (NP (NP a business translation service)
+                          ,
+                          (SBAR (WHNP-1 which)
+                                (S (NP-SBJ *T*-1)
+                                   (VP will
+                                       (VP provide
+                                           (NP legal , financial and other services)
+                                           (PP in
+                                               (NP (NP most major languages)
+                                                   ,
+                                                   (PP including
+                                                       (NP Japanese
+                                                           ,
+                                                           Chinese
+                                                           and
+                                                           Russian)))))))))))))
+     .))

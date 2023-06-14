@@ -1,0 +1,712 @@
+
+
+( (X (ADVP-TMP First) ,
+     (NP (NP the somewhat affected idealism)
+	 (PP of
+	     (NP the 1960s)))
+     .))
+( (X (ADVP-TMP Then) ,
+     (NP (NP the all-too-sincere opportunism)
+	 (PP of
+	     (NP the 1970s and 1980s)))
+     .))
+( (X (SBARQ (WHNP What)
+	    (ADVP-TMP now))
+ ?))
+( (S (S-ADV (NP-SBJ *)
+	    (VP To
+		(VP judge
+		    (PP-CLR from
+			    (NP (NP novels)
+				(SBAR (WHNP-1 that)
+				      (S (NP-SBJ *T*-1)
+					 (VP mirror
+					     (NP the contemporary scene)))))))))
+     ,
+     (NP-SBJ we)
+     (VP 're
+	 (ADVP-PRD back
+		   (PP in
+		       (NP (NP the age)
+			   (PP of
+			       (NP anxiety))))))
+     .))
+( (S (SBAR-LOC (WHADVP-2 Where)
+	       (S (S (NP-SBJ-4 '60s dropouts)
+		     (VP professed
+			 (S (NP-SBJ *-4)
+			    (VP to
+				(VP scorn
+				    (NP middle-class life))))))
+		  and
+		  (S (NP-SBJ-3 ambitious yuppies)
+		     (VP hoped
+			 (S (NP-SBJ *-3)
+			    (VP to
+				(VP leave
+				    (NP it)
+				    (ADVP-LOC far behind))))
+			 (SBAR-TMP as
+				   (S (NP-SBJ they)
+				      (VP scaled
+					  (NP (NP the upper reaches)
+					      (PP of
+						  (NP success))))))))
+		  (ADVP-LOC *T*-2)))
+     ,
+     (NP-SBJ it)
+     (ADVP-TMP now)
+     (VP seems
+         (SBAR that
+               (S (NP-SBJ (NP so many people)
+			  (SBAR *ICH*-5))
+                  (VP feel
+                      (SBAR 0
+                            (S (NP-SBJ they)
+                               (VP 're
+                                   (VP slipping
+                                       (PP-LOC-CLR between
+						   (NP the cracks))))))
+		      ,
+		      (SBAR-5 that
+			      (S (NP-SBJ-1 middle-class life)
+				 (VP is
+				     (VP viewed
+					 (NP *-1)
+					 (PP-CLR with
+						 (NP (NP nostalgia)
+						     or
+						     (NP outright longing)))))))))))
+     .))
+( (S (NP-SBJ (NP (NP Lisa Zeidner 's)
+                 third novel)
+             ,
+             (NP ``
+		 (NP-TTL Limited Partnerships)
+		 ''
+		 (PRN -LRB- 
+		      (NP (NP North Point Press)
+			  ,
+			  (NP 256 pages)
+			  ,
+			  (NP $ 18.95 *U*))
+		      -RRB-)))
+     (VP is
+         (NP-PRD (NP a (ADJP stylish , funny and thoughtful) look)
+                 (PP at
+                     (NP (NP the way)
+                         (SBAR (WHADVP-1 0)
+                               (S (NP-SBJ-2 love relationships)
+                                  (VP are
+                                      (VP affected
+					  (NP *-2)
+					  (PP-LGS by
+						  (NP (NP (NP the pressures)
+							  (PP of
+							      (NP money)))
+						      , or ,
+						      (ADVP more specifically)
+						      ,
+						      (NP (NP the lack)
+							  (PP of
+							      (NP it)))))
+					  (ADVP-MNR *T*-1)))))))))
+     .))
+( (S (NP-SBJ (NP (NP Nora Worth)
+                 and
+                 (NP Malcolm DeWitt))
+             ,
+             (NP 33
+                 and
+                 39)
+	     (ADVP respectively)
+             ,)
+     (VP live
+         (ADVP-CLR together)
+         (PP-LOC-CLR in
+		     (NP (NP a townhouse)
+			 (PP-LOC in
+				 (NP a transitional Philadelphia neighborhood)))))
+     .))
+( (S (NP-SBJ (NP Malcolm)
+             ,
+             (NP (NP a former film-maker)
+                 (VP turned
+                     (NP-PRD architect)))
+             ,)
+     (VP has
+         (ADVP just)
+         (VP seen
+             (S (NP-SBJ (NP his first big chance)
+			(PP at
+			    (NP a lucrative commission)))
+		(VP turn
+		    (PP-CLR to
+			    (NP dust))
+		    (PP with
+			(NP (NP the arrest)
+			    (PP of
+				(NP (NP his shady , obnoxious client)
+				    ,
+				    (NP a fly-by-night real estate developer)))))))))
+     .))
+( (S (NP-SBJ (NP Nora)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (ADVP-TMP still)
+		      (VP has
+                          (NP artistic aspirations))))
+             ,)
+     (VP knows
+         (SBAR 0
+               (S (NP-SBJ she)
+                  (VP is
+                      (ADJP-PRD lucky
+                                (S (NP-SBJ *)
+                                   (VP to
+				       (VP be
+					   (VP (VP working
+						   (PP-CLR as
+							   (NP a food stylist)))
+					       ,
+					       (VP prepping
+						   (S (NP-SBJ (NP pies)
+							      ,
+							      (NP burgers)
+							      ,
+							      (NP frosty cold drinks)
+							      and
+							      (NP other comestibles))
+						      (VP to
+							  (VP look
+							      (ADJP-PRD (ADJP as appetizing)
+									(PP as
+									    (ADJP possible))
+									(PP-LOC in
+										(NP (NP front)
+										    (PP of
+											(NP the camera))))))))))))))))))
+     .))
+( (S (PP After
+         (NP all))
+     (PRN ,
+	  (S (NP-SBJ she)
+	     (VP reasons))
+	  ,)
+     ``
+     (NP-SBJ there)
+     (VP were
+	 (NP-PRD (NP housewives)
+		 (PP with
+		     (NP (NP Nikons)
+			 and
+			 (NP (NP degrees)
+			     (PP from
+				 (NP (NP cooking schools)
+				     (PP-LOC in
+					     (NP France)))))))
+		 (SBAR (WHNP-1 who)
+		       (S (NP-SBJ *T*-1)
+			  (VP would
+			      (VP kill
+				  (PP-PRP for
+					  (NP her job))))))))
+     . ''))
+( (S But
+     (NP-SBJ Nora
+	     and
+	     Malcolm)
+     (VP feel
+         (ADJP-PRD trapped))
+     .))
+( (S (NP-SBJ-1 They)
+     (VP seem
+         (S (NP-SBJ *-1)
+            (VP to
+		(VP be
+		    (VP having
+			(NP (NP (NP the `` worst)
+				(PP of
+				    (NP both worlds)))
+			    :
+			    (NP (NP artistic work)
+				(PP with
+				    (NP (NP (NP none)
+					    (PP of
+						(NP (NP art 's)
+						    integrity)))
+					and
+					(NP (NP no control)
+					    (PP over
+						(NP the finished product))))))
+			    ;
+			    (NP (NP self-employment)
+				(PP without
+				    (NP fun or profit)))))))))
+     . ''))
+( (S (NP-SBJ It)
+     (VP 's
+         (NP-PRD (NP a downbeat , `` thirtysomething '' world)
+                 ,
+                 (SBAR (WHPP-4 in
+			       (WHNP which))
+                       (S (NP-SBJ-1 bright , still youngish people)
+                          (VP are
+                              (VP engaged
+                                  (NP *-1)
+                                  (PP in
+                                      (NP (NP a glossy version)
+                                          (PP of
+                                              (NP day labor))))
+				  ,
+				  (S-ADV (NP-SBJ *-1)
+					 (VP doing
+					     (NP (NP free-lance , semi-professional work)
+						 (SBAR (SBAR (WHNP-2 that)
+							     (S (NP-SBJ *T*-2)
+								(VP brings
+								    (NP little satisfaction or security))))
+						       but
+						       (SBAR (WHNP-3 that)
+							     (S (NP-SBJ they)
+								(VP know
+								    (SBAR 0
+									  (S (NP-SBJ-5 they)
+									     (VP should
+										 (VP be
+										     (ADJP-PRD grateful 
+											       (S (NP-SBJ *-5)
+												  (VP to
+												      (VP do
+													  (NP *T*-3))))))))))))))))
+				  (PP-LOC *T*-4)))))))
+     .))
+( (S (NP-SBJ Uncertainty)
+     (VP dogs
+         (NP (NP every aspect)
+             (PP of
+                 (NP their lives))))
+     .))
+( (S (S (NP-SBJ Malcolm)
+        (VP faces
+            (NP (NP bankruptcy)
+                and
+                (NP an IRS audit))))
+     , but
+     (S (NP-SBJ Nora)
+        (VP finds
+            (NP an extra $ 30,000 *U*)
+	    (PP-LOC in
+		    (NP her bank account))
+	    ,
+	    (S-ADV (NP-SBJ *)
+		   (ADVP-TMP suddenly)
+		   (VP increasing
+		       (NP her available funds)
+		       (NP-EXT some fifteenfold)))))
+     .))
+( (S (SBAR-TMP While
+	       (S (NP-SBJ she)
+		  (VP is
+		      (VP wondering
+			  (SBAR whether
+				(S (NP-SBJ *)
+				   (VP to
+				       (VP (VP live
+					       (NP it)
+					       (PRT up))
+					   , and
+					   (VP do
+					       (NP (NP something)
+						   (ADJP even more dramatic))
+					       ,
+					       (S-ADV (NP-SBJ *)
+						      (VP say
+							  (S (NP-SBJ *)
+							     (VP get
+								 (VP married))))))))))))))
+     ,
+     (NP-SBJ her life)
+     (VP is
+         (ADJP-PRD further complicated
+                   (PP by
+                       (NP (NP the reappearance)
+                           (PP of
+                               (NP (NP an old flame)
+                                   ,
+                                   (NP (NP David)
+                                       ,
+                                       (NP (NP a film critic and actor)
+                                           (SBAR (WHNP-1 who)
+                                                 (S (ADVP-TMP always)
+                                                    (NP-SBJ-2 *T*-1)
+                                                    (VP seems
+                                                        (S (NP-SBJ *-2)
+                                                           (VP to
+                                                               (VP be
+                                                                   (PP-PRD (ADVP just) on
+                                                                           (NP (NP the brink)
+                                                                               (PP of
+                                                                                   (NP stardom))))))))))))))))))
+     .))
+( (S (PP In
+         (NP (NP novels)
+             (PP of
+                 (NP an earlier vintage))))
+     ,
+     (S (NP-SBJ-1 David)
+        (VP would
+	    (VP have
+		(VP represented
+		    (NP-2 excitement and danger)))))
+     ;
+     (S (NP-SBJ=1 Malcolm)
+        ,
+        (NP=2 placid , middle-class security))
+     .))
+( (S (S (NP-SBJ (NP The irony)
+                (PP in
+                    (NP this novel)))
+        (VP is
+            (SBAR-PRD that
+                      (S (NP-SBJ neither man)
+                         (VP represents
+                             (NP a `` safe '' middle-class haven))))))
+     :
+     (S (NP-SBJ (NP Nora 's)
+                decision)
+        (VP is
+            (PP-PRD between
+		    (NP (NP emotional excitement)
+			and
+			(NP emotional security)))
+            ,
+            (PP with
+		(NP no firm economic base anywhere))))
+     .))
+( (S (NP-SBJ The characters)
+     (VP confront
+         (NP (NP a world)
+             (SBAR (WHPP-2 in
+			   (WHNP which))
+                   (S (NP-SBJ (NP it)
+			      (S *EXP*-1))
+                      (VP seems
+                          (ADJP-PRD increasingly difficult)
+			  (S-1 (NP-SBJ *)
+			       (VP to
+				   (VP find
+				       (NP (NP a `` middle way '')
+					   (PP between
+					       (NP (NP the extremes)
+						   (PP of
+						       (NP (NP success and failure)
+							   ,
+							   (NP wealth and poverty)))))))))
+			  (PP-LOC *T*-2))))))
+     .))
+( (S (PP In
+         (S-NOM (NP-SBJ *-1)
+		(VP making
+		    (S (NP-SBJ Malcolm
+			       and
+			       Nora)
+		       (NP-PRD (NP such wonderfully representative specimens)
+			       (PP of
+				   (NP their class and generation)))))))
+     ,
+     (NP-SBJ-1 Ms. Zeidner)
+     (VP has
+         (VP (ADVP somewhat)
+             neglected
+             (NP (NP the task)
+                 (PP of
+                     (S-NOM (NP-SBJ *)
+			    (VP making
+				(S (NP-SBJ them)
+				   (NP-PRD distinctively individual characters))))))))
+     .))
+( (S (NP-SBJ (NP The humor)
+             (PP of
+                 (NP the story)))
+     (VP owes
+         (NP much)
+         (PP-CLR to
+		 (NP the fact
+		     (SBAR that
+			   (S (NP-SBJ-1 (NP no hearts)
+					(PRN -LRB-
+					     (NP even
+						 (NP the characters ')
+						 own)
+					     -RRB-))
+			      (VP are
+				  (ADJP-PRD likely
+					    (S (NP-SBJ *-1)
+					       (VP to
+						   (VP bleed
+						       (PP for
+							   (NP (NP the plight)
+							       (PP of
+								   (NP health-food eaters))))))))))))))
+     .))
+( (S But
+     (NP-SBJ readers)
+     (VP may
+         (ADVP well)
+         (VP feel
+             (NP-PRD (NP the pangs)
+                     (PP of
+                         (NP recognition)))))
+     .))
+( (S (PP In
+         (NP any case))
+     ,
+     (NP-SBJ the foundering middle classes)
+     (VP are n't
+         (NP-PRD (NP the only ones)
+                 (PP in
+		     (NP trouble))
+		 -- or
+		 (SBAR (WHNP-1 whose troubles)
+		       (S (NP-SBJ *T*-1)
+			  (VP provide
+			      (NP (NP material)
+				  (PP for
+				      (NP fiction))))))))
+     .))
+( (S (NP-SBJ ``
+	     (NP-TTL Rascal Money)
+	     ''
+	     (PRN -LRB-
+		  (NP (NP Contemporary Books)
+		      ,
+		      (NP 412 pages)
+		      ,
+		      (NP $ 17.95 *U*))
+		  -RRB-)
+             ,
+             (NP (NP a novel)
+                 (PP by
+                     (NP consultant and business analyst
+                         Joseph R. Garber)))
+             ,)
+     (VP tells
+         (NP (NP the story)
+             (PP of
+                 (NP (NP an innovative , well-run , (ADJP widely respected) computer manufacturing company)
+                     (VP called
+			 (S (NP-SBJ *)
+			    (NP-PRD PegaSys))))))
+	 (SBAR-TMP as
+		   (S (NP-SBJ it)
+		      (VP faces
+			  (NP (NP a hostile takeover attempt)
+			      (PP by
+				  (NP (NP AIW)
+				      ,
+				      (NP (NP a much smaller corporation)
+					  (SBAR (WHNP-2 that)
+						(S (NP-SBJ-1 *T*-2)
+						   (VP is
+						       (VP (ADVP-MNR (ADVP so incompetently)
+								     (SBAR *ICH*-3))
+							   managed
+							   (NP *-1)
+							   (SBAR-3 as
+								   (S (NP-SBJ *)
+								      (VP to
+									  (VP constitute
+									      (NP (NP a standing joke)
+										  (PP-LOC in
+											  (NP the business world)))))))))))))))))))
+     .))
+( (S (NP-SBJ (NP Patrician , dynamic Scott Thatcher)
+             ,
+             (NP (NP founder and head)
+                 (PP of
+                     (NP PegaSys)))
+             ,)
+     (ADVP-TMP initially)
+     (VP finds
+         (S (NP-SBJ the takeover threat)
+	    (ADJP-PRD risible)))
+     .))
+( (S But 
+     ,
+     (SBAR as
+           (S (NP-SBJ (NP he)
+                      and
+                      (NP his skilled team))
+              (ADVP-TMP soon)
+              (VP discover)))
+     ,
+     (NP-SBJ they)
+     (VP 're 
+	 (ADVP-PRD up
+		   (PP against
+		       (NP (NP (NP two factors)
+			       (SBAR (WHNP-1 0)
+				     (S (NP-SBJ they)
+					(VP had n't
+					    (VP counted
+						(PP-CLR on
+							(NP *T*-1)))))))
+			   :
+			   (NP (NP (LST first)
+				   ,
+				   (NP (NP a business climate)
+				       (SBAR (WHPP-2 in
+						     (WHNP which))
+					     (S (NP-SBJ-5 (NP a failing company)
+							  (PP with
+							      (NP (NP few assets)
+								  and
+								  (NP many debts))))
+						(VP can
+						    (VP borrow
+							(PP against
+							    (NP (NP the assets)
+								(PP of
+								    (NP (NP the successful company)
+									(SBAR (WHNP-3 0)
+									      (S (NP-SBJ-4 it)
+										 (VP hopes
+										     (S (NP-SBJ *-4)
+											(VP to
+											    (VP acquire
+												(NP *T*-3)))))))))))
+							(SBAR-PRP in
+								  order
+								  (S (NP-SBJ *-5)
+								     (VP to
+									 (VP finance
+									     (NP the takeover)))))
+							(PP-LOC *T*-2))))))))
+			   ;
+			   (NP (LST second)
+			       ,
+			       (SBAR that
+				     (SINV (VP-TPC-6 standing
+						     (PP-LOC behind
+							     (NP AIW)))
+					   (VP is
+					       (VP *T*-6))
+					   (NP-SBJ (NP a sinister consortium)
+						   (PP of
+						       (NP (NP (ADJP (ADJP much bigger) , (ADJP shadier) and (ADJP shrewder)) foreign interests)
+							   (VP (ADVP-MNR secretly)
+							       providing
+							       (NP (NP the money and muscle)
+								   (PP for
+								       (NP the deal))))))))))))))
+     .))
+( (S (NP-SBJ-1 Mr. Garber)
+     (VP manages
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP invest
+                    (NP (NP this tale)
+                        (PP of
+                            (NP financial wars)))
+                    (PP-CLR with
+			    (NP (NP the colorful characters)
+				and
+				(NP (NP fast-paced action)
+				    (PP of
+					(NP a suspense novel)))))))))
+     .))
+( (S And
+     (PP like
+         (NP a spy or mystery story))
+     ,
+     (NP-SBJ this novel)
+     (VP has
+	 (NP (NP strong elements)
+	     (PP of
+		 (NP allegory)))
+	 ,
+	 (SBAR-ADV as
+		   (S (NP-SBJ the (ADJP good and evil) forces)
+		      (VP battle
+			  (NP it)
+			  (PRT out)))))
+     .))
+( (S (NP-SBJ Mr. Garber)
+     (VP depicts
+         (NP these moral qualities)
+         (PP-CLR with
+		 (NP (NP the broad brush strokes)
+		     (PP of
+			 (NP (NP a satire)
+			     (SBAR (WHNP-1 that)
+				   (S (ADVP-TMP occasionally)
+				      (NP-SBJ *T*-1)
+				      (VP descends
+					  (PP-DIR to
+						  (NP (NP the realm)
+						      (PP of
+							  (NP cliched caricatures))))))))))))
+     .))
+( (S (NP-SBJ (NP Standard-issue portraits)
+             (PP of
+                 (NP (NP flaky Californians)
+                     ,
+                     (NP snobbish homosexuals)
+                     and
+                     (NP Neanderthal union leaders))))
+     (VP undermine
+         (NP (NP the force)
+             (PP of
+                 (NP (NP the author 's)
+                     perceptions))))
+     .))
+( (S (S (ADVP Yet)
+        (NP-SBJ (NP the heavy-handedness)
+		(PP of
+		    (NP the satire)))
+        (ADVP also)
+        (VP can
+            (VP be
+                (ADJP-PRD effective
+                          (PP in
+                              (NP (NP a book)
+                                  (PP like
+                                      (NP this))))))))
+     :
+     (S (SBAR-ADV If
+		  (S (NP-SBJ-2 (NP the head)
+			       (PP of
+				   (NP AIW)))
+		     (VP were not
+			 (VP portrayed
+			     (NP *-2)
+			     (PP-CLR as
+				     (NP an (ADJP utterly contemptible) , malicious dolt))))))
+        ,
+        (NP-SBJ we)
+        (VP (VP would not
+		(VP (ADVP much)
+		    care
+		    (SBAR whether
+			  (S (NP-SBJ-1 his schemes)
+			     (VP were
+				 (VP defeated
+				     (NP *-1)))))))
+	    , and
+	    (VP would not 
+		(VP be
+		    (VP (ADVP so)
+			diverted
+			(PP-TMP in
+				(NP the process)))))))
+     .))
+( (S (NP-SBJ Ms. Rubin)
+     (VP is
+         (NP-PRD (NP a free-lance writer)
+                 (VP based
+                     (NP *)
+                     (PP-LOC-CLR in
+				 (NP Los Angeles)))))
+     .))

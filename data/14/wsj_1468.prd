@@ -1,0 +1,526 @@
+
+
+( (S (NP-SBJ-1 (NP Ekco Group Inc.)
+	       ,
+	       (NP-LOC (NP Nashua)
+		       ,
+		       (NP N.H.)
+		       ,))
+     (VP expects
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP report
+                    (SBAR that
+                          (S (NP-SBJ (NP net income)
+                                     (PP-TMP in
+					     (NP (NP the third quarter)
+						 ,
+						 (VP ended
+						     (NP *)
+						     (NP-TMP-CLR Oct. 1))
+						 ,)))
+                             (VP fell
+                                 (NP-EXT 50 %)
+                                 (PP-DIR to
+					 (NP 60 %))
+                                 (PP-DIR from
+					 (NP (NP (QP $ 2.1 million) *U*)
+					     , or
+					     (NP (NP 11 cents)
+						 (NP-ADV a share))
+					     ,
+					     (ADVP-TMP (NP a year)
+						       earlier))))))))))
+     .))
+( (S (NP-SBJ (NP Robert Stein)
+             ,
+             (NP president and chief executive officer)
+             ,)
+     (VP attributed
+         (NP the expected decline)
+         (PP-CLR (ADVP partly) to
+		 (NP (NP the effects)
+		     (PP of
+			 (NP (NP a two-week strike)
+			     (NP-TMP last month)
+			     (PP-LOC at
+				     (NP (NP the company 's)
+					 (NAC-LOC Masillon
+						  ,
+						  Ohio
+						  ,)
+					 bakeware facility)))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ (NP Softer-than-expected orders)
+		      (PP-TMP in
+			      (NP early September)))
+	      (ADVP also)
+	      (VP played
+		  (NP a role)))
+     ,
+     (NP-SBJ he)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1))
+	 (PP-LOC in
+		 (NP an interview)))
+     .))
+( (S But
+     (NP-SBJ Mr. Stein)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ he)
+                  (VP is
+		      ``
+		      (ADJP-PRD reasonably confident 
+				''
+                                (SBAR that
+                                      (S (NP-SBJ (NP earnings)
+                                                 (PP for
+                                                     (NP the full year)))
+                                         (VP will
+                                             (VP exceed
+                                                 (NP (NP the (QP $ 3.1 million) *U*)
+                                                     , or
+                                                     (NP (NP 17 cents)
+                                                         (NP-ADV a share))
+                                                     ,)
+                                                 (PP-TMP in
+							 (NP 1988)))))))))))
+     .))
+( (S (NP-SBJ That)
+     (VP would
+         (VP require
+             (NP (NP fourth-quarter net)
+                 (PP of 
+		     (NP (NP (NP (NP (QP more
+					 than
+					 about 22)
+				     cents)
+				 (PP to
+				     (NP 24
+					 cents))))
+			 (NP-ADV a share))))
+	     ,
+	     (S-ADV (NP-SBJ *)
+		    (VP assuming
+			(SBAR that
+			      (S (NP-SBJ (NP Mr. Stein 's)
+					 third-quarter estimate)
+				 (VP proves
+				     (ADJP-PRD accurate))))))))
+     .))
+( (S (PP-TMP In
+	     (NP the year-earlier fourth quarter))
+     ,
+     (NP-SBJ the company)
+     (VP had
+         (NP (NP profit)
+             (PP of
+                 (NP (NP (QP $ 2.7 million) *U*)
+                     , or
+                     (NP (NP 15 cents)
+                         (NP-ADV a share))))))
+     .))
+( (S (NP-SBJ-1 Third-quarter revenue)
+     (VP is
+         (VP expected
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP be
+                        (NP-PRD (QP $ 40 million 
+				    to
+				    $ 45 million) *U*)
+                        ,
+                        (ADVP-CLR up
+				  (PP from
+				      (NP (QP $ 38.2 million) *U*)
+				      (ADVP-TMP (NP a year)
+						earlier))))))
+	     ,
+	     (PP according
+		 (PP to
+		     (NP (NP Neil Gordon)
+			 ,
+			 (NP treasurer))))))
+     .))
+( (S (NP-SBJ The year-earlier periods)
+     (VP (VP do n't
+	     (VP reflect
+		 (NP (NP results)
+		     (PP of
+			 (NP (NP (NP the company 's)
+				 Woodstream Corp. unit)
+			     ,
+			     (VP acquired
+				 (NP *)
+				 (NP-TMP last January))
+			     ,)))))
+	 but
+	 (VP include
+	     (NP (NP some Canadian operations)
+		 (SBAR (WHNP-2 that)
+		       (S (NP-SBJ-1 *T*-2)
+			  (VP were
+			      (VP sold
+				  (NP *-1)
+				  (PP-TMP at
+					  (NP (NP the end)
+					      (PP of
+						  (NP 1988)))))))))))
+     .))
+( (S (NP-SBJ (NP August)
+             (PP through
+                 (NP October)))
+     (ADVP traditionally)
+     (VP is
+         (NP-PRD (NP the busiest season)
+                 (PP for
+                     (NP the bakeware business)))
+	 ,
+	 (SBAR-ADV as
+		   (S (NP-SBJ many retailers)
+		      (VP use
+			  (NP the goods)
+			  (PP-CLR as
+				  (NP autumn promotional items))))))
+     .))
+( (S (NP-SBJ Mr. Stein)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 (NP some retailers)
+			    (PRN --
+				 (ADJP perhaps anxious
+				       (PP about
+					   (S-NOM (NP-SBJ *)
+						  (VP minimizing
+						      (NP inventories))))
+				       --)))
+                  (VP (VP appear
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP have
+				     (VP held
+					 (ADVP-CLR back)
+					 (PP on
+					     (NP orders))
+					 (PP-TMP in
+						 (NP September)))))))
+		      but
+		      (VP have 
+			  (VP been
+			      (VP ordering
+				  (ADVP-MNR more heavily)
+				  (PP-TMP in
+					  (NP October)))))))))
+     .))
+( (S (NP-SBJ Mr. Stein)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ Woodstream)
+                  (VP (VP is
+			  ``
+			  (ADJP-PRD marginally profitable)
+			  '')
+		      but
+		      (VP has n't
+			  (VP performed
+			      (ADVP (ADVP as well)
+				    (SBAR as
+					  (S (NP-SBJ *)
+					     (VP expected))))))))))
+     .))
+( (S (S-TPC-2 (S (NP-SBJ (NP Woodstream 's)
+			 (NX (NX Victor-brand mousetraps)
+			     and
+			     (NX other pest-control products)))
+		 (VP are
+		     ``
+		     (VP doing
+			 (ADVP-CLR very well)
+			 ,
+			 '')))
+	      and
+	      (S (NP-SBJ-1 its plastic storage-case products)
+		 ``
+		 (VP are
+		     (VP poised
+			 (NP *-1)
+			 (PP-CLR for
+				 (NP growth))))
+		 , ''))
+     (NP-SBJ he)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (S-TPC-2 (S But
+		 (NP-SBJ (NP (NP the unit 's)
+			     third segment)
+			 ,
+			 (NP wildlife traps)
+			 ,)
+		 (VP is
+		     (VP suffering
+			 (PP from
+			     (NP a `` depressed market)))))
+	      , '' and
+	      (S (NP-SBJ-1 Ekco)
+		 (VP is
+		     (VP seeking
+			 (S (NP-SBJ *-1)
+			    (VP to
+				(VP sell
+				    (NP that segment))))))))
+     ,
+     (NP-SBJ he)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (NP-SBJ Mr. Stein)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ he)
+                  (VP expects
+		      (S (NP-SBJ profit)
+                         (VP (VP to
+				 (VP be
+				     (ADJP-PRD (ADJP higher
+						     (PP-TMP in
+							     (NP 1990)))
+					       (PP than
+						   (PP-TMP in
+							   (NP 1989))))))
+			     ,
+			     (S-ADV (NP-SBJ *)
+				    (VP reflecting
+					(NP (NP a number)
+					    (PP of
+						(NP (NP measures)
+						    (VP taken
+							(NP *)
+							(PP-TMP since
+								(NP (NP the acquisition)
+								    (PP of
+									(NP Ekco Housewares))
+								    (PP-TMP in
+									    (NP late 1987))))))))))))))))
+     .))
+( (S -LRB-
+     (S (PP Prior 
+	    (PP to
+		(S-NOM (NP-SBJ *-1)
+		       (VP acquiring
+			   (NP the housewares business)))))
+        ,
+        (NP-SBJ-1 the company)
+        (VP was
+            (VP known
+                (NP *-1)
+                (PP-CLR as
+			(NP Centronics Corp.)))))
+     ;
+     (S (S (NP-SBJ Centronics)
+           (VP had
+               (VP been
+                   (NP-PRD (NP a maker)
+                           (PP of
+                               (NP computer printers))))))
+        , but
+        (S (NP-SBJ-2 (NP Mr. Stein)
+		     and
+		     (NP other officers))
+           (VP decided
+               (S (NP-SBJ *-2)
+                  (VP to
+                      (VP sell
+                          (NP that business)
+			  (SBAR-TMP after
+				    (S (NP-SBJ Japanese competitors)
+				       (VP grabbed
+					   (NP (NP a dominant share)
+					       (PP of
+						   (NP the market))))))))))))
+     . -RRB-))
+( (S (NP-SBJ Mr. Stein)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ tighter operating controls)
+                  (VP have
+                      (VP enabled
+			  (S (NP-SBJ Ekco)
+			     (VP (VP to
+				     (VP (VP reduce
+					     (NP inventory levels)
+					     (NP-EXT (QP 25 %
+							 to
+							 30 %)
+						     *U*))
+					 ;
+					 (VP improve
+					     (NP (NP on-time delivery)
+						 (PP of
+						     (NP orders)))
+					     (PP-CLR to
+						     (NP (QP about 95) %))
+					     (PP-CLR from
+						     (NP (QP around 70) %)))))
+				 ; and
+				 (VP to
+				     (VP lower
+					 (NP (NP the number)
+					     (PP of
+						 (NP (NP labor hours)
+						     (VP required
+							 (NP-1 *)
+							 (S-PRP (NP-SBJ *-1)
+								(VP to
+								    (VP produce
+									(NP a unit)))))))))))))))))
+     .))
+( (S (S-TPC-3 (PP By
+		  (S-NOM (NP-SBJ *-4)
+			 (VP moving
+			     (NP (NP the design)
+				 (PP of
+				     (NP new products)))
+			     (ADVP-DIR in-house)))
+		  (PRN --
+		       (PP instead of
+			   (S-NOM (NP-SBJ *)
+				  (VP contracting
+				      (PRT out)
+				      (NP the work))))
+		       --))
+	      (NP-SBJ-4 the company)
+	      (ADVP also)
+	      (VP has
+		  (VP been
+		      (ADJP-PRD able
+				(S (NP-SBJ *-4)
+				   (VP to
+				       (VP come
+					   (PRT up)
+					   (PP-CLR with
+						   (NP (NP designs)
+						       (SBAR (WHNP-2 that)
+							     (S (NP-SBJ-1 *T*-2)
+								(VP can
+								    (VP be
+									(VP manufactured
+									    (NP *-1)
+									    (ADVP-MNR more efficiently)))))))))))))))
+     ,
+     (NP-SBJ he)
+     (VP said
+	 (SBAR 0
+	       (S *T*-3)))
+     .))
+( (S (PP In
+         (NP (NP addition)
+             (PP to
+                 (NP those measures))))
+     ,
+     (NP-SBJ-2 the company)
+     (VP (VP spent
+	     (ADVP-MNR heavily)
+	     (NP-TMP earlier this year)
+	     (S-PRP (NP-SBJ *-2)
+		    (VP to
+			(VP install
+			    (NP displays)
+			    (PP-LOC at
+				    (NP (NP its customers ')
+					retail outlets))))))
+	 --
+	 (NP-ADV (NP a strategy)
+		 (SBAR (WHNP-1 that)
+		       (S (NP-SBJ Mr. Stein)
+			  (VP said
+			      (SBAR 0
+				    (S (NP-SBJ-3 *T*-1)
+				       (VP has
+					   (VP helped
+					       (S (NP-SBJ *-3)
+						  (VP bolster
+						      (NP (NP awareness)
+							  (PP of
+							      (NP (NP the company 's)
+								  brands))))))))))))))
+     .))
+( (S (NP-SBJ (NP Ekco 's)
+             housewares operation)
+     (VP makes
+         (NP (NP kitchen tools and gadgets)
+             ,
+             (CONJP as well
+		    as)
+	     (NP bakeware))
+         ,
+         (PP-LOC at
+		 (NP (NP factories)
+		     (PP-LOC in
+			     (NP the U.S. and Canada)))))
+     .))
+( (S (S-TPC-1 (NP-SBJ (NP The main issue)
+		      (PP-LOC in
+			      (NP (NP the strike)
+				  (PP-LOC at
+					  (NP the Ohio facility)))))
+	      (VP was
+		  (NP-PRD health-care benefits)))
+     ,
+     (NP-SBJ Mr. Stein)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ The strike)
+     (VP ended
+         (NP-TMP-CLR Oct))
+     .))
+( (S (S-TPC-2 (NP-SBJ-1 Ekco)
+	      (VP continues
+		  (S (NP-SBJ *-1)
+		     (VP to
+			 (VP seek
+			     (NP (NP further acquisitions)
+				 (PP-LOC in
+					 (NP the consumer-products industry))))))))
+     ,
+     (NP-SBJ Mr. Stein)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (NP-SBJ He)
+     (VP indicated
+         (SBAR that
+               (S (NP-SBJ-2 Ekco)
+                  (VP may
+                      (VP be
+                          (ADJP-PRD interested
+                                    (PP in
+                                        (S-NOM (NP-SBJ *-2)
+					       (VP acquiring
+						   (NP (NP another company)
+						       (PP with
+							   (NP (NP revenue)
+							       (PP in
+								   (NP (NP the range)
+								       (PP of
+									   (NP (QP $ 75 million
+										   to
+										   $ 100 million ) *U*)))))))))))
+			  ,
+			  (SBAR-PRP partly because
+				    (S (NP-SBJ-1 mass merchandisers)
+				       (VP (ADVP increasingly)
+					   want
+					   (S (NP-SBJ *-1)
+					      (VP to
+						  (VP rely
+						      (PP-CLR on
+							      (NP (ADJP larger , and fewer ,) suppliers)))))))))))))
+     .))

@@ -1,0 +1,107 @@
+
+
+( (S (NP-SBJ Stoneridge Resources Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP will
+                      (VP begin
+                          (NP (NP an offering)
+			      (PP of
+				  (NP rights))
+                              (UCP (ADJP equivalent
+					 (PP to
+					     (NP (QP 2.6 million) common shares)))
+				   and
+				   (VP valued
+				       (PP-CLR at
+					       (NP $ 22,750,000 *U*))))))))))
+     .))
+( (S (NP-SBJ The Bloomfield Hills , Mich.-based real-estate holding company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP will
+                      (VP offer
+                          (NP the rights)
+                          (PP-CLR at
+				  (NP (NP $ 8.75 *U*)
+				      (NP-ADV a share)))
+                          (PP-DTV to
+				  (NP (NP shareholders)
+				      (PP of
+					  (NP (NP record)
+					      (PP-TMP on
+						      (NP Oct. 26)))))))))))
+     .))
+( (S (NP-SBJ-1 The offering)
+     (VP is
+         (VP scheduled
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP expire
+                        (PP-TMP-CLR on
+				    (NP Nov. 30)))))))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP will
+                      (VP use
+                          (NP (NP the proceeds)
+                              (PP of
+                                  (NP the offering)))
+                          (PP-CLR for
+				  (NP (NP debt reduction)
+				      and
+				      (NP (NP general corporate purposes)
+					  ,
+					  (PP including
+					      (NP acquisitions))))))))))
+     .))
+( (S (NP-SBJ Stockholders)
+     (VP may
+         (VP buy
+             (NP (NP one share)
+                 (PP *ICH*-1))
+             (PP-CLR at
+		     (NP the subscription price))
+             (PP-1 for
+                   (NP (NP every four shares)
+		       (PP of
+			   (NP stock))
+                       (SBAR (WHNP-2 0)
+                             (S (NP-SBJ they)
+                                (VP own
+                                    (NP *T*-2))))))))
+     .))
+( (S (S-TPC-2 (NP-SBJ (NP Stockholders)
+		      (SBAR (WHNP-1 who)
+			    (S (NP-SBJ *T*-1)
+			       (VP exercise
+				   (NP all their rights)))))
+	      (VP may
+		  (VP buy
+		      (NP additional shares))))
+     ,
+     (NP-SBJ the company)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP has
+                      (NP an option
+                          (S (NP-SBJ *)
+                             (VP to
+                                 (VP increase
+                                     (NP the offering)
+                                     (PP-EXT by
+					     (NP (QP up
+						     to
+						     350,000) shares))))))))))
+     .))

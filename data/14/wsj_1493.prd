@@ -1,0 +1,816 @@
+
+
+( (S (S-TPC-1 (NP-SBJ Troubled Saatchi & Saatchi Co.)
+	      (VP (VP has
+		      (VP attracted
+			  (NP (NP offers)
+			      (PP for
+				  (NP (NP some)
+				      (PP of
+					  (NP its advertising units)))))
+			  ,
+			  (PP with
+			      (S-NOM (NP-SBJ potential suitors)
+				     (VP including
+					 (NP Interpublic Group))))))
+		  , but
+		  (VP has
+		      (VP rejected
+			  (NP them)))))
+     ,
+     (NP-SBJ (NP people)
+	     (ADJP familiar
+		   (PP with
+		       (NP the company))))
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ Industry executives)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 Interpublic)
+                  (VP (VP approached
+			  (NP Saatchi)
+			  (PP-TMP in
+				  (NP August))
+			  (PP about
+			      (S-NOM (NP-SBJ *)
+				     (VP buying
+					 (NP its Campbell-Mithun-Esty unit)))))
+		      , but
+		      (VP was
+			  (VP turned
+			      (PRT down)
+			       (NP *-1)
+			       (PP by
+				   (NP-LGS Chairman Maurice Saatchi))))))))
+     .))
+( (S (S-TPC-1 (ADVP-TMP More recently)
+	      ,
+	      (NP-SBJ Interpublic)
+	      (VP (VP inquired
+		      (PP-CLR about
+			      (NP (NP one)
+				  (PP of
+				      (NP (NP Saatchi 's)
+					  smaller communications companies))
+				  (PRN --
+				       (VP identified
+					   (NP *)
+					   (PP-CLR as
+						   (NP the Rowland public relations firm))
+					   (PP by
+					       (NP-LGS several industry executives)))
+				       --))))
+		  but
+		  (VP (ADVP-TMP again)
+		      was
+		      (VP rebuffed))))
+     ,
+     (NP-SBJ they)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (S-TPC-1 (NP-SBJ (NP (NP Interpublic 's)
+			  chairman and chief executive officer)
+		      ,
+		      (NP Philip Geier Jr.)
+		      ,)
+	      (VP made
+		  (NP the pitches)
+		  (PP-LOC in
+			  (NP (NP visits)
+			      (PP to
+				  (NP Mr. Saatchi))
+			      (PP-LOC in
+				      (NP London))))))
+     ,
+     (NP-SBJ the executives)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ-1 A Saatchi spokesman)
+     (VP declined
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP comment
+                    (PP-CLR about
+			    (NP Interpublic))))))
+     .))
+( (S But
+     (NP-SBJ the spokesman)
+     (VP confirmed
+         (SBAR that
+               (S (NP-SBJ Saatchi)
+                  (VP has
+                      (VP received
+                          (NP (NP several inquiries)
+                              (PP from
+                                  (NP (NP companies)
+                                      (VP interested
+                                          (NP *)
+                                          (PP-CLR in
+						  (S-NOM (NP-SBJ *)
+							 (VP acquiring
+							     (NP its Campbell-Mithun and Rowland units)))))))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP added ,
+	 ``
+	 (S (NP-SBJ-1 We)
+            (VP have
+                (NP (NP no intention)
+                    (PP of
+                        (S-NOM (NP-SBJ *-1)
+			       (VP selling
+				   (NP either business))))))))
+     . ''))
+( (S (NP-SBJ Interpublic)
+     (VP declined
+         (NP comment))
+     .))
+( (S (NP-SBJ The offers)
+     (VP come
+         (SBAR-CLR as
+		   (S (NP-SBJ Saatchi)
+		      (VP is
+			  (VP struggling
+			      (PP-CLR through
+				      (NP (NP the most troubled period)
+					  (PP-TMP in
+						  (NP its 19-year history)))))))))
+     .))
+( (S (S (NP-SBJ Takeover speculation)
+        (VP has
+            (VP been
+                (ADJP-PRD rife))))
+     ,
+     (S (NP-SBJ its consulting business)
+        (VP is
+            (PP-PRD on
+                    (NP the block))))
+     , and
+     (S (NP-SBJ (NP its largest shareholder)
+                ,
+                (NP Southeastern Asset Management)
+                ,)
+        (VP has
+            (VP said
+                (SBAR 0
+                      (S (NP-SBJ-1 it)
+                         (VP 's
+                             (VP been
+                                 (VP approached
+                                     (NP *-1)
+                                     (PP by
+                                         (NP-LGS third parties))
+				     (PP regarding
+					 (NP a possible restructuring))))))))))
+     .))
+( (S (S (NP-SBJ Analysts)
+        (VP have
+            (ADVP-TMP continually)
+            (VP lowered
+                (NP (NP their earnings estimates)
+		    (PP for
+			(NP the company)))))
+        ,)
+     and
+     (S (NP-SBJ their outlook)
+        ,
+        (PP (ADVP at
+		  least)
+            for
+            (NP the short term))
+        ,
+        (VP is
+            (ADJP-PRD bleak)))
+     .))
+( (S (PP-TMP In
+	     (NP (NP the midst)
+		 (PP of
+		     (NP the current turmoil))))
+     ,
+     (NP-SBJ-1 Saatchi)
+     (VP is
+         (VP attempting
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP shore
+                        (PRT up)
+                        (NP its ad businesses))))))
+     .))
+( (S (NP-SBJ It)
+     (VP named
+         (NP (NP a new chief executive officer)
+	     ,
+	     (NP (NP former IMS International head)
+		 (NP Robert Louis-Dreyfus))))
+     .))
+( (S (NP-SBJ It)
+     (VP rebuffed
+         (NP (NP an offer
+		 (S *ICH*-1))
+             (PP by
+                 (NP (NP Carl Spielvogel)
+                     ,
+                     (NP (NP head)
+                         (PP of
+                             (NP (NP Saatchi 's)
+                                 Backer Spielvogel Bates unit)))
+                     ,))
+             (S-1 (NP-SBJ *)
+		  (VP to
+		      (VP lead
+			  (NP (NP a management buy-out)
+			      (PP of
+				  (NP (NP all or part)
+				      (PP of
+					  (NP Saatchi))))))))))
+     .))
+( (S And
+     (NP-TMP last week)
+     ,
+     (NP-SBJ (NP people)
+             (ADJP close
+                   (PP to
+                       (NP Saatchi))))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP Maurice Saatchi)
+                          and
+                          (NP (NP his brother)
+                              ,
+                              (NP Charles)
+                              ,))
+                  (VP would
+                      (VP lead
+                          (NP a buy-out)
+			  (SBAR-ADV if
+				    (S (NP-SBJ a hostile bid)
+				       (VP emerged))))))))
+     .))
+( (S But
+     (NP-SBJ (NP Saatchi 's)
+	     troubles)
+     (VP have
+         (ADVP only)
+         (VP whipped
+             (PRT up)
+             (NP interest)
+             (PP among
+                 (NP (NP outsiders)
+                     (VP interested
+                         (NP *)
+                         (PP-CLR in
+				 (S-NOM (NP-SBJ *)
+					(VP picking
+					    (PRT off)
+					    (NP (NP pieces)
+						(PP of
+						    (NP its ad businesses)))))))))))
+     .))
+( (S (SBAR-ADV While
+	       (S (NP-SBJ (NP (NP Saatchi 's)
+			      major agency networks)
+			  (PRN --
+			       (NP (NP Backer Spielvogel)
+				   and
+				   (NP Saatchi & Saatchi Advertising))
+			       --))
+		  (VP would
+		      (VP be
+			  (ADJP-PRD difficult
+				    (SBAR for
+					  (S (NP-SBJ any ad firm)
+					     (VP to
+						 (VP buy)))))
+			  (PP-PRP because of
+				  (NP potential client conflicts))))))
+     ,
+     (NP-SBJ its smaller businesses)
+     (VP are
+         (ADJP-PRD quite attractive))
+     .))
+( (S (NP-SBJ Campbell-Mithun-Esty)
+     ,
+     (PP for
+         (NP example))
+     ,
+     (VP (VP has
+	     (VP had
+		 (NP big problems)
+		 (PP-LOC at
+			 (NP its New York office))))
+	 , but
+	 (VP offers
+	     (NP strong offices)
+	     (PP-LOC in
+		     (NP (NP other areas)
+			 (PP of
+			     (NP the country))
+			 ,
+			 (PP including
+			     (NP Minneapolis
+				 and
+				 Chicago))))))
+     .))
+( (S (NP-SBJ That)
+     (VP would
+	 (VP would
+	     (VP make
+		 (S (NP-SBJ it)
+		    (ADJP-PRD appealing
+			      (PP-CLR to
+				      (NP (NP a network)
+					  (PP such
+					      as
+					      (NP Interpublic))
+					  (SBAR (WHNP-1 that)
+						(S (NP-SBJ *T*-1)
+						   (ADVP-TMP already)
+						   (VP has
+						       (NP a healthy New York presence)))))))))))
+     .))
+( (S -LRB-
+     (SBAR-ADV While
+	       (S (NP-SBJ there)
+		  (VP would
+		      (VP be
+			  (NP-PRD some client conflicts)))))
+     ,
+     (NP-SBJ they)
+     (VP would n't
+         (VP be
+             (ADJP-PRD (ADJP nearly as onerous)
+                       (PP as
+                           (PP with
+                               (NP (NP Saatchi 's)
+                                   other agencies))))))
+     . -RRB-))
+( (S (S (NP-SBJ Campbell-Mithun)
+        (ADVP also)
+        (VP would
+            (VP be
+                (NP-PRD (NP a sizable addition)
+                        (PP to
+                            (NP an agency network))))))
+     :
+     (S (NP-SBJ It)
+        (VP has
+            (NP (NP (NP billings)
+                    (PP of
+                        (NP (QP about $ 850 million) *U*)))
+                and
+                (NP (NP blue-chip clients)
+                    (PP including
+                        (NP (NP General Mills)
+                            ,
+                            (NP Jeep/Eagle)
+                            and
+                            (NP Dow Brands)))))))
+     .))
+( (S (NP-SBJ Rowland)
+     ,
+     (ADVP-TMP meanwhile)
+     ,
+     (VP (VP has
+	     (VP expanded
+		 (ADVP-MNR aggressively)))
+	 , and
+	 (VP (ADVP-TMP now)
+	     ranks
+	     (PP-CLR as
+		     (NP the fifth-largest U.S. public relations firm)))
+	 ,
+	 (PP according
+	     (PP to
+		 (NP (NP (NP O'Dwyer's)
+			 Directory)
+		     (PP of
+			 (NP Public Relations Firms))))))
+     .))
+( (S (NP-SBJ It)
+     (VP would
+         (VP be
+             (ADJP-PRD attractive
+                       (PP to
+                           (NP (NP an agency)
+                               (PP such
+				   as
+				   (NP (NP Interpublic)
+				       ,
+				       (NP (NP one)
+					   (PP of
+					       (NP (NP the few big agency groups)
+						   (PP without
+						       (NP (NP an affiliated public relations firm)
+							   (PP of
+							       (NP its own))))))))))))))
+     .))
+( (S (NP-SBJ Other Saatchi units)
+     (VP include
+         (NP (NP (NP ad agency)
+                 (NP (NP McCaffrey & McCall)
+                     ,
+                     (SBAR (SBAR (WHNP-1 which)
+                                 (S (NP-SBJ *T*-1)
+                                    (VP has
+                                        (NP the Mercedes account))))
+                           and
+                           (SBAR (WHNP-2 which)
+                                 (S (NP-SBJ-3 *T*-2)
+                                    (VP has
+					(VP been
+					    (VP attempting
+						(S (NP-SBJ *-3)
+						   (VP to
+						       (VP buy
+							   (NP itself)
+							   (ADVP-CLR back))))))))))))
+             ; and
+             (NP (NP Howard Marlboro)
+                 ,
+                 (NP a sports and event marketing firm))))
+     .))
+( (S (PP Despite
+         (NP (NP (NP Saatchi 's)
+		 firm stand)
+	     (PP against
+		 (S-NOM (NP-SBJ *)
+			(VP selling
+			    (NP its ad units))))))
+     ,
+     (NP-SBJ U.S. analysts)
+     (VP believe
+         (SBAR 0
+               (S (NP-SBJ the company)
+                  (VP may
+                      (ADVP-TMP ultimately)
+                      (VP sell
+                          (NP (NP some)
+                              (PP of
+                                  (NP the smaller units))))))))
+     .))
+( (S (NP-SBJ Mr. Louis-Dreyfus)
+     ,
+     (PP-LOC in
+	     (NP a recent interview))
+     ,
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ he)
+                  (VP might
+                      (VP sell
+			  ``
+			  (NP a marginal agency or office))))))
+     . ''))
+( (S (NP-SBJ Analysts)
+     (VP believe
+         (SBAR 0
+               (S (NP-SBJ he)
+                  (VP may
+                      (ADVP-TMP ultimately)
+                      (VP dispose
+                          (PP-CLR of
+				  (NP (NP some)
+				      (PP of
+					  (NP the non-advertising businesses)))))))))
+     .))
+( (NP (NP Prudential 's)
+      Final Four))
+( (S (NP-SBJ (NP Prudential Insurance Co.)
+             (PP of
+                 (NP America)))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP selected
+		      (S (NP-SBJ four agencies)
+                         (VP to
+                             (VP pitch
+                                 (NP its
+                                     (ADJP (QP $ 60 million 
+					       to
+					       $ 70 million) *U*)
+                                     account))))))))
+     .))
+( (S (PP In
+         (NP (NP addition)
+             (PP to
+                 (NP (NP Backer Spielvogel Bates)
+                     ,
+                     (NP (NP a Saatchi unit)
+                         (SBAR (WHNP-1 that)
+                               (S (NP-SBJ *T*-1)
+                                  (VP has
+                                      (VP handled
+                                          (NP the account)
+					  (PP-TMP since
+						  (NP 1970)))))))))))
+     ,
+     (NP-SBJ the other agencies)
+     (VP include
+         (NP (NP (NP Lowe Marschalk)
+                 ,
+                 (NP (NP a unit)
+                     (PP of
+                         (NP the Lowe Group))))
+             ;
+             (NP Grey Advertising)
+             ; and
+             (NP (NP WPP Group 's)
+                 Scali , McCabe , Sloves agency)))
+     .))
+( (S (NP-SBJ All agencies)
+     (VP are
+         (ADJP-PRD New York-based))
+     .))
+( (S (NP-SBJ (NP A spokesman)
+             (PP for
+                 (NP (NP the insurance and financial services firm)
+                     ,
+                     (VP based
+                         (NP *)
+                         (PP-LOC-CLR in
+				     (NP (NP Newark)
+					 ,
+					 (NP N.J.)
+					 ,))))))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (VP hopes
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP make
+                                 (NP a decision)
+				 (PP within
+				     (NP (QP three
+					     to
+					     four) months)))))))))
+     .))
+( (S-HLN (NP-SBJ Jamaica)
+	 (VP Fires
+	     (ADVP-CLR Back))))
+( (S (NP-SBJ The Jamaica Tourist Board)
+     ,
+     (PP in
+         (NP (NP the wake)
+             (PP of
+                 (NP (NP (NP Young & Rubicam 's)
+			 indictment)
+		     (PP on
+			 (NP charges 
+			     (SBAR that
+				   (S (NP-SBJ-1 it)
+				      (VP bribed
+					  (NP Jamaican officials)
+					  (S-PRP (NP-SBJ *-1)
+						 (VP to
+						     (VP win
+							 (NP the account))))
+					  (PP-TMP in
+						  (NP 1981)))))))))))
+     ,
+     (VP released
+         (NP (NP a scathing memo)
+             (VP blaming
+                 (NP the agency)
+                 (PP for
+                     (NP the embarrassing incident)))))
+     .))
+( (S (NP-SBJ-2 The memo)
+     (VP attempts
+         (S (NP-SBJ *-2)
+            (VP to
+                (VP remove
+                    (NP the tourist board)
+                    (ADVP-DIR (ADJP as far)
+			      (PP as
+				  (ADJP possible))
+			      (PP from
+				  (NP (NP the agency)
+				      ,
+				      (SBAR (WHNP-1 which)
+					    (S (NP-SBJ *T*-1)
+					       (VP pleaded
+						   (ADJP-PRD innocent
+							     (PP to
+								 (NP the charges)))))))))))))
+     .))
+( (S (PP Among
+         (NP other things))
+     ,
+     (NP-SBJ the memo)
+     (VP contends
+         (SBAR that
+               (S (NP-SBJ Young & Rubicam)
+                  (VP gave
+                      (NP false assurances
+                          (SBAR that
+                                (S (NP-SBJ the investigation)
+                                   (VP would n't
+                                       (VP uncover
+                                           (NP (NP any information)
+                                               (SBAR (WHNP-1 that)
+                                                     (S (NP-SBJ *T*-1)
+                                                        (VP would
+							    ``
+							    (VP embarrass
+                                                                (NP (NP (NP the government)
+                                                                        (PP of
+                                                                            (NP Jamaica)))
+                                                                    or
+                                                                    (NP the Jamaica Tourist Board))))))))))))))))
+     . ''))
+( (S (NP-SBJ It)
+     (ADVP also)
+     (VP contends
+         (SBAR that
+               (S (NP-SBJ Young & Rubicam)
+                  (ADVP-TMP never)
+                  (VP told
+                      (NP the tourist board)
+                      (PP-CLR about
+			      (NP (NP its relationship)
+				  (PP with
+				      (NP (NP Ad Ventures)
+					  ,
+					  (NP (NP a Jamaican firm)
+					      (VP hired
+						  (NP *)
+						  (PP by
+						      (NP-LGS the agency))))))))))))
+     .))
+( (S (NP-SBJ The U.S. indictment)
+     (VP charges
+         (SBAR 0
+               (S (NP-SBJ Ad Ventures)
+                  (VP was
+                      (NP-PRD (NP a front)
+                              (VP used
+                                  (S-CLR (NP-SBJ *)
+					 (VP to
+					     (VP funnel
+						 (NP kickbacks)
+						 (PP-DTV to
+							 (NP (NP the then-minister)
+							     (PP of
+								 (NP tourism)))))))))))))
+     .))
+( (S (NP-SBJ The memo)
+     (ADVP also)
+     (VP chastises
+         (NP the agency)
+         (PP-CLR for
+		 (NP (NP the timing)
+		     (PP of
+			 (NP (NP its announcement
+				 (SBAR *ICH*-1))
+			     (NP-TMP Thursday)
+			     (SBAR-1 that
+				     (S (NP-SBJ it)
+					(VP would
+					    (ADVP-TMP no longer)
+					    (VP handle
+						(NP the
+						    (ADJP (QP $ 5 million 
+							      to
+							      $ 6 million) *U*)
+						    account))))))))))
+     .))
+( (S (NP-SBJ The agency)
+     (VP (VP declined
+             (NP comment))
+         , but
+         (VP said
+             (SBAR 0
+                   (S (NP-SBJ it)
+                      (VP will
+                          (VP continue
+                              (NP work)
+			      (SBAR-TMP until
+					(S (NP-SBJ-1 a new agency)
+					   (VP is
+					       (VP chosen
+						   (NP *-1)))))))))))
+     .))
+( (NP Ad Notes ...
+      .))
+( (NP-HLN NEW ACCOUNT))
+( (UCP :
+       (S (NP-SBJ (NP American Suzuki Motor Corp.)
+		  ,
+		  (NP-LOC (NP Brea)
+			  ,
+			  (NP Calif.)
+			  ,))
+	  (VP awarded
+	      (NP its estimated
+		  (ADJP (QP $ 10 million
+			    to
+			    $ 30 million) *U*)
+		  account)
+	      (PP-CLR to
+		      (NP (NP Asher/Gould)
+			  ,
+			  (NP Los Angeles)))))
+       .))
+( (SINV (VP-TPC-1 (ADVP Also)
+		  participating
+		  (PP-LOC in
+			  (NP the finals)))
+        (VP was
+	    (VP *T*-1))
+        (NP-SBJ (NP Los Angeles agency)
+                (NP Hakuhodo Advertising America))
+        .))
+( (S (NP-SBJ (NP (NP American Suzuki 's)
+                 previous agency)
+             ,
+             (NP Keye/Donna/Pearlstein)
+             ,)
+     (VP did n't
+         (VP participate))
+     .))
+( (S-HLN (NP-SBJ AYER)
+	 (VP TALKS)
+	 :))
+( (S (NP-SBJ (NP (NP N W Ayer 's)
+		 president and chief executive officer)
+	     ,
+	     (NP Jerry J. Siano)
+	     ,)
+     (VP said
+	 (SBAR 0
+	       (S (S (NP-SBJ the agency)
+		     (VP is
+			 (VP holding
+			     (NP ``
+				 (NP conversations)
+				 ''
+				 (PP about
+				     (S-NOM (NP-SBJ *)
+					    (VP acquiring
+						(NP (NP Zwiren Collins Karo & Trusk)
+						    ,
+						    (NP a midsized Chicago agency)))))))))
+		  , but
+		  (S (NP-SBJ-2 a deal)
+		     (VP is n't
+			 (ADVP-TMP yet)
+			 (ADJP-PRD close
+				   (PP to
+				       (S-NOM (NP-SBJ-1 *-2)
+					      (VP being
+						  (VP completed
+						      (NP *-1)))))))))))
+     .))
+( (SBARQ-HLN (WHNP-2 WHO)
+	     (S (NP-SBJ *T*-2)
+		(VP 'S
+		    (NP-PRD NEWS)))
+	     :))
+( (S (NP-SBJ-1 (NP John Wells)
+	       ,
+	       (NP 47)
+	       ,
+	       (NP (NP former president and chief executive)
+		   (PP of
+		       (NP (NP N W Ayer 's)
+			   Chicago office)))
+	       ,)
+     (VP was
+	 (VP named
+	     (S (NP-SBJ *-1)
+		(NP-PRD (NP management director and director)
+			(PP of
+			    (NP account services))
+			(PP-LOC at
+				(NP (NP (NP WPP Group 's)
+					J. Walter Thompson agency)
+				    (PP-LOC in
+					    (NP Chicago))))))))
+     ...
+     .))
+( (S (NP-SBJ-1 (NP Shelly Lazarus)
+               ,
+               (NP 42)
+               ,)
+     (VP was
+         (VP named
+             (S (NP-SBJ *-1)
+		(NP-PRD (NP president and chief operating
+			    officer)
+			(PP of
+			    (NP (NP Ogilvy & Mather Direct)
+				,
+				(NP (NP the direct mail division)
+				    (PP of
+					(NP (NP WPP Group 's)
+					    Ogilvy & Mather agency)))))))))
+     .))

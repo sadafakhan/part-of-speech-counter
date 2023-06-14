@@ -1,0 +1,78 @@
+
+
+( (S (NP-SBJ McCormick Capital Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the final proration factor)
+                  (VP was
+                      (NP-PRD (NP 0.628394)
+                              (PP on
+                                  (NP its oversubscribed , (ADJP $ 3-a-share *U*) tender offer
+                                      (S (NP-SBJ *)
+                                         (VP to
+                                             (VP buy
+                                                 (ADVP-CLR back)
+                                                 (NP (NP (QP as many
+							     as
+							     1.1 million))
+						     (PP of
+							 (NP its common shares)))))))))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ Payment)
+	      (VP will
+		  (VP begin
+		      ``
+		      (ADVP-TMP-CLR (ADVP as soon)
+				    (PP as
+					(NP Oct. 25)))
+		      ,
+		      '')))
+     (NP-SBJ the company)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ McCormick)
+     (VP is
+         (NP-PRD (NP a developer and manager)
+                 (PP of
+                     (NP futures-investment limited partnerships))))
+     .))
+( (S-1 (PP Through
+	   (NP (NP a separate agreement)
+	       (PP between
+		   (NP (NP (NP Peter Dauchy)
+			   ,
+			   (NP president)
+			   ,)
+		       and
+		       (NP (NP a group)
+			   (PP of
+			       (NP selling shareholders)))))))
+       (PRN ,
+	    (S (NP-SBJ the company)
+	       (VP said
+		   (SBAR 0
+			 (S *T*-1))))
+	    ,)
+       (NP-SBJ Mr. Dauchy)
+       (VP will
+	   (PP-TMP on
+		   (NP Oct. 30))
+	   (VP buy
+	       (NP 231,405 shares)
+	       (PP-CLR from
+		       (NP the group))
+	       ,
+	       (S-ADV (NP-SBJ *)
+		      (VP boosting
+			  (NP his stake)
+			  (PP-DIR to
+				  (NP (NP (QP about 717,000) shares)
+				      , or
+				      (NP (NP 50.7 %)
+					  (PP of
+					      (NP (NP the total)
+						  (PP-TMP after
+							  (NP the buy-back)))))))))))
+       .))

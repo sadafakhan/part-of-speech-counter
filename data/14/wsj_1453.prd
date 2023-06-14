@@ -1,0 +1,1044 @@
+
+
+( (S (NP-SBJ Diversification)
+     (VP pays)
+     .))
+( (S (S (NP-SBJ That)
+        (VP 's
+            (NP-PRD (NP a fundamental lesson)
+                    (PP for
+                        (NP investors)))))
+     , but
+     (S (NP-SBJ-1 its truth)
+        (VP was
+            (VP demonstrated
+                (NP *-1)
+                (ADVP-TMP once again)
+                (PP-LOC in
+			(NP (NP the performance)
+			    (PP of
+				(NP mutual funds))
+			    (PP-TMP during and after
+				    (NP (NP the stock market 's)
+					Friday-the-13th plunge)))))))
+     .))
+( (S (NP-SBJ Stock funds)
+     ,
+     (PP like
+         (NP (NP the market)
+             (PP as
+                 (NP a whole))))
+     ,
+     (ADVP generally)
+     (VP dropped
+	 (NP (QP more
+		 than
+		 2)
+	     %)
+	 (PP-TMP in
+		 (NP (NP the week)
+		     (PP-TMP through
+			     (NP last Thursday))))
+	 ,
+	 (PP according
+	     (PP to
+		 (NP (NP figures)
+		     (VP compiled
+			 (NP *)
+			 (PP by
+			     (NP-LGS Lipper Analytical Services Inc)))))))
+     .))
+( (S (NP-SBJ That)
+     (VP reflects
+         (NP (NP (NP the huge drop)
+                 (ADVP-TMP (NP a week)
+			   ago
+			   (NP-TMP Friday)))
+             ,
+             (NP (NP last
+		     Monday 's)
+                 rebound)
+             and
+             (NP (NP the dips and blips)
+                 (SBAR (WHNP-1 that)
+                       (S (NP-SBJ *T*-1)
+                          (VP followed))))))
+     .))
+( (S But
+     (NP-SBJ (NP several other types)
+	     (PP of
+		 (NP funds)))
+     (VP shielded
+         (NP investors)
+         (PP from
+             (NP (NP the worst)
+                 (PP of
+                     (NP (NP the market 's)
+                         slide)))))
+     .))
+( (S (NP-SBJ (NP Funds)
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ *T*-1)
+                      (VP invest
+                          (ADVP-LOC internationally)))))
+     (VP were
+         (NP-PRD (NP the top-performing stock)
+                 and
+                 (NP fixed-income funds)))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-ADV (NP More)
+			 (PP than
+			     (NP ever)))
+		 ,
+		 (NP-SBJ people)
+		 (VP should
+		     (VP realize
+			 (SBAR 0
+			       (S (NP-SBJ they)
+				  (VP should
+				      (VP have
+					  (NP a diversified portfolio))))))))
+	, ''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP Jeremy Duffield)
+		,
+		(NP (NP a senior vice president)
+		    (PP of
+			(NP Vanguard Group))))
+	.))
+( (S ``
+     (NP-SBJ That)
+     (VP means
+         (NP (NP stocks)
+             ,
+             (NP bonds)
+             ,
+             (NP money market instruments)
+             and
+             (NP real estate)))
+     . ''))
+( (S (NP-SBJ (NP One week 's)
+             performance)
+     (VP should n't
+         (VP be
+             (NP-PRD (NP the basis)
+                     (PP for
+                         (NP any investment decision)))))
+     .))
+( (S But
+     (NP-SBJ the latest mutual fund performance figures)
+     (VP do
+         (VP show
+             (SBAR-NOM (WHNP-1 what)
+		       (S (NP-SBJ *T*-1)
+			  (VP can
+			      (VP happen
+				  (SBAR-TMP (WHADVP-2 when)
+					    (S (NP-SBJ the going)
+					       (VP gets
+						   (ADJP-PRD rough)
+						   (ADVP-TMP *T*-2))))))))))
+     .))
+( (SINV ``
+	(S-TPC-4 (NP-SBJ-1 You)
+		 (VP want
+		     (S (NP-SBJ *-1)
+			(VP to
+			    (VP know
+				(SBAR-NOM (WHADVP-2 how)
+					  (S (NP-SBJ a fund)
+					     (VP did
+						 (SBAR-TMP (WHADVP-3 when)
+							   (S (NP-SBJ the market)
+							      (VP got
+								  (VP hammered
+								      (ADVP-TMP *T*-3)))))
+						 (ADVP *T*-2)))))))))
+	,
+	''
+	(VP said
+	    (S *T*-4))
+	(NP-SBJ (NP Kurt Brouwer)
+		,
+		(NP (NP an investment adviser)
+		    (PP with
+			(NP (NP Brouwer & Janachowski)
+			    (PP-LOC in
+				    (NP San Francisco))))))
+	.))
+( (S ``
+     (NP-SBJ It)
+     (VP 's
+         (PP-PRD like
+                 (S-NOM (NP-SBJ *)
+			(VP kicking
+			    (NP (NP the tires)
+				(PP of
+				    (NP a car)))))))
+     ...
+     .))
+( (S (SBAR-NOM-SBJ (WHNP-1 What)
+		   (S (NP-SBJ-2 you)
+		      (VP want
+			  (S (NP-SBJ *-2)
+			     (VP to
+				 (VP know
+				     (NP *T*-1)))))))
+     (VP is
+	 (SBARQ-PRD (SBAR-TMP (SBAR (WHADVP-3 when)
+				    (S (NP-SBJ the road)
+				       (VP 's
+					   (ADJP-PRD rough)
+					   (ADVP-TMP *T*-3))))
+			      ,
+			      (SBAR (WHADVP-4 when)
+				    (S (NP-SBJ there)
+				       (VP 's
+					   (NP-PRD snow and ice)
+					   (ADVP-TMP *T*-4)))))
+		    ,
+		    (WHADVP-6 how)
+		    (SQ 's
+			(NP-SBJ-5 this car)
+			(VP going
+			    (S (NP-SBJ *-5)
+			       (VP to
+				   (VP perform
+				       (ADVP-MNR *T*-6))))))))
+     ? ''))
+( (S (NP-SBJ General equity funds)
+     (VP fell
+         (NP-EXT (NP an average)
+		 (PP of
+		     (NP 2.35 %)))
+	 (PP-TMP in
+		 (NP (NP the week)
+		     (VP ended
+			 (NP *)
+			 (NP-TMP-CLR Thursday))))
+	 ,
+	 (PP compared
+	     (PP with
+		 (NP (NP a (ADJP 2.32 %) slide)
+		     (PP for
+			 (NP (NP the Standard & Poor 's)
+			     500-stock index))))))
+     .))
+( (S But
+     (NP-SBJ (NP Lipper Analytical 's)
+	     figures)
+     (VP show
+         (SBAR that
+               (S (NP-SBJ there)
+                  (VP were
+                      (NP-PRD (NP a number)
+                              (PP of
+                                  (NP (NP ways)
+				      (SBAR (WHADVP-1 0)
+					    (S (NP-SBJ investors)
+					       (VP could
+						   (VP have
+						       (VP cushioned
+							   (NP themselves)
+							   (PP-CLR from
+								   (NP (NP the stock market 's)
+								       gyrations))
+							   (ADVP-MNR *T*-1)))))))))))))
+     .))
+( (S (NP-SBJ (NP Gold-oriented funds)
+             ,
+             (PP for
+                 (NP instance))
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP invest
+                          (PP-CLR in
+				  (NP (NP companies)
+				      (SBAR (WHNP-2 that)
+					    (S (NP-SBJ *T*-2)
+					       (VP mine and process
+						   (NP the precious metal)))))))))
+             ,)
+     (VP posted
+         (NP (NP an average decline)
+             (PP of
+                 (NP 1.15 %))))
+     .))
+( (S (NP-SBJ (NP Flexible portfolio funds)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP allocate
+                          (NP investments)
+                          (PP-LOC-CLR among
+				      (NP (NP stocks) , 
+					  (NP bonds and money-market instruments)
+					  and
+					  (NP other investments))))))
+             ,)
+     (VP declined
+         (PP-CLR at
+		 (NP (NP (NP (QP about half)
+			     the rate)
+			 (PP of
+			     (NP stock funds)))
+		     --
+		     (NP (NP an average drop)
+			 (PP of
+			     (NP 1.27 %)))))
+	 ,
+	 (PP according
+	     (PP to
+		 (NP Lipper))))
+     .))
+( (S (NP-SBJ-1 Global allocation funds)
+     (VP take
+         (NP-CLR the asset-allocation concept)
+         (ADVP-CLR (NP one step)
+		   further)
+         (PP-MNR by
+		 (S-NOM (NP-SBJ *-1)
+			(VP investing
+			    (NP (NP (QP at
+					least
+					25)
+				    %)
+				(PP of
+				    (NP their portfolios)))
+			    (PP-LOC-CLR outside
+					(NP the U.S))))))
+     .))
+( (S (NP-SBJ This)
+     (VP gives
+         (NP them)
+         (NP (NP the added benefits)
+             (PP of
+                 (NP international diversification)))
+	 --
+	 (PP including
+	     (NP (NP a foreign-exchange boost)
+		 (PP-TMP during
+			 (NP (NP periods)
+			     ,
+			     (PP like
+				 (NP the past week))
+			     ,
+			     (SBAR-TMP (WHADVP-1 when)
+				       (S (NP-SBJ the dollar)
+					  (VP declines
+					      (PP against
+						  (NP other major currencies))
+					      (ADVP-TMP *T*-1)))))))))
+     .))
+( (S (PP With
+	 (S-NOM (NP-SBJ all
+			that)
+		(VP going
+		    (PP-CLR for
+			    (NP them)))))
+     ,
+     (NP-SBJ global flexible portfolio funds)
+     (VP declined
+         (NP-EXT (QP only 1.07) %)
+	 (PP-TMP in
+		 (NP (NP the week)
+		     (PP-TMP through
+			     (NP last Thursday)))))
+     .))
+( (S (S But
+        (SBAR-ADV while
+		  (S (NP-SBJ (NP the merits)
+			     (PP of
+				 (NP diversification)))
+		     (VP shine
+			 (ADVP-CLR through)
+			 (SBAR-TMP (WHADVP-1 when)
+				   (S (NP-SBJ times)
+				      (VP are
+					  (ADJP-PRD tough)
+					  (ADVP-TMP *T*-1)))))))
+        ,
+        (NP-SBJ there)
+        (VP 's
+            (ADVP also)
+            (NP-PRD (NP a price)
+                    (SBAR (WHNP-2 0)
+			  (S (NP-SBJ *)
+			     (VP to
+				 (VP pay
+				     (NP *T*-2))))))))
+     :
+     (S (NP-SBJ A diversified portfolio)
+        (ADVP-TMP always)
+        (VP underperforms
+            (NP an undiversified portfolio)
+	    (PP-TMP during
+		    (NP (NP those times)
+			(SBAR (WHADVP-3 when)
+			      (S (NP-SBJ (NP the investment)
+					 (PP-LOC in
+						 (NP the undiversified portfolio)))
+				 (VP is
+				     (ADJP-PRD truly hot)
+				     (ADVP-TMP *T*-3))))))))
+     .))
+( (S And
+     (PP (NP Friday
+	     the 13th)
+	 notwithstanding)
+     ,
+     (NP-SBJ stocks)
+     (VP have
+	 (VP been
+	     (NP-PRD (NP this year 's)
+		     hot investment)))
+     .))
+( (S (S-TPC-1 (ADVP Thus)
+	      ,
+	      (PP (ADVP even)
+		  including
+		  (NP the latest week))
+	      ,
+	      (NP-SBJ the average general stock fund)
+	      (VP has
+		  (VP soared
+		      (NP-EXT (QP more
+				  than
+				  24)
+			      %)
+		      (NP-TMP (ADVP so far)
+			      this year))))
+     ,
+     (NP-SBJ the Lipper Analytical figures)
+     (VP show
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (PP By
+         (NP comparison))
+     ,
+     (NP-SBJ global asset allocation funds)
+     (VP have
+         (VP turned 
+	     (PRT in)
+             (NP-PRD (NP an average total return)
+                     (PP of
+                         (NP (QP about 19) %)))
+	     ,
+	     (SBAR-ADV while
+		       (S (NP-SBJ domestic flexible portfolios)
+			  (VP are
+			      (ADVP-PRD up
+					(NP (QP about 17) %)))))))
+     .))
+( (S (NP-SBJ Fixed-income funds)
+     (VP have
+         (VP returned
+             (NP 8.2 %)
+	     ,
+	     (SBAR-ADV while
+		       (S (NP-SBJ (NP gold funds)
+				  ,
+				  (SBAR (WHNP-1 which)
+					(S (NP-SBJ-2 *T*-1)
+					   (VP tend
+					       (S (NP-SBJ *-2)
+						  (VP to
+						      (VP be
+							  (ADJP-PRD volatile)))))))
+				  ,)
+			  (VP have
+			      (VP risen
+				  (NP-EXT (QP just 4.55) %)
+				  ,
+				  (PP on
+				      (NP average))))))))
+     .))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ That)
+		 (VP 's
+		     (NP-PRD (NP the problem)
+			     (PP with
+				 (S-NOM (NP-SBJ-1 *)
+					(VP trying
+					    (S (NP-SBJ *-1)
+					       (VP to
+						   (VP hedge
+						       (ADVP too much))))))))))
+	,
+	''
+	(VP said
+	    (S *T*-2))
+	(NP-SBJ Mr. Brouwer)
+	.))
+( (S ``
+     (NP-SBJ You)
+     (VP do n't
+         (VP make
+             (NP any real money)))
+     . ''))
+( (S-2 (PP-TMP Over
+	       (NP the last 20 years))
+       ,
+       (PP for
+	   (NP example))
+       (PRN ,
+	    (S (NP-SBJ Mr. Brouwer)
+	       (VP says
+		   (S *T*-2)))
+	    ,)
+       (NP-SBJ (NP an investor)
+	       (VP putting
+		   (NP (NP $ 5,000 *U*)
+		       (NP-ADV a year))
+		   (PP-PUT in
+			   (NP the S&P 500))))
+       (VP would
+	   (VP have
+	       (VP made
+		   (NP (NP (QP nearly twice)
+			   as much)
+		       (PP than
+			   (SBAR if
+				 (S (NP-SBJ-1 it)
+				    (VP were
+					(VP invested
+					    (NP *-1)
+					    (PP-LOC-CLR in
+							(NP Treasury bills)))))))))))
+       .))
+( (S (NP-SBJ Some equity funds)
+     (VP did
+         (ADJP (ADJP better)
+               (PP than
+                   (NP others)))
+	 (PP-TMP in
+		 (NP (NP the week)
+		     (SBAR (WHNP-1 that)
+			   (S (NP-SBJ *T*-1)
+			      (VP began
+				  (PP-TMP-CLR on
+					      (NP Friday
+						  the 13th))))))))
+     .))
+( (S (NP-SBJ The (ADJP (QP $ 4 million) *U*) Monetta Fund)
+     ,
+     (PP for
+         (NP instance))
+     ,
+     (VP was
+         (NP-PRD (NP the seventh top performing fund)
+                 (PP for
+                     (NP the week)))
+	 ,
+	 (PP with
+	     (NP a (ADJP 2.65 %) return)))
+     .))
+( (S (NP-SBJ Its return)
+     (NP-TMP (ADVP so far)
+	     this year)
+     (VP has
+         (VP been
+             (NP-PRD a credible 21.71 %)))
+     .))
+( (S (NP-SBJ (NP The fund 's)
+             strategy)
+     (VP is
+	 (S-PRD (NP-SBJ *)
+		(VP to
+		    (VP sell
+			(SBAR-TMP (WHADVP-1 when)
+				  (S (NP-SBJ a stock)
+				     (VP appreciates
+					 (NP-EXT (NP 30 %)
+						 (PP over
+						     (NP its cost)))
+					 (ADVP-TMP *T*-1))))))))
+     .))
+( (SINV (S-TPC-2 (PP-TMP By
+			 (NP (NP the time)
+			     (SBAR (WHADVP-1 0)
+				   (S (NP-SBJ the market)
+				      (VP plummeted
+					  (ADVP-TMP (NP 10 days)
+						    ago)
+					  (ADVP-TMP *T*-1))))))
+		 ,
+		 (NP-SBJ Monetta)
+		 (VP was
+		     (NP-PRD (NP 55 %)
+			     (PP in
+				 (NP cash))))
+		 ,)
+	(VP said
+	    (SBAR 0
+		  (S *T*-2)))
+	(NP-SBJ (NP Robert Bacarella)
+		,
+		(NP president and portfolio manager))
+	.))
+( (S (NP-TMP Last Monday)
+     ,
+     (NP-SBJ-2 he)
+     (VP started
+	 ``
+	 (S (NP-SBJ *-2)
+            (VP buying
+                (NP (NP the high-quality growth companies)
+                    (SBAR (WHNP-1 that)
+                          (S (NP-SBJ people)
+                             (VP were
+                                 (VP throwing
+                                     (PRT away)
+                                     (NP *T*-1)
+				     (PP-CLR at
+					     (NP discount prices))))))))))
+     . ''))
+( (FRAG (PP Among
+	    (NP (NP Mr. Bacarella 's)
+		picks))
+	:
+	(NP (NP Oracle Systems)
+	    ,
+	    (NP Reebok International Ltd.)
+	    and
+	    (NP Digital Microwave Corp))
+	.))
+( (S (NP-SBJ (NP The fund 's)
+             cash position)
+     (VP is
+         (ADVP-TMP now)
+         (NP-PRD (NP (QP about 22) %)
+                 ,
+                 (SBAR (WHNP-1 which)
+                       (S (NP-SBJ Mr. Bacarella)
+                          (VP calls
+			      (S (NP-SBJ *T*-1)
+				 ``
+				 (ADJP-PRD still bearish)))))))
+     . ''))
+( (S (PP Among
+         (NP the big stock funds))
+     ,
+     (NP-SBJ (NP Dreyfus Fund)
+             ,
+             (SBAR with
+		   (S (NP-SBJ (QP more
+				  than
+				  $ 2 billion)
+			      *U*)
+		      (PP-LOC-PRD in
+				  (NP assets))))
+             ,)
+     (VP had
+         (NP (NP (NP a decline)
+                 (PP of
+                     (NP (NP (QP just 1.49) %)
+                         (PP for
+                             (NP the week)))))
+             and
+             (NP (NP a return)
+                 (PP of
+                     (NP (NP 21.42 %)
+                         (PP for
+                             (NP the year)))))))
+     .))
+( (S (NP-SBJ (NP Howard Stein)
+             ,
+             (NP (NP chairman)
+                 (PP of
+                     (NP Dreyfus Corp.)))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the fund)
+                  (VP was
+                      (VP (VP (QP-1 about half)
+			      invested
+			      (PP-LOC-CLR-2 in
+					    (NP government bonds))
+			      (PP-TMP on
+				      (NP Oct. 13)))
+			  , and
+			  (VP (QP=1 about
+				    10 %)
+			      (PP-LOC-CLR=2 in
+					    (NP cash))))))))
+     .))
+( (S ``
+     (S-TPC-1 (PP-LOC In
+		      (NP a downward market))
+	      ,
+	      (NP-SBJ bonds)
+	      (VP act
+		  (ADVP-CLR better)))
+     ,
+     ''
+     (NP-SBJ he)
+     (VP said
+	 (S *T*-1))
+     .))
+( (S ``
+     (NP-SBJ We)
+     (ADVP-TMP still)
+     (VP think
+         (SBAR 0
+               (S (NP-SBJ there)
+                  (VP 's
+                      (NP-PRD (NP a lot)
+                              (PP of
+                                  (NP unsettlement)))
+		      (PP-LOC in
+			      (NP this market))))))
+     .))
+( (S (NP-SBJ We)
+     (VP believe
+         (SBAR 0
+               (S (S (NP-SBJ-1 interest rates)
+                     (VP will
+                         (VP continue
+                             (S (NP-SBJ *-1)
+                                (VP to
+                                    (VP trend 
+					(ADVP-CLR lower)))))))
+                  , and
+                  (S (NP-SBJ the economy)
+                     (VP will
+                         (VP slow
+			     (PP-LOC around
+				     (NP the world))))))))
+     . ''))
+( (S (NP-SBJ-1 (NP Many)
+               (PP of
+                   (NP (NP the funds)
+                       (SBAR (WHNP-2 that)
+                             (S (NP-SBJ *T*-2)
+                                (VP did 
+				    (ADVP-CLR best)
+				    (PP-TMP in
+					    (NP the last week))))))))
+     (VP are
+	 (VP (ADVP-MNR heavily)
+	     invested
+	     (NP *-1)
+	     (ADVP-LOC overseas))
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP giving
+		    (NP them)
+		    (NP (NP the benefit)
+			(PP of
+			    (NP foreign currency translations)))
+		    (SBAR-TMP (WHADVP-3 when)
+			      (S (NP-SBJ the dollar)
+				 (VP is
+				     (ADJP-PRD weak)
+				     (ADVP-TMP *T*-3)))))))
+     .))
+( (S (PP (PP From
+	     (NP (NP its high point)
+		 (PP-TMP on
+			 (NP (NP Thursday)
+			     ,
+			     (NP Oct. 12)
+			     ,))))
+	 (PP to
+	     (SBAR-NOM (WHADVP-1 where)
+		       (S (NP-SBJ it)
+			  (VP traded
+			      (ADVP-TMP late)
+			      (PP-LOC in
+				      (NP New York))
+			      (ADVP-TMP (NP a week)
+					later)
+			      (ADVP-LOC *T*-1))))))
+     ,
+     (NP-SBJ the dollar)
+     (VP fell
+         (NP-EXT (NP (NP 3.6 %)
+		     (PP against
+			 (NP the West German mark)))
+		 ,
+		 (NP (NP 3.4 %)
+		     (PP against
+			 (NP the British pound)))
+		 and
+		 (NP (NP 2.1 %)
+		     (PP against
+			 (NP the Japanese yen)))))
+     .))
+( (S (NP-SBJ (NP Three International Cash Portfolios funds)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP invest
+                          (ADVP almost exclusively)
+                          (PP-LOC-CLR in
+				      (NP bonds and money-market instruments))
+                          (ADVP-LOC overseas))))
+             ,)
+     (VP were
+         (PP-PRD among
+                 (NP the four top-performing funds))
+	 (PP-TMP in
+		 (NP the latest week)))
+     .))
+( (S (SBAR-PRP Because
+	       (S (NP-SBJ-1 (NP the funds ')
+			    investments)
+		  (VP are
+		      (VP denominated
+			  (NP *-1)
+			  (PP-CLR in
+				  (NP foreign currencies))))))
+     ,
+     (NP-SBJ (NP their value)
+             (VP expressed
+                 (NP *)
+                 (PP-CLR in
+			 (NP dollars))))
+     (VP goes
+         (ADVP-DIR up)
+	 (SBAR-TMP (WHADVP-2 when)
+		   (S (NP-SBJ those currencies)
+		      (VP rise
+			  (PP against
+			      (NP the dollar))
+			  (ADVP-TMP *T*-2)))))
+     .))
+( (S But
+     (SBAR-TMP (WHADVP-1 when)
+	       (S (NP-SBJ the dollar)
+		  (VP rises
+		      (PP against
+			  (NP major foreign currencies))
+		      (ADVP-TMP *T*-1))))
+     (PRN ,
+	  (SBAR-ADV as
+		    (S (NP-SBJ it)
+		       (VP did
+			   (PP-TMP for
+				   (NP (NP much)
+				       (PP of
+					   (NP this year)))))))
+	  ,)
+     (NP-SBJ (NP the dollar value)
+             (PP of
+                 (NP these funds)))
+     (VP declines)
+     .))
+( (S (NP-SBJ All three funds)
+     (VP posted
+         (NP (NP negative returns)
+             (PP for
+                 (NP (NP the year)
+                     (PP to
+                         (NP date))))))
+     .))
+( (S (PP Of
+         (NP (NP the funds)
+             (SBAR (WHNP-2 that)
+                   (S (NP-SBJ *T*-2)
+                      (VP fared
+                          (NP-CLR the worst)
+			  (PP-TMP in
+				  (NP the post-Oct . 13 week)))))))
+     ,
+     (NP-SBJ-1 two)
+     (VP are
+         (VP (ADVP heavily)
+             invested
+             (NP *-1)
+             (PP-CLR-LOC in
+			 (NP (NP airlines stocks)
+			     ,
+			     (SBAR (WHNP-3 which)
+				   (S (NP-SBJ *T*-3)
+				      (VP (VP led
+					      (NP the market slide))
+					  (PP-TMP following
+						  (NP (NP problems)
+						      (PP with
+							  (NP financing))
+						      (PP for
+							  (NP the UAL Corp . buy-out plan)))))))))))
+     .))
+( (S (S-ADV (NP-SBJ *-1)
+	    (VP Reflecting
+		(NP airline takeover activity)))
+     ,
+     (ADVP however)
+     ,
+     (NP-SBJ-1 both
+	       (NP the Fidelity Select Air Transportation Portfolio)
+	       and
+	       (NP the National Aviation & Technology fund))
+     (VP posted
+	 (NP (NP (NP better-than-average returns)
+		 (PP for
+		     (NP (NP the the year)
+			 (PP to
+			     (NP date)))))
+	     :
+	     (NP (NP (NP 30.09 %)
+		     (PP for
+			 (NP the Fidelity Air Transportation fund)))
+		 and
+		 (NP (NP a whopping 47.24 %)
+		     (PP for
+			 (NP National Aviation & Technology))))))
+     .))
+( (SINV (S-TPC-1 (NP-SBJ (NP The small drop)
+			 (PP in
+			     (NP (NP equity funds)
+				 (PP in
+				     (NP general)))))
+		 (PP-TMP in
+			 (NP the latest week))
+		 (VP may not
+		     (ADVP necessarily)
+		     (VP be
+			 (NP-PRD a good sign))))
+	,
+	(VP said
+	    (SBAR 0
+		  (S *T*-1)))
+	(NP-SBJ (NP A. Michael Lipper)
+		,
+		(NP (NP president)
+		    (PP of
+			(NP Lipper Analytical))))
+	.))
+( (S (S-ADV (NP-SBJ *-2)
+	    (VP Noting
+		(SBAR that
+		      (S (NP-SBJ equity funds)
+			 (VP are
+			     (ADVP-PRD up
+				       (NP (QP nearly 60) %)
+				       (PP-TMP from
+					       (NP (NP their post-crash low)
+						   (PP-TMP on
+							   (NP Dec. 3 , 1987))))))))))
+     ,
+     (NP-SBJ-2 he)
+     (VP said
+	 (SBAR that
+	       (S (SBAR-NOM-SBJ (WHNP-1 what)
+				(S (NP-SBJ *T*-1)
+				   (VP happened
+				       (NP-TMP-CLR last week))))
+		  ``
+		  (VP may not
+		      (VP be
+			  (NP-PRD (NP enough)
+				  (PP of
+				      (NP an adjustment))))))))
+     .))
+( (S (NP-SBJ There)
+     (VP 's
+         (NP-PRD either
+                 (NP (NP more)
+		     (SBAR (WHNP-1 0)
+			   (S (NP-SBJ *T*-1)
+			      (VP to
+				  (VP come)))))
+                 or
+                 (NP (NP an (ADJP extremely long) period)
+                     (PP of
+                         (NP dullness)))))
+     . ''))
+( (S But
+     (NP-SBJ-1 investors)
+     (VP do n't
+         (VP seem
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP think
+                        (ADVP-CLR so))))))
+     .))
+( (S (NP-SBJ Several big mutual fund groups)
+     (VP said
+         (NP-TMP last week)
+         (SBAR that
+               (S (NP-SBJ (NP cash flows)
+                          (PP into
+                              (NP stock funds)))
+                  (VP were
+                      (ADJP-PRD (ADJP heavier)
+                                (PP than
+                                    (ADJP usual)))
+		      (PP-TMP after
+			      (NP (NP heavy outflows)
+				  (PP-TMP on
+					  (NP the 13th))))))))
+     .))
+( (S (NP-SBJ Vanguard Group)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP had
+                      (NP (NP a
+			      (ADJP (QP more
+					than
+					$ 50 million ) *U*)
+			      net inflow)
+			  (PP into
+			      (NP its stock funds)))
+		      (NP-TMP last week)))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ There)
+		 (ADVP certainly)
+		 (VP has n't
+		     (VP been
+			 (NP-PRD a panic reaction))))
+	,
+	''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP Steven Norwitz)
+		,
+		(NP (NP a vice president)
+		    (PP-LOC at
+			    (NP T. Rowe Price Associates))))
+	.))
+( (S ``
+     (NP-SBJ People)
+     (VP showed
+         (NP (NP some staying power)
+             and 
+	     ,
+             (PP in
+                 (NP fact))
+             ,
+             (NP (NP interest)
+                 (PP in
+                     (S-NOM (NP-SBJ *)
+			    (VP buying
+				(NP equities)))))))
+     . ''))
+( (NP (NP Source)
+      :
+      (NP Lipper Analytical Services Inc)
+      .))
+( (X (X *)
+     (S (NP-SBJ *)
+	Not
+	(VP counting
+	    (NP dividends)))))
+( (X (X **)
+     (PP With
+	 (S-NOM (NP-SBJ-1 dividends)
+		(VP reinvested
+		    (NP *-1))))))
+( (NP (NP Sources)
+      :
+      (NP (NP Lipper Analytical Services Inc.)
+	  ;
+	  (NP (NP Standard & Poor 's)
+	      Corp))
+      .))

@@ -1,0 +1,905 @@
+
+
+( (S (NP-SBJ The Bakersfield Supermarket)
+     (VP went
+         (PP-PRD out
+		 (PP of
+		     (NP business)))
+	 (NP-TMP last May))
+     .))
+( (S (NP-SBJ The reason)
+     (VP was not
+         (NP-PRD high interest rates or labor costs))
+     .))
+( (SINV Nor
+        was
+        (NP-SBJ there)
+        (NP-PRD (NP a shortage)
+		(PP of
+		    (NP customers))
+		(PP-LOC in
+			(NP (NP the area)
+			    ,
+			    (NP (NP the residential Inwood section)
+				(PP of
+				    (NP northern Manhattan))))))
+        .))
+( (S (NP-SBJ The business)
+     (VP closed
+	 (SBAR-TMP (WHADVP-2 when)
+		   (S (NP-SBJ-1 the owner)
+		      (VP was
+			  (VP murdered
+			      (NP *-1)
+			      (PP by
+				  (NP-LGS robbers))
+			      (ADVP-TMP *T*-2))))))
+     .))
+( (S (NP-SBJ The owner)
+     (VP was
+         (NP-PRD (NP Israel Ortiz)
+                 ,
+                 (NP (NP a 29-year-old entrepreneur)
+                     and
+                     (NP (NP father)
+                         (PP of
+                             (NP two))))))
+     .))
+( (S (PP-TMP In
+	     (NP (NP his first year)
+		 (PP of
+		     (S-NOM (NP-SBJ *)
+			    (VP operating
+				(NP (NP the store)
+				    (SBAR (WHNP-2 0)
+					  (S (NP-SBJ he)
+					     (VP bought
+						 (NP *T*-2)
+						 (PP-CLR for
+							 (NP $ 220,000 *U*)))))))))))
+     ,
+     (NP-SBJ-1 Mr. Ortiz)
+     (VP was
+         (VP robbed
+             (NP *-1)
+             (NP (QP at
+		     least)
+		 twice)
+             (PP-MNR at
+		     (NP gunpoint))))
+     .))
+( (S (NP-TMP The first time)
+     (NP-SBJ-1 he)
+     (VP was
+         (VP shot
+             (NP *-1)
+             (PP-LOC-CLR in
+			 (NP the hand))
+	     (SBAR-ADV as
+		       (S (NP-SBJ he)
+			  (VP chased
+			      (NP the robbers)
+			      (ADVP-DIR outside))))))
+     .))
+( (S (NP-TMP The second time)
+     (NP-SBJ he)
+     (VP identified
+         (NP (NP two robbers)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP were
+                          (VP arrested
+                              and
+                              charged))))))
+     .))
+( (S (ADVP-TMP (NP Two weeks)
+	       later)
+     (PRN --
+	  (PP perhaps in
+	      (NP retaliation))
+	  --)
+     (NP-SBJ-1 Mr. Ortiz)
+     (VP was
+         (VP shot
+             (NP *-1)
+             (NP three times)
+             (PP-LOC-CLR in
+			 (NP the back))
+	     ,
+	     (PP-TMP during
+		     (SBAR (WHNP-2 what)
+			   (S (NP-SBJ police)
+			      (VP classified
+				  (NP *T*-2)
+				  (PP-CLR as
+					  (NP a third robbery attempt))))))))
+     .))
+( (S (NP-SBJ That)
+     (VP was
+         (NP-PRD (NP his reward)
+                 (PP for
+                     (S-NOM (NP-SBJ-1 *)
+			    (VP working
+				(PP-TMP until
+					(NP (NP 11 p.m.)))
+				(NP-TMP (NP seven days)
+					(NP-ADV a week))
+				(S-PRP (NP-SBJ *-1)
+				       (VP to
+					   (VP cover
+					       (NP his (NAC (NP $ 3,000 *U*)
+							    (ADVP a month))
+						   rent)))))))))
+     .))
+( (PP For
+      (S-NOM (NP-SBJ *)
+	     (VP providing
+		 (SBAR (WHNP-1 what)
+		       (S (NP-SBJ his customers)
+			  (VP described
+			      (NP *T*-1)
+			      (PP-CLR as
+				      (NP (ADJP very personal and helpful)) service))))))
+      .))
+( (PP For
+      (S-NOM (NP-SBJ *)
+	     (VP creating
+		 (NP (NP a focus)
+		     (PP for
+			 (NP neighborhood life)))))
+      .))
+( (S (NP-SBJ Israel Ortiz)
+     (VP is
+         (NP-PRD (NP only one)
+                 (PP of
+                     (NP (NP the thousands)
+			 (PP of
+			     (NP (NP entrepreneurs)
+				 and
+				 (NP their employees)))
+                         (SBAR (WHNP-1 who)
+                               (S (NP-SBJ *T*-1)
+                                  (VP will
+				      (VP be
+					  (VP injured
+					      or
+					      killed
+					      (PP by
+						  (NP crime))
+					      (NP-TMP this year))))))))))
+     .))
+( (S (NP-SBJ (NP The U.S. Bureau)
+             (PP of
+                 (NP Justice Statistics)))
+     (VP reports
+         (SBAR that
+               (S (NP-SBJ (NP (QP almost 2) %)
+                          (PP of
+                              (NP all retail-sales workers)))
+                  (VP suffer
+                      (NP (NP injuries)
+                          (PP from
+                              (NP crime)))
+		      (NP-TMP each year)
+		      ,
+		      (NP-ADV (NP (QP almost twice)
+				  the national average)
+			      and
+			      (NP (NP (QP about four times)
+				      the rate)
+				  (PP for
+				      (NP (NP teachers)
+					  ,
+					  (NP truck drivers)
+					  ,
+					  (NP medical workers)
+					  and
+					  (NP door-to-door salespeople)))))))))
+     .))
+( (S (NP-SBJ (NP Only a few other occupations)
+	     (PP *ICH*-1))
+     (VP have
+         (NP (NP higher reported rates)
+             (PP of
+                 (NP criminal injury)))
+	 ,
+	 (PP-1 such
+	       as
+	       (NP (NP police)
+		   , 
+		   (NP bartenders) 
+		   and 
+		   (NP taxi drivers))))
+     .))
+( (S (ADVP Yet)
+     (NP-SBJ these figures)
+     (VP show
+         (NP (NP only the (ADJP most visible) part)
+             (PP of
+                 (NP the problem))))
+     .))
+( (S (NP-SBJ (NP Recent data)
+             (PP from
+                 (NP New York City)))
+     (VP provide
+         (NP (NP more)
+	     (PP of
+		 (NP the picture))))
+     .))
+( (S (SBAR-ADV While
+	       (FRAG (PP by
+			 (NP no means))
+		     (NP (NP the highest crime community)
+			 (PP-LOC in
+				 (NP the country)))))
+     ,
+     (NP-SBJ New York)
+     (VP is
+         (NP-PRD (NP a prime example)
+                 (PP of
+                     (NP (NP a city)
+                         (SBAR (WHADVP-1 where)
+                               (S (NP-SBJ crime)
+                                  (VP strangles
+                                      (NP small-business development)
+				      (ADVP-LOC *T*-1))))))))
+     .))
+( (S (NP-SBJ-1 (NP A survey)
+               (PP of
+                   (NP (NP small businesses) 
+		       (NP-LOC there))))
+     (VP was
+         (VP conducted
+             (NP *-1)
+             (NP-TMP this spring)
+             (PP by
+                 (NP-LGS (NP Interface)
+			 ,
+			 (NP a policy research organization)))))
+     .))
+( (S (NP-SBJ It)
+     (VP (VP gave
+             (NP 1,124 businesses)
+             (NP a questionnaire))
+         and
+         (VP analyzed
+             (NP 353 responses)))
+     .))
+( (S (NP-SBJ The survey)
+     (VP found
+         (SBAR that
+               (S (PP-TMP over
+			  (NP a three-year period))
+                  (NP-SBJ (NP 22 %)
+                          (PP of
+                              (NP the firms)))
+                  (VP said
+                      (SBAR 0
+                            (S (NP-SBJ-1 employees or owners)
+                               (VP had
+				   (VP been
+				       (VP robbed
+					   (NP *-1)
+					   (UCP (PP on
+						    (NP (NP their way)
+							(PP to or from
+							    (NP work))))
+						or
+						(SBAR-TMP while
+							  (FRAG (PP on
+								    (NP the job))))))))))))))
+     .))
+( (S (NP-SBJ Seventeen percent)
+     (VP reported
+         (S (NP-SBJ-1 their customers)
+	    (VP being
+		(VP robbed
+		    (NP *-1)))))
+     .))
+( (S (NP-SBJ Crime)
+     (VP was
+         (NP-PRD the reason
+                 (SBAR (SBAR that
+                             (S (NP-SBJ 26 %)
+                                (VP reported 
+                                    (NP (NP difficulty)
+                                        (S-NOM (NP-SBJ *)
+					       (VP recruiting
+						   (NP personnel)))))))
+                       and
+                       (SBAR that
+                             (S (NP-SBJ 19 %)
+                                (VP said
+                                    (SBAR 0
+                                          (S (NP-SBJ they)
+                                             (VP were
+                                                 (VP considering
+                                                     (NP moving)))))))))))
+     .))
+( (S (NP-SBJ (NP (QP More
+		     than
+		     (NP one-third)))
+	     (PP of
+		 (NP the responding businesses)))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ they)
+                  (VP suffer
+                      (PP-CLR from
+			      (NP (NP (NP drug dealing) 
+				      and 
+				      (NP loitering))
+				  (PP-LOC near
+					  (NP their premises))))))))
+     .))
+( (S (PP-LOC In
+	     (NP (NP Brooklyn)
+		 and
+		 (NP the Bronx)))
+     ,
+     (NP-SBJ-1 (QP one
+		   out
+		   of
+		   four)
+	       commercial firms)
+     (VP is
+         (VP burglarized
+             (NP *-1)
+	     (NP-TMP each year)))
+     .))
+( (S (NP-SBJ Industrial neighborhoods)
+     (VP fare
+         (ADVP-CLR even worse)
+	 ,
+	 (SBAR-ADV with
+		   (S (NP-SBJ burglary rates)
+		      (ADJP-PRD twice
+				(NP the citywide average)))))
+     .))
+( (S (NP-SBJ Crime)
+     (VP is
+         (ADVP clearly)
+         (ADJP-PRD (ADJP (ADJP more deadly)
+			 (PP to
+			     (NP small-scale entrepreneurship)))
+		   (PP than
+                       (PP to
+                           (NP big businesses)))))
+     .))
+( (S (ADVP-TMP (NP Two decades)
+	       ago)
+     ,
+     (NP-SBJ the Small Business Administration)
+     (VP reported
+         (NP (NP (NP Yale Prof. Albert Reiss 's)
+                 landmark study)
+	     (PP of
+		 (NP (NP crime)
+		     (PP against
+			 (NP 2,500 small businesses))))
+             (VP drawn
+                 (NP *)
+                 (PP-CLR from
+			 (NP national IRS records)))))
+     .))
+( (S (NP-SBJ He)
+     (VP found
+         (SBAR that
+               (S (NP-SBJ monetary crime losses)
+                  ,
+                  (PP as
+                      (NP (NP a proportion)
+                          (PP of
+                              (NP gross receipts))))
+                  ,
+                  (VP were
+		      (ADJP-PRD (ADJP (ADJP (QP 37 times)
+					    higher)
+				      (PP for
+					  (NP small businesses)))
+				(PP than
+				    (PP for
+					(NP large ones))))))))
+     .))
+( (S (S (NP-SBJ (NP The New York study 's)
+                companies)
+        (VP averaged
+            (NP 27 employees)))
+     ;
+     (S (NP-SBJ their annual crime losses)
+        (VP averaged
+            (NP (QP about $ 15,000) *U*)
+	    ,
+	    (PP with
+		(NP (NP (NP an additional (ADJP $ 8,385 *U*) annual cost)
+			(PP in
+			    (NP security)))
+		    --
+		    (NP enough money
+			(S (NP-SBJ *)
+			   (VP to
+			       (VP hire
+				   (NP (QP at
+					   least
+					   one
+					   more)
+				       worker)))))))))
+     .))
+( (S (NP-SBJ (NP The costs)
+             (PP of
+                 (NP crime)))
+     (VP may
+         (ADVP also)
+         (VP be
+             (ADJP-PRD enough
+                       (S (NP-SBJ *)
+                          (VP to
+                              (VP destroy
+                                  (NP a struggling business)))))))
+     .))
+( (S (SBAR-ADV Whatever
+	       (FRAG (NP the monetary crime losses)))
+     ,
+     (NP-SBJ they)
+     (VP may not
+         (VP be
+             (ADJP-PRD (ADJP (ADJP nearly as important)
+			     (PP to
+				 (NP entrepreneurs)))
+		       (PP as
+                           (NP (NP the risk)
+                               (PP of
+                                   (NP personal injury)))))))
+     .))
+( (S (PP-TMP After
+	     (NP repeated gun robberies))
+     ,
+     (NP-SBJ some entrepreneurs)
+     (VP may
+         (VP give
+             (PRT up)
+             (NP a business)
+             (PP out
+                 (PP of
+                     (NP (NP fear)
+                         (PP for
+                             (NP their lives)))))))
+     .))
+( (S (NP-SBJ One Washington couple)
+     (ADVP-TMP recently)
+     (VP sold
+         (NP their liquor store)
+	 (PP-TMP after
+		 (NP (NP 34 years)
+		     (PP in
+			 (NP business))
+		     (SBAR (WHNP-1 that)
+			   (S (NP-SBJ *T*-1)
+			      (VP included
+				  (NP (NP four robbery deaths)
+				      and
+				      (NP (NP 16 robberies or burglaries)
+					  (PP-LOC on
+						  (NP the premises))))))))))
+     .))
+( (S (NP-SBJ These findings)
+     (VP illustrate
+         (NP (NP the vicious cycle)
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ (NP (NAC National Institute
+				       (PP of
+					   (NP Justice)))
+                                  Director
+				  James K. Stewart))
+                      (VP calls
+			  (S (NP-SBJ *T*-1)
+			     ``
+			     (NP-PRD crime causing poverty)))))))
+     . ''))
+( (S (NP-SBJ Underclass neighborhoods)
+     (VP (VP offer
+	     (NP (ADJP relatively few) employment opportunities))
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP contributing
+		    (PP-CLR to
+			    (NP (NP the poverty)
+				(PP of
+				    (NP local residents)))))))
+     .))
+( (S (NP-SBJ Small neighborhood businesses)
+     (VP could
+	 (VP provide
+	     (NP more jobs)
+	     ,
+	     (SBAR-ADV if
+		       (S (NP-SBJ crime)
+			  (VP were not
+			      (ADJP-PRD (ADJP so harmful)
+					(PP to
+					    (S-NOM (NP-SBJ *)
+						   (VP creating
+						       and
+						       maintaining
+						       (NP those businesses))))))))))
+     .))
+( (S (NP-SBJ-1 This)
+     (VP may
+         (VP help
+             (S (NP-SBJ *-1)
+		(VP explain
+		    (SBAR (WHADVP-2 why)
+			  (S (NP-SBJ small businesses)
+			     (VP create
+				 (NP (NP (NP 65 %)
+					 (PP of
+					     (NP (NP all jobs) 
+						 (ADVP-LOC nationally))))
+				     , but
+				     (NP (NP only 22 %)
+					 (PP of
+					     (NP (NP jobs)
+						 (PP-LOC in
+							 (NP (NP a crime-ridden city)
+							     (PP like
+								 (NP New York))))))))
+				 (ADVP-PRP *T*-2))))))))
+     .))
+( (S (NP-SBJ-1 Bigger business)
+     (VP can
+         (ADVP-TMP often)
+         (ADVP better)
+	 (VP afford
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP minimize
+                        (NP (NP the cost)
+                            (PP of
+                                (NP crime))))))))
+     .))
+( (S (NP-SBJ The New York study)
+     (VP found
+         (SBAR that
+               (S (NP-SBJ (NP the cost)
+                          (PP of
+                              (NP (NP security measures)
+                                  (PP in
+                                      (NP (NP firms)
+                                          (PP with
+					      (NP (QP fewer
+						      than
+						      five)
+						  employees)))))))
+                  (VP was
+                      (NP-PRD (NP (QP almost $ 1,000) *U*)
+                              (PP per
+                                  (NP worker))
+                              ,
+                              (PP compared
+                                  (PP with
+                                      (NP (NP (QP one-third) that amount)
+					  (PP for
+					      (NP (NP firms)
+						  (PP with
+						      (NP (QP more
+							      than
+							      10)
+							  employees))))))))))))
+     .))
+( (S (NP-SBJ (NP The shift)
+             (PP of
+                 (NP retailing))
+             (PP to
+                 (NP large shopping centers)))
+     (VP has
+         (VP created
+             (NP (NP (ADJP even greater)
+		     economies)
+		 (PP of
+		     (NP scale)))
+             (PP for
+                 (S-NOM (NP-SBJ *)
+			(VP providing
+			    (NP low-crime business environments))))))
+     .))
+( (S (NP-SBJ-1 (NP Private security guards)
+	       and
+	       (NP moonlighting police))
+     (VP can
+         (VP invoke
+             (NP (NP the law)
+                 (PP of
+                     (NP trespass)))
+             (S-PRP (NP-SBJ *-1)
+		    (VP to
+			(VP regulate
+			    (NP (NP access)
+				(PP to
+				    (NP these quasi-public places))))))))
+     .))
+( (S (PP-TMP Since
+	     (NP 1984))
+     ,
+     (PP in
+         (NP fact))
+     ,
+     (NP-SBJ (NP revenues)
+             (PP of
+                 (NP (NP the 10 largest guard companies)
+                     ,
+                     (VP (ADVP primarily)
+                         serving
+                         (NP such big businesses))
+                     ,)))
+     (VP have
+         (VP increased
+             (PP-EXT by
+		     (NP (QP almost 62) %))))
+     .))
+( (S (NP-SBJ Few small neighborhood businesses)
+     ,
+     (ADVP however)
+     ,
+     (VP can
+         (VP afford
+             (NP such protection)
+	     ,
+	     (PP even in
+		 (NP (NP collaboration)
+		     (PP with
+			 (NP other local merchants))))))
+     .))
+( (S (PP-LOC In
+	     (NP (NP the neighborhoods)
+		 (PP with
+		     (NP the highest crime rates))))
+     ,
+     (NP-SBJ small business)
+     (ADVP generally)
+     (VP relies
+         (PP-CLR on
+		 (NP the public police force))
+         (PP-CLR for
+		 (NP protection)))
+     .))
+( (S (NP-SBJ This)
+     (VP creates
+         (NP several problems))
+     .))
+( (S (NP-SBJ One)
+     (VP is
+         (SBAR-PRD that
+                   (S (NP-SBJ there)
+                      (VP are not 
+                          (NP-PRD enough police
+                                  (S (NP-SBJ *)
+                                     (VP to
+                                         (VP satisfy
+                                             (NP small businesses)))))))))
+     .))
+( (S (NP-SBJ (NP The number one proposal)
+             (PP for
+                 (S-NOM (NP-SBJ *)
+			(VP reducing
+			    (NP crime))))
+	     (PP-LOC in
+		     (NP the New York survey)))
+     (VP was
+	 (S-PRD (NP-SBJ *)
+		(VP to
+		    (VP put
+			(NP more police)
+			(PP-PUT on
+				(NP foot or scooter patrol)))))
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP suggested
+		    (PP by
+			(NP-LGS (NP (QP more
+					than
+					two-thirds))
+				(PP of
+				    the respondents))))))
+     .))
+( (S (NP-SBJ (QP Only 22) %)
+     (VP supported
+         (NP (NP private security patrols)
+             (VP funded
+                 (NP *)
+                 (PP by 
+                     (NP-LGS (NP the merchants)
+                             (NP themselves))))))
+     .))
+( (S (NP-SBJ A second problem)
+     (VP is
+         (NP-PRD (NP the persistent frustration)
+                 (PP of
+                     (NP (NP false alarms)
+                         ,
+                         (SBAR (WHNP-1 which)
+                               (S (NP-SBJ *T*-1)
+                                  (VP can
+                                      (VP make
+                                          (S (NP-SBJ urban police)
+					     (ADJP-PRD (ADJP (ADJP less)
+							     (PP than
+								 (ADJP enthusiastic)))
+						       (PP about
+							   (S-NOM (NP-SBJ *)
+								  (VP responding
+								      (PP-CLR to
+									      (NP (NP calls)
+										  (PP from
+										      (NP small businesses)))))))))))))))))
+     .))
+( (S (NP-SBJ (NP (QP Only half)
+                 the New York small businesses)
+             (VP surveyed
+                 (NP *)))
+     ,
+     (PP for
+         (NP their part))
+     ,
+     (VP are
+         (ADJP-PRD satisfied
+                   (PP with
+                       (NP (NP the police response)
+                           (SBAR (WHNP-1 0)
+                                 (S (NP-SBJ they)
+                                    (VP receive
+                                        (NP *T*-1))))))))
+     .))
+( (S (NP-SBJ (NP Some cities)
+             ,
+             (PP including
+                 (NP New York))
+             ,)
+     (VP have
+         (VP experimented
+             (PP-CLR with
+		     (NP (NP special tax districts)
+			 (PP for
+			     (NP (NP commercial areas)
+				 (SBAR (WHNP-1 that)
+				       (S (NP-SBJ *T*-1)
+					  (VP provide
+					      (NP (NP additional patrols)
+						  (VP funded
+						      (NP *)
+						      (PP by
+							  (NP-LGS local businesses)))))))))))))
+     .))
+( (S But
+     (NP-SBJ this)
+     (VP raises
+         (NP (NP added cost barriers)
+             (PP to
+                 (NP urban entrepreneurship))))
+     .))
+( (S (NP-SBJ (NP Another solution)
+             (SBAR (WHNP-1 0)
+                   (S (NP-SBJ cities)
+                      (VP might
+                          (VP consider
+                              (NP *T*-1))))))
+     (VP is
+	 (S-NOM-PRD (NP-SBJ *)
+		    (VP giving
+			(NP special priority)
+			(PP-DTV to
+				(NP (NP police patrols)
+				    (PP of
+					(NP small-business areas)))))))
+     .))
+( (S (PP For
+         (NP (NP cities)
+             (VP losing
+                 (NP business)
+                 (PP-CLR to
+			 (NP suburban shopping centers)))))
+     ,
+     (NP-SBJ (NP it)
+	     (S *EXP*-1))
+     (VP may
+         (VP be
+             (NP-PRD a wise business investment)
+	     (S-1 (NP-SBJ-2 *)
+		  (VP to
+		      (VP help
+			  (S (NP-SBJ *-2)
+			     (VP keep
+				 (NP those jobs and sales taxes)
+				 (PP-LOC within
+					 (NP city limits)))))))))
+     .))
+( (S (NP-SBJ (NP Increased patrolling)
+             (PP of
+                 (NP business zones)))
+     (VP makes
+         (NP sense)
+	 (SBAR-PRP because
+		   (S (NP-SBJ urban crime)
+		      (VP is
+			  (ADJP-PRD heavily concentrated
+				    (PP-LOC in
+					    (NP (NP such `` hot spots '')
+						(PP of
+						    (NP pedestrian density)))))))))
+     .))
+( (S (PP With
+         (NP (NAC National Institute
+		  (PP of
+		      (NP Justice)))
+             support))
+     ,
+     (NP-SBJ-1 (NP the Minneapolis police)
+	       and
+	       (NP the Crime Control Institute))
+     (VP are
+         (ADVP-TMP currently)
+         (VP testing
+             (NP (NP the effects)
+                 (PP of
+                     (NP such a strategy)))
+	     ,
+	     (S-ADV (NP-SBJ *-1)
+		    (VP comparing
+			(NP its deterrence value)
+			(PP-CLR with
+				(NP traditional random patrols))))))
+     .))
+( (S (NP-SBJ Small-business patrols)
+     (VP would
+         (VP be
+             (NP-PRD an (ADJP especially helpful) gesture)
+	     (SBAR-ADV (WHADVP-1 whenever)
+		       (S (NP-SBJ-2 a small-business person)
+			  (VP is
+			      (VP scheduled
+				  (S (NP-SBJ *-2)
+				     (VP to
+					 (VP testify
+					     (PP against
+						 (NP a robbery suspect))
+					     (ADVP-TMP *T*-1))))))))))
+     .))
+( (S (SBAR-ADV While
+	       (FRAG (NP no guarantee)))
+     ,
+     (NP-SBJ an increased police presence)
+     (VP might
+	 (ADVP even)
+	 (VP deter
+	     (NP further attacks)))
+     .))
+( (S (NP-SBJ It)
+     (VP might
+	 (ADVP even)
+	 (VP have
+	     (VP saved
+		 (NP (NP the life
+			 , and
+			 business
+			 ,)
+		     (PP of
+			 (NP Israel Ortiz))))))
+     .))
+( (S (NP-SBJ Mr. Sherman)
+     (VP is
+         (NP-PRD (NP (NP a professor)
+                     (PP of
+                         (NP criminology))
+                     (PP-LOC at
+			     (NP (NP the University)
+				 (PP of
+				     (NP Maryland)))))
+                 and
+                 (NP (NP president)
+                     (PP of
+                         (NP (NP the Crime Control Institute)
+                             (PP-LOC in
+				     (NP (NP Washington)
+					 ,
+					 (NP D.C))))))))
+     .))
