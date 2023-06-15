@@ -13,66 +13,56 @@ Returns:
 from collections import deque
 import os
 import sys
-import fileinput
-
-# set constituency counters to 0
-sentence = 0
-np = 0
-vp = 0
-dtv = 0
-itv = 0
-
-# instantiate stacks
-npchildren = deque()
-parentheses = deque()
 
 working_dir = sys.argv[1]
+counts = {'(S': 0, '(VP': 0, '(NP': 0}
+structs = []
+
+# extract counts for sentences, verb phrases, and noun phrases 
 for file in os.listdir(working_dir):
     with open(os.path.join(working_dir, file), 'r') as f:
-
+        parse = ""
         content = f.read()
         content = content.replace(')', ' ) ')
+        for pos in content.split():
+            if pos in counts: 
+                counts[pos] +=1 
+            if pos[0] == "(" or pos == ")": 
+                parse += pos + " "
+        structs.append(parse)
 
-        for elem in content.split():
-            if elem == '(S':
-                sentence += 1
+depth = deque()
+vps = [] 
 
-            elif elem == '(VP':
-                vp += 1
+# extract all verb phrases and their nested constituents 
+for doc in structs: 
+    in_vp = False
+    vp = ""
+    for pos in doc.split(): 
+        if pos == "(VP": 
+            depth.append(0)
+            in_vp = True
 
-                # add values to stacks to indicate we are now inside a VP and haven't encountered direct NP children yet
-                npchildren.append(0)
-                parentheses.append(0)
+        if in_vp:
+            vp += pos + " "
+            if pos != "(VP" and pos != ")": 
+                depth.append(0)
 
-            elif elem == '(NP':
-                np += 1
+            if pos == ")": 
+                depth.pop()
+    
+        if len(depth) == 0: 
+            in_vp = False 
 
-                # if we're only one level deep into a VP's children, count the NP as a direct child
-                if len(parentheses) == 1:
-                    parentheses.append(0)
-                    npchildren.append(npchildren.pop() + 1)
+    vps.append(vp)
 
-                # if we're more than one level deep, keep counting the parentheses but not the NP as a direct child
-                else:
-                    parentheses.append(0)
-
-            elif elem[0] == '(':
-                if len(parentheses) > 0:
-                    parentheses.append(0)
-
-            elif elem == ')':
-                if len(parentheses) > 0:
-                    parentheses.pop()
-
-            # once we've excited a VP phrase and have counted all the direct children, make a judgement of verb type
-            if len(parentheses) == 0 & len(npchildren) > 0:
-                total = npchildren.pop()
-                if total > 1:
-                    dtv += 1
-                elif total == 0:
-                    itv += 1
-
-output = "Sentence\t" + str(sentence) + "\n" + "Noun Phrase\t" + str(np) + "\n" + "Verb Phrase\t" + str(vp) + "\n" + \
-         "Ditransitive Verb Phrase\t" + str(dtv) + "\n" + "Intransitive Verb Phrase\t" + str(itv) + "\n"
-
+dtv = 0 
+itv = 0 
+for vp in vps: 
+    if "(VP (NP ) (NP ) )" in vp: 
+        dtv += 1
+            
+output = "Sentence\t" + str(counts['(S']) + "\n" + "Noun Phrase\t" + str(counts['(NP']) + "\n" + "Verb Phrase\t" + str(counts['(VP']) + "\n" + "Ditransitive Verb Phrase\t" + str(dtv) + "\n" + "Intransitive Verb Phrase\t" + str(itv)
 print(output)
+# + \ "Ditransitive Verb Phrase\t" + str(counts['dtv']) + "\n" + "Intransitive Verb Phrase\t" + str(counts['itv']) + "\n"
+    
