@@ -13,4 +13,4 @@ To run:
 python3 ./main.py data > output
 ```
 
-PROJECT 1 OF LING473
+PROJECT 1 OF LING473 (08/07/2021)
