@@ -1,16 +1,15 @@
 # part-of-speech-counter
-A program that counts the number of syntactic constituent types that occur in an annotated corpus. 
-Stacks are employed to keep track of constituents that are defined by a nested structure. For example, ditransitive verb phrases are counted by counting verb phrases followed by two nested noun phrases, whereas intransitive verb phrases are counted by counting verb phrases with no nested children. 
+A program that counts the number of syntactic constituent types that occur in an annotated corpus. Stacks are employed to keep track of constituents that are defined by a nested structure. For example, ditransitive verb phrases are counted by counting verb phrases followed by two nested noun phrases, whereas intransitive verb phrases are counted by counting verb phrases with no nested children. 
 
 Args:
-* dir (str): path to the desired directory.
+* ```input```: directory path to the folder containing WSJ data.
 
 Returns:
-* output (str): formatted table listing count of each constituency type.
+* ```output```: formatted table listing count of each constituency type.
 
 To run: 
 ```
-python3 ./main.py data > output
+python3 src/run.sh input > output/output.txt
 ```
 
 PROJECT 1 OF LING473 (08/07/2021)
