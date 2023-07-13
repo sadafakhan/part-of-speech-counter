@@ -5,7 +5,7 @@ Args:
 * ```./input```: directory path to the folder containing WSJ data.
 
 Returns:
-* ```output```: formatted table listing count of each constituency type.
+* ```output.txt```: formatted table listing count of each constituency type.
 
 To run: 
 ```
